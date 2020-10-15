@@ -25,5 +25,4 @@ Starting wizard...
 7. Images should be in `public/assets/blog` directory and post image path needed to be updated to `public/assets/blog/images` to do that use search and replace in VSCode for `images/` string under `_posts` directory.
 8. Aws image link can directly be used on the md files
 9. For preview banner author check the sample markdown format named as `dynamic-routing.md` or `hello-world.md` or `preview.md`
-
 10. Make sure under `_posts` directory there is only .md files otherwise you will get error.
