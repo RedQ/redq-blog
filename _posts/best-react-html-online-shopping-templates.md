@@ -1,17 +1,21 @@
 ---
 title: "Best React & HTML Online Shopping Templates"
 date: "2019-08-22"
+excerpt: "Now a days online store or marketplace is getting more popularity. This is the age of the internet. People have the tendency to get reach to anything online. As a result, shopping is getting more momentum. If you want to run an online store then you will require a website. The HTML template is the"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/React-HTML-Online-Shopping-Templates-.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/React-HTML-Online-Shopping-Templates-.png"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]Now a days online store or marketplace is getting more popularity. This is the age of the internet. People have the tendency to get reach to anything online. As a result, shopping is getting more momentum. If you want to run an online store then you will require a website. The HTML template is the easiest solution for building a great website. Lots of web developers are developing HTML templates for this purpose. They are publishing these HTML templates in several marketplaces.
+Now a days online store or marketplace is getting more popularity. This is the age of the internet. People have the tendency to get reach to anything online. As a result, shopping is getting more momentum. If you want to run an online store then you will require a website. The HTML template is the easiest solution for building a great website. Lots of web developers are developing HTML templates for this purpose. They are publishing these HTML templates in several marketplaces.
 
-[![cartsy-banner](/assets/blog/images/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
-So today we are choosing 20 Best HTML online shopping templates and will discuss them in this article. Let us start the article.\[/vc_column_text\]\[vc_column_text\]
+So today we are choosing 20 Best HTML online shopping templates and will discuss them in this article. Let us start the article.
 
 ## Pickbazar - React GraphQL Ecommerce Template
 
-![Pickbazar React GraphQL Ecommerce Template](/assets/blog/images/Pickbazar-React-GraphQL-Ecommerce-Template.png)
+![Pickbazar React GraphQL Ecommerce Template](https://d2qklehrvrfpx7.cloudfront.net/blogimages/pickbazar.png)
 
 Fastest e-commerce template built with React, NextJS, TypeScript, GraphQL, Type-GraphQL & Styled-Components. It is effortless to use, and developers used GraphQL and type-GraphQL, you can build your schema very easily. GraphQL Playground makes its own documentation, and your front-end team will love using it. Creating an online store would be easier than ever.
 
@@ -28,11 +32,12 @@ If you implement this template, then you can increase your sales for sure. For s
 - Track Your Order Progress
 - Documentation Included
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="View Template" btn_url="https://1.envato.market/E1DxW"\]\[/ushop\_button\_shortcode\_blog\_wrap\]
+[View Template ](https://1.envato.market/E1DxW)
 
 ## Trizzy - Multi-Purpose eCommerce Shop HTML Template
 
-![Trizzy](/assets/blog/images/Trizzy.png)Trizzy is an excellent compromise among the conflicting requirements of novelty, simplicity, elegance and function. It features a very elegant design that is perfect for your shop or business site. It is perfect for creating a professional image of your company. It is very intuitive to use and completely ready to operate out of the box – a lot of thought and care went into this theme making it a pleasure to use.
+![Trizzy](https://d2qklehrvrfpx7.cloudfront.net/blogimages/trizzy.png)
+Trizzy is an excellent compromise among the conflicting requirements of novelty, simplicity, elegance and function. It features a very elegant design that is perfect for your shop or business site. It is perfect for creating a professional image of your company. It is very intuitive to use and completely ready to operate out of the box – a lot of thought and care went into this theme making it a pleasure to use.
 
 #### Template Features
 
@@ -42,11 +47,11 @@ If you implement this template, then you can increase your sales for sure. For s
 - Unlimited Menu Levels, Retina Ready, Working Contact Form, Over 400 Icons, Boxed / Wide Layout
 - Premium Resources
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/EDbb9"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/EDbb9)
 
 ## Porto - eCommerce HTML Template
 
-![Porto](/assets/blog/images/Porto.jpg)
+![Porto](https://d2qklehrvrfpx7.cloudfront.net/blogimages/porto.jpg)
 
 Porto eCommerce is an ultimate eCommerce HTML template. It has all the required tools and features to create a super-fast responsive eCommerce site with amazing UI and UX experience. 20+ demo layouts and modern design based skins allow you to create your own niche store. You can avoid expensive web development and minimize your design costs using Porto eCommerce HTML template.
 
@@ -58,11 +63,11 @@ Porto eCommerce is an ultimate eCommerce HTML template. It has all the required 
 - Various Carousels, jQuery Enhanced
 - HTML files, HTML5 and CSS3 tableless design, List & Grid View (Products)
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/6ZWWE"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/6ZWWE)
 
 ## Stroyka - Tools Store HTML Template
 
-![Stroyka](/assets/blog/images/Stroyka.jpg)
+![Stroyka](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stryoka.jpg)
 
 Stroyka — Tools Store HTML Template, made specifically for a instruments/tools store, but also well suited for an auto parts store, electronics store, etc. The package includes five ready-made HTML-sets with different color schemes (37 HTML-file in each): default (yellow), black, green, blue and red. You can use anyone you like. The package also includes source files, you can use them to customize colors, font and some other settings via SASS variables. The developer uses twig.js as a template engine for building HTML files.
 
@@ -73,11 +78,11 @@ Stroyka — Tools Store HTML Template, made specifically for a instruments/tools
 - LTR/RTL version, SASS, BEM syntax
 - SVG Icons, Font Awesome Icons, Roboto Google Font
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/OABBK"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/OABBK)
 
 ## Embryo - Angular 8 Material Design eCommerce Template | React JS
 
-![Embryo](/assets/blog/images/Embryo.jpg)
+![Embryo](https://d2qklehrvrfpx7.cloudfront.net/blogimages/embryo.jpg)
 
 Embryo is an E-Commerce angular 8 and reactjs based template with material design. It also comes with Angular CLI and React-Redux. Now you have all the power to maintain your eCommerce site. Responsive design gives your user to use in any modern devices. Clean Code gives you the power to customize the code as per your requirements. Embryo has all the basic functionalities which are required in any eCommerce site. RTL design makes the multi-language support easier. Much requested pages are provided such as profile, product, edit product, invoice, reports, etc. Those have been added recently.
 
@@ -89,11 +94,11 @@ Embryo is an E-Commerce angular 8 and reactjs based template with material desig
 - RTL Layout, Translation Ready
 - Blog Pages, Session Pages
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/ddKK3"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/ddKK3)
 
 ## Emporium - Angular Material Design eCommerce Template
 
-![Emporium](/assets/blog/images/Emporium.jpg)
+![Emporium](https://d2qklehrvrfpx7.cloudfront.net/blogimages/emporium.jpg)
 
 Emporium is a powerful and creative material design eCommerce template based on Angular 8 and Angular-CLI. Using such a great tools like Angular-CLI, it’s really easy to maintain. The template is fully responsive and clean on every device and on every modern browser. The code is super easy to understand and gives power to any developer to turn this template into a real web site.
 
@@ -105,11 +110,11 @@ Emporium is a powerful and creative material design eCommerce template based on 
 - contact page
 - Responsive Design, High resolution
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/7geeV"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/7geeV)
 
 ## Qualis - Responsive eCommerce HTML5 Template
 
-![Qualis](/assets/blog/images/Qualis.jpg)
+![Qualis](https://d2qklehrvrfpx7.cloudfront.net/blogimages/quails.jpg)
 
 Qualis – Responsive E-commerce HTML 5 Template is a clean and elegant by design – suitable for selling organic products, fruits, flowers, foods, hotels, meats, clothing, fashion, high fashion, men fashion, women fashion, accessories, digital, kids, watches, jewelries, shoes, kids, furniture, sports etc. It has a fully responsive width adjusts automatically to any screen size or resolution.
 
@@ -122,11 +127,11 @@ Qualis – Responsive E-commerce HTML 5 Template is a clean and elegant by desig
 - 404 page error
 - Detailed Documentation, Available support
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/rd44d"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/rd44d)
 
 ## Pustok - Book Store HTML Template
 
-![Pustok](/assets/blog/images/Pustok.jpg)
+![Pustok](https://d2qklehrvrfpx7.cloudfront.net/blogimages/pustok.jpg)
 
 Pustok – Book Store HTML Template is absolutely as smart as the name suggests. It is designed to build eCommerce sites that can deal with Books, Stationary Products, Magazines, Arts & Photography, Calendars, and Biography etc. Pustok is a clean-cut template having stunning color combination. It comes with numerous admirable features to make a breakthrough in online bookshop industry.
 
@@ -138,11 +143,11 @@ Pustok – Book Store HTML Template is absolutely as smart as the name suggests.
 - Ajax Working Contact Form
 - Google Fonts, Font Awesome 5 Free
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/VXaaJ"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/VXaaJ)
 
 ## BeeKeeping - Bootstarp-4 multipurpose beekeeping HTML5 template
 
-![BeeKeeping](/assets/blog/images/BeeKeeping.jpg)
+![BeeKeeping](https://d2qklehrvrfpx7.cloudfront.net/blogimages/beekeeping.jpg)
 
 W-Beekeeping is a BOOTSTARP 4 HTML5 fully Responsive and a great design idea for convert into the website of Online E-commerce business. “W-Beekeeping” is a creative modern and multi-purpose HTML Template. Template designed for WordPress, Joomla, and other systems. Super Clear and Clean code.
 
@@ -156,11 +161,11 @@ W-Beekeeping is a BOOTSTARP 4 HTML5 fully Responsive and a great design idea for
 - Google Web Font
 - Well Documented, Very clean code
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/0aQJY"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/0aQJY)
 
 ## Corano – Jewellery eCommerce Bootstrap 4 HTML Template
 
-![Corano](/assets/blog/images/Corano.jpg)
+![Corano](https://d2qklehrvrfpx7.cloudfront.net/blogimages/corano.jpg)
 
 Corano – Jewellery eCommerce Bootstrap 4 Template is an elite class website template for online Jewellery Shop, Ornaments, Watch, Smart Watch, Cosmetics and other luxury products business. You will be bewildered to see the catchy design of this complete HTML template. Corano offers 34+ HTML Pages that includes 4 Unique Home Versions, 7+ Shop Style, 4+ Single Product Pages and 10+ Blog Pages. Pages have been designed with the best quality of variation and creativity. This responsive template is supported by all the major browsers of the market as well.
 
@@ -171,11 +176,11 @@ Corano – Jewellery eCommerce Bootstrap 4 Template is an elite class website te
 - 2000+ icon font ( Font Awesome+ Pe-icon-7-stroke), Google font include
 - Dynamic MailChimp Subscribe Form. Ajax Working Contact Form
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/31APy"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/31APy)
 
 ## Pallas - Bootstrap 4 Electronics eCommerce HTML Template
 
-![Pallas](/assets/blog/images/Pallas.jpg)
+![Pallas](https://d2qklehrvrfpx7.cloudfront.net/blogimages/pallas.jpg)
 
 Pallas is an Electronics Bootstrap HTML Template theme with modern and clean design. This template is perfect for digital and electronics shop / online store. Using Category Tabs Slider in many places in each homepage, products in categories are displayed beautifully in slider. Vertical Mega menu shows many product categories with pretty icons in a vertical direction. And links Blog, Contact Us, About Us page are shown on Mega menu.
 
@@ -186,11 +191,11 @@ Pallas is an Electronics Bootstrap HTML Template theme with modern and clean des
 - 6+ shop style, Shop grid style, Shop list style, 4+ single Product Style
 - Responsive Layout, Bootstrap 4, Dynamic contact form, Free Font
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/jdXWM"\]\[/ushop\_button\_shortcode\_blog\_wrap\]
+[Buy Template ](https://1.envato.market/jdXWM)
 
 ## Koparion – Book Shop HTML5 Template
 
-![Koparion](/assets/blog/images/Koparion.png)
+![Koparion](https://d2qklehrvrfpx7.cloudfront.net/blogimages/kopairon.png)
 
 Koparion – Book Shop HTML5 Template is a clean, responsive and approachable HTML5 template. This eCommerce template is based on the HTML5 framework. Koparion is suitable for book-stores, book-shops, collections, eBooks, audio-books or related websites. Moreover, you can desire a feature-rich yet attractive online presence with Koparion Book Shop Template. There are 6 unique Home Versions, along with total 18+ HTML pages available. Even you can easily enable the shop grid view or shop list view.
 
@@ -201,11 +206,11 @@ Koparion – Book Shop HTML5 Template is a clean, responsive and approachable HT
 - Responsive Layout, Dynamic contact form, Free Font
 - Fully compatible for all major browsers such as Firefox, Safari, Chrome, Vivaldi, Internet Explorer 9+
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/G9Xmn"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/G9Xmn)
 
 ## Airi - Minimal eCommerce HTML Template
 
-![Airi](/assets/blog/images/Airi.jpg)
+![Airi](https://d2qklehrvrfpx7.cloudfront.net/blogimages/Airi.jpg)
 
 Airi – Clean, Minimal eCommerce Bootstrap 4 Template is a vast and elaborate package of HTML eCommerce website template. This nicely designed eCommerce site provides the users with tons of fruitful features. You can install this stunning HTML template for selling Men-Fashion, Women- Fashion, Shoes, Winter Fashion, Travel Accessories, Kids Products, Home Décor, Furniture, Kitchen Appliances and almost anything else.
 
@@ -215,11 +220,11 @@ Airi – Clean, Minimal eCommerce Bootstrap 4 Template is a vast and elaborate p
 - Build With Bootstrap 4, Slider Revolution Responsive (Save \$26), HTML5 & CSS3
 - Pixel Perfect Design, Responsive Design, User-Friendly Code, Clean Markup, Creative Design
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/gdP1g"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/gdP1g)
 
 ## Altima - Minimal E-Commerce HTML5 Template
 
-![Altima](/assets/blog/images/Altima.jpg)
+![Altima](https://d2qklehrvrfpx7.cloudfront.net/blogimages/Altima.jpg)
 
 Altima Minimal eCommerce HTML5 Template is a clean and elegant design – suitable for selling clothing, fashion, accessories, digital, flowers, watches, jewelry, shoes, beauty, furniture, sports, fruits, organic, vegetables, gifts, electronics, etc. It has a fully responsive width adjusts automatically to any screen size or resolution.
 
@@ -231,11 +236,11 @@ Altima Minimal eCommerce HTML5 Template is a clean and elegant design – suitab
 - Customizable & Organized, 404 page
 - Detailed Documentation, Available support
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/ndkLV"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/ndkLV)
 
 ## Phuler - Flower HTML Template
 
-![Phuler](/assets/blog/images/Phuler.png)
+![Phuler](https://d2qklehrvrfpx7.cloudfront.net/blogimages/Phuler.png)
 
 Phuler – Flower HTML Template is an elegant and impressive HTML5 template for flower shop website. This multipurpose flower store template is totally beautiful, modern, and responsive. The Bootstrap 4 based eCommerce template Phuler is an ideal choice for fresh flower & bouquet shop owners.
 
@@ -246,11 +251,11 @@ Phuler – Flower HTML Template is an elegant and impressive HTML5 template for 
 - Responsive Layout, Bootstrap 4, Dynamic contact form, Free Font
 - Fully compatible for all major browsers such as Firefox, Safari, Chrome, Vivaldi, Internet Explorer 9+
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/bdbag"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/bdbag)
 
 ## HandArt - Handmade Store HTML Template
 
-![HandArt](/assets/blog/images/HandArt.png)
+![HandArt](https://d2qklehrvrfpx7.cloudfront.net/blogimages/HandArt.png)
 
 HandArt – Handmade Store HTML Template is a polished website template, handcrafted skillfully. This is a smooth ready made website that carries lots of features and flexibilities for the authors and the visitors. This responsive template is built with Bootstrap 4, SASS, HTML5, Clean Code, CSS3 and W3 Validate Markup.
 
@@ -260,11 +265,11 @@ HandArt – Handmade Store HTML Template is a polished website template, handcra
 - Shop Grid & List Style, Responsive Layout, Build with Bootstrap 4, Made with sass (scss)
 - Ajax Working Contact Form, Google Fonts, Google Map included
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/OABrZ"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/OABrZ)
 
 ## Venedor - Premium Bootstrap Ecommerce HTML5 Template
 
-![Venedor](/assets/blog/images/Venedor.png)
+![Venedor](https://d2qklehrvrfpx7.cloudfront.net/blogimages/Venedor.png)
 
 Venedor is a Premium Responsive Bootstrap Template that is extremely customizable, easy to use and fully responsive. Suitable for every type of store. Great as a starting point for your custom projects. Venedor includes 5 different skins, and its very beautiful on mobile devices. Venedor uses latest version of Bootstrap, 3.1.
 
@@ -274,11 +279,11 @@ Venedor is a Premium Responsive Bootstrap Template that is extremely customizabl
 - 5 Homepage Layouts including Full Screen mode, Revolution Slider(\$15 value)
 - Touch Friendly for all Mobile Devices, Integration with Cloud Zoom
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/4V5P0"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/4V5P0)
 
 ## Elomus - Single Product Shop HTML Template
 
-![Elomus](/assets/blog/images/Elomus.jpg)
+![Elomus](https://d2qklehrvrfpx7.cloudfront.net/blogimages/Elomus.jpg)
 
 Elomus – Single Product Shop HTML Template is a multipurpose online store HTML5 template. Elomus is an exceptional template which is carefully designed and developed for displaying single products. The minimal and dynamic eCommerce website template is the best choice for electronics, sports toys, outdoor toys, baby strollers, digital watch, and gadgets. Most importantly, it is responsive, easy to customize, and highly flexible.
 
@@ -289,11 +294,11 @@ Elomus – Single Product Shop HTML Template is a multipurpose online store HTML
 - Smooth animations, Fully Responsive, Tested with multiple device
 - Seo friendly code, Easy To Customize
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/7ge5Y"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/7ge5Y)
 
 ## Tmart - Minimal eCommerce HTML Template
 
-![Tmart](/assets/blog/images/Tmart.png)
+![Tmart](https://d2qklehrvrfpx7.cloudfront.net/blogimages/Tmart.png)
 
 Tmart – Minimal eCommerce HTML Template is an extremely clean and modern, incredibly vibrant and energetic, simply elegant and flexible, easy to use responsive HTML5 minimal multipurpose website template. A spectacularly structured template that has been especially garbed for high fashion, men & women fashion, accessories, shoes and denim products store’s website. This creatively open and extraordinary template is built in a powerful Bootstrap framework that is why, customization power is entirely yours.
 
@@ -304,11 +309,11 @@ Tmart – Minimal eCommerce HTML Template is an extremely clean and modern, incr
 - Contact Information, Contact map (google map API), Contact Form
 - Drop down Menu, Mega Menu, Testimonial
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/9oGg4"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/9oGg4)
 
 ## Autima - Car Accessories Shop HTML Template
 
-![Autima](/assets/blog/images/Autima.jpg)If you are planning to make an auto parts online store, Autima Bootstrap HTML Template is a really great choice for you. Autima template is designed and created with classy design along with a sophisticated style that brings comfortable feelings for your customers. Tab Products shows many categories, types of products such as new, featured, bestseller, discount, top viewed in each tab.
+![Autima](https://d2qklehrvrfpx7.cloudfront.net/blogimages/Autima.jpg)If you are planning to make an auto parts online store, Autima Bootstrap HTML Template is a really great choice for you. Autima template is designed and created with classy design along with a sophisticated style that brings comfortable feelings for your customers. Tab Products shows many categories, types of products such as new, featured, bestseller, discount, top viewed in each tab.
 
 #### Template Features
 
@@ -316,11 +321,11 @@ Tmart – Minimal eCommerce HTML Template is an extremely clean and modern, incr
 - 6+ shop style, Shop grid style, Shop list style, 4+ single Product Style
 - Responsive Layout, Bootstrap 4, Dynamic contact form, Free Font
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/XBymG"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/XBymG)
 
 ## FRIDAY – Coupons, Deals, Discounts & Promo Codes Template RTL Support
 
-![FRIDAY](/assets/blog/images/FRIDAY.jpg)FRIDAY is a responsive multipurpose-eCommerce site template allows you to store coupons and promo codes from different brands and create store for deals, discounts, It can be used as coupon website (such as groupon.com) and also as online store. FRIDAY template comes with almost every template that you need to create your website or store. Ultra responsive with user-friendly responsive navigation, with a huge amount of features you can make it as unique as you want. All these features will amaze your clients and users.
+![FRIDAY](https://d2qklehrvrfpx7.cloudfront.net/blogimages/FRIDAY.jpg)FRIDAY is a responsive multipurpose-eCommerce site template allows you to store coupons and promo codes from different brands and create store for deals, discounts, It can be used as coupon website (such as groupon.com) and also as online store. FRIDAY template comes with almost every template that you need to create your website or store. Ultra responsive with user-friendly responsive navigation, with a huge amount of features you can make it as unique as you want. All these features will amaze your clients and users.
 
 #### Template Features
 
@@ -329,8 +334,8 @@ Tmart – Minimal eCommerce HTML Template is an extremely clean and modern, incr
 - Specialized for selling deals, discounts, and coupons online, Optimized and perfect for affiliates websites
 - 100% Fluid Responsive – Fits any device perfectly, Tested on real devices
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="https://1.envato.market/zdgx0"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[vc\_column\_text\]
+[Buy Template ](https://1.envato.market/zdgx0)
 
 ## Conclusion
 
-Now we are at the ending point of this article. We hope you really appreciate this informative article. If this article really assists you to gather knowledge about some best HTML shopping and E-Commerce Templates then please share this article to your several Social Profiles and let others have the opportunity to read this article and gather knowledge. It would be a great honor to us. That is all for today. Please read our other articles on different interesting topics already posted on our blog. Keep in touch with our blog. Thank you very much for reading this article. So have a nice day.\[/vc_column_text\]\[/vc_column\]\[/vc_row\]
+Now we are at the ending point of this article. We hope you really appreciate this informative article. If this article really assists you to gather knowledge about some best HTML shopping and E-Commerce Templates then please share this article to your several Social Profiles and let others have the opportunity to read this article and gather knowledge. It would be a great honor to us. That is all for today. Please read our other articles on different interesting topics already posted on our blog. Keep in touch with our blog. Thank you very much for reading this article. So have a nice day.
