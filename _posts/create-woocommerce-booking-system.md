@@ -27,7 +27,9 @@ Inventory of this [booking system](https://redq.io/blog/top-10-wordpress-booking
 
 **Screenshot 1:**
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_single_image image="344" img_size="full" alignment="center"\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]**Screenshot 2:**\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_single_image image="345" img_size="full" alignment="center"\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
+
+
+\[/vc_column_text\][vc test should be delleted]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_single_image image="344" img_size="full" alignment="center"\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]**Screenshot 2:**\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_single_image image="345" img_size="full" alignment="center"\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
 
 ### Inventory Management for version 7.0 and latest
 
