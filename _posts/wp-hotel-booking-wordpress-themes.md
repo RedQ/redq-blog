@@ -1,6 +1,8 @@
 ---
 title: "Best Hotel, Apartment, Room and Accommodation WP hotel booking Themes of 2020"
 date: "2019-07-30"
+category: "Article, Theme"
+excerpt: "In this day and age, print media and advertisement are not sufficient to foster your hotel or apartment booking business to potential visitors or guests. Keep in mind that most of the people these days are searching for new hotel accommodation and travel destinations through online. So in this era of internet, hotel or apartment"
 ---
 
 \[vc_row\]\[vc_column\]\[vc_column_text\]In this day and age, print media and advertisement are not sufficient to foster your hotel or apartment booking business to potential visitors or guests. Keep in mind that most of the people these days are searching for new hotel accommodation and travel destinations through online. So in this era of internet, hotel or apartment owners should not turn a blind eye to the significance of using a website for attracting potential customers.
