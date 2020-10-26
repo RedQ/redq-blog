@@ -3,11 +3,11 @@ title: "10 Steps To Start E-Commerce Business from Scratch"
 date: "2020-07-20"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]E-Commerce business is overgrowing around the world, and it has a huge opportunity. Nowadays, in this [pandemic](https://www.worldometers.info/coronavirus/) situation around the globe makes it more demandable. People have to be locked down at home, so this [E-Commerce system](https://themeforest.net/item/pickbazar-react-graphql-ecommerce-template/25283305) is their only way to buy their necessary goods. That is why lots of entrepreneurs want to go online for their business via E-Commerce. Today we will discuss those steps which are required to start an E-Commerce business from scratch. So let us start the article.
+E-Commerce business is overgrowing around the world, and it has a huge opportunity. Nowadays, in this [pandemic](https://www.worldometers.info/coronavirus/) situation around the globe makes it more demandable. People have to be locked down at home, so this [E-Commerce system](https://themeforest.net/item/pickbazar-react-graphql-ecommerce-template/25283305) is their only way to buy their necessary goods. That is why lots of entrepreneurs want to go online for their business via E-Commerce. Today we will discuss those steps which are required to start an E-Commerce business from scratch. So let us start the article.
 
 ## What is E-Commerce?
 
-![What-is-Ecommerce](/assets/blog/images/What-is-Ecommerce.jpg)
+![What-is-Ecommerce](https://d2qklehrvrfpx7.cloudfront.net/blogimages/10steps_to_start_ecommerce-1.jpg)
 
 At the very beginning, before we start the article, we have to learn first what is actually E-
 
@@ -15,7 +15,7 @@ Commerce. In general, [E-Commerce](https://en.wikipedia.org/wiki/E-commerce) m
 
 ## Required Steps to start an E-Commerce business from scratch
 
-## ![Start E-commerce](/assets/blog/images/Start-E-commerce.jpg)
+## ![Start E-commerce](https://d2qklehrvrfpx7.cloudfront.net/blogimages/10steps_to_start_ecommerce-2.jpg)
 
 Here we will talk about the 10 steps to start your E-Commerce business from scratch. Let us start.
 
