@@ -1,6 +1,7 @@
 ---
 title: "Best React & HTML Online Shopping Templates"
 date: "2019-08-22"
+category: "Theme"
 excerpt: "Now a days online store or marketplace is getting more popularity. This is the age of the internet. People have the tendency to get reach to anything online. As a result, shopping is getting more momentum. If you want to run an online store then you will require a website. The HTML template is the"
 coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/React-HTML-Online-Shopping-Templates-.png"
 ogImage:

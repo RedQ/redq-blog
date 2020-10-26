@@ -1,6 +1,8 @@
 ---
 title: "Best Web Hosting Companies | Compare Best Web Hosting Sites‎"
 date: "2018-01-15"
+category: "Article, Blog, Other"
+excerpt: "There are hundreds of web hosting companies available to choose. They are offering all kinds of hosting plans so that is why it has become challenging to find balance between prices, feature, performance and support."
 ---
 
 \[vc_row\]\[vc_column\]\[vc_column_text\]There are hundreds of web hosting companies available to choose. They are offering all kinds of hosting plans so that is why it has become challenging to find balance between **prices**, **feature**, **performance** and **support**.
@@ -33,7 +35,7 @@ You do not want that. Obviously, web hosting is not just for doing businesses. 
 - **Infinite number of free email account** – Available for the top-end plan. Only total account storage is available for email storage within it. There is a limitation about how many emails in an hour you can send, so if your site is demanding in terms of sending emails, use some third party solutions like MailChimp or EmailOctopus.
 - **Automatic daily backups** – All your website data and stored files will be backed up automatic regularly.
 - **High configuration of servers and Regular hardware upgrades** – Replacement parts always ready for quick replacement in case of failed hardware. So this is not an issue at all.
-- ​**24×7 Live Chat & Phone Support** – This isn’t offered by most shared hosts out there. So this is a unique feature.
+- **24×7 Live Chat & Phone Support** – This isn’t offered by most shared hosts out there. So this is a unique feature.
 - **Hassle-free scalability** – It allows you to upgrade your plan to a VPS or a dedicated server without having any kind of hassles for moving your website.
 - **Account isolation technology** – It allows you to isolate accounts having websites that consume too much resources, it also ensures that server's performance would not be degraded and affect all customer sites on that server.
 - **Customization** – Customization is available for a shared hosting plan including SSH (Secured Shell Access), Server Side Includes, PHP.ini and htaccess modification support.

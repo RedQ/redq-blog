@@ -1,6 +1,8 @@
 ---
 title: "Best WordPress User Profile Plugin"
 date: "2018-09-29"
+category: "Article, Blog, Plugin"
+excerpt: "One of the tremendous features of CMS like WordPress is the capability to craft it to any kind of online solution that you required. It's going to be a word paradigm like WordPress."
 ---
 
 \[vc_row\]\[vc_column\]\[vc_column_text\]One of the tremendous features of CMS like WordPress is the capability to craft it to any kind of online solution that you required. It's going to be a word paradigm like WordPress.
