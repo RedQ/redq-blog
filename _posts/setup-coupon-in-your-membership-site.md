@@ -1,6 +1,8 @@
 ---
 title: "How to  Setup Coupon in your Membership Site  With UserPlace Plugin"
 date: "2018-10-11"
+category: "Article, Blog, Plugin"
+excerpt: "Hello good people, hope you all had a good day and we are ready with a new article of the UserPlace article series. This tile the article is about coupon creations and it’s usage with your membership site by using the UserPlace Plugin. So let’s dig into the article. ﻿ Userplace Coupon Coupon is the part where"
 ---
 
 Hello good people, hope you all had a good day and we are ready with a new article of the [UserPlace](https://redq.io/userplace) article series. This tile the article is about coupon creations and it's usage with your membership site by using the [UserPlace Plugin](https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/). So let's dig into the article.

@@ -1,6 +1,8 @@
 ---
 title: "5 Tips for Selecting the Best Web Hosting Service"
 date: "2020-03-02"
+category: "Article"
+excerpt: "For bloggers, developers, business owners, and others choosing the right web hosting service is a difficult choice. Getting it just right will provide you with a reliable and high performing host. You will also have an amazing time going through the difficulties that you face. While getting it wrong often leads to headaches and you quitting their "
 ---
 
 For bloggers, developers, business owners, and others choosing the right [**web hosting**](https://www.hostingraja.in/) service is a difficult choice. Getting it just right will provide you with a reliable and high performing host. You will also have an amazing time going through the difficulties that you face. While getting it wrong often leads to headaches and you quitting their service, leaving you and your data at standby. Here are 5 tips to keep in mind to select the best web hosting service
