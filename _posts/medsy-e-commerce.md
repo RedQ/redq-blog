@@ -1,8 +1,8 @@
 ---
 title: "Medicine E-commerce Templates in 2020 - Welcome to Medsy"
 date: "2020-09-09"
-category: "Theme, article"
-excerpt: "Now a days online store or marketplace is getting more popularity. This is the age of the internet. People have the tendency to get reach to anything online. As a result, shopping is getting more momentum. If you want to run an online store then you will require a website. The HTML template is the"
+category: "Article, Blog"
+excerpt: "Medicine, being one of the key essentials of our lives – particularly during this pandemic, is a product that will always be in demand. While the current global crisis is wreaking havoc on traditional brick and mortar stores, E-commerce however, offers a unique opportunity for entrepreneurs to address this demand for medicine through a virtual "
 coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/React-HTML-Online-Shopping-Templates-.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/React-HTML-Online-Shopping-Templates-.png"
