@@ -1,6 +1,8 @@
 ---
 title: "How a Landing Page can Redefine Your Business in 2020"
 date: "2020-06-29"
+category: "Article. Blog"
+excerpt: "Online visibility has become essential for businesses looking to scale up, especially within the past decade. In 2020 and moving forward, any entrepreneur or creator should be looking to bringing their product, service or app to the forefront of the cyber space. So, what’s the catch? The process of bringing a business online can seem"
 ---
 
 \[vc_row\]\[vc_column\]\[vc_column_text\]Online visibility has become essential for businesses looking to scale up, especially within the past decade. In 2020 and moving forward, any entrepreneur or creator should be looking to bringing their product, service or app to the forefront of the cyber space. So, what’s the catch? The process of bringing a business online can seem like a tedious and long development cycle, but it doesn’t have to be that way anymore. Landing pages have slowly become the “go to” option for businesses who want to generate leads and sales while growing their traffic and potentially popularizing their offerings to a lucrative audience.
