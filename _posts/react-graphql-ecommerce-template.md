@@ -212,7 +212,7 @@ now
 
 ## Conclusion
 
-Now we have come to the ending point of this article. We hope you have an idea about the PickBazar react GraphQL eCommerce [shopping template](https://redq.io/blog/best-react-html-online-shopping-templates/). Without any hesitation, you can use this shopping template for your eCommerce store. Thank you very much for reading this article. If you really like this article, then please leave a comment on the comment section or give us a good rating. That is all for today. Have a beautiful day.
+Now we have come to the ending point of this article. We hope you have an idea about the PickBazar react GraphQL eCommerce [shopping template](https://redq.io/blog/best-react-html-online-shopping-templates/). Without any hesitation, you can use this shopping template for your eCommerce store. Thank you very much for reading this article. If you really like this article, then please leave a comment on the comment section or give us a good rating. That is all for today. Have a beautiful day!
 
 \[ushop_button_shortcode_blog_wrap btn_align="text-center"\]
 \[ushop_button_shortcode_blog btn_class="purchase-btn" btn_text="Purchase Now" btn_url="http://bit.ly/36FTrd3"\]
