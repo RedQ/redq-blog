@@ -1,5 +1,11 @@
 .markdown {
   @apply leading-relaxed;
+  line-height: 1.8;
+}
+
+.markdown > * {
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .markdown h1,
@@ -11,21 +17,70 @@
   @apply text-gray-900;
 }
 
-.markdown p {
-  @apply text-gray-700;
-}
-
-.markdown p,
-.markdown ul,
-.markdown ol,
-.markdown blockquote {
-  @apply my-6 font-light;
-}
-
 .markdown h2 {
   @apply text-2xl mt-12 mb-4 leading-snug;
 }
 
 .markdown h3 {
   @apply text-xl mt-8 mb-4 leading-snug;
+}
+
+.markdown p,
+.markdown ul,
+.markdown ol,
+.markdown blockquote {
+  @apply my-6 font-light text-gray-700;
+}
+
+.markdown ul,
+.markdown ol {
+  padding-left: 22px;
+  list-style-type: decimal;
+}
+
+.markdown li {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  padding-left: 12px;
+}
+
+.markdown li::before {
+  content: '';
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  border-radius: 50%;
+  position: absolute;
+  left: -25px;
+  top: 2px;
+  z-index: -1;
+  background-color: #EDF2F7;
+}
+
+.markdown li:nth-child(n+10)::before {
+  left: -31px;
+  width: 28px;
+  height: 28px;
+  top: -3px;
+}
+
+.markdown h4 + ul,
+.markdown h4 + ol {
+  margin-top: -16px;
+}
+
+.markdown p img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 16px;
+}
+
+.markdown p a,
+.markdown p strong {
+  @apply text-gray-900;
+}
+
+.markdown p a {
+  @apply underline;
 }

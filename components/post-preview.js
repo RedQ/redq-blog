@@ -16,7 +16,7 @@ export default function PostPreview({
 				<CoverImage slug={slug} title={title} src={coverImage} />
 			</figure>
 			<div className="pl-8 pr-8 mb-4 text-blue-700 uppercase tracking-widest text-sm font-semibold">
-				<DateFormatter dateString={date} />
+				{date !== undefined ? <DateFormatter dateString={date} /> : ''}
 			</div>
 			<header className="pl-8 pr-8 mb-6">
 				<h3 className="text-2xl leading-snug">
