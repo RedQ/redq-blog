@@ -3,7 +3,7 @@ title: "Rating Builder WP Free Plugin ( Review and Installation )"
 date: "2018-01-20"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]
+
 
 Welcome to **Rating Builder Plugin** by [RedQ Team](https://themeforest.net/user/redqteam).
 
@@ -24,7 +24,7 @@ After download the full package from [wordpress.org](https://wordpress.org/plugi
 > 3. Upload WordPress Claim & Report plugin's zip file, then click install now button.
 > 4. After successfully install the plugin then active it.!
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]![](/assets/blog/images/plugin-installation-1.png)\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
+\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]![](/assets/blog/images/plugin-installation-1.png)
 
 #### THE FEATURES ARE OFFERED BY THIS PLUGIN
 
@@ -37,7 +37,7 @@ After download the full package from [wordpress.org](https://wordpress.org/plugi
 - You can specify Total Number of icons and post type to implement rating on that post.
 - Multilingual
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
+
 
 # Configuration
 
@@ -45,7 +45,7 @@ After installing the plugin you will get a menu named `Rating`. From that menu 
 
 In this way You will get rating input form before comment form.
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]![](/assets/blog/images/Rating-settings-panel.png)\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
+\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]![](/assets/blog/images/Rating-settings-panel.png)
 
 # Filters
 
@@ -68,7 +68,7 @@ This filter will give you current icon list in the following fashion.
 
 To extend create an array in the same way by using font awesome icon list. Then returned the merged array. You can also just return your own array.
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
+
 
 # Shortcode
 
@@ -78,15 +78,17 @@ We have created a shortcode for you. You can use `[redq_rating_review]` in you
 
 ##### Review Form Snapshot
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]![](/assets/blog/images/rating-shortcode.png)\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
+![](/assets/blog/images/rating-shortcode.png)
 
 ###### Review List
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]![](/assets/blog/images/review-list1.png)\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
+![](/assets/blog/images/review-list1.png)
 
 # Conclusion
 
-Rating builder is a premium free WordPress plugin.This plugin let you add ratings on several types in the very same comment. The most amazing thing is that it is totally free, it would not cost any penny. Without any hesitation you can use it for your need.\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]**See Also:**
+Rating builder is a premium free WordPress plugin.This plugin let you add ratings on several types in the very same comment. The most amazing thing is that it is totally free, it would not cost any penny. Without any hesitation you can use it for your need.
+
+**See Also:**
 
 [Top 10 Free WordPress Templates](https://redq.io/blog/wordpress-templates-free/)
 
@@ -100,4 +102,4 @@ Rating builder is a premium free WordPress plugin.This plugin let you add rating
 
 [Top 10 Free One Page WordPress Theme](https://redq.io/blog/one-page-wordpress-theme-free-download/)
 
-[10 Best Free Medical WordPress Themes ( Responsive )](https://redq.io/blog/free-medical-wordpress-themes/)\[/vc_column_text\]\[/vc_column\]\[/vc_row\]
+[10 Best Free Medical WordPress Themes ( Responsive )](https://redq.io/blog/free-medical-wordpress-themes/)

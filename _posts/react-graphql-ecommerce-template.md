@@ -3,7 +3,7 @@ title: "Building A React & GraphQL Based ECommerce Website Using Pickbazar"
 date: "2020-01-13"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]There are lots of shopping templates available in several marketplaces. But choosing the right one is very difficult. Today we will talk about a shopping or eCommerce template named "[PickBazar](https://redq.io/pickbazar)" developed by [RedQ Inc](https://redq.io/). It is a new template published in the [Envato marketplace](http://bit.ly/30gODbV).
+There are lots of shopping templates available in several marketplaces. But choosing the right one is very difficult. Today we will talk about a shopping or eCommerce template named "[PickBazar](https://redq.io/pickbazar)" developed by [RedQ Inc](https://redq.io/). It is a new template published in the [Envato marketplace](http://bit.ly/30gODbV).
 
 \[irp\]
 
@@ -220,4 +220,4 @@ Now we have come to the ending point of this article. We hope you have an idea a
 
 **Read More: [10 Best React Redux Admin Dashboard 2020](https://redq.io/blog/react-redux-admin-dashboard/)**
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]
+

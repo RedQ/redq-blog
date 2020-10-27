@@ -3,9 +3,9 @@ title: "How To Make A Booking Website With WordPress Booking Plugin RnB"
 date: "2019-07-07"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]Any Kind of Booking businesses are now very profitable. Many entrepreneurs are coming forward to invest in this business sector. Nowadays a trend is very popular. This trend is to do business online via a website. Booking business has a very bright future to run online. So if an [entrepreneur](https://www.entrepreneur.com/) wants to run his booking business via a website then he should choose a platform to this. Obviously, [WordPress](https://wordpress.org/) is the best medium to do this.
+Any Kind of Booking businesses are now very profitable. Many entrepreneurs are coming forward to invest in this business sector. Nowadays a trend is very popular. This trend is to do business online via a website. Booking business has a very bright future to run online. So if an [entrepreneur](https://www.entrepreneur.com/) wants to run his booking business via a website then he should choose a platform to this. Obviously, [WordPress](https://wordpress.org/) is the best medium to do this.
 
-We all know that WordPress has a lot of marketplaces. WordPress developers are publishing a lot of plugins for these marketplaces. They are considering 'Booking' as a good prospect to develop a plugin. So we are talking about a great plugin for this 'Booking' purpose. This plugin is named [WordPress Booking Plugin RnB](https://1.envato.market/BYjL1). Today we will demonstrate how to set up this plugin and also the procedures to create a WordPress Booking site with this plugin. Let's start.\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]Now with some points we shall demonstrate the whole procedures.
+We all know that WordPress has a lot of marketplaces. WordPress developers are publishing a lot of plugins for these marketplaces. They are considering 'Booking' as a good prospect to develop a plugin. So we are talking about a great plugin for this 'Booking' purpose. This plugin is named [WordPress Booking Plugin RnB](https://1.envato.market/BYjL1). Today we will demonstrate how to set up this plugin and also the procedures to create a WordPress Booking site with this plugin. Let's start. Now with some points we shall demonstrate the whole procedures.
 
 ## Make an Appointment Booking Website with WordPress RnB Booking & Rental Plugin
 
@@ -16,11 +16,11 @@ We all know that WordPress has a lot of marketplaces. WordPress developers are p
 5. How To Create a Rental Product accompanied by an Inventory for Booking?
 6. Viewing the rental Product's web page for Booking.
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
+
 
 ### 1\. What is "RnB" Rental and Booking Plugin?
 
-It is a complete rental & booking solution for your site based on [WooCommerce WordPress Plugin](https://redq.io/blog/woocommerce-booking-plugin/). This plugin will provide you option for your pricing plans, calendar maintenance, also assists to maintain order very effectively. This plugin allows you to sell your time or date based bookings. It creates a new product type to your WooCommerce site. Perfect for those wanting to offer rental, booking or services.\[/vc_column_text\]\[vc_column_text\]
+It is a complete rental & booking solution for your site based on [WooCommerce WordPress Plugin](https://redq.io/blog/woocommerce-booking-plugin/). This plugin will provide you option for your pricing plans, calendar maintenance, also assists to maintain order very effectively. This plugin allows you to sell your time or date based bookings. It creates a new product type to your WooCommerce site. Perfect for those wanting to offer rental, booking or services.
 
 ### 2\. How To Install The plugin?
 
@@ -41,7 +41,7 @@ The plugin installation is very simple, you need not touch any single line of th
 
 - **Step 4** – After installing the plugin, [RnB Booking Plugin](https://redq.io/blog/best-wordpress-booking-plugin/) will be displayed on the Installed Plugins page.
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
+
 
 ### 3\. How To Activate The Plugin?
 
@@ -63,7 +63,7 @@ After the successful installation of the plugin, you need to activate the plugin
 
 #### After installing and activating the **"RnB"** Booking Plugin, **Inventory** and **RnB Calendar** options will be displayed on the Dashboard.
 
-![Inventory and RnB](/assets/blog/images/6.png "Inventory and RnB")\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
+![Inventory and RnB](/assets/blog/images/6.png "Inventory and RnB")
 
 ### 4\. How To Create Inventory?
 
@@ -111,7 +111,7 @@ You will require inventory to maintain the rental product for your WordPress Boo
 
 - **Drop off Location**
 
-![Drop off Location](/assets/blog/images/17.png "Drop off Location")\[/vc_column_text\]\[vc_column_text\]
+![Drop off Location](/assets/blog/images/17.png "Drop off Location")
 
 ### 5\. How To Create a Rental Product accompanied by an Inventory for Booking?
 
@@ -125,7 +125,7 @@ You will require inventory to maintain the rental product for your WordPress Boo
 
 ![new product](/assets/blog/images/20.png "new product")
 
-![Viewing the rental Product's web page for Booking1](/assets/blog/images/21.png "Viewing the rental Product's web page for Booking1")\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]
+![Viewing the rental Product's web page for Booking1](/assets/blog/images/21.png "Viewing the rental Product's web page for Booking1")
 
 ### 6\. Viewing the rental Product's web page for Booking.
 
@@ -151,7 +151,7 @@ After clicking on Proceed to Checkout it will take you to the checkout page. In 
 
 After Clicking on Place order it will take you to the Order Received Page. That means your order is received and scheduled for delivery or ready and you have to receive it. This is the final stage of Booking a rental product.
 
-![rnbtest](/assets/blog/images/27-1.png "rnbtest")\[/vc_column_text\]\[vc_column_text\]
+![rnbtest](/assets/blog/images/27-1.png "rnbtest")
 
 ## Price Calculation for Rental Products
 
@@ -223,8 +223,8 @@ This is the newest pricing plan for our rental plugin. It will work as a flat ho
 
 ![Working with Hourly Range Pricing](/assets/blog/images/36.png "Working with Hourly Range Pricing")
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ## Conclusion
 
-We are now coming to the ending point of this article. RnB - WordPress Booking Plugin. Hope you will have an understanding of how to build a WordPress Booking site with RnB rental plugin. For sure you could buy this plugin without any hesitation for building your Booking site. That is all for today. Have a nice day. \[/vc_column_text\]\[/vc_column\]\[/vc_row\]
+We are now coming to the ending point of this article. RnB - WordPress Booking Plugin. Hope you will have an understanding of how to build a WordPress Booking site with RnB rental plugin. For sure you could buy this plugin without any hesitation for building your Booking site. That is all for today. Have a nice day. 

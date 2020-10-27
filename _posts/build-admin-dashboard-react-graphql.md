@@ -3,7 +3,7 @@ title: "Build an Admin Dashboard Using React & GraphQL"
 date: "2020-02-19"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, GraphQL & Uber’s Base UI. It is very easy to use; GraphQL and TypeGraphQL are implemented. Inst is a Next.js GraphQL powered admin dashboard. Used progressive web application pattern, highly optimized for your next react application. You can use it for both Dashboard and Public pages for your web applications. Available in both Light and Dark mode. To activate the Dark mode, Click on the profile image at the right corner, and you will find the ‘Dark Mode’ in Drop-down. Note: Please note that, This is not an HTML template. It is a React Dashboard template built using Next.js Framework. P.S. Design inspiration was taken from Now.sh
+Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, GraphQL & Uber’s Base UI. It is very easy to use; GraphQL and TypeGraphQL are implemented. Inst is a Next.js GraphQL powered admin dashboard. Used progressive web application pattern, highly optimized for your next react application. You can use it for both Dashboard and Public pages for your web applications. Available in both Light and Dark mode. To activate the Dark mode, Click on the profile image at the right corner, and you will find the ‘Dark Mode’ in Drop-down. Note: Please note that, This is not an HTML template. It is a React Dashboard template built using Next.js Framework. P.S. Design inspiration was taken from Now.sh
 
 ## Inst - React GraphQL Admin Dashboard Template
 
@@ -21,7 +21,7 @@ date: "2020-02-19"
 - Uber's BaseUi
 - React Big Calendar
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ### Stack Used by Developer
 
@@ -35,7 +35,7 @@ date: "2020-02-19"
 - Baseweb design for UI components. https://v9-50-0.baseweb.design/
 - Now Deployment
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ### Template Features
 
@@ -57,12 +57,12 @@ After downloading the file from Themeforest, You will find inst.zip file. Unzip 
 
 yarn
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 //For starting dev server run
 yarn dev
 
-\[/vc_column_text\]\[vc_column_text\] **NOTE:** Before start the project add your config credentials in next.config.js file\[/vc_column_text\]\[vc_column_text\]
+\[/vc_column_text\]\[vc_column_text\] **NOTE:** Before start the project add your config credentials in next.config.js file
 
 env: {
 APOLLO_CLIENT_URL: 'http://localhost:4000/graphql',
@@ -81,7 +81,7 @@ FIREBASE_APP_ID: 'your_firebase_app_id',
 FIREBASE_MEASUREMENT_ID: 'your_firebase_measurement_id',
 },
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ### Folder Structure
 
@@ -106,7 +106,7 @@ FIREBASE_MEASUREMENT_ID: 'your_firebase_measurement_id',
 /types
 /utils
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ### Routes
 
@@ -153,7 +153,7 @@ FIREBASE_MEASUREMENT_ID: 'your_firebase_measurement_id',
 /terms
 /privacy
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ### Explaining Containers
 
@@ -186,4 +186,4 @@ _/frontend/next.config.js APOLLO_CLIENT_URL_.
 $ cd frontend/
 $ now
 
-\[/vc_column_text\]\[vc_column_text\]**Note:** Make sure you have _now-cli_ installed in your system.\[/vc_column_text\]\[/vc_column\]\[/vc_row\]
+**Note:** Make sure you have _now-cli_ installed in your system.
