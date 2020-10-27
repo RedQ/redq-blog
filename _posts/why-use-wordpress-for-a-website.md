@@ -1,6 +1,8 @@
 ---
 title: "The 10 Top Reasons To Choose Wordpress For Your Next Website"
 date: "2017-08-19"
+category: "Article, Blog, Other"
+excerpt: "WordPress is one of the most flexible and used content managers (CMS) in the world. But what is that about a content manager? And what advantages does it have to use it to create my website? WordPress is a system that allows us to create all kinds of websites: blogs, online stores, corporate websites, forums,"
 ---
 
 \[vc\_row\]\[vc\_column\]\[vc\_column\_text\][WordPress](https://en.wikipedia.org/wiki/WordPress) is one of the most flexible and used content managers ([CMS](http://searchcontentmanagement.techtarget.com/definition/content-management-system-CMS)) in the world. But what is that about a content manager? And what advantages does it have to use it to create my website?

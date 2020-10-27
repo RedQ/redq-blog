@@ -1,6 +1,8 @@
 ---
 title: "Intro to UserPlace - A Complete Free WordPress Membership Plugin"
 date: "2018-09-25"
+category: "Article, Blog, Plugin"
+excerpt: "UserPlace is one of the best free WordPress membership plugins for User Profile, Member Subscription, Restriction & Payments. It’ll help you to monetize your site, you will able to create plans, subscriptions, and restrictions that apply into view level and submission level. This article is the first part of the article series of UserPlace. In this "
 ---
 
 [UserPlace](https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/) is one of the best free WordPress membership plugins for User Profile, Member Subscription, Restriction & Payments. It’ll help you to monetize your site, you will able to create plans, subscriptions, and restrictions that apply into view level and submission level.

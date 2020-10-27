@@ -1,6 +1,8 @@
 ---
 title: "Free WordPress Photography Themes"
 date: "2017-12-21"
+category: "Article, Blog, Theme"
+excerpt: "Photography is an amazing skill. If you think that having a good camera can make you a great photographer that is not correct. A photographer must have the eye to pick a great photo out of anything. If you are about to design  site for a great photographer where he or she will showcase the"
 ---
 
 \[vc\_row\]\[vc\_column\]\[vc\_column\_text\]Photography is an amazing skill. If you think that having a good camera can make you a great photographer that is not correct. A photographer must have the eye to pick a great photo out of anything.\[/vc\_column\_text\]\[/vc\_column\]\[/vc\_row\]\[vc\_row\]\[vc\_column\]\[vc\_column\_text\]If you are about to design  site for a great photographer where he or she will showcase the photos, then the site has to be as much attractive as the contents. Right theme selection is  big challenge here. In this article we are explaining 10 best photography themes with there features for your site. Hope this will be helpful.\[/vc\_column\_text\]\[vc\_column\_text\]

@@ -1,6 +1,8 @@
 ---
 title: "Top 5 Best Google Analytics WordPress Plugin"
 date: "2017-08-19"
+category: "Article, Blog, Plugin"
+excerpt: "If you have a WordPress website, then you certainly know that there is a variety of plugins available that will allow you to enhance your site and your content .The hidden secret is to choose the best google analytics WordPress plugin. Some plugins are designed to add  some extra security to your WP site, while "
 ---
 
 \[vc\_row\]\[vc\_column\]\[vc\_column\_text\]If you have a WordPress website, then you certainly know that there is a variety of plugins available that will allow you to enhance your site and your content .The hidden secret is to choose the best [google analytics](https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignUp/) WordPress plugin.

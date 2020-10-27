@@ -1,6 +1,8 @@
 ---
 title: "Best Car Rental WordPress Themes for Taxi and Car Rental Business"
 date: "2018-03-03"
+category: "Article, Blog, Theme"
+excerpt: "Car rental, booking, reservation through online is a new phenomenon. On WordPress, there are lots of themes. By these themes, anybody can start his own business. So, we are thinking about to make an article on this matter. We will talk about 15 best premium Car booking, rental, reservation themes on this topic. Let us"
 ---
 
 \[vc_row\]\[vc_column\]\[vc_column_text\] Car rental, booking, reservation through online is a new phenomenon. On WordPress, there are lots of themes. By these themes, anybody can start his own business. So, we are thinking about to make an article on this matter. We will talk about 15 best premium Car booking, rental, reservation themes on this topic. Let us start the topic.
