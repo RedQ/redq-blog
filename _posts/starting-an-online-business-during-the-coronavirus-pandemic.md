@@ -5,15 +5,15 @@ category: "Article, Theme"
 excerpt: "Business during the Coronavirus pandemic is very challenging. This situation unlocks a lot of opportunity for Online business. People have to maintain lock-down imposed by their government in several countries. So the tendency to go shopping online increased at a very high rate. This time doing business online is profitable and helpful for the people "
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]Business during the Coronavirus [pandemic](https://en.wikipedia.org/wiki/Pandemic) is very challenging. This situation unlocks a lot of opportunity for Online business. People have to maintain lock-down imposed by their government in several countries. So the tendency to go shopping online increased at a very high rate. This time doing business online is profitable and helpful for the people who are on lock-down. Business owners are really interested in doing business online because of this opportunity.
+Business during the Coronavirus [pandemic](https://en.wikipedia.org/wiki/Pandemic) is very challenging. This situation unlocks a lot of opportunity for Online business. People have to maintain lock-down imposed by their government in several countries. So the tendency to go shopping online increased at a very high rate. This time doing business online is profitable and helpful for the people who are on lock-down. Business owners are really interested in doing business online because of this opportunity.
 
-Today, we will discuss all the aspects of starting an online business during the coronavirus pandemic. So let us start the article.\[/vc_column_text\]\[vc_column_text\]
+Today, we will discuss all the aspects of starting an online business during the coronavirus pandemic. So let us start the article.
 
 ## Starting a business during the coronavirus pandemic
 
 Starting a business during the coronavirus pandemic is not so different from regular time. The plan to do business actually differs. You have to think about some certain criteria starting a business during the corona virus pandemic. You will require a concrete idea of how you will finance the business.
 
-At first, you have to think about who would be your potential customers. You have to start an online E-Commerce business for your potential customers; without them, your business can not survive in the long run. Keep in mind how you will promote our business and how you will deliver your goods and services towards your potential customers. Remember that many people are still required to stay at home, and social distancing measures may be in place for some time.\[/vc_column_text\]\[vc_column_text\]
+At first, you have to think about who would be your potential customers. You have to start an online E-Commerce business for your potential customers; without them, your business can not survive in the long run. Keep in mind how you will promote our business and how you will deliver your goods and services towards your potential customers. Remember that many people are still required to stay at home, and social distancing measures may be in place for some time.
 
 ## Business Types which have potential
 
@@ -48,4 +48,4 @@ A medium will be required to showcase your online presence so people can reach y
 - Secured money, SEO friendly, and Elite Support
 - Well Documented and included with complete documentation
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="View Demo & Buy Theme" btn_url="https://redq.io/cartsy"\]\[/ushop\_button\_shortcode\_blog\_wrap\]\[/vc\_column\_text\]\[/vc\_column\]\[/vc\_row\]
+\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="View Demo & Buy Theme" btn_url="https://redq.io/cartsy"\]\[/ushop\_button\_shortcode\_blog\_wrap\]

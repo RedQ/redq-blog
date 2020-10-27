@@ -3,11 +3,11 @@ title: "Best WordPress Mega Menu Plugin"
 date: "2018-09-12"
 ---
 
-\[vc_row\]\[/vc_row\]\[vc_column\]\[/vc_column\]\[vc_column_text\]Nowadays every [WordPress](https://wordpress.com/) sites need an exotic menu. [Mega menu plugin](https://codecanyon.net/search/mega%20menu%20plugin?ref=redqteam) functionality is the solution for an exotic menu. But the theme you are using should have the support of Mega Menu unless you can not have this functionality.
+Nowadays every [WordPress](https://wordpress.com/) sites need an exotic menu. [Mega menu plugin](https://codecanyon.net/search/mega%20menu%20plugin?ref=redqteam) functionality is the solution for an exotic menu. But the theme you are using should have the support of Mega Menu unless you can not have this functionality.
 
 WordPress developers are now developing lots of plugins based on Mega Menu. So we will try to make a list of best WordPress mega menu plugin.
 
-At first, we have to realize what is Mega Menu? How does it work? Mega Menu is actually an extended menu that viewable when a user clicks on or hovers over a regular menu option. It makes easy to navigate the [WordPress site](https://redq.io/blog/benefits-using-wordpress/) and demonstrates a lot of information at once. Let us start the article.\[/vc_column_text\]\[vc_column_text\]
+At first, we have to realize what is Mega Menu? How does it work? Mega Menu is actually an extended menu that viewable when a user clicks on or hovers over a regular menu option. It makes easy to navigate the [WordPress site](https://redq.io/blog/benefits-using-wordpress/) and demonstrates a lot of information at once. Let us start the article.
 
 ## WP Mega Menu
 
@@ -164,4 +164,4 @@ Included features:
 
 ### Conclusion
 
-Now we have finished this article. Hope you really find this article helpful for you. If so please leave a comment or give us a rating. It always motivates us to deliver you more quality articles. That is all for today. Thank you for reading this article. Have a nice day.\[/vc_column_text\]\[vc_column_text\]\[/vc_column_text\]
+Now we have finished this article. Hope you really find this article helpful. If so please leave a comment or give us a rating. It always motivates us to deliver you more quality articles. That is all for today. Thank you for reading this article. Have a nice day.

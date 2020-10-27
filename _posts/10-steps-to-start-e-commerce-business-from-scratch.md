@@ -92,4 +92,4 @@ The final step of starting an E-Commerce business is planning for how to interac
 
 ## Summary
 
-Now we could summarize the article. We hope from this article that you are acknowledged on the necessary steps to start an E-Commerce business from scratch. If so, it would be a great honor for us. Please share this article with your social community as it always inspire s us to deliver you more quality articles. Thank you again for reading this article. That is all for today. Have a beautiful day.\[/vc_column_text\]\[/vc_column\]\[/vc_row\]
+Now we could summarize the article. We hope from this article that you are acknowledged on the necessary steps to start an E-Commerce business from scratch. If so, it would be a great honor for us. Please share this article with your social community as it always inspire s us to deliver you more quality articles. Thank you again for reading this article. That is all for today. Have a beautiful day.

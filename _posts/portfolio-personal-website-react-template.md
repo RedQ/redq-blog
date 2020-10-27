@@ -3,7 +3,7 @@ title: "Create a Developer Portfolio or Personal Website Using React Template"
 date: "2019-07-25"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]In this present era entrepreneurs, freelancers, actors, musicians, and people from different occupations want to showcase their work via an online presence. This is the best way to reach to the farthest corner of the world where at least internet access is available. To maintain online presence a personal website is a must. It helps to showcase a portfolio or a blog.
+In this present era entrepreneurs, freelancers, actors, musicians, and people from different occupations want to showcase their work via an online presence. This is the best way to reach to the farthest corner of the world where at least internet access is available. To maintain online presence a personal website is a must. It helps to showcase a portfolio or a blog.
 
 [![cartsy-banner](/assets/blog/images/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
@@ -11,7 +11,7 @@ date: "2019-07-25"
 
 That is why we are making a list of best portfolio personal website react template. Let us start the article. And another best [react admin dashboard](https://redq.io/blog/react-redux-admin-dashboard/) lists
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 - ## SuperProps - React Next Landing Page Templates
 
@@ -29,7 +29,7 @@ That is why we are making a list of best portfolio personal website react templa
 - Built in components
 - Online Documentation
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ## StoryHub - React Gatsby Blog Template
 
@@ -52,7 +52,7 @@ StoryHub is a blog template powered by React & Gatsby JS. It’s completely func
 - Customer Support
 - Video Documentation
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ### **Read More: [Best React GraphQL ECommerce Template](https://redq.io/blog/react-graphql-ecommerce-template/)**
 
@@ -71,8 +71,8 @@ This is a ReactJS based personal resume website template. Data is fed directly f
 - Data access from JSON file directly
 - Easy to replace image and font
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ## Conclusion
 
-Now we are at the ending point of this article. We hope you really appreciate this informative article. If this article really assists you to gather knowledge about some best React based portfolio personal website react template then please share this article to your several Social Profiles and let others have the opportunity to read this article and gather knowledge. It would be a great honor to us. That is all for today. Please read our other articles on different interesting topics already posted on our blog. Keep in touch with our blog. Thank you very much for reading this article. So have a nice day.\[/vc_column_text\]\[/vc_column\]\[/vc_row\]
+Now we are at the ending point of this article. We hope you really appreciate this informative article. If this article really assists you to gather knowledge about some best React based portfolio personal website react template then please share this article to your several Social Profiles and let others have the opportunity to read this article and gather knowledge. It would be a great honor to us. That is all for today. Please read our other articles on different interesting topics already posted on our blog. Keep in touch with our blog. Thank you very much for reading this article. So have a nice day.

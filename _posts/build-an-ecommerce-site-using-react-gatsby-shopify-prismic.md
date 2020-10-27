@@ -3,7 +3,7 @@ title: "Build an eCommerce Site Using React Gatsby Shopify & Prismic"
 date: "2020-05-11"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]Picksy is a full-featured modern headless eCommerce app powered by Shopify, Prismic & Gatsby. If you are here, I guess by now you may have heard the term “Headless” or “Headless Shopify” when it comes to the next wave of bleeding-edge eCommerce builds. Most of the popular eCommerce platforms pushing it as “the next big thing”.
+Picksy is a full-featured modern headless eCommerce app powered by Shopify, Prismic & Gatsby. If you are here, I guess by now you may have heard the term “Headless” or “Headless Shopify” when it comes to the next wave of bleeding-edge eCommerce builds. Most of the popular eCommerce platforms pushing it as “the next big thing”.
 
 [![cartsy-banner](/assets/blog/images/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
@@ -59,7 +59,7 @@ That is it, your Gatsby powered Headless Shopify E-Commerce store is ready.
 
 The setup part is discussed in details in the Installation section
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 <iframe src="https://www.youtube.com/embed/p_UTJlD9G8k" width="900" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -163,7 +163,7 @@ NB: To clean .cache, public directory run the below command
 
 **After Yarn Serve command you should be able to see your site in production mode in this URL:** [http://localhost:9000/](http://localhost:8000/)
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 # Deployment
 
@@ -187,7 +187,7 @@ Run below commands for Production in the Picksy room directory where we have the
 
 that is it.
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 # Automatic Build
 
@@ -235,7 +235,7 @@ Same way create deploy hook in Now and Add them in your Prismic Webhook section 
 
 ![Prismic-Webhook](/assets/blog/images/Prismic-Webhook.png)
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 # gatsby-config.js
 
@@ -253,7 +253,7 @@ our gatsby-config.js file looks similar to the below image,
 
 ![Gatsby-Config](/assets/blog/images/Gatsby-Config.png)
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 # gatsby-node.js
 
@@ -273,7 +273,7 @@ and finally, we generated the dynamic category pages in the gatsby-node.js file.
 
 NB: don't worry about those underlines those are catching spelling mistakes in my editor.
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 # Home Page
 
@@ -437,7 +437,7 @@ We took two rich text fields for Title and Subtitle and a group field with image
 
 In the same way, we have created the Shipping And Footer section
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 # Search
 
@@ -455,7 +455,7 @@ you can check the implementation in the below file,
 
 components/search/index.tsx
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 # Quick Cart
 
@@ -472,7 +472,7 @@ For implementing cart we have used react context provider, you will find the imp
 provider/cart\-provider.tsx
 provider/local\-cart\-provider.tsx
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 # Checkout
 
@@ -484,7 +484,7 @@ You will be **redirected to Shopify checkout page** when you will click the *
 
 ![shopify-checkout](/assets/blog/images/shopify-checkout.png)
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 # Order
 
@@ -492,4 +492,4 @@ Once you will have some order you can see them in your Shopify order section, yo
 
 ![order](/assets/blog/images/order.png)
 
-This is your Shopify store. you are the owner of your store. you can do any kind of changes here as you want. You can add any payment gateway as well.\[/vc_column_text\]\[/vc_column\]\[/vc_row\]
+This is your Shopify store. you are the owner of your store. you can do any kind of changes here as you want. You can add any payment gateway as well.

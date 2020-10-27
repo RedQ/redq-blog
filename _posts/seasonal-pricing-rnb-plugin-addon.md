@@ -3,7 +3,7 @@ title: "Seasonal Pricing Addon for the RnB - WooCommerce Booking & Rental Plugin
 date: "2019-12-24"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]This Add-On is published by [RedQ,Inc](https://redq.io/). To enhance existing [WooCommerce Booking](https://redq.io/blog/woocommerce-booking-plugin/) & Rental Plugin **RnB.** This add-on lets you set seasonal prices for each product via inventory on the WooCommerce based WordPress website. Prices can be decreased or increased for specific periods relative to the base price.\[/vc_column_text\]\[vc_column_text\]
+This Add-On is published by [RedQ,Inc](https://redq.io/). To enhance existing [WooCommerce Booking](https://redq.io/blog/woocommerce-booking-plugin/) & Rental Plugin **RnB.** This add-on lets you set seasonal prices for each product via inventory on the WooCommerce based WordPress website. Prices can be decreased or increased for specific periods relative to the base price.
 
 ## Requirements Seasonal Pricing Add-on for the RnB
 
@@ -18,7 +18,7 @@ Both of the plugins should be activated. RnB plugin version should be at least 9
 
 For the documentation of **WooCommerce Rental & Bookings System - RnB** plugin you could visit this page: **RnB** [**Documentation**](https://redq.gitbooks.io/woocommerce-rental-and-bookings-reloaded/content/)
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ## Benefits Seasonal Pricing Add-on WooCommerce Booking & Rental Plugin
 
@@ -28,7 +28,7 @@ For the documentation of **WooCommerce Rental & Bookings System - RnB** plugin 
 - Works with WooCommerce variations
 - Seasonal pricing and seasons can be enabled/disabled and set at the product level as well via inventory.
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ### Installation
 
@@ -56,7 +56,7 @@ For the documentation of **WooCommerce Rental & Bookings System - RnB** plugin 
 
 - So the plugin is ready to use.
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ## Inventory Setup
 
@@ -90,7 +90,7 @@ Step by step process to set up Inventory.
 
 ![seasonal pricing ](/assets/blog/images/19-1.png "seasonal pricing ")
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ## How it works
 
@@ -104,7 +104,7 @@ Here you set a time duration via seasonal price and set 0.5 as the multiplier. S
 
 If you set the multiplier 2.0 then the price will be 2.0\*100=200
 
-\[/vc_column_text\]\[vc_column_text\]
+
 
 ## Product Handling
 
@@ -140,4 +140,4 @@ Step by step process to product handling with this inventory consisting Seasonal
 
 \[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Now" btn_url="http://bit.ly/2Qa5pGk"\]\[/ushop\_button\_shortcode\_blog\_wrap\]
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]
+

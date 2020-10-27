@@ -3,7 +3,7 @@ title: "Building A React & GraphQL Based ECommerce Website Using Pickbazar"
 date: "2020-01-13"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]There are lots of shopping templates available in several marketplaces. But choosing the right one is very difficult. Today we will talk about a shopping or eCommerce template named "[PickBazar](https://redq.io/pickbazar)" developed by [RedQ Inc](https://redq.io/). It is a new template published in the [Envato marketplace](http://bit.ly/30gODbV).
+There are lots of shopping templates available in several marketplaces. But choosing the right one is very difficult. Today we will talk about a shopping or eCommerce template named "[PickBazar](https://redq.io/pickbazar)" developed by [RedQ Inc](https://redq.io/). It is a new template published in the [Envato marketplace](http://bit.ly/30gODbV).
 
 \[irp\]
 
@@ -212,7 +212,7 @@ now
 
 ## Conclusion
 
-Now we have come to the ending point of this article. We hope you have an idea about the PickBazar react GraphQL eCommerce [shopping template](https://redq.io/blog/best-react-html-online-shopping-templates/). Without any hesitation, you can use this shopping template for your eCommerce store. Thank you very much for reading this article. If you really like this article, then please leave a comment on the comment section or give us a good rating. That is all for today. Have a beautiful day.
+Now we have come to the ending point of this article. We hope you have an idea about the PickBazar react GraphQL eCommerce [shopping template](https://redq.io/blog/best-react-html-online-shopping-templates/). Without any hesitation, you can use this shopping template for your eCommerce store. Thank you very much for reading this article. If you really like this article, then please leave a comment on the comment section or give us a good rating. That is all for today. Have a beautiful day!
 
 \[ushop_button_shortcode_blog_wrap btn_align="text-center"\]
 \[ushop_button_shortcode_blog btn_class="purchase-btn" btn_text="Purchase Now" btn_url="http://bit.ly/36FTrd3"\]
@@ -220,4 +220,4 @@ Now we have come to the ending point of this article. We hope you have an idea a
 
 **Read More: [10 Best React Redux Admin Dashboard 2020](https://redq.io/blog/react-redux-admin-dashboard/)**
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]
+

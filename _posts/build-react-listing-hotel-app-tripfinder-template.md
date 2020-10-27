@@ -3,7 +3,7 @@ title: "Build a Hotel Listing React App with TripFinder Template"
 date: "2020-02-13"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]React Next can be implemented for making a Hotel template. Today we will talk about such a Template which is based on React Next and solely developed keeping mind Hotel. So let us start the article.
+React Next can be implemented for making a Hotel template. Today we will talk about such a Template which is based on React Next and solely developed keeping mind Hotel. So let us start the article.
 
 ## TripFinder - React Hotel Listing Template
 
@@ -477,4 +477,4 @@ return (
 
 That's the overall process of how you can use the ***AuthProvider*** and ***AuthContext*** in isomorphic-hotel projects.
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]
+
