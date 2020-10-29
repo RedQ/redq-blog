@@ -47,7 +47,7 @@ It can automatically gather the required data and statistic for a whole multisit
 
 It has some default features that help you to analyze traffic information, statistics overview and much more. Not only that, it is 100% responsive plugin that enables theuser to be in the top position of the competition.
 
-However, It is a free plugin. You can install it from the free plugin directory of WordPress.org. It has the pro version too. By unlocking pro version with the starting price of $30, you can get the pro features such as E-commerce tracking, AdSense and AdWords reports, and much more.
+However, It is a free plugin. You can install it from the free plugin directory of WordPress.org. It has the pro version too. By unlocking pro version with the starting price of \$30, you can get the pro features such as E-commerce tracking, AdSense and AdWords reports, and much more.
 
 ## Analtify
 

@@ -3,6 +3,9 @@ title: "WooCommerce VS Shopify: Who is the Winner?"
 date: "2020-09-01"
 category: "Article"
 excerpt: "E-Commerce business requires a platform to run. There are a lot of platforms to do E-Commerce business. So you could be easily confused about which platform you should choose. Among these platforms, people most of the time utilize WooCommerce or Shopify. Definitely, you will struggle to choose one from them because both of them are"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/woo_vs_shoppy-1.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/woo_vs_shoppy-1.png"
 ---
 
 [E-Commerce](<https://searchcio.techtarget.com/definition/e-commerce#:~:text=E%2Dcommerce%20(electronic%20commerce)%20is%20the%20buying%20and%20selling,or%20consumer%2Dto%2Dbusiness.>) business requires a platform to run. There are a lot of platforms to do E-Commerce business. So you could be easily confused about which platform you should choose. Among these platforms, people most of the time utilize WooCommerce or Shopify. Definitely, you will struggle to choose one from them because both of them are very good. As an E-Commerce business owner, selecting the ideal E-Commerce platform that fits your business needs is crucial for your success.
@@ -49,7 +52,7 @@ WordPress is the most popular and free medium to build any website quickly with 
 
 A medium will be required to showcase your online presence so people can reach you. WordPress is the best medium to do so. You will require a suitable name and domain for your business, plus you will need a hosting service. After these procedures, you have to look forward to a WordPress theme to do your business. [Cartsy](https://redq.io/cartsy) is a vastly enriched and feature-packed WordPress theme based on WooCommerce to start your business from scratch. It is suitable for any kind of business showcasing. It is a highly customizable WordPress theme for E-Commerce related business. This is a fully functional theme and working great with WooCommerce integration. This theme will let your E-commerce store to be functional fully online with just a few clicks, and minimal coding knowledge is required to deploy the theme. It has plenty of features packed with it.
 
-![WooCommerce is better](/assets/blog/images/Cartsy.png "WooCommerce is better")
+![WooCommerce is better](https://d2qklehrvrfpx7.cloudfront.net/blogimages/woo_vs_shoppy-cartsy.png "WooCommerce is better")
 
 **Theme Features:**
 
@@ -60,7 +63,7 @@ A medium will be required to showcase your online presence so people can reach y
 - Secured money, SEO friendly, and Elite Support
 - Well Documented and included with complete documentation
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="View Demo & Buy Theme" btn_url="https://redq.io/cartsy"\]\[/ushop\_button\_shortcode\_blog\_wrap\]
+[View & Buy Theme ](https://redq.io/cartsy)
 
 ## Conclusion
 
