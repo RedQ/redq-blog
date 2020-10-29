@@ -2,13 +2,13 @@ import PostPreview from '../components/post-preview';
 
 export default function MoreStories({ posts }) {
 	return (
-		<section>
-			<header className="mb-8">
-				<h2 className="text-6xl md:text-7xl font-bold tracking-tighter leading-tight">
+		<>
+			{/*<header className="mb-8">
+				<h2 className="text-4xl font-semibold tracking-tighter">
 					More Stories
 				</h2>
-			</header>
-			<div className="grid grid-cols-1 md:grid-cols-2 gap-16 mb-32">
+			</header>*/}
+			<div className="grid grid-cols-1 md:grid-cols-2 gap-16 mt-20 mb-32">
 				{posts.map((post) => (
 					<PostPreview
 						key={post.slug}
@@ -21,6 +21,6 @@ export default function MoreStories({ posts }) {
 					/>
 				))}
 			</div>
-		</section>
+		</>
 	);
 }

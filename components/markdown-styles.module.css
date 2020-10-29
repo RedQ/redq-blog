@@ -13,23 +13,26 @@
 .markdown h3,
 .markdown h4,
 .markdown h5,
-.markdown h6 {
-  @apply text-gray-900;
+.markdown h6,
+.markdown b,
+.markdown strong  {
+  @apply text-gray-900 font-semibold
 }
 
 .markdown h2 {
-  @apply text-2xl mt-12 mb-4 leading-snug;
+  @apply text-2xl mt-12 mb-4 leading-snug
 }
 
-.markdown h3 {
-  @apply text-xl mt-8 mb-4 leading-snug;
+.markdown h3,
+.markdown h4 {
+  @apply text-xl;
 }
 
 .markdown p,
 .markdown ul,
 .markdown ol,
 .markdown blockquote {
-  @apply my-6 font-light text-gray-700;
+  @apply my-6 font-light text-gray-700
 }
 
 .markdown ul,
@@ -52,28 +55,36 @@
   display: inline-block;
   border-radius: 50%;
   position: absolute;
-  left: -25px;
-  top: 2px;
+  left: -22px;
+  top: 3px;
   z-index: -1;
   background-color: #EDF2F7;
 }
 
+.markdown li::marker {
+  font-size: 14px;
+}
+
 .markdown li:nth-child(n+10)::before {
-  left: -31px;
-  width: 28px;
-  height: 28px;
-  top: -3px;
+  left: -27px;
+  width: 27px;
+  height: 27px;
+  top: 0;
 }
 
 .markdown h4 + ul,
 .markdown h4 + ol {
-  margin-top: -16px;
+  @apply -mt-4
 }
 
 .markdown p img {
-  width: 100%;
-  height: auto;
-  margin-bottom: 16px;
+  @apply w-full h-auto mb-8
+}
+
+.markdown img,
+.markdown iframe,
+.markdown video {
+  @apply shadow-xl;
 }
 
 .markdown p a,

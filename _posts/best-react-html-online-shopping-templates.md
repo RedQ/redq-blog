@@ -1,11 +1,11 @@
 ---
-title: "Best React & HTML Online Shopping Templates"
-date: "2019-08-22"
-category: "Theme"
-excerpt: "Now a days online store or marketplace is getting more popularity. This is the age of the internet. People have the tendency to get reach to anything online. As a result, shopping is getting more momentum. If you want to run an online store then you will require a website. The HTML template is the"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/React-HTML-Online-Shopping-Templates-.png"
+title: 'Best React & HTML Online Shopping Templates'
+date: '2019-08-22'
+category: 'Theme'
+excerpt: 'Now a days online store or marketplace is getting more popularity. This is the age of the internet. People have the tendency to get reach to anything online. As a result, shopping is getting more momentum. If you want to run an online store then you will require a website. The HTML template is the'
+coverImage: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/React-HTML-Online-Shopping-Templates-.png'
 ogImage:
-  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/React-HTML-Online-Shopping-Templates-.png"
+  url: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/React-HTML-Online-Shopping-Templates-.png'
 ---
 
 Now a days online store or marketplace is getting more popularity. This is the age of the internet. People have the tendency to get reach to anything online. As a result, shopping is getting more momentum. If you want to run an online store then you will require a website. The HTML template is the easiest solution for building a great website. Lots of web developers are developing HTML templates for this purpose. They are publishing these HTML templates in several marketplaces.
@@ -33,7 +33,7 @@ If you implement this template, then you can increase your sales for sure. For s
 - Track Your Order Progress
 - Documentation Included
 
-[View Template ](https://1.envato.market/E1DxW)
+<a href="https://1.envato.market/E1DxW" class="btn">View Template</a>
 
 ## Trizzy - Multi-Purpose eCommerce Shop HTML Template
 

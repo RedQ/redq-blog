@@ -1,12 +1,18 @@
-import Link from 'next/link'
+import Link from 'next/link';
+import Container from '../components/container';
 
 export default function Header() {
-  return (
-    <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8">
-      <Link href="/">
-        <a className="hover:underline">Blog</a>
-      </Link>
-      .
-    </h2>
-  )
+	return (
+		<header className="py-6 flex items-center border-b border-solid border-gray-300">
+			<Container>
+				<h2 className="text-3xl font-bold tracking-tight md:tracking-tighter leading-tight">
+					<Link href="/">
+						<a className="transition-all duration-200 hover:text-gray-700">
+							RedQ
+						</a>
+					</Link>
+				</h2>
+			</Container>
+		</header>
+	);
 }
