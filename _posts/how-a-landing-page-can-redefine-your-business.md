@@ -1,11 +1,11 @@
 ---
-title: "How a Landing Page can Redefine Your Business in 2020"
-date: "2020-06-29"
-category: "Article. Blog"
-excerpt: "Online visibility has become essential for businesses looking to scale up, especially within the past decade. In 2020 and moving forward, any entrepreneur or creator should be looking to bringing their product, service or app to the forefront of the cyber space. So, what’s the catch? The process of bringing a business online can seem"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/how-a-landing-page-can-redefine-your-business-home.jpg"
+title: 'How a Landing Page can Redefine Your Business in 2020'
+date: '2020-06-29'
+category: 'Article. Blog'
+excerpt: 'Online visibility has become essential for businesses looking to scale up, especially within the past decade. In 2020 and moving forward, any entrepreneur or creator should be looking to bringing their product, service or app to the forefront of the cyber space. So, what’s the catch? The process of bringing a business online can seem'
+coverImage: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/how-a-landing-page-can-redefine-your-business-home.jpg'
 ogImage:
-  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/how-a-landing-page-can-redefine-your-business-home.jpg"
+  url: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/how-a-landing-page-can-redefine-your-business-home.jpg'
 ---
 
 Online visibility has become essential for businesses looking to scale up, especially within the past decade. In 2020 and moving forward, any entrepreneur or creator should be looking to bringing their product, service or app to the forefront of the cyber space. So, what’s the catch? The process of bringing a business online can seem like a tedious and long development cycle, but it doesn’t have to be that way anymore. Landing pages have slowly become the “go to” option for businesses who want to generate leads and sales while growing their traffic and potentially popularizing their offerings to a lucrative audience.
@@ -52,23 +52,23 @@ The type of companies that can benefit today from a well-planned out landing pag
 
 Now we’ve seen the wide range of features that landing page templates such as SuperProps offers, but how do these landing pages benefit your business?
 
-- **They Condense Your Business Goals to a Single Page**
+**They Condense Your Business Goals to a Single Page**
 
 By doing so, you are bringing in key audiences who will be able to see all the values that your organization provides in condensed format. Your message to your customers without a buffer!
 
-- **They Help You Generate Leads, Data & Insights**
+**They Help You Generate Leads, Data & Insights**
 
 By allowing your customers to drop a line or leave their email address, your landing page could help you generate potential leads that could become lifelong customers.
 
-- **They Help You Increase Sales**
+**They Help You Increase Sales**
 
 Condensing all your offerings to a page is a great way to keep your customers’ attentions. If what your selling is a good product, more views will equal more sales for your business.
 
-- **They Complement Your Paid Ad Campaigns**
+**They Complement Your Paid Ad Campaigns**
 
 If you are running ad campaigns, a landing page is the perfect way to expand your ad towards customer interactions. In 2020, customers are always looking for customized and interactive experiences.
 
-- **They Build Brand Awareness**
+**They Build Brand Awareness**
 
 Whether you’re advertising on Google or social media platforms, redirecting your audience to a landing page that is representative of your brand and its identity can help you build your brand and embed its elements into the mind of your customers.
 

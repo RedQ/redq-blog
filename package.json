@@ -9,16 +9,29 @@
   "dependencies": {
     "classnames": "2.2.6",
     "date-fns": "2.10.0",
+    "fitvids": "^2.1.1",
+    "fontsource-fira-sans": "^3.0.5",
     "gray-matter": "4.0.2",
     "next": "latest",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
+    "react-icons": "^3.11.0",
+    "react-tooltip": "^4.2.10",
     "remark": "11.0.2",
-    "remark-html": "10.0.0"
+    "remark-html": "10.0.0",
+    "typeface-fira-sans": "^1.1.13"
   },
   "devDependencies": {
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-svgo": "^8.0.0",
+    "next-compose-plugins": "^2.2.0",
+    "next-optimized-images": "^2.6.2",
     "postcss-preset-env": "^6.7.0",
-    "tailwindcss": "^1.4.0"
+    "svg-sprite-loader": "^5.0.0",
+    "tailwindcss": "^1.4.0",
+    "webp-loader": "^0.6.0"
   },
   "license": "MIT"
 }
