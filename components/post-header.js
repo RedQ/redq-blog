@@ -1,36 +1,71 @@
+import Link from 'next/link';
 import cn from 'classnames';
-// import Avatar from '../components/avatar';
-import Container from '../components/container';
-import DateFormatter from '../components/date-formatter';
-import CoverImage from '../components/cover-image';
-import PostTitle from '../components/post-title';
+import Container from './container';
+import DateFormatter from './date-formatter';
+import CoverImage from './cover-image';
+import PostTitle from './post-title';
+import SocialShare from './social-share';
 
-export default function PostHeader({ title, coverImage, date, author }) {
+export default function PostHeader({ title, coverImage, date }) {
 	return (
 		<>
 			<div
-				className="w-screen bg-light-gray transform -translate-x-1/2 pt-40 pb-24 mb-8 md:mb-16"
+				className="w-screen bg-light-gray transform -translate-x-1/2 py-32 lg:py-40 mb-12 sm:mb-16 relative"
 				style={{ marginLeft: '50%' }}
 			>
-				<Container className="px-10">
+				<Container className="px-5 pb-1">
 					<div className="mb-6 text-blue-700 uppercase tracking-widest text-sm font-semibold">
 						<DateFormatter dateString={date} />
 					</div>
-					<PostTitle className="max-w-screen-md">{title}</PostTitle>
+					<PostTitle className="max-w-screen-md mb-8">{title}</PostTitle>
+					<SocialShare title={title} />
 				</Container>
+				{/* Start banner dot pattern */}
+				<div
+					className="absolute"
+					style={{
+						opacity: 0.4,
+						backgroundColor: '#f4f4f4',
+						backgroundImage: 'radial-gradient(#2b6cb0 1px, #f4f4f4 1px)',
+						backgroundSize: '22px 22px',
+						right: '20px',
+						width: '30%',
+						height: '64%',
+						bottom: '18px',
+						zIndex: -1,
+					}}
+				></div>
+				{/* End banner dot pattern */}
 			</div>
 			<div className="max-w-3xl mx-auto mb-10">
+				<div className="mb-6">
+					<Link href="/blog">
+						<a className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 transition-colors duration-300 hover:text-blue-600 hover:underline">
+							#React
+						</a>
+					</Link>
+					<Link href="/blog">
+						<a className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 transition-colors duration-300 hover:text-blue-600 hover:underline">
+							#Next
+						</a>
+					</Link>
+					<Link href="/blog">
+						<a className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 transition-colors duration-300 hover:text-blue-600 hover:underline">
+							#Gatsby
+						</a>
+					</Link>
+					<Link href="/blog">
+						<a className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 transition-colors duration-300 hover:text-blue-600 hover:underline">
+							#GraphQL
+						</a>
+					</Link>
+				</div>
 				<CoverImage
 					className={cn('w-full shadow-xl')}
 					title={title}
 					src={coverImage}
 				/>
 			</div>
-			{/*<div className="max-w-3xl mx-auto">
-				<div className="block md:hidden mb-6">
-					<Avatar name={author?.name} picture={author?.picture} />
-				</div>
-			</div>*/}
 		</>
 	);
 }

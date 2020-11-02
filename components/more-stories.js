@@ -8,7 +8,7 @@ export default function MoreStories({ posts }) {
 					More Stories
 				</h2>
 			</header>*/}
-			<div className="grid grid-cols-1 md:grid-cols-2 gap-16 mt-20 mb-32">
+			<div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-10 xl:gap-16 mt-8 gap-y-12 md:mt-16 xl:mt-20 mb-32">
 				{posts.map((post) => (
 					<PostPreview
 						key={post.slug}

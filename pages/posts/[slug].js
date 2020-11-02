@@ -15,6 +15,7 @@ export default function Post({ post, morePosts, preview }) {
 	if (!router.isFallback && !post?.slug) {
 		return <ErrorPage statusCode={404} />;
 	}
+
 	return (
 		<Layout preview={preview}>
 			<Container>
@@ -22,7 +23,7 @@ export default function Post({ post, morePosts, preview }) {
 					<PostTitle>Loading…</PostTitle>
 				) : (
 					<>
-						<article className="mb-32">
+						<article className="mb-16 sm:mb-20 md:mb-24">
 							<Head>
 								<title>
 									{post.title} | Next.js Blog Example with {CMS_NAME}
@@ -54,8 +55,8 @@ export async function getStaticProps({ params }) {
 		'ogImage',
 		'coverImage',
 	]);
-	const content = await markdownToHtml(post.content || '');
 
+	const content = await markdownToHtml(post.content || '');
 	return {
 		props: {
 			post: {
@@ -68,7 +69,6 @@ export async function getStaticProps({ params }) {
 
 export async function getStaticPaths() {
 	const posts = getAllPosts(['slug']);
-
 	return {
 		paths: posts.map((post) => {
 			return {
