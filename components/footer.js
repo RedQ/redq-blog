@@ -13,16 +13,16 @@ import Container from './container';
 export default function Footer() {
 	const date = new Date();
 	return (
-		<footer className="border-t border-solid border-gray-300 py-4">
-			<Container className="flex items-center justify-between">
-				<div className="text-gray-700">
+		<footer className="border-t border-solid border-gray-300 py-5 md:py-4">
+			<Container className="flex items-center justify-between flex-col md:flex-row">
+				<div className="text-gray-700 mb-1 md:mb-0">
 					Copyright &copy; {date.getFullYear()}{' '}
 					<Link href="/">
 						<a className="text-gray-900 font-semibold">RedQ Inc</a>
 					</Link>
 					. All rights reserved
 				</div>
-				<div className="flex items-center  -mr-4">
+				<div className="flex items-center -mb-4 md:mb-0  md:-mr-4">
 					<a
 						href="https://www.facebook.com/redqinc/"
 						className="p-4 transition-all duration-200 hover:text-gray-600"
