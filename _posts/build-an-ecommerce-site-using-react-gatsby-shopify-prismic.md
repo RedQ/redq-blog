@@ -1,15 +1,20 @@
 ---
 title: "Build an eCommerce Site Using React Gatsby Shopify & Prismic"
 date: "2020-05-11"
+category: "Theme"
+excerpt: "Picksy is a full-featured modern headless eCommerce app powered by Shopify, Prismic & Gatsby. If you are here, I guess by now you may have heard the term “Headless” or “Headless Shopify” when it comes to the next wave of bleeding-edge eCommerce builds. Most of the popular eCommerce platforms pushing it as “the next big"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-home.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-home.png"
 ---
 
 Picksy is a full-featured modern headless eCommerce app powered by Shopify, Prismic & Gatsby. If you are here, I guess by now you may have heard the term “Headless” or “Headless Shopify” when it comes to the next wave of bleeding-edge eCommerce builds. Most of the popular eCommerce platforms pushing it as “the next big thing”.
 
-[![cartsy-banner](/assets/blog/images/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 If you’re not fully up to speed on the definition of headless websites, in short, it separates your frontend (i.e. the client-side or the customer end) from the backend (i.e. the API the data end where we kept our products, orders, etc.).
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="demo-btn" btn_text="View Picksy Demo" btn_url="https://bit.ly/ReactGatsbyEcommerce"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://bit.ly/ReactGatsbyEcommerce" class="btn">View Picksy Demo</a>
 
 # Picksy - React Gatsby Grocery Ecommerce Template
 
@@ -59,17 +64,15 @@ That is it, your Gatsby powered Headless Shopify E-Commerce store is ready.
 
 The setup part is discussed in details in the Installation section
 
-
-
 <iframe src="https://www.youtube.com/embed/p_UTJlD9G8k" width="900" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## **Installation**
 
 Installation section is divided into few parts. In this section, we will discuss how you can setup your Shopify account, Prismic CMS and our Gatsby project.
 
-![Shopify](/assets/blog/images/Shopify.png)
+![Shopify](https://d2qklehrvrfpx7.cloudfront.net/blogimages/Shopify.png)
 
-![Gatsby-Prismic](/assets/blog/images/Gatsby-Prismic.png)
+![Gatsby-Prismic](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-1.png)
 
 ### Setup Shopify
 
@@ -145,7 +148,7 @@ After successful development, you should see the URL where your local server is 
 
 **Local graphql server URL should be:** [http://localhost:8000/\_\_\_graphql](http://localhost:8000/___graphql)
 
-![Local-Server](/assets/blog/images/Local-Server.png)
+![Local-Server](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-2.png)
 
 ### Production
 
@@ -155,15 +158,13 @@ Run below commands for Production in the `picksy` root directory
 2. yarn build
 3. yarn serve
 
-![Yarn-Build](/assets/blog/images/Yarn-Build.png)
+![Yarn-Build](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-3.png)
 
 NB: To clean .cache, public directory run the below command
 
 1. yarn clean
 
 **After Yarn Serve command you should be able to see your site in production mode in this URL:** [http://localhost:9000/](http://localhost:8000/)
-
-
 
 # Deployment
 
@@ -186,8 +187,6 @@ Run below commands for Production in the Picksy room directory where we have the
 3. now (for first time after that run **now --prod**)
 
 that is it.
-
-
 
 # Automatic Build
 
@@ -215,27 +214,25 @@ Put your code in a github repository. Not going to go into details for this sect
 
 Go to your **Now account** -> **Project Settings -> Git Integration** and follow the below image to add your github repo into Now.
 
-![Github-Integration](/assets/blog/images/Github-Integration.png)
+![Github-Integration](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-4.png)
 
 **3.Generate Deploy Hooks fron your Now app**
 
 Go to your **Now account** -> **Project Settings** \-> **Git Integration** -> **Deploy Hooks** Generate Deploy Hooks from the Deploy Hook section
 
-![Deploy-Hooks](/assets/blog/images/Deploy-Hooks.png)
+![Deploy-Hooks](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-5.png)
 
 **4\. Add Deploy hooks to your Shopify webhook section**
 
 Copy Deploy hook from Now and Move to Shopify Settings -> Notifications ->Webhooks -> Create webhook. For the event, choose **Product creation**, leave the format as JSON and paste the URL from the Deploy hook and hit Save webhook. Do this again two more times for **Product deletion** and **Product update** and any other event you feel may be necessary.
 
-![Shopify-Webhook](/assets/blog/images/Shopify-Webhook.png)
+![Shopify-Webhook](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-6.png)
 
 **5\. Add Deploy hooks to your prismic weebhook section**
 
 Same way create deploy hook in Now and Add them in your Prismic Webhook section from **Settings -> Webhooks -> Create a webhook**
 
-![Prismic-Webhook](/assets/blog/images/Prismic-Webhook.png)
-
-
+![Prismic-Webhook](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-7.png)
 
 # gatsby-config.js
 
@@ -251,9 +248,7 @@ we have used several source plugin such as,
 
 our gatsby-config.js file looks similar to the below image,
 
-![Gatsby-Config](/assets/blog/images/Gatsby-Config.png)
-
-
+![Gatsby-Config](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-8.png)
 
 # gatsby-node.js
 
@@ -261,19 +256,17 @@ In the gatsby-node.js file, we have basically fetched all our Shopify collection
 
 Here's how our Shopify collection look like in our Shopify store,
 
-![Shopify-Collection](/assets/blog/images/Shopify-Collection.png)
+![Shopify-Collection](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-9.png)
 
 When we source our Shopify collection in graphql, image taken from [http://localhost:8000/](http://localhost:8000/__gra)[\_\_\_graphql](http://localhost:8000/___graphql)
 
-![Collection-graphql](/assets/blog/images/Collection-graphql.png)
+![Collection-graphql](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-10.png)
 
 and finally, we generated the dynamic category pages in the gatsby-node.js file.
 
-![gatsby-node](/assets/blog/images/gatsby-node.png)
+![gatsby-node](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-11.png)
 
 NB: don't worry about those underlines those are catching spelling mistakes in my editor.
-
-
 
 # Home Page
 
@@ -299,11 +292,11 @@ Except for header and footer, all of this component is being called in the **pag
 
 ## **1\. Notice Bar**
 
-![notice-1](/assets/blog/images/notice-1.png)
+![notice-1](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-12.png)
 
 We have added a small notice section. The content comes from the prismic. You can show and hide this notice from your prismic content.
 
-![prismic-notice](/assets/blog/images/prismic-notice.png)
+![prismic-notice](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-13.png)
 
 You can find the above settings in the common content in your prismic data. To check this noticebar implementation head over to the below file,
 
@@ -311,17 +304,17 @@ components/header/noticebar/noticebar.tsx
 
 First we have tested the prismic data in our graphql playground
 
-![notice-playground](/assets/blog/images/notice-playground.png)
+![notice-playground](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-14.png)
 
 then we have implemented that query in our Noticebar component to retrieve the notice section data from prismic,
 
-![notice-query](/assets/blog/images/notice-query.png)
+![notice-query](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-15.png)
 
 ## 2\. Header with Logo, Search, Account Link
 
 Header section contain Logo, Search & Account Link. This are mostly static section comes from the code. As we thought Logo, Search, Link won't change regular basis. Buy you are welcome to add these content from prismic if you want.
 
-![header](/assets/blog/images/header.png)
+![header](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-16.png)
 
 you can find the implementation of this section, change the logo in the below file,
 
@@ -341,19 +334,19 @@ Let's see how we have implemented it,
 
 1\. We have created a **repetitive category** type in prismic
 
-![repeat-category](/assets/blog/images/repeat-category.png)
+![repeat-category](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-17.png)
 
 2.Copy the category.json file contents from the **prismic-custom-type** folder (check in the downloaded folder)
 
-![category-custom-type](/assets/blog/images/category-custom-type.png)
+![category-custom-type](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-18.png)
 
 3\. Paste it in the JSON editor as shown in the below image on the right side. it should generate the left side field before or after you save it.
 
-![json-editor](/assets/blog/images/json-editor.png)
+![json-editor](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-19.png)
 
 4\. Now check the below image how we have entered our category content from Shopify to prismic
 
-![category-content](/assets/blog/images/category-content.png)
+![category-content](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-20.png)
 
 you can see there are three fields **Title, Slug, Parent Category**
 
@@ -363,11 +356,11 @@ ii) Your Shopify collection unique slug
 
 **iii) Parent Category?** well, we don't have parent category in Shopify we just created it in prismic. so that we can show our Shopify collection under specific menu just like the below image,
 
-![collection-under](/assets/blog/images/collection-under.png)
+![collection-under](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-21.png)
 
 In the Above image Vegetables, Organic, Snacks & Beverages, Fish & Meat, Dairy, Bakery & Pastry are parent categories. we didn't create this category or collection under Shopify because Shopify by default don't support nested collection. So we just created them in Prismic. Parent Category don't have any slug because they don't have any category pages what is important here you provide the Title and enable the parent category for the child category like below image where Dairy is a parent category of Eggs,
 
-![egg-1](/assets/blog/images/egg-1.png)
+![egg-1](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-22.png)
 
 **N.B. Please note that if you don't choose parent category it won't show up in the dropdown menu**
 
@@ -401,43 +394,41 @@ we will show here how we have created the content in prismic,
 
 We just uploaded the banner image in prismic Home Page
 
-![banner](/assets/blog/images/banner.png)
+![banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-23.png)
 
 you will also find banner title, subtitle and button text there
 
-![banner-title](/assets/blog/images/banner-title.png)
+![banner-title](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-24.png)
 
 ### 2\. Category Block
 
 Category block comes from the prismic, it's a prismic group field with image, title, and slug.
 
-![category-block](/assets/blog/images/category-block.png)
+![category-block](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-25.png)
 
 **Prismic Structure**
 
-![cat-prismic-structure](/assets/blog/images/cat-prismic-structure.png)
+![cat-prismic-structure](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-26.png)
 
 **Prismic Content**
 
-![cat-prismic-content](/assets/blog/images/cat-prismic-content.png)
+![cat-prismic-content](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-27.png)
 
 ### 3\. How It Works
 
 Here's how we have created the structure of how it works in prismic,
 
-![htw-structure](/assets/blog/images/htw-structure.png)
+![htw-structure](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-28.png)
 
 We took two rich text fields for Title and Subtitle and a group field with image, title, and description which enable the option to add similar content.
 
-![htw-content](/assets/blog/images/htw-content.png)
+![htw-content](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-29.png)
 
 **and how it looks in our app,**
 
-![htw-demo](/assets/blog/images/htw-demo.png)
+![htw-demo](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-30.png)
 
 In the same way, we have created the Shipping And Footer section
-
-
 
 # Search
 
@@ -445,51 +436,45 @@ Search section is quite straight forward, we queried all of our Shopify products
 
 fuzzy search configuration,
 
-![fuzzy-search](/assets/blog/images/fuzzy-search.png)
+![fuzzy-search](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-31.png)
 
 You can check how search works with tags in the below image,
 
-![search-veg](/assets/blog/images/search-veg.png)
+![search-veg](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-32.png)
 
 you can check the implementation in the below file,
 
 components/search/index.tsx
 
-
-
 # Quick Cart
 
 Quick cart is one of the main feature of our app. Redirecting use to the single product page or opening a modal for adding cart is a pretty much traditional way. we wanted to implement a quick carting system so that customer can easily add the product to their cart and easily to the checkout without redirecting to the other page.
 
-![quick-cart](/assets/blog/images/quick-cart.png)
+![quick-cart](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-33.png)
 
 Cart view,
 
-![cart-view](/assets/blog/images/cart-view.png)
+![cart-view](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-34.png)
 
 For implementing cart we have used react context provider, you will find the implementation in the below file,
 
 provider/cart\-provider.tsx
 provider/local\-cart\-provider.tsx
 
-
-
 # Checkout
 
 You will be **redirected to Shopify checkout page** when you will click the **Proceed to Checkout** button in a new tab and your current product cart will be clear from the storage.
 
-![cart-view (1)](/assets/blog/images/cart-view-1.png)
+![cart-view (1)](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-35.png)
 
 **Shopify Checkout page**,
 
-![shopify-checkout](/assets/blog/images/shopify-checkout.png)
-
-
+![shopify-checkout](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-36.png)
 
 # Order
 
 Once you will have some order you can see them in your Shopify order section, you can also use the Shopify shop app for order notification on your mobile. you will get order notification in the email as well.
 
-![order](/assets/blog/images/order.png)
+![order](https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-38.png)
 
 This is your Shopify store. you are the owner of your store. you can do any kind of changes here as you want. You can add any payment gateway as well.

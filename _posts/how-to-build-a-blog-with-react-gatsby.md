@@ -1,17 +1,22 @@
 ---
 title: "How to Build a Blog with React Gatsby Using StoryHub"
 date: "2020-02-27"
+category: "Article, Blog"
+excerpt: "Conclusion Now we came to the ending point of this article. We hope you have a great idea about this template. This is a highly rated template in the Envato marketplace. It has sold for more than 300 times. Without any hesitation, you can buy this template according to your requirements. That is all for"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/storyhub-1.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/storyhub-1.png"
 ---
 
-\[vc_row\]\[vc_column\]\[vc_column_text\]Nowadays, React Gatsby is implemented to make blog related template. And it is becoming a trend. So today, we will discuss a blog template entirely based on React Gatsby. We will try to make you understand the complete implementation of this blog template. So let us start the article.
+Nowadays, React Gatsby is implemented to make blog related template. And it is becoming a trend. So today, we will discuss a blog template entirely based on React Gatsby. We will try to make you understand the complete implementation of this blog template. So let us start the article.
 
 ## StoryHub - React Gatsby Blog Template
 
-![StoryHub](/assets/blog/images/StoryHub.jpg "StoryHub")
+![StoryHub](https://d2qklehrvrfpx7.cloudfront.net/blogimages/storyhub-1.png "StoryHub")
 
 StoryHub is a blog template powered by React & GatsbyJS. It’s an entirely functional static blog template. It’s swift, optimized for quick render. SEO friendly, complete markdown format supported. You will able to host it anywhere like GitHub, s3, now.sh, etc. It’s straightforward to use, and it provides better performance than WordPress. RedQ Inc. is the developer of this template who created reusable react components and modern monorepo architecture so that you can build multiple apps with standard components.
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="demo-btn" btn_text="View Demo" btn_url="http://bit.ly/2qjgs5h"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://bit.ly/2qjgs5h" class="btn">View Template</a>
 
 ### Developed with React, Typescript a Gatsby JS.
 
@@ -46,13 +51,15 @@ Boot your server-side rendering landing page in minutes.
 
 This template has 5 different Blog demos. They are
 
-1. [**Agency Blog**](https://storyhub-agency-tarex.redq.now.sh/)![Agency](/assets/blog/images/Agency.jpg)
-2. [**Personal Blog**](https://storyhub-personal-tarex.redq.now.sh/)![Personal](/assets/blog/images/Personal.jpg)
-3. [**Personal Blog minimal**](https://storyhub-minimal-tarex.redq.now.sh/)![Personal minimal](/assets/blog/images/Personal-minimal.jpg)
-4. [**Image Blog**](https://storyhub-image-tarex.redq.now.sh/)![Image](/assets/blog/images/Image.png)
-5. [**Minimal Photography Blog**](https://storyhub-minimal-photography-tarex.redq.now.sh/)![Minimal Photography](/assets/blog/images/Minimal-Photography.jpg)
+1. [**Agency Blog**](https://storyhub-agency-tarex.redq.now.sh/)![Agency](https://d2qklehrvrfpx7.cloudfront.net/blogimages/storyhub-2.png)
 
+2. [**Personal Blog**](https://storyhub-personal-tarex.redq.now.sh/)![Personal](https://d2qklehrvrfpx7.cloudfront.net/blogimages/storyhub-3.png)
 
+3. [**Personal Blog minimal**](https://storyhub-minimal-tarex.redq.now.sh/)![Personal minimal](https://d2qklehrvrfpx7.cloudfront.net/blogimages/storyhub-4.png)
+
+4. [**Image Blog**](https://storyhub-image-tarex.redq.now.sh/)![Image](https://d2qklehrvrfpx7.cloudfront.net/blogimages/storyhub-5.png)
+
+5. [**Minimal Photography Blog**](https://storyhub-minimal-photography-tarex.redq.now.sh/)![Minimal Photography](https://d2qklehrvrfpx7.cloudfront.net/blogimages/storyhub-6.png)
 
 After downloading the file from ThemeForest, You will find the StoryHub zip file. Then unzip StoryHub.zip file and run the following commands.
 
@@ -209,7 +216,7 @@ To add Disqus token, please go to packages -> (agency-blog/personal-blog/ person
 
 ### **Mailchimp Integration**
 
-To add MailChimp integration, please go to packages -> (agency-blog/personal-blog/ personal-blog-minimal) -> gatsby-config.js-> go to 'resolve:gatsby-plugin-MailChimp' and put your endpoint there. For further info, please check this link https://www.gatsbyjs.org/packages/gatsby-plugin-mailchimp\[/vc\_column\_text\]\[/vc\_column\]\[/vc\_row\]
+To add MailChimp integration, please go to packages -> (agency-blog/personal-blog/ personal-blog-minimal) -> gatsby-config.js-> go to 'resolve:gatsby-plugin-MailChimp' and put your endpoint there. For further info, please check this link https://www.gatsbyjs.org/packages/gatsby-plugin-mailchimp\
 
 ## Conclusion
 

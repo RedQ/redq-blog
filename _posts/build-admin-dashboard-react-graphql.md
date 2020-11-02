@@ -1,15 +1,20 @@
 ---
 title: "Build an Admin Dashboard Using React & GraphQL"
 date: "2020-02-19"
+category: "Theme"
+excerpt: "Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, GraphQL & Uber’s Base UI. It is very easy to use; GraphQL and TypeGraphQL are implemented. Inst is a Next.js GraphQL powered admin dashboard. Used progressive web application pattern, highly optimized for your next react application. You can use it for both Dashboard and"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png"
 ---
 
 Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, GraphQL & Uber’s Base UI. It is very easy to use; GraphQL and TypeGraphQL are implemented. Inst is a Next.js GraphQL powered admin dashboard. Used progressive web application pattern, highly optimized for your next react application. You can use it for both Dashboard and Public pages for your web applications. Available in both Light and Dark mode. To activate the Dark mode, Click on the profile image at the right corner, and you will find the ‘Dark Mode’ in Drop-down. Note: Please note that, This is not an HTML template. It is a React Dashboard template built using Next.js Framework. P.S. Design inspiration was taken from Now.sh
 
 ## Inst - React GraphQL Admin Dashboard Template
 
-![](/assets/blog/images/Inst.jpg)
+![Inst](https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst-1.png)
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="View Demo" btn_url="http://bit.ly/2HAY2m7"\]\[/ushop\_button\_shortcode\_blog\_wrap\]
+<a href="http://bit.ly/2HAY2m7" class="btn">View Demo</a>
 
 ### Built with
 
@@ -20,8 +25,6 @@ Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, Graph
 - SSR support for building highly scalable apps.
 - Uber's BaseUi
 - React Big Calendar
-
-
 
 ### Stack Used by Developer
 
@@ -35,8 +38,6 @@ Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, Graph
 - Baseweb design for UI components. https://v9-50-0.baseweb.design/
 - Now Deployment
 
-
-
 ### Template Features
 
 - Create Next App, React Hooks, React Context
@@ -49,7 +50,7 @@ Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, Graph
 - Shop Page, Checkout Page, Invoice
 - Pricing Plan, Billing, Authorized Applications
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Buy Theme" btn_url="http://bit.ly/2vC7Edz"\]\[/ushop\_button\_shortcode\_blog\_wrap\]
+<a href="http://bit.ly/2vC7Edz" class="btn">Buy Template</a>
 
 ## Getting Started
 
@@ -57,12 +58,10 @@ After downloading the file from Themeforest, You will find inst.zip file. Unzip 
 
 yarn
 
-
-
 //For starting dev server run
 yarn dev
 
-\[/vc_column_text\]\[vc_column_text\] **NOTE:** Before start the project add your config credentials in next.config.js file
+**NOTE:** Before start the project add your config credentials in next.config.js file
 
 env: {
 APOLLO_CLIENT_URL: 'http://localhost:4000/graphql',
@@ -80,8 +79,6 @@ FIREBASE_MESSAGING_SENDER_ID: 'your_firebase_messaging_sender_id',
 FIREBASE_APP_ID: 'your_firebase_app_id',
 FIREBASE_MEASUREMENT_ID: 'your_firebase_measurement_id',
 },
-
-
 
 ### Folder Structure
 
@@ -105,8 +102,6 @@ FIREBASE_MEASUREMENT_ID: 'your_firebase_measurement_id',
 /pages
 /types
 /utils
-
-
 
 ### Routes
 
@@ -153,8 +148,6 @@ FIREBASE_MEASUREMENT_ID: 'your_firebase_measurement_id',
 /terms
 /privacy
 
-
-
 ### Explaining Containers
 
 In the _containers_ directory you will get folder for _Calendar_, _Crud_, _Formik_, _HookForm\[React hook form\]_, _Posts_, _Shop_, _Todo_ and _Widgets_.
@@ -174,8 +167,6 @@ Developer has given now.sh deployment by default. For hosting the project in now
 
 $ cd api/
 $ now
-
-\[/vc_column_text\]\[vc_column_text\]
 
 3. After deploying api you will get a url from now. You have to put that url in the
 
