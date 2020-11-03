@@ -14,7 +14,7 @@ export default function PostPreview({
 		<article>
 			<figure className="mb-8 relative">
 				<CoverImage
-					className="rounded"
+					className="rounded w-full"
 					slug={slug}
 					title={title}
 					src={coverImage}

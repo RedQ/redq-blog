@@ -1,14 +1,39 @@
 import PostPreview from '../components/post-preview';
+import Categories from './categories';
+
+// dummy category
+const categories = [
+	{
+		path: '/blog',
+		title: '#React',
+	},
+	{
+		path: '/blog',
+		title: '#Next',
+	},
+	{
+		path: '/blog',
+		title: '#Gatsby',
+	},
+	{
+		path: '/blog',
+		title: '#GraphQL',
+	},
+	{
+		path: '/blog',
+		title: '#React Native',
+	},
+	{
+		path: '/blog',
+		title: '#WordPress',
+	},
+];
 
 export default function MoreStories({ posts }) {
 	return (
 		<>
-			{/*<header className="mb-8">
-				<h2 className="text-4xl font-semibold tracking-tighter">
-					More Stories
-				</h2>
-			</header>*/}
-			<div className="grid grid-cols-1 md:grid-cols-2 gap-16 mt-20 mb-32">
+			<Categories className="mb-8 flex flex-wrap" items={categories} />
+			<div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-10 xl:gap-16 mt-8 gap-y-12 mb-32">
 				{posts.map((post) => (
 					<PostPreview
 						key={post.slug}
