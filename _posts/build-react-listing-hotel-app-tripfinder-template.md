@@ -1,13 +1,18 @@
 ---
 title: "Build a Hotel Listing React App with TripFinder Template"
 date: "2020-02-13"
+category: "Theme, Article"
+excerpt: "React Next can be implemented for making a Hotel template. Today we will talk about such a Template which is based on React Next and solely developed keeping mind Hotel. So let us start the article. TripFinder - React Hotel Listing Template TripFinder is the fastest template built with React, NextJS, Context API, & Styled-Components."
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/TripFinder.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/TripFinder.png"
 ---
 
 React Next can be implemented for making a Hotel template. Today we will talk about such a Template which is based on React Next and solely developed keeping mind Hotel. So let us start the article.
 
 ## TripFinder - React Hotel Listing Template
 
-![TripFinder](/assets/blog/images/TripFinder.jpg)
+![TripFinder](https://d2qklehrvrfpx7.cloudfront.net/blogimages/TripFinder-2.jpg)
 
 TripFinder is the fastest template built with React, NextJS, Context API, & Styled-Components. It is very easy to use, comes with beautiful ready-made components. Build your amazing react app with this template. Both Create React App, and Next Js versions are available.
 
@@ -22,7 +27,7 @@ TripFinder is the fastest template built with React, NextJS, Context API, & Styl
 - Glide, Ant design, Google Map, Map Marker
 - User Profile, Post Submission, Mobile Friendly design
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="demo-btn" btn_text="View Demo" btn_url="http://bit.ly/2H8xSGO"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="http://bit.ly/2H8xSGO" class="btn">View Template</a>
 
 ## Technology Used in TripFinder
 
@@ -462,7 +467,7 @@ signIn(formProps); }; return (
 <Formik
 initialValues={initialValues} onSubmit={handleSubmit} render={RenderSignInForm} validationSchema={getLoginValidationSchema} /> ); };
 
-You can see that we are using ***useContext** \_hook here. Using that hook we manipulate the values/functions from the* **AuthContext.**
+You can see that we are using **\*useContext** \_hook here. Using that hook we manipulate the values/functions from the\* **AuthContext.**
 
 ## _**How to use AuthProvider in where some components need to use this?**_
 
@@ -475,6 +480,4 @@ export default function DisplayPosts(props) {
 return (
 <DisplayPostsPage> <AuthProvider> . . . Your components will be here... . . </AuthProvider> </DisplayPostsPage> ); }
 
-That's the overall process of how you can use the ***AuthProvider*** and ***AuthContext*** in isomorphic-hotel projects.
-
-
+That's the overall process of how you can use the **_AuthProvider_** and **_AuthContext_** in isomorphic-hotel projects.
