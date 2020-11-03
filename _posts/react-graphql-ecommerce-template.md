@@ -1,11 +1,15 @@
 ---
 title: "Building A React & GraphQL Based ECommerce Website Using Pickbazar"
 date: "2020-01-13"
+category: "Theme"
+excerpt: "There are lots of shopping templates available in several marketplaces. But choosing the right one is very difficult. Today we will talk about a shopping or eCommerce template named "PickBazar" developed by RedQ Inc. It is a new template published in the Envato marketplace. What is React and why should we use it? React is"
+
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/pickbazar.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/pickbazar.png"
 ---
 
 There are lots of shopping templates available in several marketplaces. But choosing the right one is very difficult. Today we will talk about a shopping or eCommerce template named "[PickBazar](https://redq.io/pickbazar)" developed by [RedQ Inc](https://redq.io/). It is a new template published in the [Envato marketplace](http://bit.ly/30gODbV).
-
-\[irp\]
 
 ## What is React and why should we use it?
 
@@ -46,15 +50,13 @@ PickBazar Dashboard is a great feature that is offered by the template. It is a 
 
 ## Make Your Own eCommerce Website with React PickBazar Template
 
-![pickbazar shop](/assets/blog/images/pickbazar-shop-.png)
+![pickbazar shop](https://d2qklehrvrfpx7.cloudfront.net/blogimages/pickbazar-1.png)
 
 Fastest e-commerce template built with React, NextJS, TypeScript, GraphQL, Type-GraphQL & Styled-Components. It is effortless to use, and developers used GraphQL and type-GraphQL, you can build your schema very easily. GraphQL Playground makes its own documentation, and your front-end team will love using it. Creating an online store would be easier than ever.
 
 If you implement this template, then you can increase your sales for sure. For smooth operation and handling a large volume of sell data and tracking orders "PickBazar" would be the most significant choice.
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]
-\[ushop_button_shortcode_blog btn_class="demo-btn" btn_text="View Demo" btn_url="http://bit.ly/36FTrd3"\]
-\[/ushop_button_shortcode_blog_wrap\]
+<a href="http://bit.ly/36FTrd3" class="btn">View Demo</a>
 
 ## Why Use React PickBazar Shopping Template?
 
@@ -62,7 +64,7 @@ If you implement this template, then you can increase your sales for sure. For s
 
 **Shop Front**
 
-![shop font](/assets/blog/images/shop-font.png "shop font")
+![shop front](/https://d2qklehrvrfpx7.cloudfront.net/blogimages/pickbazar-2.png "shop front")
 
 - Next JS, React Apollo and GraphQL are used.
 - All components are written in TypeScript.
@@ -71,7 +73,7 @@ If you implement this template, then you can increase your sales for sure. For s
 
 **Shop Dashboard**
 
-![shop dashboad](/assets/blog/images/shop-dashboad.png)
+![shop dashboad](https://d2qklehrvrfpx7.cloudfront.net/blogimages/pickbazar-3.png)
 
 - Create React App (CRA), React Apollo and GraphQL are used.
 - Components are written in TypeScript and Base Web React UI Framework.
@@ -214,10 +216,6 @@ now
 
 Now we have come to the ending point of this article. We hope you have an idea about the PickBazar react GraphQL eCommerce [shopping template](https://redq.io/blog/best-react-html-online-shopping-templates/). Without any hesitation, you can use this shopping template for your eCommerce store. Thank you very much for reading this article. If you really like this article, then please leave a comment on the comment section or give us a good rating. That is all for today. Have a beautiful day!
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]
-\[ushop_button_shortcode_blog btn_class="purchase-btn" btn_text="Purchase Now" btn_url="http://bit.ly/36FTrd3"\]
-\[/ushop_button_shortcode_blog_wrap\]
+<a href="http://bit.ly/36FTrd3" class="btn">Buy Template</a>
 
 **Read More: [10 Best React Redux Admin Dashboard 2020](https://redq.io/blog/react-redux-admin-dashboard/)**
-
-
