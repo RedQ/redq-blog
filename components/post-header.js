@@ -1,10 +1,30 @@
-import Link from 'next/link';
 import cn from 'classnames';
 import Container from './container';
 import DateFormatter from './date-formatter';
 import CoverImage from './cover-image';
 import PostTitle from './post-title';
 import SocialShare from './social-share';
+import Categories from './categories';
+
+// dummy category
+const categories = [
+	{
+		path: '/blog',
+		title: '#React',
+	},
+	{
+		path: '/blog',
+		title: '#Next',
+	},
+	{
+		path: '/blog',
+		title: '#Gatsby',
+	},
+	{
+		path: '/blog',
+		title: '#GraphQL',
+	},
+];
 
 export default function PostHeader({ title, coverImage, date }) {
 	return (
@@ -28,9 +48,9 @@ export default function PostHeader({ title, coverImage, date }) {
 						backgroundColor: '#f4f4f4',
 						backgroundImage: 'radial-gradient(#2b6cb0 1px, #f4f4f4 1px)',
 						backgroundSize: '22px 22px',
-						right: '20px',
-						width: '30%',
-						height: '64%',
+						right: '8px',
+						width: '25%',
+						height: '56%',
 						bottom: '18px',
 						zIndex: -1,
 					}}
@@ -38,28 +58,7 @@ export default function PostHeader({ title, coverImage, date }) {
 				{/* End banner dot pattern */}
 			</div>
 			<div className="max-w-3xl mx-auto mb-10">
-				<div className="mb-6">
-					<Link href="/blog">
-						<a className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 transition-colors duration-300 hover:text-blue-600 hover:underline">
-							#React
-						</a>
-					</Link>
-					<Link href="/blog">
-						<a className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 transition-colors duration-300 hover:text-blue-600 hover:underline">
-							#Next
-						</a>
-					</Link>
-					<Link href="/blog">
-						<a className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 transition-colors duration-300 hover:text-blue-600 hover:underline">
-							#Gatsby
-						</a>
-					</Link>
-					<Link href="/blog">
-						<a className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 transition-colors duration-300 hover:text-blue-600 hover:underline">
-							#GraphQL
-						</a>
-					</Link>
-				</div>
+				<Categories className="mb-6" items={categories} />
 				<CoverImage
 					className={cn('w-full shadow-xl')}
 					title={title}

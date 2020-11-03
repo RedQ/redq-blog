@@ -14,7 +14,7 @@ export default function PostBody({ content }) {
 				dangerouslySetInnerHTML={{ __html: content }}
 			/>
 			<div className="mt-12">
-				<h2 className="text-2xl mb-4 leading-snug text-gray-900 font-semibold">
+				<h2 className="text-2xl mb-5 leading-snug text-gray-900 font-semibold">
 					Share on:
 				</h2>
 				<SocialShare />

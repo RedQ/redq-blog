@@ -70,9 +70,32 @@ body {
   }
 }
 
+.site-categories a {
+  @apply relative;
+}
+
+.site-categories a::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background: #2b6cb0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  transform: scaleX(0);
+  transform-origin: right center 0px;
+  transition: transform 0.7s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.site-categories a:hover::after {
+  transform: scaleX(1);
+  transform-origin: left center 0px;
+  transition: transform 0.3s cubic-bezier(0.43, 0.49, 0.51, 0.68);
+}
+
 .post-container a.btn {
-  @apply inline-block bg-gray-900 text-white px-5 py-2 rounded-full no-underline;
-  transition: all 0.3s ease;
+  @apply inline-block bg-gray-900 text-white px-5 py-2 rounded-full no-underline transition-all duration-300;
 }
 
 .post-container a.btn:hover,
