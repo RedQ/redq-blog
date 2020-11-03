@@ -2,10 +2,10 @@ import Container from '../components/container';
 
 export default function Intro() {
 	return (
-		<section className="mb-16 md:mb-12 bg-light-gray py-40 relative">
+		<section className="mb-16 md:mb-12 bg-light-gray py-24 md:py-32 lg:py-40 relative">
 			{/* Start banner dot pattern */}
 			<div
-				className="absolute"
+				className="absolute hidden sm:block"
 				style={{
 					opacity: 0.4,
 					backgroundColor: '#f4f4f4',

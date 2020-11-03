@@ -5,7 +5,7 @@ const Categories = ({ className, items }) => {
 		<div className={`site-categories ${className}`}>
 			{items.map((item, index) => (
 				<Link href={item.path} key={`${item.title}-${index}`}>
-					<a className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 transition-colors duration-300">
+					<a className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 mb-1 transition-colors duration-300">
 						{item.title}
 					</a>
 				</Link>

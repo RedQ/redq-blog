@@ -1,11 +1,11 @@
 ---
-title: "Build an Admin Dashboard Using React & GraphQL"
-date: "2020-02-19"
-category: "Theme"
-excerpt: "Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, GraphQL & Uber’s Base UI. It is very easy to use; GraphQL and TypeGraphQL are implemented. Inst is a Next.js GraphQL powered admin dashboard. Used progressive web application pattern, highly optimized for your next react application. You can use it for both Dashboard and"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png"
+title: 'Build an Admin Dashboard Using React & GraphQL'
+date: '2020-02-19'
+category: 'Theme'
+excerpt: 'Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, GraphQL & Uber’s Base UI. It is very easy to use; GraphQL and TypeGraphQL are implemented. Inst is a Next.js GraphQL powered admin dashboard. Used progressive web application pattern, highly optimized for your next react application. You can use it for both Dashboard and'
+coverImage: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png'
 ogImage:
-  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png"
+  url: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png'
 ---
 
 Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, GraphQL & Uber’s Base UI. It is very easy to use; GraphQL and TypeGraphQL are implemented. Inst is a Next.js GraphQL powered admin dashboard. Used progressive web application pattern, highly optimized for your next react application. You can use it for both Dashboard and Public pages for your web applications. Available in both Light and Dark mode. To activate the Dark mode, Click on the profile image at the right corner, and you will find the ‘Dark Mode’ in Drop-down. Note: Please note that, This is not an HTML template. It is a React Dashboard template built using Next.js Framework. P.S. Design inspiration was taken from Now.sh
@@ -63,90 +63,95 @@ yarn dev
 
 **NOTE:** Before start the project add your config credentials in next.config.js file
 
+```
 env: {
-APOLLO_CLIENT_URL: 'http://localhost:4000/graphql',
-APOLLO_GITHUB_CLIENT_URL: 'https://api.github.com/graphql',
-APOLLO_PRODUCT_HUNT_CLIENT_URL:
-'https://api.producthunt.com/v2/api/graphql',
-GITHUB_AUTH_TOKEN: 'your_github_auth_token',
-PRODUCT_HUNT_AUTH_TOKEN: 'your_product_hunt_auth_token',
-FIREBASE_API_KEY: 'your_firebase_api_key',
-FIREBASE_AUTH_DOMAIN: 'your_firebase_auth_domain',
-FIREBASE_DATABASE_URL: 'your_firebase_database_url',
-FIREBASE_PROJECT_ID: 'your_firebase_project_id',
-FIREBASE_STORAGE_BUCKET: 'your_firebase_storage_bucket',
-FIREBASE_MESSAGING_SENDER_ID: 'your_firebase_messaging_sender_id',
-FIREBASE_APP_ID: 'your_firebase_app_id',
-FIREBASE_MEASUREMENT_ID: 'your_firebase_measurement_id',
+  APOLLO_CLIENT_URL: 'http://localhost:4000/graphql',
+  APOLLO_GITHUB_CLIENT_URL: 'https://api.github.com/graphql',
+  APOLLO_PRODUCT_HUNT_CLIENT_URL:
+  'https://api.producthunt.com/v2/api/graphql',
+  GITHUB_AUTH_TOKEN: 'your_github_auth_token',
+  PRODUCT_HUNT_AUTH_TOKEN: 'your_product_hunt_auth_token',
+  FIREBASE_API_KEY: 'your_firebase_api_key',
+  FIREBASE_AUTH_DOMAIN: 'your_firebase_auth_domain',
+  FIREBASE_DATABASE_URL: 'your_firebase_database_url',
+  FIREBASE_PROJECT_ID: 'your_firebase_project_id',
+  FIREBASE_STORAGE_BUCKET: 'your_firebase_storage_bucket',
+  FIREBASE_MESSAGING_SENDER_ID: 'your_firebase_messaging_sender_id',
+  FIREBASE_APP_ID: 'your_firebase_app_id',
+  FIREBASE_MEASUREMENT_ID: 'your_firebase_measurement_id',
 },
+```
 
 ### Folder Structure
 
+```
 /api
-/src
-/data
-/services
-/dashboard
-/integration
-/invoice
-/product
-/profile
+  /src
+    /data
+    /services
+      /dashboard
+      /integration
+      /invoice
+      /product
+      /profile
 /frontend
-/apollo
-/assets
-/components
-/containers
-/contexts
-/data \[ui elements api data\]
-/firebase
-/pages
-/types
-/utils
+  /apollo
+  /assets
+  /components
+  /containers
+  /contexts
+  /data \[ui elements api data\]
+  /firebase
+  /pages
+  /types
+  /utils
+```
 
 ### Routes
 
-/
+```
 /apps
-/todo
-/firebase-crud
-/invoice
-/\[id\]
-/add
-/github
-/product-hunt
+  /todo
+  /firebase-crud
+  /invoice
+    /\[id\]
+    /add
+  /github
+  /product-hunt
 /shop
-/\[slug\]
-/checkout
+  /\[slug\]
+  /checkout
 /charts
 /area
-/column
-/bar
-/mixed
-/pie
-/radar
-/product-view
-/cash-flow
+  /column
+  /bar
+  /mixed
+  /pie
+  /radar
+  /product-view
+  /cash-flow
 /forms
-/hook-form
+  /hook-form
 /uielements
-/page-title
-/widget-card
-/carousel
-/cart-product
-/instagram-card
-/product-card
-/pricing-card
-/listgrid-card
+  /page-title
+  /widget-card
+  /carousel
+  /cart-product
+  /instagram-card
+  /product-card
+  /pricing-card
+  /listgrid-card
 /pricing
 /profile
 /settings
-/password
-/billing
-/applications
+  /password
+  /billing
+  /applications
 /login
 /signup
 /terms
 /privacy
+```
 
 ### Explaining Containers
 
@@ -165,16 +170,18 @@ Developer has given now.sh deployment by default. For hosting the project in now
 1. Add your production credentials on _next.config.js_
 2. first you have to go _api_ folder and run _now_
 
-$ cd api/
-$ now
+   `$ cd api/`
+
+   `$ now`
 
 3. After deploying api you will get a url from now. You have to put that url in the
 
-_/frontend/next.config.js APOLLO_CLIENT_URL_.
+   `_/frontend/next.config.js APOLLO_CLIENT_URL_.`
 
 4. Now go to _frontend_ folder and run _now_
 
-$ cd frontend/
-$ now
+   `$ cd frontend/`
+
+   `$ now`
 
 **Note:** Make sure you have _now-cli_ installed in your system.
