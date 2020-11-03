@@ -2,7 +2,6 @@ import cn from 'classnames';
 import Container from './container';
 import DateFormatter from './date-formatter';
 import CoverImage from './cover-image';
-import PostTitle from './post-title';
 import SocialShare from './social-share';
 import Categories from './categories';
 
@@ -30,19 +29,21 @@ export default function PostHeader({ title, coverImage, date }) {
 	return (
 		<>
 			<div
-				className="w-screen bg-light-gray transform -translate-x-1/2 py-32 lg:py-40 mb-12 sm:mb-16 relative"
+				className="w-screen bg-light-gray transform -translate-x-1/2 py-24 md:py-32 lg:py-40 mb-12 sm:mb-16 relative"
 				style={{ marginLeft: '50%' }}
 			>
 				<Container className="px-5 pb-1">
 					<div className="mb-6 text-blue-700 uppercase tracking-widest text-sm font-semibold">
 						<DateFormatter dateString={date} />
 					</div>
-					<PostTitle className="max-w-screen-md mb-8">{title}</PostTitle>
+					<h1 className="max-w-screen-md text-3xl sm:text-4xl md:text-6xl font-bold tracking-tight mb-8">
+						{title}
+					</h1>
 					<SocialShare title={title} />
 				</Container>
 				{/* Start banner dot pattern */}
 				<div
-					className="absolute"
+					className="absolute hidden sm:block"
 					style={{
 						opacity: 0.4,
 						backgroundColor: '#f4f4f4',

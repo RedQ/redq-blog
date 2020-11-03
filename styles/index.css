@@ -5,6 +5,11 @@ body {
   text-size-adjust: 100%;
 }
 
+.sticky-nav nav {
+  -webkit-box-shadow: 0 4px 16px 0 rgba(16,66,97,.07);
+  box-shadow: 0 4px 16px 0 rgba(16,66,97,.07);
+}
+
 .hamburg-menubar {
   @apply hidden;
 }
@@ -103,6 +108,46 @@ body {
   @apply bg-gray-800 px-6;
 }
 
+.post-container p a:not(.btn) {
+  @apply relative font-semibold;
+}
+
+.post-container p a:not(.btn):hover {
+  @apply text-white;
+}
+
+.post-container p a:not(.btn)::after {
+  content: '';
+  height: 2px;
+  bottom: -2px;
+  z-index: -1;
+  transition: height;
+  @apply w-full absolute left-0 bg-gray-900 duration-200;
+}
+
+.post-container p a:not(.btn):hover::after {
+  height: calc(100% + 3px);
+}
+
+.post-container p a:not(.btn)[href*='facebook']:hover::after {
+  background-color: #3b5998;
+}
+
+.post-container p a:not(.btn)[href*='twitter']:hover::after {
+  background-color: #00acee;
+}
+
+.post-container p a:not(.btn)[href*='linkedin']:hover::after {
+  background-color: #0e76a8;
+}
+
+.post-container p a:not(.btn)[href*='instagram']:hover::after {
+  background-color: #C13584;
+}
+
+.post-container p a:not(.btn)[href*='youtube']:hover::after {
+  background-color: #c4302b;
+}
 
 /* Start purging... */
 @tailwind components;

@@ -4,8 +4,8 @@
 }
 
 .markdown > * {
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-top: 32px;
+  margin-bottom: 32px;
 }
 
 .markdown h1,
@@ -20,12 +20,12 @@
 }
 
 .markdown h2 {
-  @apply text-2xl mt-12 mb-4 leading-snug;
+  @apply text-2xl mb-4 leading-snug;
 }
 
 .markdown h3,
 .markdown h4 {
-  @apply text-xl;
+  @apply text-xl mb-4;
 }
 
 .markdown p,
@@ -62,7 +62,7 @@
 }
 
 .markdown li::marker {
-  font-size: 14px;
+  @apply text-gray-900 text-sm;
 }
 
 .markdown li:nth-child(n+10)::before {
@@ -89,9 +89,22 @@
 
 .markdown p a,
 .markdown p strong {
-  @apply text-gray-900;
+  @apply text-gray-900 break-words;
 }
 
-.markdown p a {
-  @apply underline;
+.markdown em,
+.markdown i {
+  @apply text-gray-900 font-semibold;
+}
+
+.markdown pre {
+  @apply bg-gray-900 text-gray-500 p-2 rounded;
+}
+
+.markdown code {
+  @apply bg-gray-200 inline-block py-1 px-2 border border-gray-300 border-solid rounded;
+}
+
+.markdown pre code {
+  @apply bg-transparent border-0 block;
 }
