@@ -1,9 +1,47 @@
 import cn from 'classnames';
+import { motion } from 'framer-motion';
 import Container from './container';
 import DateFormatter from './date-formatter';
 import CoverImage from './cover-image';
 import SocialShare from './social-share';
 import Categories from './categories';
+
+// motion variant
+let easing = [0.175, 0.85, 0.42, 0.96];
+const fadeInBottom = {
+	exit: {
+		y: 50,
+		opacity: 0,
+		transition: {
+			duration: 0.4,
+			ease: easing,
+		},
+	},
+	enter: {
+		y: 0,
+		opacity: 1,
+		transition: {
+			duration: 0.4,
+			ease: easing,
+		},
+	},
+};
+const heightTransition = {
+	exit: {
+		height: 0,
+		transition: {
+			duration: 0.5,
+			ease: easing,
+		},
+	},
+	enter: {
+		height: 'auto',
+		transition: {
+			duration: 0.5,
+			ease: easing,
+		},
+	},
+};
 
 // dummy category
 const categories = [
@@ -28,19 +66,22 @@ const categories = [
 export default function PostHeader({ title, coverImage, date }) {
 	return (
 		<>
-			<div
+			<motion.div
+				variants={heightTransition}
 				className="w-screen bg-light-gray transform -translate-x-1/2 py-24 md:py-32 lg:py-40 mb-12 sm:mb-16 relative"
 				style={{ marginLeft: '50%' }}
 			>
-				<Container className="px-5 pb-1">
-					<div className="mb-6 text-blue-700 uppercase tracking-widest text-sm font-semibold">
-						<DateFormatter dateString={date} />
-					</div>
-					<h1 className="max-w-screen-md text-3xl sm:text-4xl md:text-6xl font-bold tracking-tight mb-8">
-						{title}
-					</h1>
-					<SocialShare title={title} />
-				</Container>
+				<motion.div variants={fadeInBottom}>
+					<Container className="px-5 pb-1">
+						<div className="mb-6 text-blue-700 uppercase tracking-widest text-sm font-semibold">
+							<DateFormatter dateString={date} />
+						</div>
+						<h1 className="max-w-screen-md text-3xl sm:text-4xl md:text-6xl font-bold tracking-tight mb-8">
+							{title}
+						</h1>
+						<SocialShare title={title} />
+					</Container>
+				</motion.div>
 				{/* Start banner dot pattern */}
 				<div
 					className="absolute hidden sm:block"
@@ -57,7 +98,8 @@ export default function PostHeader({ title, coverImage, date }) {
 					}}
 				></div>
 				{/* End banner dot pattern */}
-			</div>
+			</motion.div>
+
 			<div className="max-w-3xl mx-auto mb-10">
 				<Categories className="mb-6" items={categories} />
 				<CoverImage
