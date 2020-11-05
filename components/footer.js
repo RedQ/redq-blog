@@ -8,6 +8,7 @@ import {
 	RiGoogleLine,
 	RiPinterestLine,
 } from 'react-icons/ri';
+import { motion } from 'framer-motion';
 import Container from './container';
 
 export default function Footer() {
@@ -23,55 +24,69 @@ export default function Footer() {
 					. All rights reserved
 				</div>
 				<div className="flex items-center -mb-4 md:mb-0  md:-mr-4">
-					<a
+					<motion.a
+						whileHover={{ scale: 1.1 }}
+						whileTap={{ scale: 0.9 }}
 						href="https://www.facebook.com/redqinc/"
 						className="p-4 transition-all duration-200 hover:text-gray-600"
 						title="Facebook"
 					>
 						<RiFacebookCircleLine size="17px" />
-					</a>
-					<a
+					</motion.a>
+					<motion.a
+						whileHover={{ scale: 1.1 }}
+						whileTap={{ scale: 0.9 }}
 						href="https://twitter.com/redqinc"
 						className="p-4 transition-all duration-200 hover:text-gray-600"
 						title="Twitter"
 					>
 						<RiTwitterLine size="17px" />
-					</a>
-					<a
+					</motion.a>
+					<motion.a
+						whileHover={{ scale: 1.1 }}
+						whileTap={{ scale: 0.9 }}
 						href="https://www.instagram.com/redqinc/"
 						className="p-4 transition-all duration-200 hover:text-gray-600"
 						title="Instagram"
 					>
 						<RiInstagramLine size="17px" />
-					</a>
-					<a
+					</motion.a>
+					<motion.a
+						whileHover={{ scale: 1.1 }}
+						whileTap={{ scale: 0.9 }}
 						href="https://dribbble.com/redqinc"
 						className="p-4 transition-all duration-200 hover:text-gray-600"
 						title="Dribbble"
 					>
 						<RiDribbbleLine size="17px" />
-					</a>
-					<a
+					</motion.a>
+					<motion.a
+						whileHover={{ scale: 1.1 }}
+						whileTap={{ scale: 0.9 }}
 						href="https://www.linkedin.com/company/redqinc/"
 						className="p-4 transition-all duration-200 hover:text-gray-600"
 						title="Linkedin"
 					>
 						<RiLinkedinLine size="17px" />
-					</a>
-					<a
+					</motion.a>
+					<motion.a
+						whileHover={{ scale: 1.1 }}
+						whileTap={{ scale: 0.9 }}
 						href="https://plus.google.com/u/0/+RedQInc"
 						className="p-4 transition-all duration-200 hover:text-gray-600"
 						title="Google +"
 					>
 						<RiGoogleLine size="17px" />
-					</a>
-					<a
+					</motion.a>
+					<motion.a
+						whileHover={{ scale: 1.1 }}
+						whileTap={{ scale: 0.9 }}
 						href="https://www.pinterest.com/redqinc/"
 						className="p-4 transition-all duration-200 hover:text-gray-600"
 						title="Pinterest"
 					>
 						<RiPinterestLine size="17px" />
-					</a>
+					</motion.a>
 				</div>
 			</Container>
 		</footer>

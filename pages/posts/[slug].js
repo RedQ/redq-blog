@@ -1,7 +1,5 @@
-import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import ErrorPage from 'next/error';
-import { motion } from 'framer-motion';
 import Container from '../../components/container';
 import PostBody from '../../components/post-body';
 import PostHeader from '../../components/post-header';
@@ -16,37 +14,30 @@ export default function Post({ post, morePosts, preview }) {
 	if (!router.isFallback && !post?.slug) {
 		return <ErrorPage statusCode={404} />;
 	}
-	useEffect(() => {
-		window.scrollTo(0, 0);
-	}, []);
 
 	return (
 		<Layout preview={preview}>
-			<motion.div initial="exit" animate="enter" exit="exit">
-				<Container>
-					{router.isFallback ? (
-						<h1>Loading…</h1>
-					) : (
-						<>
-							<article className="mb-16 sm:mb-20 md:mb-24">
-								<Head>
-									<title>
-										{post.title} | Next.js Blog Example with {CMS_NAME}
-									</title>
-									<meta property="og:image" content={post?.ogImage?.url} />
-								</Head>
-								<PostHeader
-									title={post?.title}
-									coverImage={post?.coverImage}
-									date={post?.date}
-									author={post?.author}
-								/>
-								<PostBody content={post?.content} />
-							</article>
-						</>
-					)}
-				</Container>
-			</motion.div>
+			<Container>
+				{router.isFallback ? (
+					<h1>Loading…</h1>
+				) : (
+					<article className="mb-16 sm:mb-20 md:mb-24">
+						<Head>
+							<title>
+								{post.title} | Next.js Blog Example with {CMS_NAME}
+							</title>
+							<meta property="og:image" content={post?.ogImage?.url} />
+						</Head>
+						<PostHeader
+							title={post?.title}
+							coverImage={post?.coverImage}
+							date={post?.date}
+							author={post?.author}
+						/>
+						<PostBody content={post?.content} />
+					</article>
+				)}
+			</Container>
 		</Layout>
 	);
 }
@@ -61,7 +52,6 @@ export async function getStaticProps({ params }) {
 		'ogImage',
 		'coverImage',
 	]);
-
 	const content = await markdownToHtml(post.content || '');
 	return {
 		props: {
