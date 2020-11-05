@@ -1,7 +1,26 @@
 import Link from 'next/link';
 import { BsArrowRight } from 'react-icons/bs';
+import { motion } from 'framer-motion';
 import CoverImage from './cover-image';
 import DateFormatter from '../components/date-formatter';
+
+// motion variants
+const fadeInBottom = {
+	exit: {
+		y: 50,
+		opacity: 0,
+		transition: {
+			y: { stiffness: 1000 },
+		},
+	},
+	enter: {
+		y: 0,
+		opacity: 1,
+		transition: {
+			y: { stiffness: 1000, velocity: -100 },
+		},
+	},
+};
 
 export default function PostPreview({
 	title,
@@ -11,7 +30,7 @@ export default function PostPreview({
 	slug,
 }) {
 	return (
-		<article>
+		<motion.article variants={fadeInBottom}>
 			<figure className="mb-8 relative">
 				<CoverImage
 					className="rounded w-full"
@@ -51,6 +70,6 @@ export default function PostPreview({
 					</a>
 				</Link>
 			</footer>
-		</article>
+		</motion.article>
 	);
 }

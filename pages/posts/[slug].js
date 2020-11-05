@@ -21,23 +21,21 @@ export default function Post({ post, morePosts, preview }) {
 				{router.isFallback ? (
 					<h1>Loading…</h1>
 				) : (
-					<>
-						<article className="mb-16 sm:mb-20 md:mb-24">
-							<Head>
-								<title>
-									{post.title} | Next.js Blog Example with {CMS_NAME}
-								</title>
-								<meta property="og:image" content={post?.ogImage?.url} />
-							</Head>
-							<PostHeader
-								title={post?.title}
-								coverImage={post?.coverImage}
-								date={post?.date}
-								author={post?.author}
-							/>
-							<PostBody content={post?.content} />
-						</article>
-					</>
+					<article className="mb-16 sm:mb-20 md:mb-24">
+						<Head>
+							<title>
+								{post.title} | Next.js Blog Example with {CMS_NAME}
+							</title>
+							<meta property="og:image" content={post?.ogImage?.url} />
+						</Head>
+						<PostHeader
+							title={post?.title}
+							coverImage={post?.coverImage}
+							date={post?.date}
+							author={post?.author}
+						/>
+						<PostBody content={post?.content} />
+					</article>
 				)}
 			</Container>
 		</Layout>
@@ -54,7 +52,6 @@ export async function getStaticProps({ params }) {
 		'ogImage',
 		'coverImage',
 	]);
-
 	const content = await markdownToHtml(post.content || '');
 	return {
 		props: {

@@ -51,7 +51,10 @@ export default function Header() {
 						>
 							<li>
 								<ActiveLink href="/">
-									<a className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900">
+									<a
+										className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
+										onClick={() => setMobileMenuToggle(false)}
+									>
 										Home
 									</a>
 								</ActiveLink>
@@ -60,13 +63,17 @@ export default function Header() {
 								<a
 									className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
 									href="https://themeforest.net/user/redqteam/portfolio"
+									onClick={() => setMobileMenuToggle(false)}
 								>
 									Portfolio
 								</a>
 							</li>
 							<li>
 								<ActiveLink href="/blog">
-									<a className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900">
+									<a
+										className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
+										onClick={() => setMobileMenuToggle(false)}
+									>
 										Blog
 									</a>
 								</ActiveLink>
@@ -75,20 +82,27 @@ export default function Header() {
 								<a
 									className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
 									href="https://redqsupport.ticksy.com/"
+									onClick={() => setMobileMenuToggle(false)}
 								>
 									Support
 								</a>
 							</li>
 							<li>
 								<Link href="/blog">
-									<a className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900">
+									<a
+										className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
+										onClick={() => setMobileMenuToggle(false)}
+									>
 										FAQ
 									</a>
 								</Link>
 							</li>
 							<li>
 								<Link href="/blog">
-									<a className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900">
+									<a
+										className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
+										onClick={() => setMobileMenuToggle(false)}
+									>
 										Documentation
 									</a>
 								</Link>
