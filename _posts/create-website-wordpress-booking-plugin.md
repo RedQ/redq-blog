@@ -216,11 +216,11 @@ This is the newest pricing plan for our rental plugin. It will work as a flat ho
 
 ### 1) Working with General Hourly Pricing
 
-![Working with General Hourly Pricing](/assets/blog/images/35.png "Working with General Hourly Pricing")
+![Working with General Hourly Pricing](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-36.png "Working with General Hourly Pricing")
 
 ### 2) Working with Hourly Range Pricing
 
-![Working with Hourly Range Pricing](/assets/blog/images/36.png "Working with Hourly Range Pricing")
+![Working with Hourly Range Pricing](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-37.png "Working with Hourly Range Pricing")
 
 ## Conclusion
 
