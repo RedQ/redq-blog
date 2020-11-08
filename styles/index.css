@@ -5,6 +5,10 @@ body {
   text-size-adjust: 100%;
 }
 
+code {
+  @apply bg-gray-200 inline-block py-1 px-2 border border-gray-300 border-solid rounded;
+}
+
 .sticky-nav nav {
   -webkit-box-shadow: 0 4px 16px 0 rgba(16,66,97,.07);
   box-shadow: 0 4px 16px 0 rgba(16,66,97,.07);

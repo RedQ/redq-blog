@@ -54,7 +54,7 @@ const heightTransition = {
 	},
 };
 
-export default function Intro() {
+export default function Intro({ title }) {
 	return (
 		<motion.section
 			variants={heightTransition}
@@ -82,7 +82,7 @@ export default function Intro() {
 						variants={fadeInBottom}
 						className="text-4xl md:text-6xl text-gray-900 font-bold tracking-tighter"
 					>
-						Blog
+						{title}
 					</motion.h1>
 				</header>
 			</Container>

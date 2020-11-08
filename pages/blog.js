@@ -42,7 +42,7 @@ export default function Index({ allPosts }) {
 			<Head>
 				<title>Next.js Blog Example with {CMS_NAME}</title>
 			</Head>
-			<Intro />
+			<Intro title="Blog" />
 			<Container>
 				<Categories
 					className="mb-6 sm:mb-8 flex flex-wrap"

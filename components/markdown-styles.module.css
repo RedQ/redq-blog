@@ -101,10 +101,6 @@
   @apply bg-gray-900 text-gray-500 p-2 rounded;
 }
 
-.markdown code {
-  @apply bg-gray-200 inline-block py-1 px-2 border border-gray-300 border-solid rounded;
-}
-
 .markdown pre code {
   @apply bg-transparent border-0 block;
 }
