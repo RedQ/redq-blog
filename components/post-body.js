@@ -1,14 +1,33 @@
 import { useEffect } from 'react';
 import fitvids from 'fitvids';
+import { motion } from 'framer-motion';
 import SocialShare from './social-share';
 import markdownStyles from './markdown-styles.module.css';
+
+// motion variants
+const fadeInBottom = {
+	exit: {
+		y: 50,
+		opacity: 0,
+		transition: {
+			y: { stiffness: 1000 },
+		},
+	},
+	enter: {
+		y: 0,
+		opacity: 1,
+		transition: {
+			y: { stiffness: 1000, velocity: -100 },
+		},
+	},
+};
 
 export default function PostBody({ content }) {
 	useEffect(() => {
 		fitvids('.post-container');
 	}, []);
 	return (
-		<div className="max-w-3xl mx-auto">
+		<motion.div variants={fadeInBottom} className="max-w-3xl mx-auto">
 			<div
 				className={`post-container ${markdownStyles['markdown']}`}
 				dangerouslySetInnerHTML={{ __html: content }}
@@ -19,6 +38,6 @@ export default function PostBody({ content }) {
 				</h2>
 				<SocialShare />
 			</div>
-		</div>
+		</motion.div>
 	);
 }

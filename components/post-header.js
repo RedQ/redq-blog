@@ -1,9 +1,99 @@
 import cn from 'classnames';
+import { motion } from 'framer-motion';
 import Container from './container';
 import DateFormatter from './date-formatter';
 import CoverImage from './cover-image';
 import SocialShare from './social-share';
 import Categories from './categories';
+
+// motion variant
+let easing = [0.175, 0.85, 0.42, 0.96];
+const fadeIn = {
+	exit: {
+		opacity: 0,
+		transition: {
+			duration: 0.2,
+			ease: easing,
+		},
+	},
+	enter: {
+		opacity: 1,
+		transition: {
+			duration: 0.2,
+			ease: easing,
+		},
+	},
+};
+const fadeInTop = {
+	exit: {
+		y: -8,
+		opacity: 0,
+		transition: {
+			duration: 0.3,
+			ease: easing,
+		},
+	},
+	enter: {
+		y: 0,
+		opacity: 1,
+		transition: {
+			duration: 0.3,
+			ease: easing,
+		},
+	},
+};
+const fadeInBottom = {
+	exit: {
+		y: 50,
+		opacity: 0,
+		transition: {
+			duration: 0.3,
+			ease: easing,
+		},
+	},
+	enter: {
+		y: 0,
+		opacity: 1,
+		transition: {
+			duration: 0.3,
+			ease: easing,
+		},
+	},
+};
+const fadeInBottomDelay = {
+	exit: {
+		y: 50,
+		opacity: 0,
+		transition: {
+			duration: 0.4,
+			ease: easing,
+		},
+	},
+	enter: {
+		y: 0,
+		opacity: 1,
+		transition: {
+			duration: 0.4,
+			ease: easing,
+		},
+	},
+};
+const heightTransition = {
+	exit: {
+		height: 0,
+		transition: {
+			duration: 0.4,
+			ease: easing,
+		},
+	},
+	enter: {
+		height: 'auto',
+		transition: {
+			duration: 0.4,
+			ease: easing,
+		},
+	},
+};
 
 // dummy category
 const categories = [
@@ -28,21 +118,31 @@ const categories = [
 export default function PostHeader({ title, coverImage, date }) {
 	return (
 		<>
-			<div
-				className="w-screen bg-light-gray transform -translate-x-1/2 py-24 md:py-32 lg:py-40 mb-12 sm:mb-16 relative"
+			<motion.div
+				variants={heightTransition}
+				className="w-screen bg-light-gray transform -translate-x-1/2 py-20 sm:py-24 md:py-32 lg:py-40 mb-12 sm:mb-16 relative overflow-hidden"
 				style={{ marginLeft: '50%' }}
 			>
 				<Container className="px-5 pb-1">
-					<div className="mb-6 text-blue-700 uppercase tracking-widest text-sm font-semibold">
+					<motion.div
+						variants={fadeInBottomDelay}
+						className="mb-6 text-blue-700 uppercase tracking-widest text-sm font-semibold"
+					>
 						<DateFormatter dateString={date} />
-					</div>
-					<h1 className="max-w-screen-md text-3xl sm:text-4xl md:text-6xl font-bold tracking-tight mb-8">
+					</motion.div>
+					<motion.h1
+						variants={fadeInBottom}
+						className="max-w-screen-md text-3xl sm:text-4xl md:text-6xl font-bold tracking-tight mb-8"
+					>
 						{title}
-					</h1>
-					<SocialShare title={title} />
+					</motion.h1>
+					<motion.div variants={fadeInTop}>
+						<SocialShare title={title} />
+					</motion.div>
 				</Container>
 				{/* Start banner dot pattern */}
-				<div
+				<motion.div
+					variants={fadeIn}
 					className="absolute hidden sm:block"
 					style={{
 						opacity: 0.4,
@@ -55,16 +155,19 @@ export default function PostHeader({ title, coverImage, date }) {
 						bottom: '18px',
 						zIndex: -1,
 					}}
-				></div>
+				></motion.div>
 				{/* End banner dot pattern */}
-			</div>
+			</motion.div>
+
 			<div className="max-w-3xl mx-auto mb-10">
 				<Categories className="mb-6" items={categories} />
-				<CoverImage
-					className={cn('w-full shadow-xl')}
-					title={title}
-					src={coverImage}
-				/>
+				<motion.div variants={fadeInBottom}>
+					<CoverImage
+						className={cn('w-full shadow-xl')}
+						title={title}
+						src={coverImage}
+					/>
+				</motion.div>
 			</div>
 		</>
 	);
