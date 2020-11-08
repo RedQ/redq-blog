@@ -120,7 +120,7 @@ export default function PostHeader({ title, coverImage, date }) {
 		<>
 			<motion.div
 				variants={heightTransition}
-				className="w-screen bg-light-gray transform -translate-x-1/2 py-20 sm:py-24 md:py-32 lg:py-40 mb-12 sm:mb-16 relative overflow-hidden"
+				className="mb-10 sm:mb-12 w-screen bg-light-gray transform -translate-x-1/2 py-20 sm:py-24 md:py-32 relative overflow-hidden"
 				style={{ marginLeft: '50%' }}
 			>
 				<Container className="px-5 pb-1">
