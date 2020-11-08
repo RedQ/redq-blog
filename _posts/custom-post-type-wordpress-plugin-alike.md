@@ -3,6 +3,9 @@ title: "Best Custom Post Type WordPress Plugin Alike"
 date: "2019-04-23"
 category: "Plugin"
 excerpt: "WordPress based sites are now increasing by number. Lots of plugins are developing every day for different purposes. For comparing WordPress posts, developers are developing a plugin on that cause. Alike is this kind of WordPress plugin which can compare WordPress posts. It will work with any post types or custom post types such as"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/Post-Type-Plugins.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/Post-Type-Plugins.png"
 ---
 
 WordPress based sites are now increasing by number. Lots of plugins are developing every day for different purposes. For comparing WordPress posts, developers are developing a plugin on that cause. [**Alike**](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Falike-any-post-comparison-wordpress%2F15538788) is this kind of WordPress plugin which can compare WordPress posts. It will work with any post types or custom post types such as property, cars, and products anything you desire.
