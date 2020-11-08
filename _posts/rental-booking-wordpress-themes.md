@@ -1,6 +1,11 @@
 ---
 title: "Rental Booking Accommodation WordPress Theme: Turbo"
 date: "2019-02-11"
+category: "Theme"
+excerpt: "The rental business is growing at a very fast speed. Meanwhile, rental business owners have a tendency to run their business online. It will require building a website. WordPress is the best way to do that. Lots of developers are now developing rental themes by keeping this on the mind. But the matter of fact"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/Rental-Booking-Accommodation-WordPress-Theme-Turbo.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/Rental-Booking-Accommodation-WordPress-Theme-Turbo.png"
 ---
 
 The rental business is growing at a very fast speed. Meanwhile, rental business owners have a tendency to run their business online. It will require building a website. WordPress is the best way to do that. Lots of developers are now developing rental themes by keeping this on the mind. But the matter of fact is that there are lots of themes available on several WordPress marketplaces and it is really difficult to find out the best one. After a long analysis, I find out that ‘Turbo’ is the best in the business.
@@ -46,7 +51,7 @@ With **Turbo** Theme you can easily install the dummy data from the **one-cli
 
 **Turbo WP** theme is built on top of **the ReduX** option framework. This will enhance your theme configuration like a charm. Also, you can customize your theme settings from this panel.
 
-#### **Premium plugins included (worth $149):**
+#### **Premium plugins included (worth \$149):**
 
 - RnB – WooCommerce Rental & Booking System
 - Reactive Pro – Advanced WP search, filter & grid
@@ -60,11 +65,11 @@ Dummy Data Importer:
 
 **After installing the theme and all required plugins go to Dashboard -> Appearance -> Turbo Demo Importer. Check the demo installation video also from**
 
-**
+\*\*
 
 <iframe src="https://www.youtube.com/embed/zMGnocnIGos" width="900" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**
+\*\*
 
 ### **Shortcodes:**
 
@@ -108,4 +113,4 @@ Font Ion Icons, Font Elegant.
 
 Now come to the point, I hope after reading this article you will give a try to this magnificent theme without any hesitation. It possesses all the potentialities to accomplish your necessities and also you can do your business smoothly in the long run. Though this theme has a lot of functionalities it costs very less money. Also, the developer of this theme is always busy to push update on a regular basis. It has a lot of features and graphically very rich. ‘Turbo’ rental booking WordPress theme will naturally assist your website’s users to book and rent any existing item within the website and also helps you to generate your desiring income. So wish you very good luck and hope you will use this rich WordPress theme definitely.
 
-\[ushop\_button\_shortcode\_blog\_wrap btn\_align="text-center"\] \[ushop\_button\_shortcode\_blog btn\_class="purchase-btn" btn\_text="Purchase Now" btn\_url="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fitem%2Fturbo-car-rental-system-wordpress-theme%2F17156768"\] \[/ushop\_button\_shortcode\_blog\_wrap\]
+\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="purchase-btn" btn_text="Purchase Now" btn_url="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fitem%2Fturbo-car-rental-system-wordpress-theme%2F17156768"\] \[/ushop_button_shortcode_blog_wrap\]

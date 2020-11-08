@@ -3,6 +3,9 @@ title: "Use of Hackathon Participating for the Success of the Project"
 date: "2019-02-04"
 category: "Article, Other"
 excerpt: "There is a lack of time always and thus it is best to use the same wisely. Thus, it is important that you decide right how best you can use time sensibly. This is when you have the effective application of hackathon to make the lucrative use of time. You can have the best participation"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/hackathon.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/hackathon.png"
 ---
 
 There is a lack of time always and thus it is best to use the same wisely. Thus, it is important that you decide right how best you can use time sensibly. This is when you have the effective application of [**hackathon**](https://mettl.com/en/coding-tests/hackathon/) to make the lucrative use of time. You can have the best participation in the same and make the best use of the time. If you are not aware of the benefits of hackathon participation you should do the essential in order to use time in the best manner. There is the to-do-list where you can go through the top benefits which can really help you make the best time utilization.
