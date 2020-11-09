@@ -35,43 +35,6 @@
   @apply my-6 font-light text-gray-700;
 }
 
-.markdown ul,
-.markdown ol {
-  padding-left: 22px;
-  list-style-type: decimal;
-}
-
-.markdown li {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  position: relative;
-  padding-left: 12px;
-}
-
-.markdown li::before {
-  content: '';
-  width: 24px;
-  height: 24px;
-  display: inline-block;
-  border-radius: 50%;
-  position: absolute;
-  left: -22px;
-  top: 3px;
-  z-index: -1;
-  background-color: #EDF2F7;
-}
-
-.markdown li::marker {
-  @apply text-gray-900 text-sm;
-}
-
-.markdown li:nth-child(n+10)::before {
-  left: -27px;
-  width: 27px;
-  height: 27px;
-  top: 0;
-}
-
 .markdown h4 + ul,
 .markdown h4 + ol {
   @apply -mt-4;
@@ -103,4 +66,8 @@
 
 .markdown pre code {
   @apply bg-transparent border-0 block;
+}
+
+.markdown li::before {
+  top: 3px;
 }

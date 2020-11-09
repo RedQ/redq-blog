@@ -29,7 +29,7 @@ export default function PostBody({ content }) {
 	return (
 		<motion.div variants={fadeInBottom} className="max-w-3xl mx-auto">
 			<div
-				className={`post-container ${markdownStyles['markdown']}`}
+				className={`post-container content ${markdownStyles['markdown']}`}
 				dangerouslySetInnerHTML={{ __html: content }}
 			/>
 			<div className="mt-12">

@@ -1,11 +1,12 @@
 import { useState } from 'react';
-import { AiOutlinePlus, AiOutlineMinus, AiOutlineSearch } from 'react-icons/ai';
+import { AiOutlineSearch } from 'react-icons/ai';
+import { FiMinus, FiPlus } from 'react-icons/fi';
 import { motion, AnimatePresence } from 'framer-motion';
 
 export const Accordion = ({ i, expanded, setExpanded, id, title, content }) => {
 	const isOpen = i === expanded;
 	return (
-		<div className="mb-3">
+		<div className="rq-accordion mb-3">
 			<motion.header
 				initial={false}
 				animate={{
@@ -17,7 +18,7 @@ export const Accordion = ({ i, expanded, setExpanded, id, title, content }) => {
 				<h2 className="text-lg font-semibold text-gray-800">
 					{id}. {title}
 				</h2>
-				{isOpen ? <AiOutlineMinus size={20} /> : <AiOutlinePlus size={20} />}
+				{isOpen ? <FiMinus size={20} /> : <FiPlus size={20} />}
 			</motion.header>
 			<AnimatePresence initial={false}>
 				{isOpen && (
@@ -33,7 +34,7 @@ export const Accordion = ({ i, expanded, setExpanded, id, title, content }) => {
 						transition={{ ease: [0.04, 0.62, 0.23, 0.98] }}
 					>
 						<div
-							className="py-4 px-5 text-gray-700"
+							className="content py-4 px-5 text-gray-700"
 							dangerouslySetInnerHTML={{ __html: content }}
 						></div>
 					</motion.div>
@@ -41,27 +42,6 @@ export const Accordion = ({ i, expanded, setExpanded, id, title, content }) => {
 			</AnimatePresence>
 		</div>
 	);
-};
-
-// motion variants
-let easing = [0.175, 0.85, 0.42, 0.96];
-const fadeInBottom = {
-	exit: {
-		y: 50,
-		opacity: 0,
-		transition: {
-			duration: 0.3,
-			ease: easing,
-		},
-	},
-	enter: {
-		y: 0,
-		opacity: 1,
-		transition: {
-			duration: 0.3,
-			ease: easing,
-		},
-	},
 };
 
 export const AccordionWithFilter = ({ items }) => {
@@ -93,30 +73,23 @@ export const AccordionWithFilter = ({ items }) => {
 					className="absolute text-gray-600"
 				/>
 			</div>
-			<AnimatePresence>
-				{searchedFaqs.length > 0 ? (
-					searchedFaqs.map((faq, index) => (
-						<motion.div variants={fadeInBottom}>
-							<Accordion
-								i={index}
-								key={`${faq.title}-${faq.id}`}
-								id={faq?.id}
-								title={faq.title}
-								content={faq.content}
-								expanded={expanded}
-								setExpanded={setExpanded}
-							/>
-						</motion.div>
-					))
-				) : (
-					<motion.div
-						variants={fadeInBottom}
-						className="p2 text-xl flex items-center justify-center"
-					>
-						Not found <span className="text-4xl ml-2">😥</span>
-					</motion.div>
-				)}
-			</AnimatePresence>
+			{searchedFaqs.length > 0 ? (
+				searchedFaqs.map((faq, index) => (
+					<Accordion
+						i={index}
+						id={faq.id}
+						title={faq.title}
+						content={faq.content}
+						expanded={expanded}
+						setExpanded={setExpanded}
+						key={`${faq.title}-${faq.id}`}
+					/>
+				))
+			) : (
+				<div className="p2 text-xl flex items-center justify-center">
+					Not found <span className="text-4xl ml-2">😥</span>
+				</div>
+			)}
 		</div>
 	);
 };
