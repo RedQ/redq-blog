@@ -1,4 +1,5 @@
-import PostPreview from '../components/post-preview';
+import PostPreview from "../components/post-preview";
+import { getPostCategories } from "../lib/utils";
 
 const MoreStories = ({ posts }) => {
 	return (
@@ -11,6 +12,7 @@ const MoreStories = ({ posts }) => {
 					date={post.date}
 					author={post.author}
 					slug={post.slug}
+					categories={getPostCategories(post.category)}
 					excerpt={post.excerpt}
 				/>
 			))}
