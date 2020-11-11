@@ -62,7 +62,7 @@ Then, let's get back into the other parts of settings and that is, different kin
 
 In this article, we have talked about the installations and initial setup of our UserPlace free WordPress membership plugin. In the other parts of the article series, we will talk about each option of the plugins more elaborately.
 
-<a href="https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/" class="btn">View Template</a>
+<a href="https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/" class="btn">Free Download</a>
 
 **UserPlace Article Series**
 
