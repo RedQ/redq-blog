@@ -1,15 +1,16 @@
 ---
 title: "Free WordPress Membership Plugin"
 date: "2018-09-24"
+category: "Article, Blog, Plugin"
+excerpt: "WordPress Membership Plugin is an essential right now for maintaining user accounts. There are lots of plugins available in several marketplaces. Most of them are paid WordPress Membership Plugin. A very few are free of cost. But those are very helpful. To earn by user subscription a WordPress site must be required a  WordPress Membership Plugin free. It also "
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership.png"
 ---
 
 [WordPress Membership Plugin](https://landing.redq.io/userplace) is an essential right now for maintaining user accounts. There are lots of plugins available in several marketplaces. Most of them are paid WordPress Membership Plugin. A very few are free of cost. But those are very helpful.
 
 To earn by user subscription a WordPress site must be required a  WordPress Membership Plugin free. It also useful for control user. So we make a list of such free [WordPress Membership plugin](https://redq.io/blog/best-wordpress-plugin-for-user-registration-and-login/). Let's talk about the list.
-
-
-
-
 
 ## [UserPlace – A Complete WordPress Membership Plugin](https://landing.redq.io/userplace)
 
@@ -35,9 +36,9 @@ Included features:
 - Multilingual
 - and more
 
-![UserPlace](/assets/blog/images/Banner.png "UserPlace")
+![UserPlace](https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership1.png " UserPlace")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Free Download" btn_url="https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/" class="btn">Free Download</a>
 
 ## Paid Memberships Pro
 
@@ -54,9 +55,9 @@ Included features:
 - Customizable Reports and Member Dashboards
 - Get paid for e-learning and digital courseware
 
-![Paid Memberships Pro](/assets/blog/images/Paid-Memberships-Pro.png "Paid Memberships Pro")
+![Paid Memberships Pro](https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership2.png "Paid Memberships Pro")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Free Download" btn_url="https://downloads.wordpress.org/plugin/paid-memberships-pro.1.9.5.3.zip"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://downloads.wordpress.org/plugin/paid-memberships-pro.1.9.5.3.zip" class="btn">Free Download</a>
 
 ## Ultimate Member
 
@@ -79,9 +80,9 @@ Included features:
 - Show author posts & comments on user profiles
 - Developer friendly with dozens of actions and filters
 
-![Ultimate Member](/assets/blog/images/Ultimate-Member.png "Ultimate Member")
+![Ultimate Member](https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership3.png "Ultimate Member")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Free Download" btn_url="https://downloads.wordpress.org/plugin/ultimate-member.2.0.25.zip"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://downloads.wordpress.org/plugin/ultimate-member.2.0.25.zip" class="btn">Free Download</a>
 
 ## Groups
 
@@ -97,9 +98,9 @@ Included features:
 - Users inherit capabilities of the groups they belong to
 - Groups inherit capabilities of their parent groups
 
-![Groups](/assets/blog/images/Groups.png "Groups")
+![Groups](https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership4.png "Groups")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Free Download" btn_url="https://downloads.wordpress.org/plugin/groups.2.3.1.zip"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://downloads.wordpress.org/plugin/groups.2.3.1.zip" class="btn">Free Download</a>
 
 ## Membership 2
 
@@ -116,9 +117,9 @@ Included features:
 - Advanced media protection rules
 - Network-Wide Protection
 
-![Membership 2](/assets/blog/images/Membership-2.png "Membership 2")
+![Membership 2](https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership5.png "Membership 2")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Free Download" btn_url="https://downloads.wordpress.org/plugin/membership.4.1.5.zip"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://downloads.wordpress.org/plugin/membership.4.1.5.zip" class="btn">Free Download</a>
 
 ## Simple Membership
 
@@ -137,9 +138,9 @@ Included features:
 - Front-end member profiles
 - Front-end member login page
 
-![Simple Membership](/assets/blog/images/Simple-Membership.png "Simple Membership")
+![Simple Membership](https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership6.png "Simple Membership")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Free Download" btn_url="https://downloads.wordpress.org/plugin/simple-membership.zip"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://downloads.wordpress.org/plugin/simple-membership.zip" class="btn">Free Download</a>
 
 ## Memberful WP
 
@@ -153,9 +154,9 @@ Included features:
 - A widget with links for members to sign in and manage their account (update credit card, cancel a subscription, etc.)
 - Option to create Private RSS feeds and protect bbPress forums
 
-![Memberful WP](/assets/blog/images/Memberful-WP.png "Memberful WP")
+![Memberful WP](https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership7.png "Memberful WP")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Free Download" btn_url="https://downloads.wordpress.org/plugin/memberful-wp.1.40.1.zip"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://downloads.wordpress.org/plugin/memberful-wp.1.40.1.zip" class="btn">Free Download</a>
 
 ## WP-Members Membership Plugin
 
@@ -173,9 +174,9 @@ Included features:
 - More than 120 action and filter hooks for customization
 - A library of API functions for extensibility
 
-![WP-Members](/assets/blog/images/WP-Members.png "WP-Members")
+![WP-Members](https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership8.png"WP-Members")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Free Download" btn_url="https://downloads.wordpress.org/plugin/wp-members.zip"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://downloads.wordpress.org/plugin/wp-members.zip" class="btn">Free Download</a>
 
 ### Conclusion
 
