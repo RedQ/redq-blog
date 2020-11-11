@@ -1,11 +1,15 @@
 ---
 title: "Best WordPress Chat Plugin of 2020"
 date: "2018-09-23"
+category: "Article, Plugin"
+excerpt: Are you aware of a fact that more than 67% of users on e-commerce sites have deserted their shopping carts without confirming a checkout? This number is really huge. People have a desire that their questions should be responded to immediately and those websites lose their sales due to customers thought of uncertainty with their
 ---
 
-Are you aware of a fact that more than 67% of users on [e-commerce](https://www.shopify.com/encyclopedia/what-is-ecommerce) sites have deserted their shopping carts without confirming a checkout? This number is really huge. People have a desire that their questions should be responded to immediately and those websites lose their sales due to customers thought of uncertainty with their purchases.
 
-Deploying a [WordPress Live Chat plugin](https://codecanyon.net/search/wordpress%20live%20chat%20plugin?ref=redqteam) is the solution for that fact and you can reassure customers at the most important moments. In this article, we will try to describe the **6** **Best WordPress Chat Plugin** already available in [codecanyon](https://codecanyon.net/?ref=redqteam), these are easy to install and setup. Let's start the article.
+
+\[vc_row\]\[vc_column\]\[vc_column_text\]Are you aware of a fact that more than 67% of users on [e-commerce](https://www.shopify.com/encyclopedia/what-is-ecommerce) sites have deserted their shopping carts without confirming a checkout? This number is really huge. People have a desire that their questions should be responded to immediately and those websites lose their sales due to customers thought of uncertainty with their purchases.
+
+Deploying a [WordPress Live Chat plugin](https://codecanyon.net/search/wordpress%20live%20chat%20plugin?ref=redqteam) is the solution for that fact, you can reassure customers at the most important moments. In this article, we will try to describe the **6** **Best WordPress Chat Plugin** already available in [codecanyon](https://codecanyon.net/?ref=redqteam), these are easy to install and setup. Let's start the article.
 
 ## YoBro WordPress Multi-User Private Messaging Plugin
 
@@ -26,7 +30,7 @@ Included features:
 
 ![YoBro](/assets/blog/images/YoBro.png "YoBro")
 
-[![Download-Plugin](/assets/blog/images/Download-Plugin.png)](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fyobro-wordpress-multi-user-private-messaging-plugin%2F20563304)
+[![Download-Plugin](/assets/blog/images/Download-Plugin.png)](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fyobro-wordpress-multi-user-private-messaging-plugin%2F20563304)\[/vc_column_text\]\[vc_column_text\]
 
 ## Live Chat Unlimited
 
@@ -176,4 +180,4 @@ Included features:
 
 ### Conclusion
 
-The article has now come to its ending point. We hope you can choose the right plugin from this list according to your requirement. If this article really assists then please do not forget to put a comment in the comment section or give us a good rating. It really inspires us a lot to deliver you more quality articles. That is all for today and thank you very much for reading this article. Have a nice day.
+The article has now come to its ending point. We hope you can choose the right plugin from this list according to your requirement. If this article really assists then please do not forget to put a comment in the comment section or give us a good rating. It really inspires us a lot to deliver you more quality articles. That is all for today and thank you very much for reading this article. Have a nice day.\[/vc_column_text\]\[/vc_column\]\[/vc_row\]
