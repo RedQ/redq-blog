@@ -1,6 +1,7 @@
 // import images
 import img16 from '../assets/faq/rnb/16.png';
 import img17 from '../assets/faq/rnb/17.png';
+import img18 from '../assets/faq/rnb/18.png';
 
 export const faqs = [
 	{
@@ -280,7 +281,19 @@ export const faqs = [
 	{
 		id: 45,
 		title: 'How to translate Admin text?',
-		content: `To make the theme options translatable go to the <code>WPML ->String Translation</code> page and click the <strong>Translate texts in admin screens</strong> option. <img src=${img16} alt="16" />
-    On this page, you have to find the right option. Usually, theme options are listed somewhere below theme_mods_{themename}. The following image shows an example, where we looked for the WP Real Estate Pro theme’s options and found them under WP Pro Real Estate 6_options.`,
+		content: `WPML allows you to translate contents of the Customizer or different theme options as like sliders, footer, and widgets.
+    Finding the theme options and making them translatable to make the theme options translatable go to the <code>WPML ->String Translation</code> page and click the <strong>Translate texts in admin screens</strong> option. 
+    <img src=${img16} alt="16" />
+    On this page, you have to find the right option. Usually, theme options are listed somewhere below <strong>theme_mods_{themename}</strong>. The following image shows an example, where we looked for the <strong>WP Real Estate Pro</strong> theme’s options and found them under <strong>WP Pro Real Estate 6_options</strong>. 
+    <img src=${img17} alt="17" /> 
+    Theme options are presented in a tree view and inside, we found the sliders stored under the name <strong>ct_flex_slider</strong>. We checked all slide titles to make them translatable. 
+    <img src=${img18} alt="18" />`,
+	},
+	{
+		id: 46,
+		title:
+			'Is it possible to change the wording on the booking form field on product single page such as duration cost etc?',
+		content:
+			'Hi At present we do not have any option to set them from the back end. So you will have to do a bit of customization on the <code>rnb-data-provider.php</code> and <code>main-script.js</code> files <a href="https://prnt.sc/q6fu89">https://prnt.sc/q6fu89</a> <a href="https://prnt.sc/q6func">https://prnt.sc/q6func</a>',
 	},
 ];

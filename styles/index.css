@@ -94,16 +94,19 @@ code {
 .content a.btn:focus {
   @apply bg-gray-800 px-6;
 }
-.content p a:not(.btn) {
+.content p a:not(.btn),
+.rq-accordion a:not(.btn) {
   @apply relative font-semibold inline-block text-gray-900;
 }
 .content strong {
   @apply text-gray-900;
 }
-.content p a:not(.btn):hover {
+.content p a:not(.btn):hover,
+.rq-accordion a:not(.btn):hover {
   @apply text-white;
 }
-.content p a:not(.btn)::after {
+.content p a:not(.btn)::after,
+.rq-accordion a:not(.btn)::after {
   content: '';
   height: 2px;
   bottom: -2px;
@@ -111,7 +114,8 @@ code {
   transition: height;
   @apply w-full absolute left-0 bg-gray-900 duration-200;
 }
-.content p a:not(.btn):hover::after {
+.content p a:not(.btn):hover::after,
+.rq-accordion a:not(.btn):hover::after {
   height: calc(100% + 3px);
 }
 .content p a:not(.btn)[href*='facebook']:hover::after {
