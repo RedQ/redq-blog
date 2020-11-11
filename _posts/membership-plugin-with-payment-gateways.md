@@ -3,6 +3,9 @@ title: "UserPlace Plugin - Setup  Payment Gateway for Your Membership Site"
 date: "2018-10-02"
 category: "Article, Blog, Plugin"
 excerpt: "Hello and welcome to the second part of UserPlace article series. (Fist article Intro To Userplace) As we all know, A complete free WordPress membership plugin available in wordpress.org. This time the article is about Membership plugin with Payments Gateway set up. We will discuss each option step by step. After the UserPlace installation, the first thing we have to"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe.png"
 ---
 
 Hello and welcome to the second part of [UserPlace](https://redq.io/userplace) article series. (Fist article [Intro To Userplace](https://redq.io/blog/userplace-wordpress-membership-plugin-free/))
@@ -17,7 +20,7 @@ As we all know, A complete free WordPress membership plugin available in [wordp
 - Stripe
 - Braintree
 
-![](/assets/blog/images/u21.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe1.png)
 
 We have already added two payment gateways to our plugin. They are  [Stripe](https://stripe.com/) and [Braintree](https://www.braintreepayments.com/).
 
@@ -25,25 +28,25 @@ On the general settings, we have to select one of the gateways. It can be either
 
 Let's select stripe on this occasion. As we have chosen stripe we have to move to stripe tab then there is an option to setup payment mode.
 
-![](/assets/blog/images/u2.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe2.png)
 
 **Stripe**
 
 In the stripe menu, you will see the below forms. There are two modes for settings i.e. Test and Live. For testing, purpose select the Test Mode and For Production Select the Live mode. You have to provide different credentials for a different mode.
 
-![](/assets/blog/images/u23.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe3.png)
 
-![](/assets/blog/images/u24.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe11.png)
 
 We will get these keys from stripe gateway dashboard. Please follow the link [https://dashboard.stripe.com/account/apikeys](https://dashboard.stripe.com/account/apikeys)
 
 First, we have to go to the stripe dashboard and from the left-hand side of the menu, we have to select API keys which are under developers. We will see the API key here and now we have to copy the API key and paste it on our test stripe API key field.
 
-![](/assets/blog/images/u25.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe4.png)
 
 Then we have to click the reveal test key token and then need to authenticate in order to reveal the key. Let's give our password to authenticate. Now the test API key is revealed and we just have to copy and paste it in the test stripe secret key field and have to click the save button.
 
-![](/assets/blog/images/u23.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe5.png)
 
 **Braintree**
 
@@ -51,23 +54,23 @@ If you have selected Braintree in the payment general settings, then you need to
 
 In the Braintree tab, you will get the below settings form. If you select payment type to Sandbox, you will see like this
 
-![](/assets/blog/images/u27.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe6.png)
 
 And If you select payment type to Production, you will see like this
 
-![](/assets/blog/images/u30.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe87.png)
 
 To get your Braintree sandbox keys you need to go to the URL [https://sandbox.braintreegateway.com .](https://sandbox.braintreegateway.com/) Now follow the below images to go through the process
 
-![](/assets/blog/images/u29.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe8.png)
 
 Now, Please go to API keys page and you will get options like this
 
-![](/assets/blog/images/u28.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe9.png)
 
 Now click on the view and you will be redirected to the below page from where you will get all the required details.
 
-![](/assets/blog/images/u31.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe10.png)
 
 Fill the corresponding fields with the specific credentials and your Braintree payment gateway is ready is used.
 
