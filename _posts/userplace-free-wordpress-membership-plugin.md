@@ -3,6 +3,9 @@ title: "Intro to UserPlace - A Complete Free WordPress Membership Plugin"
 date: "2018-09-25"
 category: "Article, Blog, Plugin"
 excerpt: "UserPlace is one of the best free WordPress membership plugins for User Profile, Member Subscription, Restriction & Payments. It’ll help you to monetize your site, you will able to create plans, subscriptions, and restrictions that apply into view level and submission level. This article is the first part of the article series of UserPlace. In this "
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/intro.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/intro.png"
 ---
 
 [UserPlace](https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/) is one of the best free WordPress membership plugins for User Profile, Member Subscription, Restriction & Payments. It’ll help you to monetize your site, you will able to create plans, subscriptions, and restrictions that apply into view level and submission level.
@@ -13,15 +16,15 @@ This article is the first part of the article series of UserPlace. In this serie
 
 ## At first, Go to Wordpress Dashboard -> plugins folder and search for UserPlace Free WordPress Membership Plugin and then install the plugin.
 
-![free WordPress membership plugin](/assets/blog/images/u1.png "free WordPress membership plugin")
+![free WordPress membership plugin](https://d2qklehrvrfpx7.cloudfront.net/blogimages/intro1.png "free WordPress membership plugin")
 
 After installing the plugin, You will find a menu in the sidebar named and you will be redirected to the welcome page. Hover over the Userplace menu in left  and you will see a lot of options like this
 
-![free WordPress membership plugin](/assets/blog/images/u-2.png "free WordPress membership plugin")
+![free WordPress membership plugin](https://d2qklehrvrfpx7.cloudfront.net/blogimages/intro2.png "free WordPress membership plugin")
 
 In the welcome page, you will find the page like the screenshot.  If userplace is not perfectly set, then you will find a message like this in the upper portion. We will talk about the perfect configuration in the other articles of this article series.  In the bottom part, you will find two buttons. One contains the link of the full documentation of our  plugin and the other one is the settings of the plugin.
 
-![](/assets/blog/images/u3.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/intro3.png)
 
 It contains some of the settings of the plugin. At general option, you have to select the appropriate page. When you activate the plugin, five pages will be created automatically in your page options. They are
 
@@ -31,7 +34,7 @@ It contains some of the settings of the plugin. At general option, you have to 
 - Pick a new password
 - Pricing plan
 
-![free WordPress membership plugin](/assets/blog/images/u4.png "free WordPress membership plugin")
+![free WordPress membership plugin](https://d2qklehrvrfpx7.cloudfront.net/blogimages/intro4.png "free WordPress membership plugin")
 
 These pages will be needed for action. Please make sure if you change anything here, the required pages are set perfectly, otherwise, this won't trigger error into your website.
 
@@ -53,15 +56,13 @@ Lost password shortcode: **\[userplace_password_lost_form\]**
 
 Password reset form shortcode: **\[userplace_password_reset_form\]**
 
-
-
 Then, let's get back into the other parts of settings and that is, different kinds of messages. In our plugin, we put a lot of messages in different sections for the perfect interaction with the customers. You can change it according to your need and show it to your users like this.
 
-![free WordPress membership plugin](/assets/blog/images/u5.png "free WordPress membership plugin")
+![free WordPress membership plugin](https://d2qklehrvrfpx7.cloudfront.net/blogimages/intro5.png "free WordPress membership plugin")
 
 In this article, we have talked about the installations and initial setup of our UserPlace free WordPress membership plugin. In the other parts of the article series, we will talk about each option of the plugins more elaborately.
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Free Download" btn_url="https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/" class="btn">View Template</a>
 
 **UserPlace Article Series**
 
