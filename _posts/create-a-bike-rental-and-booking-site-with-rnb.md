@@ -1,6 +1,10 @@
 ---
 title: "How to create a Bike Rental and Booking site with RnB"
 date: "2018-02-28"
+excerpt: "There are lots of plugins for bike rental and booking over there, to find a good one is really a tough job, lots of garbage things are also available over the internet. You cannot afford to choose among one of them without knowing well. But among them, if you choose “RnB” then it would be"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental.png"
 ---
 
 There are lots of plugins for bike rental and booking over there, to find a good one is really a tough job, lots of garbage things are also available over the internet. You cannot afford to choose among one of them without knowing well. But among them, if you choose “**RnB**” then it would be worth your time and choice. Among all of them, “**RnB**” is the best choice to make it happen.
@@ -9,7 +13,7 @@ It is very easy to use, especially for the beginners it is the best solution as 
 
 It contains lots of features. It is built as a [WooCommerce extension](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Frnb-woocommerce-rental-booking-system%2F14835145). This is a powerful WooCommerce plugin which allows you to sell your time or date based bookings.
 
-[**![Reuse Builder](/assets/blog/images/Download-Plugin.png)**](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Frnb-woocommerce-rental-booking-system%2F14835145)
+<a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Frnb-woocommerce-rental-booking-system%2F14835145" class="btn"> View Plugin</a>
 
 ## **Bike Rent**
 
