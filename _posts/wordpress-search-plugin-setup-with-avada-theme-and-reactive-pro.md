@@ -1,21 +1,26 @@
 ---
 title: "How To Make Your Search Page With Avada Theme And Reactive Pro Plugin"
 date: "2018-03-31"
+category: "Plugin, Article"
+excerpt: "Nowadays a website contains a huge volume of information and data. Especially an e-commerce site contains an enormous amount of categories and information. Most of these sites are built on WordPress, as WordPress is the easiest platform to build such websites. So, lots of WordPress developers are developing a plugin related to the search. If"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/reactive.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/reactive.png"
 ---
 
-[Reactive Pro](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Frnb-woocommerce-rental-booking-system%2F14835145) is a very handy plugin. [Best WordPress Advanced Search Plugin](https://redq.io/blog/wordpress-advanced-search-plugin/). This plugin has the capability to work with several types of search blocks (Checkbox, Combo box, Select box, Radio box, Textbox, Range box, Map auto-complete and Reset), Bars (Number of results, Search tags, Sorting Attributes, Pagination, and Grid or List), Grid. You may search your product through locations with Google Map. If you want to make a search page with [Avada theme](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fitem%2Favada-responsive-multipurpose-theme%2F2833226) and [Reactive Pro Plugin](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Frnb-woocommerce-rental-booking-system%2F14835145). At first, you have to install Avada theme and [Reactive Pro Plugin](https://redq.io/blog/reactive-lite-wordpress-free-plugin/) and RedQ Reuse form helper Plugin on your WordPress. Then the next procedures will be going on.\[/vc_column_text\]\[vc_column_text\]At first, you need the full plugin package zip file and need to extract it.
+[Reactive Pro](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Frnb-woocommerce-rental-booking-system%2F14835145) is a very handy plugin. [Best WordPress Advanced Search Plugin](https://redq.io/blog/wordpress-advanced-search-plugin/). This plugin has the capability to work with several types of search blocks (Checkbox, Combo box, Select box, Radio box, Textbox, Range box, Map auto-complete and Reset), Bars (Number of results, Search tags, Sorting Attributes, Pagination, and Grid or List), Grid. You may search your product through locations with Google Map. If you want to make a search page with [Avada theme](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fitem%2Favada-responsive-multipurpose-theme%2F2833226) and [Reactive Pro Plugin](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Frnb-woocommerce-rental-booking-system%2F14835145). At first, you have to install Avada theme and [Reactive Pro Plugin](https://redq.io/blog/reactive-lite-wordpress-free-plugin/) and RedQ Reuse form helper Plugin on your WordPress. Then the next procedures will be going on.At first, you need the full plugin package zip file and need to extract it.
 
 ![wordpress search plugin ](/assets/blog/images/Folder-structure-1.png)
 
 It will look like that. Then you have to click on Add New from the plugin sections of Dashboard of your WordPress.
 
-![wordpress search filter plugin ](/assets/blog/images/Add-new-plugin.png)\[/vc_column_text\]\[vc_column_text\]Then click on upload plugin.
+![wordpress search filter plugin ](/assets/blog/images/Add-new-plugin.png)Then click on upload plugin.
 
-![ best wordpress search plugin ](/assets/blog/images/upload-plugin.png)\[/vc_column_text\]\[vc_column_text\]![wordpress advanced search plugin ](/assets/blog/images/choose-file.png)
+![ best wordpress search plugin ](/assets/blog/images/upload-plugin.png)![wordpress advanced search plugin ](/assets/blog/images/choose-file.png)
 
 Then you have to click on choose file.![wordpress search bar plugin ](/assets/blog/images/choose-zip.png)
 
-Then you have to go to the extracted file location and go through reactivepro-main-> helper plugin location. There you will have three files. You have to select "redq-reuse-form.zip".\[/vc_column_text\]\[vc_column_text\]![wordpress category filter plugin ](/assets/blog/images/install-now.png)
+Then you have to go to the extracted file location and go through reactivepro-main-> helper plugin location. There you will have three files. You have to select "redq-reuse-form.zip".![wordpress category filter plugin ](/assets/blog/images/install-now.png)
 
 Now click on Install Now.![wordpress taxonomies search filter ](/assets/blog/images/Activate-now.png)
 
