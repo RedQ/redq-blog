@@ -3,6 +3,10 @@ title: "Best WordPress Advanced Search Plugin Reactive Pro"
 date: "2018-08-11"
 category: "Article, Blog, Plugin"
 excerpt: "Nowadays a website contains a huge volume of information and data. Especially an e-commerce site contains an enormous amount of categories and information. Most of these sites are built on WordPress, as WordPress is the easiest platform to build such websites. So, lots of WordPress developers are developing a plugin related to the search. If "
+
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/reactive.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/reactive.png"
 ---
 
 Nowadays a website contains a huge volume of information and data. Especially an e-commerce site contains an enormous amount of categories and information. Most of these sites are built on [WordPress](https://wordpress.com/), as WordPress is the easiest platform to build such websites. So, lots of [WordPress developers](https://developer.wordpress.org/) are developing a plugin related to the search.
