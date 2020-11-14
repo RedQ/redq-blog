@@ -1,7 +1,11 @@
+\``` 
+
 title: "Best Free Landing Page Templates for Startups"
 date: "2020-10-24"
 category: "Article, Blog, Theme"
 excerpt: "Startups need to be very savvy about creating a brand identity in order to maximize results without having to spend too much. Having an attractive website is often the first step in establishing a bold presence that lends credibility to the brand. Where to start though? There is no shortage of premium landing page templates"
+
+\``` 
 
 
 
