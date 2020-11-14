@@ -3,17 +3,20 @@ title: "Free WordPress Photography Themes"
 date: "2017-12-21"
 category: "Article, Blog, Theme"
 excerpt: "Photography is an amazing skill. If you think that having a good camera can make you a great photographer that is not correct. A photographer must have the eye to pick a great photo out of anything. If you are about to design  site for a great photographer where he or she will showcase the"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/photo.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/photo.png"
 ---
 
 Photography is an amazing skill. If you think that having a good camera can make you a great photographer that is not correct. A photographer must have the eye to pick a great photo out of anything. If you are about to design  site for a great photographer where he or she will showcase the photos, then the site has to be as much attractive as the contents. Right theme selection is  big challenge here. In this article we are explaining 10 best photography themes with there features for your site. Hope this will be helpful.
 
 # 10 Responsive WordPress Photography Themes Free
 
-
-
 ### 1.  Biancaa
 
-\[/vc\_column\_text\]\[/vc\_column\]\[/vc\_row\]\[vc\_row\]\[vc\_column\]\[vc\_single\_image image="1216" img\_size="full"\]\[/vc\_column\]\[/vc\_row\]\[vc\_row\]\[vc\_column\]\[vc\_column\_text\]Binacaa is a great WordPress theme designed for photographers where they can showcase there work and design an elegant portfolio. Its a feature rich theme which has retina ready feature for pixel perfect experience. The theme comes with color fond options for a better experience.
+![Biancaa](https://d2qklehrvrfpx7.cloudfront.net/blogimages/photo1.png)
+
+Binacaa is a great WordPress theme designed for photographers where they can showcase there work and design an elegant portfolio. Its a feature rich theme which has retina ready feature for pixel perfect experience. The theme comes with color fond options for a better experience.
 
 **Top Features:**
 
@@ -26,9 +29,11 @@ Photography is an amazing skill. If you think that having a good camera can make
 - Custom fonts
 - Custom colors
 
-
+<a href="https://wordpress.org/themes/biancaa/" class="btn">View Theme</a>
 
 ### 2.  SG Window
+
+![SG Window](https://d2qklehrvrfpx7.cloudfront.net/blogimages/photo2.png)
 
 SG Windows offers you responsive design with high functionality. A great WordPress theme for photography websites where photographers have a good platform for their showcasing. Its responsive and mobile ready. the theme includes CSS3 and Jquery effects at navigation menu.
 
@@ -42,9 +47,11 @@ SG Windows offers you responsive design with high functionality. A great WordPre
 - Threaded comments
 - Social media icons
 
-
+<a href="https://wordpress.org/themes/sg-window/" class="btn">View Theme</a>
 
 ### 3.  Eryn
+
+![Eryn](https://d2qklehrvrfpx7.cloudfront.net/blogimages/photo3.png)
 
 Eryn is a great WordPress theme for blogging sites.  Its a simple theme but offers you a different look with the two column design. The left column contains a sticky post ans act as the home page. Its also a great theme for photography pages.
 
@@ -58,9 +65,11 @@ Eryn is a great WordPress theme for blogging sites.  Its a simple theme but off
 - Theme options
 - Sticky post
 
-
+  <a href="https://wordpress.org/themes/eryn/" class="btn">View Theme</a>
 
 ### 4.  Travel Stories
+
+![Travel Stories](https://d2qklehrvrfpx7.cloudfront.net/blogimages/photo4.png)
 
 Travel Stories is a feature rich theme to work in WordPress best for any photography and blogging site. The theme comes with full  width featured slider at the home page. The theme is really simple to use but has an attractive design. The photo that is attached with any post is shown in full width and good resolution. A very smart way to display your photography skill.
 
@@ -73,9 +82,11 @@ Travel Stories is a feature rich theme to work in WordPress best for any photogr
 - Fluid layout
 - Featured posts
 
-
+<a href="https://wordpress.org/themes/travel-stories/" class="btn">View Theme</a>
 
 ### 5.  Hitchcock
+
+![Hitchcock](https://d2qklehrvrfpx7.cloudfront.net/blogimages/photo5.png)
 
 Hitchcock is a great theme for photography sites designed for WordPress. It allows to add a full with features background image that makes a site look more attractive. Its a one page theme with infinite scroll. So the visitors stay in your site for more time and this feature lets you add more contents with less effort. Also it helps to increase view.
 
@@ -89,9 +100,11 @@ Hitchcock is a great theme for photography sites designed for WordPress. It allo
 - Social Icons
 - Infinite Scrolling
 
-
+<a href="https://wordpress.org/themes/hitchcock/" class="btn">View Theme</a>
 
 ### 6.  Gridsby
+
+![Gridsby](https://d2qklehrvrfpx7.cloudfront.net/blogimages/photo6.png)
 
 Gridsby is an amaaazing WordPress theme for photography. The theme has a smart grid view for showcasing photos. Also it comes with great features like clean and beautiful templates and google font selector. Also it has unlimited color options for a great and unique look. The theme offers cross browser support for easy loading in any device and environment.
 
@@ -106,9 +119,11 @@ Gridsby is an amaaazing WordPress theme for photography. The theme has a smart g
 - RTL language support
 - Google map
 
-
+<a href="https://wordpress.org/themes/gridsby/" class="btn">View Theme</a>
 
 ### 7.  Wiles
+
+![Wiles](https://d2qklehrvrfpx7.cloudfront.net/blogimages/photo7.png)
 
 Wiles is a free wordpress theme designed for blogging sites and the design is best for showcasing photography. The theme comes with amazing features that makes it cool. The front page design is modern and elegant that offers a grid view of your photos.
 
@@ -122,25 +137,7 @@ Wiles is a free wordpress theme designed for blogging sites and the design is be
 - Translation ready
 - Editor style
 
-
-
-### 8.  Pinnacle
-
-I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-
-**Top Features:**
-
-### 9.  Boardwalk
-
-I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-
-**Top Features:**
-
-### 10.  Obscura
-
-I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-
-**Top Features:**
+<a href="https://wordpress.org/themes/wiles/" class="btn">View Theme</a>
 
 ### Conclusion
 
