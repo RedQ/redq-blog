@@ -3,17 +3,20 @@ title: "How To Rank Your Website and Business to Show up on Google First Page"
 date: "2018-09-20"
 category: "Article, Other"
 excerpt: "I'm telling you accurately how to rank your website and business to show up on the first page of google and tell you why you’ve been taught wrong by a lot of the SEO experts. So I’ve been ranking websites and blogs on google for a very long time but the problem is that most"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/rank.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/rank.png"
 ---
 
-I'm telling you accurately how to rank your website and business to show up on the first page of google and tell you why you’ve been taught wrong by a lot of the [SEO experts](https://alrubelrana.com/). So I’ve been ranking websites and blogs on google for a very long time but the problem is that most of the experts will tell you how to do it but they’ve already got the authority, so it’s very very easy for them and not for others.
+I'm telling you accurately how to rank your website and business to show up on the first page of google and tell you why you’ve been taught wrong by a lot of the SEO experts. So I’ve been ranking websites and blogs on google for a very long time but the problem is that most of the experts will tell you how to do it but they’ve already got the authority, so it’s very very easy for them and not for others.
 
-There are many ways you can rank a blog or website. And the biggest reason is people want to make money and want to monetize their site or blog. 
+There are many ways you can rank a blog or website. And the biggest reason is people want to make money and want to monetize their site or blog.
 
 ## **Every task has some method that we'd like to Follow Steps By Step, and Here I'll describe briefly :**
 
 1. Find your Keywords in your Niche. The cluster that Keywords on the idea of various pages.
 
-2. Write distinctive, Non- derived Content as well as Main Primary Keyword yet as LSI (Latent semantic analysis) meaning Keywords which individuals square measure largely mistreatment in Search Box. 
+2. Write distinctive, Non- derived Content as well as Main Primary Keyword yet as LSI (Latent semantic analysis) meaning Keywords which individuals square measure largely mistreatment in Search Box.
 
 3. Generate sensible internal links with correct Anchor Texts. Keep that as consultants counseled.
 

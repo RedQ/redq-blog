@@ -3,11 +3,12 @@ title: "Best WordPress Chat Plugin of 2020"
 date: "2018-09-23"
 category: "Article, Plugin"
 excerpt: Are you aware of a fact that more than 67% of users on e-commerce sites have deserted their shopping carts without confirming a checkout? This number is really huge. People have a desire that their questions should be responded to immediately and those websites lose their sales due to customers thought of uncertainty with their
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/chat.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/chat.png"
 ---
 
-
-
-\[vc_row\]\[vc_column\]\[vc_column_text\]Are you aware of a fact that more than 67% of users on [e-commerce](https://www.shopify.com/encyclopedia/what-is-ecommerce) sites have deserted their shopping carts without confirming a checkout? This number is really huge. People have a desire that their questions should be responded to immediately and those websites lose their sales due to customers thought of uncertainty with their purchases.
+Are you aware of a fact that more than 67% of users on [e-commerce](https://www.shopify.com/encyclopedia/what-is-ecommerce) sites have deserted their shopping carts without confirming a checkout? This number is really huge. People have a desire that their questions should be responded to immediately and those websites lose their sales due to customers thought of uncertainty with their purchases.
 
 Deploying a [WordPress Live Chat plugin](https://codecanyon.net/search/wordpress%20live%20chat%20plugin?ref=redqteam) is the solution for that fact, you can reassure customers at the most important moments. In this article, we will try to describe the **6** **Best WordPress Chat Plugin** already available in [codecanyon](https://codecanyon.net/?ref=redqteam), these are easy to install and setup. Let's start the article.
 
@@ -28,9 +29,9 @@ Included features:
 - LightBox for multiple images
 - image thumbnail support
 
-![YoBro](/assets/blog/images/YoBro.png "YoBro")
+![YoBro](https://d2qklehrvrfpx7.cloudfront.net/blogimages/chat1.png "YoBro")
 
-[![Download-Plugin](/assets/blog/images/Download-Plugin.png)](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fyobro-wordpress-multi-user-private-messaging-plugin%2F20563304)\[/vc_column_text\]\[vc_column_text\]
+<a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fyobro-wordpress-multi-user-private-messaging-plugin%2F20563304" class="btn">Purchase Plugin</a>
 
 ## Live Chat Unlimited
 
@@ -51,9 +52,9 @@ Included features:
 - GDPR compliance
 - Tested with PHP 7.2
 
-![Live Chat Unlimited](/assets/blog/images/Live-Chat-Unlimited.png "Live Chat Unlimited")
+![Live Chat Unlimited](https://d2qklehrvrfpx7.cloudfront.net/blogimages/chat2.png "Live Chat Unlimited")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Download Plugin" btn_url="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fwordpress-live-chat-plugin%2F3952877"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fwordpress-live-chat-plugin%2F3952877" class="btn">Purchase Plugin</a>
 
 ## WP Flat Visual Chat - Live Chat & Remote View for Wordpress
 
@@ -87,9 +88,9 @@ Included features:
 - Automatic updates
 - Reactive support!
 
-![WP Flat Visual Chat](/assets/blog/images/WP-Flat-Visual-Chat.png "WP Flat Visual Chat")
+![WP Flat Visual Chat](https://d2qklehrvrfpx7.cloudfront.net/blogimages/chat3.png "WP Flat Visual Chat")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Download Plugin" btn_url="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fwp-flat-visual-chat-live-chat-remote-view-for-wordpress%2F8329900"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fwp-flat-visual-chat-live-chat-remote-view-for-wordpress%2F8329900" class="btn">Purchase Plugin</a>
 
 ## WhatsApp Click to Chat Plugin for WordPress
 
@@ -110,9 +111,9 @@ Included features:
 - Compatible with GDPR
 - Randomize accounts list order
 
-![WhatsApp Click to Chat Plugin](/assets/blog/images/WhatsApp-Click-to-Chat-Plugin.png "WhatsApp Click to Chat Plugin")
+![WhatsApp Click to Chat Plugin](https://d2qklehrvrfpx7.cloudfront.net/blogimages/chat4.png "WhatsApp Click to Chat Plugin")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Download Plugin" btn_url="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fwhatsapp-click-to-chat-for-wordpress%2F20248537"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fwhatsapp-click-to-chat-for-wordpress%2F20248537" class="btn">Purchase Plugin</a>
 
 ## Awesome Live Chat
 
@@ -140,43 +141,9 @@ Included features:
 
 - Awesome dashboard
 
-![Awesome Live Chat](/assets/blog/images/Awesome-Live-Chat.jpg "Awesome Live Chat")
+![Awesome Live Chat](https://d2qklehrvrfpx7.cloudfront.net/blogimages/chat5.png "Awesome Live Chat")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Download Plugin" btn_url="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fawesome-live-chat%2F9931156"\] \[/ushop_button_shortcode_blog_wrap\]
-
-## FluentChat - WordPress Live Chat
-
-FluentChant is a very much new plugin published in codecanyon. Ultimately it is really a modern and stylish plugin. For your live chat solution, you can use it without any doubt. Though a newcomer in the market it provides a lot of features alongside with its rivals. Features listed below.
-
-Included features:
-
-- Responsive Chat Widget and Operator Dashboard
-- Customer Rating and Feedback
-- Chat Archives
-- Email Chat Logs
-- User Role Management
-- Operator Profiles
-- Operator Online Hours
-- Multiple Active Conversations
-- SMS Notification Support
-- Share Screenshot
-- Share File Uploads
-- Customer Info Screen
-- View Customer Location, Browser, and Last URL
-- Add Notes to Customer Info
-- Require Name and Email Before Chat
-- Contact Form
-- Canned Responses
-- Chat Widget Styling
-- Custom CSS Support
-- Extensive Documentation
-- Plugin Hooks and Filters
-- Auto Initiate Chat
-- 100% Translation Ready
-
-![FluentChat](/assets/blog/images/FluentChat.jpg "FluentChat")
-
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Download Plugin" btn_url="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Ffluentchat-wordpress-live-chat%2F20651073"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fawesome-live-chat%2F9931156" class="btn">Purchase Plugin</a>
 
 ### Conclusion
 

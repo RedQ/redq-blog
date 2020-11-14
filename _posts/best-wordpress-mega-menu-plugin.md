@@ -1,6 +1,11 @@
 ---
 title: "Best WordPress Mega Menu Plugin"
 date: "2018-09-12"
+category: "Artilce, Plugin"
+excerpt: "Nowadays every WordPress sites need an exotic menu. Mega menu plugin functionality is the solution for an exotic menu. But the theme you are using should have the support of Mega Menu unless you can not have this functionality. WordPress developers are now developing lots of plugins based on Mega Menu. So we will try"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu.png"
 ---
 
 Nowadays every [WordPress](https://wordpress.com/) sites need an exotic menu. [Mega menu plugin](https://codecanyon.net/search/mega%20menu%20plugin?ref=redqteam) functionality is the solution for an exotic menu. But the theme you are using should have the support of Mega Menu unless you can not have this functionality.
@@ -30,11 +35,9 @@ Included features:
 - Menu animation
 - Menu color scheme
 
-![WP Mega Menu](/assets/blog/images/WP-Mega-Menu.png "WP Mega Menu")
+![WP Mega Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu1.png "WP Mega Menu")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]
-\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Download-Plugin" btn_url="https://mythemeshop.com/plugins/wp-mega-menu/"\]
-\[/ushop_button_shortcode_blog_wrap\]
+<a href="https://mythemeshop.com/plugins/wp-mega-menu/" class="btn">View Plugin</a>
 
 ## Max Mega Menu Free Version
 
@@ -65,11 +68,9 @@ Included features:
 - In-depth documentation
 - Basic Support
 
-![Max Mega Menu](/assets/blog/images/Max-Mega-Menu.png "Max Mega Menu")
+![Max Mega Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu2.png "Max Mega Menu")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]
-\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Download-Plugin" btn_url="https://downloads.wordpress.org/plugin/megamenu.2.5.1.zip"\]
-\[/ushop_button_shortcode_blog_wrap\]
+<a href="https://downloads.wordpress.org/plugin/megamenu.2.5.1.zip" class="btn">Download Plugin</a>
 
 ## UberMenu
 
@@ -110,11 +111,9 @@ Included features:
 - Optional scrollable submenus for extended content
 - Automatic integration for themes that meet the requirements
 
-![UberMenu](/assets/blog/images/UberMenu.png "UberMenu")
+![UberMenu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu3.png "UberMenu")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]
-\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Download-Plugin" btn_url="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fubermenu-wordpress-mega-menu-plugin%2F154703"\]
-\[/ushop_button_shortcode_blog_wrap\]
+<a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fubermenu-wordpress-mega-menu-plugin%2F154703" class="btn">View Plugin</a>
 
 ## CSS3 Mega Drop Down Menu
 
@@ -136,11 +135,9 @@ Included features:
 - Left or right alignment
 - Help documentation
 
-![CSS3 Mega Drop Down Menu](/assets/blog/images/CSS3-Mega-Drop-Down-Menu.png "CSS3 Mega Drop Down Menu")
+![CSS3 Mega Drop Down Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu4.png "CSS3 Mega Drop Down Menu")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]
-\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Download-Plugin" btn_url="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fcss3-mega-drop-down-menu%2F126387"\]
-\[/ushop_button_shortcode_blog_wrap\]
+<a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fcss3-mega-drop-down-menu%2F126387" class="btn">View Plugin</a>
 
 ## Mega Main Menu
 
@@ -156,11 +153,9 @@ Included features:
 - WPML Compatible
 - Friendly Support
 
-![Mega Main Menu](/assets/blog/images/Mega-Main-Menu.png "Mega Main Menu")
+![Mega Main Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu5.png "Mega Main Menu")
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\]
-\[ushop_button_shortcode_blog btn_class="download-btn" btn_text="Download-Plugin" btn_url="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fmega-main-menu-wordpress-menu-plugin%2F6135125"\]
-\[/ushop_button_shortcode_blog_wrap\]
+<a href="ttps://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fmega-main-menu-wordpress-menu-plugin%2F6135125" class="btn">View Plugin</a>
 
 ### Conclusion
 
