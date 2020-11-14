@@ -4,7 +4,7 @@ import Intro from '../../components/intro';
 import Container from '../../components/container';
 import { AccordionWithFilter } from '../../components/accordion';
 // faqs data
-import { faqs } from '../../public/data/rnb-faqs';
+import { faqs } from '../../public/data/turbo-faqs';
 // motion variants
 const fadeInBottom = {
 	exit: {
@@ -23,10 +23,10 @@ const fadeInBottom = {
 	},
 };
 
-export default function RNBFAQ() {
+export default function TurboFAQ() {
 	return (
 		<Layout>
-			<Intro title="WooCommerce Rental & Booking FAQs" />
+			<Intro title="Turbo FAQs" />
 			<Container>
 				<motion.div variants={fadeInBottom}>
 					<AccordionWithFilter items={faqs} />

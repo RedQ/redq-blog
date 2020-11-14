@@ -2,6 +2,13 @@
 import img16 from '../assets/faq/rnb/16.png';
 import img17 from '../assets/faq/rnb/17.png';
 import img18 from '../assets/faq/rnb/18.png';
+import img19 from '../assets/faq/rnb/19.png';
+import img20 from '../assets/faq/rnb/20.png';
+import img21 from '../assets/faq/rnb/21.png';
+import img22 from '../assets/faq/rnb/22.png';
+import img23 from '../assets/faq/rnb/23.png';
+import img24 from '../assets/faq/rnb/24.png';
+import img25 from '../assets/faq/rnb/25.png';
 
 export const faqs = [
 	{
@@ -287,7 +294,59 @@ export const faqs = [
     On this page, you have to find the right option. Usually, theme options are listed somewhere below <strong>theme_mods_{themename}</strong>. The following image shows an example, where we looked for the <strong>WP Real Estate Pro</strong> theme’s options and found them under <strong>WP Pro Real Estate 6_options</strong>. 
     <img src=${img17} alt="17" /> 
     Theme options are presented in a tree view and inside, we found the sliders stored under the name <strong>ct_flex_slider</strong>. We checked all slide titles to make them translatable. 
-    <img src=${img18} alt="18" />`,
+    <img src=${img18} alt="18" />
+    <h2>Translating the theme options</h2>
+    Now that the theme options are marked as translatable, they appear on the <code>WPML->String Translation</code> page. You translate them just like any other strings.
+    <img src=${img19} alt="19" />
+    The following image shows our slides on the front-end after we translated all the slide title strings.
+    <img src=${img20} alt="20" />
+    <h2>Other types of theme options</h2>
+    Besides slides, you can use this approach for translating any other theme options. For example, <code>custom Widgets</code> are usually found under options named similar to <code>widget_{widget_name}</code>.
+    <h2>Translating your theme options directly on the theme options panel</h2>
+    You may face situations where you need to assign a different value for your theme options directly from the options panel. This is possible with WPML API since 3.9.3 version, however, it requires adding some code and using the <code>wpml_multilingual_options</code> function.
+    <h2>Translating your Favicon</h2>
+    Since <strong>WordPress 4.3</strong>, WordPress implemented a <strong>Site Icon</strong> feature that enables favicon in your web site. You only need to specify a square image that is at least 512 pixels in width and height, from the <code>Appearance->Customize</code> screen.
+    <h2>1. Click the “Site Identity” in the Customizer menu.</h2>
+    <img src=${img21} alt="21" />
+    <h2>2. Add or change a “Site Icon”.</h2>
+    <img src=${img22} alt="22" />
+    <p>As you can see, <strong>Site Icon</strong> is a <strong>Customizer</strong> option, so its translation is not different than for any other option. Basically, it takes the ID of the image you select to be your Site Icon and uses it for displaying on the front-end.</p>
+    <p>To use different images as Site Icons in other languages, you need to “translate” this ID by specifying the appropriate image IDs for this option in other languages.</p>
+    <p>Let’s do this step by step!</p>
+    <p>Go to the <strong>WPML->String Translation</strong> page and click the <strong>Translate texts in admin screens</strong> link at the bottom of the page. On the next page, scroll down until you find the <strong>site_icon</strong> option. Select it and click on the <strong>Apply</strong> button to save your options.</p>
+    <img src=${img23} alt="23" />
+    <p>Now, this option is available on the <strong>String Translation</strong> panel and you need to translate it. In order to do this, you need to add the ID of your image that will correspond to the favicon translation.</p>
+    <p>The next step is to obtain the ID of that image. For this, you need to upload a new favicon image on the <strong>Dashboard–>Media</strong> Library page. When you hover your new image, you can see its ID on the URL as displayed in the image below.    </p>
+    <img src=${img24} alt="24" />
+    <p>Alternatively, you can select it and take note of the URL ID. Both are perfectly fine and point to the same ID. In our example it is <strong>2217</strong>.</p>
+    <p>Finally, go to the <strong>WPML–>String Translation</strong> page and select the <strong>admin_texts_site_icon</strong> domain using the top search. Under this domain, you will find your <strong>site_icon</strong>. Translate it by adding the ID or your new favicon.    </p>
+    <img src=${img25} alt="25" />
+    <h2>Resolving issues with MaxInputVars value</h2>
+    <p>If you encounter a problem during saving this could be due to a to low value of MaxInputVars. To check the minimum MaxInputVars value required to save the page do the following:</p>
+    <ol data-key="2297">
+      <li class="ListItemNode">
+        <div class="ListItem-Content" data-key="2288">
+        <div data-key="2287"><span data-key="2280">Go to&nbsp;<strong>WPML&nbsp;</strong>-&gt;&nbsp;<strong>String translation&nbsp;</strong>and open a&nbsp;<strong>Translate texts in admin screens&nbsp;</strong>link.</span></div>
+        </div>
+      </li>
+      <li class="ListItemNode">
+        <div class="ListItem-Content" data-key="2291">
+        <div data-key="2290"><span data-key="2289">Open your browser’s console and go to Console tab. Each browser has a different way for invoking a console. In Google Chrome you need to press F12 on your keyboard and in Mozilla Firefox shortcut is Shift+Control+K.</span></div>
+        </div>
+      </li>
+      <li class="ListItemNode">
+        <div class="ListItem-Content" data-key="2296">
+        <div data-key="2295"><span data-key="2292">Enter command&nbsp;<code>jQuery('input').length</code>into Console tab and press Enter.</span></div>
+        </div>
+      </li>
+    </ol>
+    <p>The value that is returned is the minimal MaxInputVars value required to save the page</p>
+    <p>To increase PHP limit for&nbsp;<code>max_input_vars</code>&nbsp;you need to edit either&nbsp;<code>php.ini</code>or<code>.htaccess</code>file. Let us say that you want to increase<code>max_input_vars</code>value to 10000. You could one of the following:</p>
+    <p>Add line <code>max_input_vars = 10000</code> to <code>php.ini</code></p>
+    <p>Add line <code>php_value max_input_vars 10000</code> to <code>.htaccess</code></p>
+    <p>If you do not have permission to change your server settings you can ask your hosting provider to increase the value of MaxInputVars.</p>
+    If you can not increase the value of MaxInputVars you can add strings to translation with <code>wpml-config.xml</code> file.
+    `,
 	},
 	{
 		id: 46,

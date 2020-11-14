@@ -4,7 +4,6 @@ import { motion } from 'framer-motion';
 import Layout from '../../components/layout';
 import Intro from '../../components/intro';
 import Container from '../../components/container';
-
 // motion variants
 const fadeInBottom = {
 	exit: {
@@ -52,7 +51,7 @@ export default function Index() {
 					variants={fadeInBottom}
 					className="border border-gray-300 border-solid rounded overflow-hidden mb-10 transition-shadow duration-300 hover:shadow-small"
 				>
-					<Link href="/faq">
+					<Link href="/faq/reactive-pro-faqs">
 						<a>
 							<Image
 								src="/assets/faq/reactive/preview.png"
@@ -62,7 +61,7 @@ export default function Index() {
 							/>
 						</a>
 					</Link>
-					<Link href="/faq">
+					<Link href="/faq/reactive-pro-faqs">
 						<a className="block text-center p-4 text-gray-900 text-lg">
 							Reactive Pro FAQs
 						</a>
@@ -72,7 +71,7 @@ export default function Index() {
 					variants={fadeInBottom}
 					className="border border-gray-300 border-solid rounded overflow-hidden mb-10 transition-shadow duration-300 hover:shadow-small"
 				>
-					<Link href="/faq">
+					<Link href="/faq/turbo-faqs">
 						<a>
 							<Image
 								src="/assets/faq/turbo/preview.png"
@@ -82,7 +81,7 @@ export default function Index() {
 							/>
 						</a>
 					</Link>
-					<Link href="/faq">
+					<Link href="/faq/turbo-faqs">
 						<a className="block text-center p-4 text-gray-900 text-lg">
 							Turbo FAQs
 						</a>

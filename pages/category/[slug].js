@@ -1,21 +1,18 @@
-import { useRouter } from "next/router";
-import ErrorPage from "next/error";
-
-import { getAllPosts } from "../../lib/api";
+import Layout from '../../components/layout';
+import { getAllPosts } from '../../lib/api';
 import {
 	getCategories,
 	getPostCategories,
 	getPostsByCategory,
-} from "../../lib/utils";
-import markdownToHtml from "../../lib/markdownToHtml";
+} from '../../lib/utils';
 
 export default function Category({ categoryPosts }) {
-	console.log(categoryPosts, "categoryPosts");
-	return <div>Show category here</div>;
+	console.log(categoryPosts, 'categoryPosts');
+	return <Layout>Show category here</Layout>;
 }
 
 export async function getStaticPaths() {
-	const posts = getAllPosts(["slug", "category"]);
+	const posts = getAllPosts(['slug', 'category']);
 	const categories = getCategories(posts);
 	return {
 		paths: categories.map((category) => {
@@ -28,16 +25,15 @@ export async function getStaticPaths() {
 		fallback: false,
 	};
 }
-
 export async function getStaticProps({ params }) {
 	const posts = await getAllPosts([
-		"title",
-		"date",
-		"slug",
-		"category",
-		"author",
-		"coverImage",
-		"excerpt",
+		'title',
+		'date',
+		'slug',
+		'category',
+		'author',
+		'coverImage',
+		'excerpt',
 	]);
 	const categoryPosts = getPostsByCategory(posts, params?.slug);
 	return {

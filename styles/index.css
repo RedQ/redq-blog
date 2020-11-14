@@ -165,6 +165,13 @@ code {
   height: 27px;
   top: 0;
 }
+.rq-accordion .content h2,
+.rq-accordion .content h3 {
+  @apply text-xl mt-4 mb-3 leading-snug text-gray-900 font-semibold;
+}
+.rq-accordion .content p {
+  @apply mt-4 mb-3;
+}
 /* end of RedQ site's styles */
 
 /* Start purging... */
