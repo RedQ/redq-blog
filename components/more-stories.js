@@ -1,4 +1,4 @@
-import PostPreview from '../components/post-preview';
+import PostPreview from './post-preview';
 
 const MoreStories = ({ posts }) => {
 	return (

@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion';
 import Container from '../components/container';
-
 // motion variant
 let easing = [0.175, 0.85, 0.42, 0.96];
 const fadeIn = {
@@ -80,7 +79,7 @@ export default function Intro({ title }) {
 				<header>
 					<motion.h1
 						variants={fadeInBottom}
-						className="text-4xl md:text-6xl text-gray-900 font-bold tracking-tighter"
+						className="text-4xl md:text-6xl text-gray-900 font-bold tracking-tighter capitalize"
 					>
 						{title}
 					</motion.h1>

@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { BsArrowRight } from 'react-icons/bs';
 import { motion } from 'framer-motion';
 import CoverImage from './cover-image';
-import DateFormatter from '../components/date-formatter';
+import DateFormatter from './date-formatter';
 // motion variants
 const fadeInBottom = {
 	exit: {
@@ -22,11 +22,11 @@ const fadeInBottom = {
 };
 
 export default function PostPreview({
-	title,
-	coverImage,
-	date,
-	excerpt,
 	slug,
+	date,
+	title,
+	excerpt,
+	coverImage,
 }) {
 	return (
 		<motion.article variants={fadeInBottom}>
@@ -50,6 +50,7 @@ export default function PostPreview({
 				></div>
 			</figure>
 			<div className="mb-4 text-blue-700 uppercase tracking-widest text-sm font-semibold">
+				{/*{category !== undefined ? <Categories items={category} /> : ''}*/}
 				{date !== undefined ? <DateFormatter dateString={date} /> : ''}
 			</div>
 			<header className="mb-6">

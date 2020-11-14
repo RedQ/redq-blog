@@ -1,4 +1,8 @@
+import { useRouter } from 'next/router';
 import Layout from '../../components/layout';
+import Container from '../../components/container';
+import Intro from '../../components/intro';
+import MoreStories from '../../components/more-stories';
 import { getAllPosts } from '../../lib/api';
 import {
 	getCategories,
@@ -7,8 +11,16 @@ import {
 } from '../../lib/utils';
 
 export default function Category({ categoryPosts }) {
+	const router = useRouter();
 	console.log(categoryPosts, 'categoryPosts');
-	return <Layout>Show category here</Layout>;
+	return (
+		<Layout>
+			<Intro title={`Category: ${router?.query?.slug}`} />
+			<Container className="pt-1">
+				{categoryPosts.length > 0 && <MoreStories posts={categoryPosts} />}
+			</Container>
+		</Layout>
+	);
 }
 
 export async function getStaticPaths() {

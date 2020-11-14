@@ -5,7 +5,7 @@ import MoreStories from '../components/more-stories';
 import Intro from '../components/intro';
 import Layout from '../components/layout';
 import { getAllPosts } from '../lib/api';
-import { getPostCategories } from '../lib/utils';
+import { getPostCategoriesByComma } from '../lib/utils';
 
 export default function Index({ allPosts }) {
 	let postsCategories = [];
@@ -19,7 +19,7 @@ export default function Index({ allPosts }) {
 	const allCategories = allCategoriesInOneArr.filter(
 		(value, index) => allCategoriesInOneArr.indexOf(value) === index
 	);
-	const categories = getPostCategories(allCategories.join());
+	const categories = getPostCategoriesByComma(allCategories.join());
 
 	return (
 		<Layout>
