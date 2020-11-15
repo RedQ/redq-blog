@@ -10,6 +10,8 @@ ogImage:
 
 There are lots of shopping templates available in several marketplaces. But choosing the right one is very difficult. Today we will talk about a shopping or eCommerce template named "[PickBazar](https://redq.io/pickbazar)" developed by [RedQ Inc](https://redq.io/). It is a new template published in the [Envato marketplace](http://bit.ly/30gODbV).
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 ## What is React and why should we use it?
 
 React is a component-based JavaScript library for generating user interfaces and it is introduced by Facebook. It allows us to create encapsulated components that manage their state and then compose them to make complex UIs. ReactJS is one of the widely used UI Library that assists with the creation of beautiful web applications requiring minimal effort and coding.
