@@ -10,6 +10,8 @@ ogImage:
 
 Hello and welcome to [UserPlace](https://redq.io/userplace) a free WordPress membership plugin, plan creation for a membership site. Once the payment gateway settings are done, you will be required to create your own plans. The details about the payment settings are given in this article ([payment gateways](https://redq.io/blog/membership-plugin-with-payment-gateways/)). By using these plans, users will be able to subscribe to your site and will become members of your site.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 [Free Download UserPlace Plugin](https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/)
 
 &lt;span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"&gt;﻿&lt;/span&gt;
