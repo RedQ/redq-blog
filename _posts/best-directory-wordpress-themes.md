@@ -1,6 +1,7 @@
 ---
 title: "Best Directory WordPress Themes 2020"
 date: "2020-02-28"
+category: "Theme"
 excerpt: "Here is a list of the [best WordPress  themes](https://redq.io/blog/best-free-wordpress-themes-advertising/) that you can use for almost any purpose. Some menu lists include a very smart guide and rich feature in WordPress themes."
 coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/directory.png"
 ogImage:
@@ -12,6 +13,8 @@ Here is a list of the [best WordPress themes](https://redq.io/blog/best-free-wor
 Directory WordPress themes are gaining more popularity because of their usability and unlimited applications. This topic can be used for almost any purpose. Directory topics are another name for flexibility. You can decide what you want to do with it.
 
 For example, the same directory topic that allows you to create a website for your hotel can be used to create a comprehensive directory listing all hotels in the region / state / country.
+
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 ## 1.Listbook
 
