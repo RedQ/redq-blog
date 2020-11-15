@@ -9,6 +9,7 @@ ogImage:
 ---
 
 Hello good people, hope you all had a good day and we are ready with a new article of the [UserPlace](https://redq.io/userplace) article series. This tile the article is about coupon creations and it's usage with your membership site by using the [UserPlace Plugin](https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/). So let's dig into the article.
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 <iframe src="https://www.youtube.com/embed/VcJ95WyzCtc" width="900" height="550" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe>
 
