@@ -1,14 +1,16 @@
 ---
-title: 'How a Landing Page can Redefine Your Business in 2020'
-date: '2020-06-29'
-category: 'Article, Blog'
-excerpt: 'Online visibility has become essential for businesses looking to scale up, especially within the past decade. In 2020 and moving forward, any entrepreneur or creator should be looking to bringing their product, service or app to the forefront of the cyber space. So, what’s the catch? The process of bringing a business online can seem'
-coverImage: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/how-a-landing-page-can-redefine-your-business-home.jpg'
+title: "How a Landing Page can Redefine Your Business in 2020"
+date: "2020-06-29"
+category: "Article, Blog"
+excerpt: "Online visibility has become essential for businesses looking to scale up, especially within the past decade. In 2020 and moving forward, any entrepreneur or creator should be looking to bringing their product, service or app to the forefront of the cyber space. So, what’s the catch? The process of bringing a business online can seem"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/how-a-landing-page-can-redefine-your-business-home.jpg"
 ogImage:
-  url: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/how-a-landing-page-can-redefine-your-business-home.jpg'
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/how-a-landing-page-can-redefine-your-business-home.jpg"
 ---
 
 Online visibility has become essential for businesses looking to scale up, especially within the past decade. In 2020 and moving forward, any entrepreneur or creator should be looking to bringing their product, service or app to the forefront of the cyber space. So, what’s the catch? The process of bringing a business online can seem like a tedious and long development cycle, but it doesn’t have to be that way anymore. Landing pages have slowly become the “go to” option for businesses who want to generate leads and sales while growing their traffic and potentially popularizing their offerings to a lucrative audience.
+
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 Not every businessman is a web development expert or understands the intricacies of developing a piece of real estate on the internet, but being tech savvy has moved from being an extracurricular skill to a necessity. Having access to the internet means you have access to a world of tools including react based landing pages that are highly responsive, they come with extremely adaptable and customizable infrastructures that assist you to quickly having your own page that your potential customers can access and see all that you have to offer. There are no limitations to this; you could be promoting goods, services, digital products or SaaS apps, or your business. The landing page was built to adapt to your needs to that you appear online as you wish to be viewed by your audience.
 
