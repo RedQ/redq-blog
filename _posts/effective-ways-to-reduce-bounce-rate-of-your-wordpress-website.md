@@ -11,6 +11,8 @@ ogImage:
 
 There are several features that will verify a blog's [bounce rate](https://en.wikipedia.org/wiki/Bounce_rate). In short definition, the bounce rate is technically the ratio of visitors to a website or blog who leaves after viewing a single page.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 As a developer, it is essential to reduce bounce rate of your website. If the bounce rate for [a blog](https://redq.io/blog/why-use-wordpress-for-a-website/) is high, there are two options that could have influence this turn out: the page provides complete information and the visitor was able to get the answers needed promptly or the information provided was not what he or she was looking for. If you've set up your Google Analytics account you may have noticed that percentage count that says "[Bounce Rate](https://en.wikipedia.org/wiki/Bounce_rate)." Now you might probably think that Google pays no attention to this and it's just another number, well it's not! Here are some tips to reduce your WordPress website’s bounce rate:
 
 ## Compress Your Images
