@@ -10,6 +10,8 @@ ogImage:
 
 This is the era of internet. Business has a new dimension because of this internet. E-commerce has achieved a new level nowadays. E-commerce is gaining more popularity day by day. WordPress is the best platform to maintain an E-commerce site. WooCommerce is the best plugin available in the market for E-commerce based WordPress sites. Lots of WordPress plugin developers are developing a plugin to assist this highly rich WooCommerce plugin. Product feed is a section that is required by every WooCommerce based WordPress site.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 In this competitive business world if you have failed to maintain your E-commerce site perfectly then it would be a disaster for an E-commerce site owner. The product feed plugin is here to solve your issue. It will grab the attention of potential customers. It grants you to exhibit your products on multiple marketing channels, price comparison websites, affiliate networks, etc. With the growing visibility of your store’s products, it is certain to increase sales.
 
 So today we make a list of product feed plugins for WooCommerce already available in several market places. Let us start the article.
