@@ -9,6 +9,8 @@ ogImage:
 
 There are lots of plugins for bike rental and booking over there, to find a good one is really a tough job, lots of garbage things are also available over the internet. You cannot afford to choose among one of them without knowing well. But among them, if you choose “**RnB**” then it would be worth your time and choice. Among all of them, “**RnB**” is the best choice to make it happen.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 It is very easy to use, especially for the beginners it is the best solution as it is very handy and easy. “[**RnB**](https://redq.io/blog/woocommerce-booking-plugin/)” is best for its low ‘_price’_ but loaded with good ‘_performance’_ and _‘well support system’_.
 
 It contains lots of features. It is built as a [WooCommerce extension](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Frnb-woocommerce-rental-booking-system%2F14835145). This is a powerful WooCommerce plugin which allows you to sell your time or date based bookings.
@@ -35,8 +37,6 @@ Inventory fully works in two steps. The Attributes fields like _resources, perso
 
 ![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental1.png)
 
-
-
 **Second ScreenShot**
 
 **![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental2.png)**
@@ -55,17 +55,13 @@ Inventory fully works in two steps. The Attributes fields like _resources, perso
 
 5. **Hourly pricing plan.**
 
-   
-
 6. **General pricing plan:** Meanwhile you set general pricing plan for a single product this price will be applied for each day during your booking plan. General pricing is a simple pricing plan. All the days will calculate the same price if you set general pricing for your products. If you have many products and all the products have some fixed price, then General pricing will be helpful for you.![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental3.png)
 
 7. **Daily pricing plan:** Daily pricing plan is one of the most interesting features of our pricing plan. Daily Pricing plan is for you if your product has a different price for every single day. Daily pricing plan allows you to set a different price for each day of a week. Meanwhile booking this product the price will be calculated depending on the day’s price. Hourly price is also included in the daily pricing plan. But be alert that, Hourly price will work perfectly with the daily pricing plan if you book less than a day.![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental4.png)
 
 8. **Monthly Pricing Plan:** Monthly pricing plan allows you to set a different price for each month of a Year. While you book this product the price will be calculated depending on the monthly price. Different price for a different month!!! How cool is that!
 
-![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental5.png)4\. 
-
-
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental5.png)4\.
 
 4. **Days ranges pricing plan\*\***:\*\* This plugins also allow you to set unlimited day ranges pricing plan by setting day ranges through the plugins set day ranges option.
 
@@ -183,10 +179,6 @@ You can add unlimited product attributes from this general tab like the followin
 You also can add *unlimited product features* from here.
 
 ![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental18.png)
-
-
-
-
 
 Product attributes and features will be showed in the tab in the single product page.
 
