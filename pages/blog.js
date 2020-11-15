@@ -5,21 +5,29 @@ import MoreStories from '../components/more-stories';
 import Intro from '../components/intro';
 import Layout from '../components/layout';
 import { getAllPosts } from '../lib/api';
-import { getPostCategoriesByComma } from '../lib/utils';
+import { getPostCategories } from '../lib/utils';
 
 export default function Index({ allPosts }) {
+	// collect allPosts category to an array
 	let postsCategories = [];
 	allPosts.forEach((post) => {
 		if (post.category !== undefined && post.category !== '') {
 			postsCategories.push(post.category);
 		}
 	});
-	const allCategoriesInString = postsCategories.join().replace(/\s+/g, '');
-	const allCategoriesInOneArr = allCategoriesInString.split(',');
-	const allCategories = allCategoriesInOneArr.filter(
-		(value, index) => allCategoriesInOneArr.indexOf(value) === index
+	/*
+	 * Make a long string from an array,
+	 * removed whitespace after each comma,
+	 * converted the long string to an array.
+	 */
+	const allCategories = postsCategories
+		.join()
+		.replace(/\s*,\s*/gi, ',')
+		.split(',');
+	// filter unique categories from allCategories
+	const uniqueCategories = allCategories.filter(
+		(value, index) => allCategories.indexOf(value) === index
 	);
-	const categories = getPostCategoriesByComma(allCategories.join());
 
 	return (
 		<Layout>
@@ -30,7 +38,7 @@ export default function Index({ allPosts }) {
 			<Container>
 				<Categories
 					className="mb-6 sm:mb-8 flex flex-wrap"
-					items={categories}
+					items={getPostCategories(uniqueCategories.join(', '))}
 				/>
 				{allPosts.length > 0 && <MoreStories posts={allPosts} />}
 			</Container>
