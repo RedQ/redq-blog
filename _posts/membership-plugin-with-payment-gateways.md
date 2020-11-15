@@ -10,6 +10,8 @@ ogImage:
 
 Hello and welcome to the second part of [UserPlace](https://redq.io/userplace) article series. (Fist article [Intro To Userplace](https://redq.io/blog/userplace-wordpress-membership-plugin-free/))
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 As we all know, A complete free WordPress membership plugin available in [wordpress.org](https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/). This time the article is about Membership plugin with Payments Gateway set up. We will discuss each option step by step. After the [UserPlace](https://redq.io/userplace) installation, the first thing we have to do is to setup a payment gateway and payment credentials stripe membership site. Once we go to payments from the UserPlace menu, we will see that there are three parts:
 
 <iframe src="https://www.youtube.com/embed/PQd5F3JBOoU" width="900" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
