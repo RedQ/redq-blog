@@ -45,4 +45,4 @@ Now come to the point, I hope after reading this article you will give a try to 
 
 The developer of this plugin is always busy to push update on a regular basis. It also has [bbPress](https://bbpress.org/), [BuddyPress](https://buddypress.org/) support and graphically very rich. ‘YoBro’ will naturally help your website’s users to communicate with you and between them and also assists you to generate your demanding income. So wish you very good luck and hope you will use this rich WordPress plugin definitely.
 
-\[ushop_button_shortcode_blog_wrap btn_align="text-center"\] \[ushop_button_shortcode_blog btn_class="purchase-btn" btn_text="Purchase Now" btn_url="https://codecanyon.net/item/yobro-wordpress-multi-user-private-messaging-plugin/20563304?ref=redqteam"\] \[/ushop_button_shortcode_blog_wrap\]
+<a href="https://codecanyon.net/item/yobro-wordpress-multi-user-private-messaging-plugin/20563304?ref=redqteam" class="btn">Purchase Now</a>

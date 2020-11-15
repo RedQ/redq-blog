@@ -1,9 +1,8 @@
-import Link from "next/link";
-import { BsArrowRight } from "react-icons/bs";
-import { motion } from "framer-motion";
-import CoverImage from "./cover-image";
-import DateFormatter from "../components/date-formatter";
-
+import Link from 'next/link';
+import { BsArrowRight } from 'react-icons/bs';
+import { motion } from 'framer-motion';
+import CoverImage from './cover-image';
+import DateFormatter from './date-formatter';
 // motion variants
 const fadeInBottom = {
 	exit: {
@@ -23,12 +22,11 @@ const fadeInBottom = {
 };
 
 export default function PostPreview({
-	title,
-	coverImage,
-	date,
-	excerpt,
 	slug,
-	categories,
+	date,
+	title,
+	excerpt,
+	coverImage,
 }) {
 	return (
 		<motion.article variants={fadeInBottom}>
@@ -42,17 +40,18 @@ export default function PostPreview({
 				<div
 					className="absolute bg-gray-900 bg-opacity-25"
 					style={{
-						width: "80%",
-						height: "80%",
+						width: '80%',
+						height: '80%',
 						zIndex: -1,
 						bottom: 0,
-						left: "10%",
-						filter: "blur(15px)",
+						left: '10%',
+						filter: 'blur(15px)',
 					}}
 				></div>
 			</figure>
 			<div className="mb-4 text-blue-700 uppercase tracking-widest text-sm font-semibold">
-				{date !== undefined ? <DateFormatter dateString={date} /> : ""}
+				{/*{category !== undefined ? <Categories items={category} /> : ''}*/}
+				{date !== undefined ? <DateFormatter dateString={date} /> : ''}
 			</div>
 			<header className="mb-6">
 				<h3 className="text-2xl font-semibold leading-snug tracking-tight">
@@ -63,19 +62,6 @@ export default function PostPreview({
 					</Link>
 				</h3>
 			</header>
-			<div>
-				{categories.map((category) => (
-					<Link as={`/category/${category?.slug}`} href="/category/[slug]">
-						<a
-							style={{ color: "blueviolet" }}
-							className="text-gray-900 transition-all duration-200 hover:text-gray-700"
-						>
-							<>{category?.name} </>
-						</a>
-					</Link>
-				))}
-			</div>
-			<br />
 			<p className="leading-relaxed mb-8 text-gray-700">{excerpt}</p>
 			<footer>
 				<Link as={`/posts/${slug}`} href="/posts/[slug]">

@@ -1,6 +1,8 @@
 ---
 title: "Reuse Builder WP Free Plugin ( Review and Installation )"
 date: "2018-01-20"
+category: "Article, Blog, Plugin"
+excerpt: "Creating custom fields and metadata is not easy. You can enter codes or you can use the paid or free plugin. There are no basic features in the free version."
 ---
 
 Creating custom fields and metadata is not easy. You can enter codes or you can use the paid or free plugin. There are no basic features in **the free version.**
@@ -11,7 +13,7 @@ That is why rebuilding a builder came to help you. Reuse builder is such a thing
 
 You can build any custom post type without any coding. There are also some shortcodes for showing the archive and post single page template via Reuse builder.
 
-It's a simple builder or generator plugin for any custom post type, taxonomies, and Meta boxes, term Meta boxes, post archive page, and single page template builder.\[/vc_column_text\]
+It's a simple builder or generator plugin for any custom post type, taxonomies, and Meta boxes, term Meta boxes, post archive page, and single page template builder.
 
 **THE FEATURES OFFERED BY THIS PLUGIN**
 
@@ -69,7 +71,7 @@ In the wp-admin dashboard, there is a menu in the sidebar named builder. Inside
 
 Now enter your custom post type name. E.g. Property. You can specify custom post slug in the post slug field.
 
-Select the predefined menu position you want to show your custom post type.Finally enable which fields you want to activate in your custom post type.\[/vc_column_text\]
+Select the predefined menu position you want to show your custom post type.Finally enable which fields you want to activate in your custom post type.
 
 **Taxonomy Builder**
 

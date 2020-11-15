@@ -31,12 +31,16 @@ const Categories = ({ className, items }) => {
 	return (
 		<motion.div variants={variants} className={`site-categories ${className}`}>
 			{items.map((item, index) => (
-				<Link href={item.path} key={`${item.title}-${index}`}>
+				<Link
+					as={`/category/${item.slug}`}
+					href="/category/[slug]"
+					key={`${item.name}-${index}`}
+				>
 					<motion.a
 						variants={fadeInBottom}
 						className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 mb-2 transition-colors duration-300 cursor-pointer"
 					>
-						{item.title}
+						#{item.name}
 					</motion.a>
 				</Link>
 			))}

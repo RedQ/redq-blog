@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion';
 import Container from '../components/container';
-
 // motion variant
 let easing = [0.175, 0.85, 0.42, 0.96];
 const fadeIn = {
@@ -54,11 +53,11 @@ const heightTransition = {
 	},
 };
 
-export default function Intro() {
+export default function Intro({ title }) {
 	return (
 		<motion.section
 			variants={heightTransition}
-			className="mb-10 sm:mb-12 md:mb-16 bg-light-gray py-20 sm:py-24 md:py-32 lg:py-40 relative overflow-hidden"
+			className="mb-10 sm:mb-12 bg-light-gray py-20 sm:py-24 md:py-32 relative overflow-hidden"
 		>
 			{/* Start banner dot pattern */}
 			<motion.div
@@ -80,9 +79,9 @@ export default function Intro() {
 				<header>
 					<motion.h1
 						variants={fadeInBottom}
-						className="text-4xl md:text-6xl text-gray-900 font-bold tracking-tighter"
+						className="text-4xl md:text-6xl text-gray-900 font-bold tracking-tighter capitalize"
 					>
-						Blog
+						{title}
 					</motion.h1>
 				</header>
 			</Container>
