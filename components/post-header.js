@@ -5,7 +5,7 @@ import DateFormatter from './date-formatter';
 import CoverImage from './cover-image';
 import SocialShare from './social-share';
 import Categories from './categories';
-
+import { getPostCategories } from '../lib/utils';
 // motion variant
 let easing = [0.175, 0.85, 0.42, 0.96];
 const fadeIn = {
@@ -95,32 +95,12 @@ const heightTransition = {
 	},
 };
 
-// dummy category
-const categories = [
-	{
-		path: '/blog',
-		title: '#React',
-	},
-	{
-		path: '/blog',
-		title: '#Next',
-	},
-	{
-		path: '/blog',
-		title: '#Gatsby',
-	},
-	{
-		path: '/blog',
-		title: '#GraphQL',
-	},
-];
-
-export default function PostHeader({ title, coverImage, date }) {
+export default function PostHeader({ title, coverImage, date, category }) {
 	return (
 		<>
 			<motion.div
 				variants={heightTransition}
-				className="w-screen bg-light-gray transform -translate-x-1/2 py-20 sm:py-24 md:py-32 lg:py-40 mb-12 sm:mb-16 relative overflow-hidden"
+				className="mb-10 sm:mb-12 w-screen bg-light-gray transform -translate-x-1/2 py-20 sm:py-24 md:py-32 relative overflow-hidden"
 				style={{ marginLeft: '50%' }}
 			>
 				<Container className="px-5 pb-1">
@@ -160,7 +140,7 @@ export default function PostHeader({ title, coverImage, date }) {
 			</motion.div>
 
 			<div className="max-w-3xl mx-auto mb-10">
-				<Categories className="mb-6" items={categories} />
+				<Categories className="mb-6" items={getPostCategories(category)} />
 				<motion.div variants={fadeInBottom}>
 					<CoverImage
 						className={cn('w-full shadow-xl')}

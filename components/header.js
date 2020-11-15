@@ -88,14 +88,14 @@ export default function Header() {
 								</a>
 							</li>
 							<li>
-								<Link href="/blog">
+								<ActiveLink href="/faq">
 									<a
 										className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
 										onClick={() => setMobileMenuToggle(false)}
 									>
 										FAQ
 									</a>
-								</Link>
+								</ActiveLink>
 							</li>
 							<li>
 								<Link href="/blog">

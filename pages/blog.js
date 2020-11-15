@@ -1,54 +1,46 @@
-import Head from "next/head";
-import Container from "../components/container";
-import Categories from "../components/categories";
-import MoreStories from "../components/more-stories";
-import Intro from "../components/intro";
-import Layout from "../components/layout";
-import { getAllPosts } from "../lib/api";
-import { CMS_NAME } from "../lib/constants";
-
-// dummy category
-const categories = [
-	{
-		path: "/blog",
-		title: "#React",
-	},
-	{
-		path: "/blog",
-		title: "#Next",
-	},
-	{
-		path: "/blog",
-		title: "#Gatsby",
-	},
-	{
-		path: "/blog",
-		title: "#GraphQL",
-	},
-	{
-		path: "/blog",
-		title: "#React Native",
-	},
-	{
-		path: "/blog",
-		title: "#WordPress",
-	},
-];
+import Head from 'next/head';
+import Container from '../components/container';
+import Categories from '../components/categories';
+import MoreStories from '../components/more-stories';
+import Intro from '../components/intro';
+import Layout from '../components/layout';
+import { getAllPosts } from '../lib/api';
+import { getPostCategories } from '../lib/utils';
 
 export default function Index({ allPosts }) {
-	const morePosts = allPosts.slice(1);
+	// collect allPosts category to an array
+	let postsCategories = [];
+	allPosts.forEach((post) => {
+		if (post.category !== undefined && post.category !== '') {
+			postsCategories.push(post.category);
+		}
+	});
+	/*
+	 * Make a long string from an array,
+	 * removed whitespace after each comma,
+	 * converted the long string to an array.
+	 */
+	const allCategories = postsCategories
+		.join()
+		.replace(/\s*,\s*/gi, ',')
+		.split(',');
+	// filter unique categories from allCategories
+	const uniqueCategories = allCategories.filter(
+		(value, index) => allCategories.indexOf(value) === index
+	);
+
 	return (
 		<Layout>
 			<Head>
-				<title>Next.js Blog Example with {CMS_NAME}</title>
+				<title>Blog</title>
 			</Head>
-			<Intro />
+			<Intro title="Blog" />
 			<Container>
 				<Categories
 					className="mb-6 sm:mb-8 flex flex-wrap"
-					items={categories}
+					items={getPostCategories(uniqueCategories.join(', '))}
 				/>
-				{morePosts.length > 0 && <MoreStories posts={morePosts} />}
+				{allPosts.length > 0 && <MoreStories posts={allPosts} />}
 			</Container>
 		</Layout>
 	);
@@ -56,13 +48,13 @@ export default function Index({ allPosts }) {
 
 export async function getStaticProps() {
 	const allPosts = getAllPosts([
-		"title",
-		"date",
-		"slug",
-		"category",
-		"author",
-		"coverImage",
-		"excerpt",
+		'title',
+		'date',
+		'slug',
+		'category',
+		'author',
+		'coverImage',
+		'excerpt',
 	]);
 	return {
 		props: { allPosts },
