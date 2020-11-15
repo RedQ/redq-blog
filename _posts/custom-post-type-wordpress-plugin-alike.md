@@ -8,6 +8,7 @@ ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/Post-Type-Plugins.png"
 ---
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 WordPress based sites are now increasing by number. Lots of plugins are developing every day for different purposes. For comparing WordPress posts, developers are developing a plugin on that cause. [**Alike**](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Falike-any-post-comparison-wordpress%2F15538788) is this kind of WordPress plugin which can compare WordPress posts. It will work with any post types or custom post types such as property, cars, and products anything you desire.
 
 <iframe src="https://www.youtube.com/embed/-F8xzamLqA0" width="900" height="550" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe>
