@@ -9,7 +9,7 @@ ogImage:
 ---
 
 Are you aware of a fact that more than 67% of users on [e-commerce](https://www.shopify.com/encyclopedia/what-is-ecommerce) sites have deserted their shopping carts without confirming a checkout? This number is really huge. People have a desire that their questions should be responded to immediately and those websites lose their sales due to customers thought of uncertainty with their purchases.
-
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 Deploying a [WordPress Live Chat plugin](https://codecanyon.net/search/wordpress%20live%20chat%20plugin?ref=redqteam) is the solution for that fact, you can reassure customers at the most important moments. In this article, we will try to describe the **6** **Best WordPress Chat Plugin** already available in [codecanyon](https://codecanyon.net/?ref=redqteam), these are easy to install and setup. Let's start the article.
 
 ## YoBro WordPress Multi-User Private Messaging Plugin

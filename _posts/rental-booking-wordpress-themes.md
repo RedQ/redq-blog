@@ -9,6 +9,7 @@ ogImage:
 ---
 
 The rental business is growing at a very fast speed. Meanwhile, rental business owners have a tendency to run their business online. It will require building a website. WordPress is the best way to do that. Lots of developers are now developing rental themes by keeping this on the mind. But the matter of fact is that there are lots of themes available on several WordPress marketplaces and it is really difficult to find out the best one. After a long analysis, I find out that ‘Turbo’ is the best in the business.
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 ## **Turbo - WooCommerce Wp Rental Accommodation Theme**
 

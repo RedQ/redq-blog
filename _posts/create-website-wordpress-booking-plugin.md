@@ -9,6 +9,7 @@ ogImage:
 ---
 
 Any Kind of Booking businesses are now very profitable. Many entrepreneurs are coming forward to invest in this business sector. Nowadays a trend is very popular. This trend is to do business online via a website. Booking business has a very bright future to run online. So if an [entrepreneur](https://www.entrepreneur.com/) wants to run his booking business via a website then he should choose a platform to this. Obviously, [WordPress](https://wordpress.org/) is the best medium to do this.
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 We all know that WordPress has a lot of marketplaces. WordPress developers are publishing a lot of plugins for these marketplaces. They are considering 'Booking' as a good prospect to develop a plugin. So we are talking about a great plugin for this 'Booking' purpose. This plugin is named [WordPress Booking Plugin RnB](https://1.envato.market/BYjL1). Today we will demonstrate how to set up this plugin and also the procedures to create a WordPress Booking site with this plugin. Let's start. Now with some points we shall demonstrate the whole procedures.
 

@@ -8,6 +8,7 @@ ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/search.png"
 ---
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 [Reactive Pro](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Frnb-woocommerce-rental-booking-system%2F14835145) is a very handy plugin. [Best WordPress Advanced Search Plugin](https://redq.io/blog/wordpress-advanced-search-plugin/). This plugin has the capability to work with several types of search blocks (Checkbox, Combo box, Select box, Radio box, Textbox, Range box, Map auto-complete and Reset), Bars (Number of results, Search tags, Sorting Attributes, Pagination, and Grid or List), Grid. You may search your product through locations with Google Map. If you want to make a search page with [Avada theme](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fitem%2Favada-responsive-multipurpose-theme%2F2833226) and [Reactive Pro Plugin](https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Frnb-woocommerce-rental-booking-system%2F14835145). At first, you have to install Avada theme and [Reactive Pro Plugin](https://redq.io/blog/reactive-lite-wordpress-free-plugin/) and RedQ Reuse form helper Plugin on your WordPress. Then the next procedures will be going on.At first, you need the full plugin package zip file and need to extract it.
 
 ![wordpress search plugin ](https://d2qklehrvrfpx7.cloudfront.net/blogimages/search1.png)

@@ -1,9 +1,17 @@
 ---
 title: "Effective Ways to Reduce Bounce Rate of Your WordPress Website"
 date: "2017-08-19"
+category: "Article, Blog, Other"
+excerpt: "There are several features that will verify a blog's bounce rate. In short definition, the bounce rate is technically the ratio of visitors to a website or blog who leaves after viewing a single page. As a developer, it is essential to reduce bounce rate of your website. If the bounce rate for a blog "
+
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/reduce.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/reduce.png"
 ---
 
 There are several features that will verify a blog's [bounce rate](https://en.wikipedia.org/wiki/Bounce_rate). In short definition, the bounce rate is technically the ratio of visitors to a website or blog who leaves after viewing a single page.
+
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 As a developer, it is essential to reduce bounce rate of your website. If the bounce rate for [a blog](https://redq.io/blog/why-use-wordpress-for-a-website/) is high, there are two options that could have influence this turn out: the page provides complete information and the visitor was able to get the answers needed promptly or the information provided was not what he or she was looking for. If you've set up your Google Analytics account you may have noticed that percentage count that says "[Bounce Rate](https://en.wikipedia.org/wiki/Bounce_rate)." Now you might probably think that Google pays no attention to this and it's just another number, well it's not! Here are some tips to reduce your WordPress website’s bounce rate:
 
@@ -13,7 +21,7 @@ Optimizing your images in WordPress can have a huge effect on your bounce rate. 
 
 With the rise in demand, more user-friendly technologies are hitting the market today. You can use graphic design tools such as Adobe Photoshop and Illustrator to optimize your images. It’s the easiest way to minimize the sizes of your images to kilobytes. Beside these, there are some modern photography tools you can use to compress your images. In the Photoshop, just open your images and save them for web with the option “Save for Web”. This simple method can easily reduce the size but maintain the quality.
 
-![Reduce Bounce Rate](/assets/blog/images/Optimize-Uploaded-Images.jpg)PicMonkey and Canva are among the many Graphic Design software popping up on the web lately. Of course, Photoshop and Illustrator are still kings when it comes to complex pixel perfect designs. But for your average designer looking to create quick images for the blog, these new tools are becoming extremely handy.
+![Reduce Bounce Rate](https://d2qklehrvrfpx7.cloudfront.net/blogimages/reduce1.png)PicMonkey and Canva are among the many Graphic Design software popping up on the web lately. Of course, Photoshop and Illustrator are still kings when it comes to complex pixel perfect designs. But for your average designer looking to create quick images for the blog, these new tools are becoming extremely handy.
 
 In the end, regardless of *how your compress your images* the important thing is that you do it in order to help reduce your website’s bounce rate.
 
@@ -23,15 +31,14 @@ Content writing is slowly becoming the mother of all professions. How often do y
 
 If you want your business website to earn profit all around the globe, your website has to be an eye catcher for visitors on the internet. There are lots of big names on the internet these days and to overtake them the website of your business needs to have an excellent content that carries your voice to the customers.
 
-![content is king- Reduce Bounce Rate](/assets/blog/images/content-is-king-Reduce-Bounce-Rate.jpg)"**Content is king**" is a popular term to the extent that it sounds cliché. The truth is that the content you use is of great importance as it plays a huge role in not only increase your rank in the search engine results, but it also determines the traffic you get and the number of people who share your content. For you to write good content for SEO you need to follow these tips:
+![content is king- Reduce Bounce Rate](https://d2qklehrvrfpx7.cloudfront.net/blogimages/reduce2.png)
+"**Content is king**" is a popular term to the extent that it sounds cliché. The truth is that the content you use is of great importance as it plays a huge role in not only increase your rank in the search engine results, but it also determines the traffic you get and the number of people who share your content. For you to write good content for SEO you need to follow these tips:
 
 - Have a great title: This is the first thing that people see when they search for your content.
 - Believe the customer is in front of you: When you write some content, you must think that the customer is in front of you.
 - When a customer or prospect is in front of you, what do talk about? Write it down.
 - What problem do you solve or what benefit do you bring when you're talking to a customer or prospect? Write according to that.
 - What is the style of your conversations when you're talking to customers and prospects? Do follow the conversation.
-
-
 
 ## Improve Your Content’s Readability:
 
@@ -44,8 +51,7 @@ To reduce bounce rate, you can follow some rules:
 - Use plenty of images, charts, and especially the blockquotes from famous persons to make the content more reader friendly and attractive.
 - Use optimized image for the content and maintain the quality of the image.
 - Avoid using complex sentence and words.
-
-
+  ![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/reduce3.png)
 
 ## Target Keywords with High-Value Traffic
 

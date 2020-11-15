@@ -12,6 +12,8 @@ Welcome to **Rating Builder Plugin** by [RedQ Team](https://themeforest.net/user
 
 The main aim of this plugin is to set rating and review system for any public post type. You can use rating with and without comments. Can be integrated to WooCommerce.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 Rating builder also supports any custom post type. You can build any type of rating with your WordPress comment. The plugin built with React.js.
 <a href="https://wordpress.org/plugins/rating-builder/" class="btn">Download Plugin</a>
 

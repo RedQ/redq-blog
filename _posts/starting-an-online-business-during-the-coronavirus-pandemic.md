@@ -10,6 +10,8 @@ ogImage:
 
 Business during the Coronavirus [pandemic](https://en.wikipedia.org/wiki/Pandemic) is very challenging. This situation unlocks a lot of opportunity for Online business. People have to maintain lock-down imposed by their government in several countries. So the tendency to go shopping online increased at a very high rate. This time doing business online is profitable and helpful for the people who are on lock-down. Business owners are really interested in doing business online because of this opportunity.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 Today, we will discuss all the aspects of starting an online business during the coronavirus pandemic. So let us start the article.
 
 ## Starting a business during the coronavirus pandemic

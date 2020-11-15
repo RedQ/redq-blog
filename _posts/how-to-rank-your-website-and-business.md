@@ -10,6 +10,8 @@ ogImage:
 
 I'm telling you accurately how to rank your website and business to show up on the first page of google and tell you why you’ve been taught wrong by a lot of the SEO experts. So I’ve been ranking websites and blogs on google for a very long time but the problem is that most of the experts will tell you how to do it but they’ve already got the authority, so it’s very very easy for them and not for others.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 There are many ways you can rank a blog or website. And the biggest reason is people want to make money and want to monetize their site or blog.
 
 ## **Every task has some method that we'd like to Follow Steps By Step, and Here I'll describe briefly :**

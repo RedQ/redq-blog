@@ -9,7 +9,7 @@ ogImage:
 ---
 
 [UserPlace](https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/) is one of the best free WordPress membership plugins for User Profile, Member Subscription, Restriction & Payments. It’ll help you to monetize your site, you will able to create plans, subscriptions, and restrictions that apply into view level and submission level.
-
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 This article is the first part of the article series of UserPlace. In this series, We will talk about every single part of [UserPlace plugin](https://redq.io/userplace). This article is about the installation part of this plugin. So, Let's jump on the main part.
 
 <iframe src="https://www.youtube.com/embed/8ME-QAlW6Ww" width="900" height="550" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe>

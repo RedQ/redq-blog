@@ -3,11 +3,17 @@ title: "Top 5 Best Google Analytics WordPress Plugin"
 date: "2017-08-19"
 category: "Article, Blog, Plugin"
 excerpt: "If you have a WordPress website, then you certainly know that there is a variety of plugins available that will allow you to enhance your site and your content .The hidden secret is to choose the best google analytics WordPress plugin. Some plugins are designed to add  some extra security to your WP site, while "
+
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/google.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/google.png"
 ---
 
 If you have a WordPress website, then you certainly know that there is a variety of plugins available that will allow you to enhance your site and your content .The hidden secret is to choose the best [google analytics](https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignUp/) WordPress plugin.
 
 Some plugins are designed to add  some extra security to your WP site, while others are aimed at adding additional features and functions.
+
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 # Why is Google analytics important?
 
@@ -24,6 +30,7 @@ Today, I am going to let you inform about the best Google Analytics WordPress pl
 It lets you track your blog easily. Not only that, it always stayed up to date with the newest features in Google Analytics. It is easier to set up this plugin in WordPress within few minutes with just a few clicks.
 
 The important thing is that you can easily increase your website traffic and conversions. After activating the plugin, you can track your visitors (from where they visit your website), track the number of downloads (the digital products such as image, pdf etc.). You can even track the click on outbound links through this plugin.
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/google1.png)
 
 ## WP Statistic
 
@@ -33,6 +40,8 @@ Once you have a website, an essential tool that you need to get the best out of 
 
 Not only that, it supports hashing IP addresses to make a protection to the privacy of the users of your WordPress website.It provides you the great support if you face any problem setting Google Analytics.
 
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/google2.png)
+
 ## Google Analytics+
 
 For any website operator, especially one that is chasing good SEO ranking, Google Analytics will be a familiar tool. WordPress websites are no exception, with Google Analytics easily integrated within a WordPress theme via WordPress plugin.
@@ -41,6 +50,8 @@ For any website operator, especially one that is chasing good SEO ranking, Googl
 
 It can automatically gather the required data and statistic for a whole multisite network without the help of coding. This makes it most popular among the people who don’t have the knowledge of coding.It not only collects data for the main domain but also collects data for the sub-domains and mapped domains as well.
 
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/google3.png)
+
 ## Google Analytics WD
 
 [Google Analytics WD](https://wordpress.org/plugins/wd-google-analytics/) is an advanced WordPress plugin that has a very straight forward backend.This is one of the best Google Analytics Plugin that WordPress users love to use. This great plugin can easily integrate Google Analytics into your WordPress dashboard.
@@ -48,6 +59,7 @@ It can automatically gather the required data and statistic for a whole multisit
 It has some default features that help you to analyze traffic information, statistics overview and much more. Not only that, it is 100% responsive plugin that enables theuser to be in the top position of the competition.
 
 However, It is a free plugin. You can install it from the free plugin directory of WordPress.org. It has the pro version too. By unlocking pro version with the starting price of \$30, you can get the pro features such as E-commerce tracking, AdSense and AdWords reports, and much more.
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/google4.png)
 
 ## Analtify
 
@@ -56,6 +68,7 @@ However, It is a free plugin. You can install it from the free plugin directory 
 It provides the real time statistics, social media statistics, and much more. It lets you know about your top keywords. Not only that, it is not only multisite compatible but also a responsive Google Analytics plugin.
 
 As it is responsive on all devices, it is easier to view your statistic of search engine on various screen sizes without facing any problem. It gives you an in-depth breakdown of the post statistics on the backend and frontend.
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/google5.png)
 
 **See More:** [10 Must-have & Best Free WordPress Plugins](https://redq.io/blog/top-10-must-best-free-wordpress-plugins-2017/) [10 Best Social Sharing Plugins for WordPress](https://redq.io/blog/10-best-social-sharing-plugins-for-wordpress/) [Top 5 Best WordPress SEO Plugins](https://redq.io/blog/top-5-best-wordpress-seo-plugins/) [6 Best Google Maps Plugins for WordPress](https://redq.io/blog/google-maps-plugins-for-wordpress/) [7 Best Free Photo Gallery Plugins for WordPress](https://redq.io/blog/best-free-photo-gallery-plugin-for-wordpress/) [5 Best WordPress Security Plugins](https://redq.io/blog/best-wordpress-security-plugins/)
 

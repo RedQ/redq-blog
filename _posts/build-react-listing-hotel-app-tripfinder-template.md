@@ -10,6 +10,8 @@ ogImage:
 
 React Next can be implemented for making a Hotel template. Today we will talk about such a Template which is based on React Next and solely developed keeping mind Hotel. So let us start the article.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 ## TripFinder - React Hotel Listing Template
 
 ![TripFinder](https://d2qklehrvrfpx7.cloudfront.net/blogimages/TripFinder-2.jpg)

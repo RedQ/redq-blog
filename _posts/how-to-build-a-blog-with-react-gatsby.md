@@ -9,6 +9,7 @@ ogImage:
 ---
 
 Nowadays, React Gatsby is implemented to make blog related template. And it is becoming a trend. So today, we will discuss a blog template entirely based on React Gatsby. We will try to make you understand the complete implementation of this blog template. So let us start the article.
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 ## StoryHub - React Gatsby Blog Template
 

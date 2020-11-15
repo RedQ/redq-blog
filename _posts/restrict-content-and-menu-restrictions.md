@@ -11,6 +11,7 @@ ogImage:
 Hello and Welcome to another article series of [UserPlace](https://redq.io/userplace) a complete [free WordPress membership plugin](https://redq.io/blog/userplace-free-wordpress-membership-plugin/).
 
 This time the article is about the registry settings for your users. The Content restriction process of your site and also about the Menu restrictions process for your users.
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 **Registration Settings**
 
