@@ -10,6 +10,8 @@ ogImage:
 
 WordPress is a great platform to maintain social communication. A plugin capable of doing chat with the members of the sites really very interesting. Lots of WordPress developers are now developing [chat plugins](https://redq.io/blog/best-wordpress-chat-plugin/) to do live chat.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 If you are trying to find the best private message WordPress plugins highly developed chatting plugin. Then you will see a lot of plugins already exist on numerous marketplaces. “YoBro” is the best-paid plugin among them with ample of features and communication capabilities.
 
 WordPress end-to-end user messaging system, built with React-Redux. It enables user private messaging, send a notification for unread messages. User can upload an image, media files within the message. It has built-in user privacy system.
