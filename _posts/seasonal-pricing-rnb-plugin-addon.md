@@ -9,6 +9,7 @@ ogImage:
 ---
 
 This Add-On is published by [RedQ,Inc](https://redq.io/). To enhance existing [WooCommerce Booking](https://redq.io/blog/woocommerce-booking-plugin/) & Rental Plugin **RnB.** This add-on lets you set seasonal prices for each product via inventory on the WooCommerce based WordPress website. Prices can be decreased or increased for specific periods relative to the base price.
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 ## Requirements Seasonal Pricing Add-on for the RnB
 
