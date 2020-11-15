@@ -10,6 +10,7 @@ ogImage:
 ---
 
 Email marketing is a very cheap and powerful marketing tool if the process is done correctly, however, there are a myriad of choices that present themselves to the small business owner.
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 On the other hand you could just send out emails from your own account, however, you will run the risk of getting your email account blacklisted if the volume is deemed unnecessarily high or you can pay an agency to do the task for you which can be very expensive. An alternative is to use a hosted service to run your campaigns.
 
