@@ -1,14 +1,16 @@
 ---
-title: 'Build an Admin Dashboard Using React & GraphQL'
-date: '2020-02-19'
-category: 'Theme'
-excerpt: 'Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, GraphQL & Uber’s Base UI. It is very easy to use; GraphQL and TypeGraphQL are implemented. Inst is a Next.js GraphQL powered admin dashboard. Used progressive web application pattern, highly optimized for your next react application. You can use it for both Dashboard and'
-coverImage: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png'
+title: "Build an Admin Dashboard Using React & GraphQL"
+date: "2020-02-19"
+category: "Theme"
+excerpt: "Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, GraphQL & Uber’s Base UI. It is very easy to use; GraphQL and TypeGraphQL are implemented. Inst is a Next.js GraphQL powered admin dashboard. Used progressive web application pattern, highly optimized for your next react application. You can use it for both Dashboard and"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png"
 ogImage:
-  url: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png'
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png"
 ---
 
 Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, GraphQL & Uber’s Base UI. It is very easy to use; GraphQL and TypeGraphQL are implemented. Inst is a Next.js GraphQL powered admin dashboard. Used progressive web application pattern, highly optimized for your next react application. You can use it for both Dashboard and Public pages for your web applications. Available in both Light and Dark mode. To activate the Dark mode, Click on the profile image at the right corner, and you will find the ‘Dark Mode’ in Drop-down. Note: Please note that, This is not an HTML template. It is a React Dashboard template built using Next.js Framework. P.S. Design inspiration was taken from Now.sh
+
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 ## Inst - React GraphQL Admin Dashboard Template
 
