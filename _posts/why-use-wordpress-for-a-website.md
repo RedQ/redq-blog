@@ -11,6 +11,7 @@ ogImage:
 [WordPress](https://en.wikipedia.org/wiki/WordPress) is one of the most flexible and used content managers ([CMS](http://searchcontentmanagement.techtarget.com/definition/content-management-system-CMS)) in the world. But what is that about a content manager? And what advantages does it have to use it to create my website?
 
 [WordPress](https://wordpress.com/) is a system that allows us to create all kinds of websites: blogs, online stores, corporate websites, forums, social networks, etc, managing all our publications from a management panel.
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 # Why Use Wordpress For A Website?
 
