@@ -1,11 +1,11 @@
 ---
-title: "Best Ways to Find Top Digital Marketing News Online?"
-date: "2020-04-21"
-category: "Article, Marketing"
-excerpt: "Digital marketing is the only industry, where marketers need to stay updated with the latest marketing trends and news. While world markets and financials are changing all the time, the business of online marketing and advertising is changing by the second. With so many different moving parts, staying updated with the fast and the breaking"
-coverImage: "https://https://d2qklehrvrfpx7.cloudfront.net/blogimages/Digital-Marketing-News-Online.png"
+title: 'Best Ways to Find Top Digital Marketing News Online?'
+date: '2020-04-21'
+category: 'Article, Marketing'
+excerpt: 'Digital marketing is the only industry, where marketers need to stay updated with the latest marketing trends and news. While world markets and financials are changing all the time, the business of online marketing and advertising is changing by the second. With so many different moving parts, staying updated with the fast and the breaking'
+coverImage: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/Digital-Marketing-News-Online.png'
 ogImage:
-  url: "https://https://d2qklehrvrfpx7.cloudfront.net/blogimages/Digital-Marketing-News-Online.png"
+  url: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/Digital-Marketing-News-Online.png'
 ---
 
 Digital marketing is the only industry, where marketers need to stay updated with the latest marketing trends and news. While world markets and financials are changing all the time, the business of online marketing and advertising is changing by the second. With so many different moving parts, staying updated with the fast and the breaking digital marketing news is very much tricky or difficult.
