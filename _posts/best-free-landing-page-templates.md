@@ -10,6 +10,8 @@ ogImage:
 
 Startups need to be very savvy about creating a brand identity in order to maximize results without having to spend too much. Having an attractive website is often the first step in establishing a bold presence that lends credibility to the brand. Where to start though? There is no shortage of premium landing page templates online that look flashy but also cost money. Not to worry though - here’s a list of attractive free landing page templates that are bound to add a touch of flair to your business without costing you a single penny!
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 These [startup landing page templates](https://startuplanding.redq.io/) are all packed with powerful features that not only make the front end look good, but also make it easy to integrate with your back end. On top of being free, these landing page templates are [React](https://redq.io/blog/best-react-native-blogs/) and Gatsby based. This means right off the bat, these templates are [SEO friendly](https://redq.io/blog/how-to-rank-your-website-and-business/) and are also blazing fast. Moreover, using the Gatsby framework also lends an additional security element to your website. Aside from these, all the landing page templates come with Mailchimp integration. As a result, keeping your leads and contacts updated with your work is now that much easier!
 
 Now let’s go take a look at these incredible free landing page templates:
