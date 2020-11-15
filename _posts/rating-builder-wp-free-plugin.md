@@ -1,17 +1,19 @@
 ---
 title: "Rating Builder WP Free Plugin ( Review and Installation )"
 date: "2018-01-20"
+category: "Article, Blog, Plugin"
+excerpt: "Welcome to Rating Builder Plugin by RedQ Team. The main aim of this plugin is to set rating and review system for any public post type. You can use rating with and without comments. Can be integrated to WooCommerce. Rating builder also supports any custom post type. You can build any type of rating with"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/rating.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/rating.png"
 ---
-
-
 
 Welcome to **Rating Builder Plugin** by [RedQ Team](https://themeforest.net/user/redqteam).
 
 The main aim of this plugin is to set rating and review system for any public post type. You can use rating with and without comments. Can be integrated to WooCommerce.
 
 Rating builder also supports any custom post type. You can build any type of rating with your WordPress comment. The plugin built with React.js.
-
-# [![Rating Builder](/assets/blog/images/Download-Plugin.png)](https://wordpress.org/plugins/rating-builder/)
+<a href="https://wordpress.org/plugins/rating-builder/" class="btn">Download Plugin</a>
 
 # Installation
 
@@ -24,7 +26,7 @@ After download the full package from [wordpress.org](https://wordpress.org/plugi
 > 3. Upload WordPress Claim & Report plugin's zip file, then click install now button.
 > 4. After successfully install the plugin then active it.!
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]![](/assets/blog/images/plugin-installation-1.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rating1.png)
 
 #### THE FEATURES ARE OFFERED BY THIS PLUGIN
 
@@ -37,15 +39,13 @@ After download the full package from [wordpress.org](https://wordpress.org/plugi
 - You can specify Total Number of icons and post type to implement rating on that post.
 - Multilingual
 
-
-
 # Configuration
 
 After installing the plugin you will get a menu named `Rating`. From that menu create new `Rating`. Set all the fields value then publish it from right top corner.
 
 In this way You will get rating input form before comment form.
 
-\[/vc_column_text\]\[/vc_column\]\[/vc_row\]\[vc_row\]\[vc_column\]\[vc_column_text\]![](/assets/blog/images/Rating-settings-panel.png)
+[](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rating2.png)
 
 # Filters
 
@@ -68,8 +68,6 @@ This filter will give you current icon list in the following fashion.
 
 To extend create an array in the same way by using font awesome icon list. Then returned the merged array. You can also just return your own array.
 
-
-
 # Shortcode
 
 If you don't want to use rating with comment form then we also have a solution for that.
@@ -78,11 +76,11 @@ We have created a shortcode for you. You can use `[redq_rating_review]` in you
 
 ##### Review Form Snapshot
 
-![](/assets/blog/images/rating-shortcode.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rating3.png)
 
 ###### Review List
 
-![](/assets/blog/images/review-list1.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rating4.png)
 
 # Conclusion
 

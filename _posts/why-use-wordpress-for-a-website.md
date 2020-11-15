@@ -3,6 +3,9 @@ title: "The 10 Top Reasons To Choose Wordpress For Your Next Website"
 date: "2017-08-19"
 category: "Article, Blog, Other"
 excerpt: "WordPress is one of the most flexible and used content managers (CMS) in the world. But what is that about a content manager? And what advantages does it have to use it to create my website? WordPress is a system that allows us to create all kinds of websites: blogs, online stores, corporate websites, forums,"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/wpforweb.png"
+ogImage:
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/wpforweb.png"
 ---
 
 [WordPress](https://en.wikipedia.org/wiki/WordPress) is one of the most flexible and used content managers ([CMS](http://searchcontentmanagement.techtarget.com/definition/content-management-system-CMS)) in the world. But what is that about a content manager? And what advantages does it have to use it to create my website?
@@ -11,7 +14,7 @@ excerpt: "WordPress is one of the most flexible and used content managers (CMS) 
 
 # Why Use Wordpress For A Website?
 
-
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/wpforweb1.png)
 
 ## 1\. It's Free And Open Source
 
@@ -30,6 +33,7 @@ That WordPress is one of the most used CMS, does not report advantages for the s
 The second, that its enormous popularity may be due to other advantages such as its open license, ease of use and its characteristics as a CMS.
 
 And, lastly, the extensive community of developers and professionals related to the platform which works daily giving it new functionality and greater security and that can quickly resolve the doubts and problems that arise when we start our web project.
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/wpforweb2.png)
 
 ## 3\. Wordpress Is Easy To Use
 
@@ -45,7 +49,8 @@ WordPress is based on two key elements to create and customize a web, [themes](h
 
 We can find many themes with different designs and adapt to the web that we want to create, changing the appearance of the page at any time without affecting the content.
 
-In your official repository, you can find more than 2,700 free themes; you can also [buy a theme](https://redq.io/blog/wordpress-restaurant-theme/) or perhaps should you want the web with advanced features, and have no problems when you want to make changes in the future. Request a custom developed theme, so your web will never resemble another.
+In your official repository, you can find more than 2,700 free themes; you can also [buy a theme](https://redq.io/) or perhaps should you want the web with advanced features, and have no problems when you want to make changes in the future. Request a custom developed theme, so your web will never resemble another.
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/wpforweb3.png)
 
 ## 5\. You Can Create Forums Using Wordpress
 

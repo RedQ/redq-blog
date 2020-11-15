@@ -33,31 +33,43 @@ Inventory fully works in two steps. The Attributes fields like _resources, perso
 
 **First Screenshot**
 
-![](/assets/blog/images/1.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental1.png)
 
 
 
 **Second ScreenShot**
 
-**![](/assets/blog/images/2.png)**
+**![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental2.png)**
 
 - ## **Price Calculation**
 
   Our plugins support five types of pricing plan. You can choose one of these plenties according to your need.
 
 1. **General pricing plan.**
+
 2. **Daily pricing plan.**
+
 3. **Monthly pricing plan.**
+
 4. **Days ranges pricing plan.**
+
 5. **Hourly pricing plan.**
 
-6. **General pricing plan:** Meanwhile you set general pricing plan for a single product this price will be applied for each day during your booking plan. General pricing is a simple pricing plan. All the days will calculate the same price if you set general pricing for your products. If you have many products and all the products have some fixed price, then General pricing will be helpful for you.![](/assets/blog/images/3.png)
-7. **Daily pricing plan:** Daily pricing plan is one of the most interesting features of our pricing plan. Daily Pricing plan is for you if your product has a different price for every single day. Daily pricing plan allows you to set a different price for each day of a week. Meanwhile booking this product the price will be calculated depending on the day’s price. Hourly price is also included in the daily pricing plan. But be alert that, Hourly price will work perfectly with the daily pricing plan if you book less than a day.![](/assets/blog/images/4.png)
+   
+
+6. **General pricing plan:** Meanwhile you set general pricing plan for a single product this price will be applied for each day during your booking plan. General pricing is a simple pricing plan. All the days will calculate the same price if you set general pricing for your products. If you have many products and all the products have some fixed price, then General pricing will be helpful for you.![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental3.png)
+
+7. **Daily pricing plan:** Daily pricing plan is one of the most interesting features of our pricing plan. Daily Pricing plan is for you if your product has a different price for every single day. Daily pricing plan allows you to set a different price for each day of a week. Meanwhile booking this product the price will be calculated depending on the day’s price. Hourly price is also included in the daily pricing plan. But be alert that, Hourly price will work perfectly with the daily pricing plan if you book less than a day.![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental4.png)
+
 8. **Monthly Pricing Plan:** Monthly pricing plan allows you to set a different price for each month of a Year. While you book this product the price will be calculated depending on the monthly price. Different price for a different month!!! How cool is that!
 
-![](/assets/blog/images/5.png)4\. **Days ranges pricing plan\*\***:\*\* This plugins also allow you to set unlimited day ranges pricing plan by setting day ranges through the plugins set day ranges option.
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental5.png)4\. 
 
-![](/assets/blog/images/6.png)
+
+
+4. **Days ranges pricing plan\*\***:\*\* This plugins also allow you to set unlimited day ranges pricing plan by setting day ranges through the plugins set day ranges option.
+
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental6.png)
 
 You can set minimum days and maximum days for your date range. Please look at the option named applicable. It is an important feature for the day range pricing plan. It will be either
 
@@ -97,7 +109,7 @@ The plugin team is trying to provide some extra pricing plan like weekly pricing
 
 - **Price Discount -** RnB also provides price discount feature depending on booking days. Admin can set unlimited booking day-ranges price discount from product back-end. Price Discount option is available for the entire pricing plan.
 - You can set a discount for a specific day range. Discount type is available both on a _Fixed_ price basis and percentage basis.
-- You can set your discount type as *Fixed price or* *Percentage*![](/assets/blog/images/7.png)
+- You can set your discount type as *Fixed price or* *Percentage*![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental7.png)
 
 Supposedly, you set a price in the general pricing plan and that is \$12. And if someone book within 2-4 days, you want to give them discounts. Then this option is for you.
 
@@ -117,13 +129,15 @@ Again, If you want to give a discount for only  7 days, not more or less, then 
 
 - **Availability -** Inventory items are the term now product availability is controlled within it.
 
-Suppose you have two inventory items in a product, you can choose them both as the following screenshot.![](/assets/blog/images/8.png)
+Suppose you have two inventory items in a product, you can choose them both as the following screenshot.![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental8.png)
 
-Meanwhile, you publish these products of two child-posts will be generated in *Inventory* post type for these two inventory items with the model name as child post tile.![](/assets/blog/images/9.png)
+Meanwhile, you publish these products of two child-posts will be generated in *Inventory* post type for these two inventory items with the model name as child post tile.![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental9.png)
 
 Then availability is controlled with these child posts of the inventory items.
 
-![](/assets/blog/images/10.png)For [WooCommerce Rental plugin](https://redq.io/blog/woocommerce-booking-plugin/), in Dashboard->inventory post type. At least 1 child product will be created by each product. From this child someone can disable date or date ranges from booking calendar that you will find Dashboard->Inventory.
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental10.png)Fo
+
+For [WooCommerce Rental plugin](https://redq.io/blog/woocommerce-booking-plugin/), in Dashboard->inventory post type. At least 1 child product will be created by each product. From this child someone can disable date or date ranges from booking calendar that you will find Dashboard->Inventory.
 
 Suppose, you have two inventory under a product. You want to disable some dates from the backend. Then you have to go to inventory->all inventory and find your inventory. Then you have to disable date from all 2 inventories. From one inventory if you disable date, then the date will not be disabled. For disabling date from the backend perfectly, you have to disable the date from all of its inventory.
 
@@ -131,17 +145,18 @@ Suppose, you have two inventory under a product. You want to disable some dates 
 
 You can set *payable resources* like the following screen-shot.
 
-- **![](/assets/blog/images/11.png)Security Deposit –**There is a taxonomy post type named security deposit. You can find this here Dashboard->Inventory->Deposit. unlimited payable security deposit can be add from here. You can set it either per-day or a one-time basis. If you set per-day basis then it will allow you to set hourly price for this resource. For booking less than 1 day the hourly resource cost will be applied. You can also set deposit as clickable or not-clickable. By setting deposit as clickable then the customers can check or unchecked during booking. Customers don't find the option to unchecked it If you set deposit as not-clickable, it must be included during booking. Check these screen-shots to get more idea about per-day and one-time deposit cost. It also has drag-and-drop sorting facilities.
+- **![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental11.png)**
+- **Security Deposit –**There is a taxonomy post type named security deposit. You can find this here Dashboard->Inventory->Deposit. unlimited payable security deposit can be add from here. You can set it either per-day or a one-time basis. If you set per-day basis then it will allow you to set hourly price for this resource. For booking less than 1 day the hourly resource cost will be applied. You can also set deposit as clickable or not-clickable. By setting deposit as clickable then the customers can check or unchecked during booking. Customers don't find the option to unchecked it If you set deposit as not-clickable, it must be included during booking. Check these screen-shots to get more idea about per-day and one-time deposit cost. It also has drag-and-drop sorting facilities.
 
 **You can add security deposits like the following screen-shot.**
 
-![](/assets/blog/images/12.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental12.png)
 
 - **Person (both payable and non-payable) -** Persons is a taxonomy of inventory post type. You can find this here Dashboard->Inventory->Persons. You can add unlimited *payable person_from here. You can set it either _per-day* or *one-time* If you set *per-day* basis then it will allow you to set hourly price for this person. If you book less than 1 day then the hourly person cost will be applied. Check this screen-shot to get more idea about *per-day* person cost and *one-time* person cost. It also has drag-and-drop sorting facilities.
 
 You can add both payable and non-payable person from here.
 
-![](/assets/blog/images/13.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental13.png)
 
 - **Locations (pick up and drop off both locations) -** Drop-off location and Pickup Location are taxonomies of the inventory post type. You can find this here Dashboard->Inventory->Pickup Location and Dashboard->Inventory->Drop off Location. You can add the unlimited pickup and drop-off locations from here. You can also add drop-off cost and pick up cost also.
 
@@ -149,23 +164,25 @@ You can add both payable and non-payable person from here.
 
 **Pickup locations:**
 
-![](/assets/blog/images/14.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental14.png)
 
 **Drop-off locations:**
 
-![](/assets/blog/images/15.png)**FYI:**
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental15.png)
 
-**![](/assets/blog/images/16.png)**
+**FYI:**
+
+**![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental16.png)**
 
 - **Attributes and Features (non-payable) -** Attributes and Features both are taxonomies. You find these taxonomies from _Dashboard->Inventory->Attributes_ and _Dashboard->Inventory->Features_
 
 You can add unlimited product attributes from this general tab like the following screenshot. It has drag-and-drop facilities to sort the attributes.
 
-![](/assets/blog/images/17.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental17.png)
 
 You also can add *unlimited product features* from here.
 
-![](/assets/blog/images/18.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental18.png)
 
 
 
@@ -173,9 +190,11 @@ You also can add *unlimited product features* from here.
 
 Product attributes and features will be showed in the tab in the single product page.
 
-**![](/assets/blog/images/19.png)**
+**![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental19.png)**
 
-**![](/assets/blog/images/20.png)Date Blocking -** Admin can choose if he wants to block the booking date or dates or not.
+**![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental20.png)**
+
+**Date Blocking -** Admin can choose if he wants to block the booking date or dates or not.
 
 - **Choose Date Format\*\***–\*\*
 
@@ -197,7 +216,7 @@ Product attributes and features will be showed in the tab in the single product 
 - **Local Settings**
 - **Global Settings**
 
-  **![](/assets/blog/images/21.png)**
+  **![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental21.png)**
 
 - **Product Settings –**
 
@@ -205,11 +224,13 @@ Product attributes and features will be showed in the tab in the single product 
 
 **Local Settings:** You'll find these setting panel from the *show/hide* setting tab of product back-end.
 
-_![](/assets/blog/images/22.png)_
+_![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental22.png)_
 
 You'll find these setting from physical appearance setting tab of product back-end.
 
-![](/assets/blog/images/23.png)You may find these setting from *logical appearance* setting tab of product back-end.
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental23.png)
+
+You may find these setting from *logical appearance* setting tab of product back-end.
 
 **Block rental days:** Product's booking day or day ranges availability from here could be controlled. You set no from drop-down then if anyone book a day or date ranges then this product will also be available for others customer in this date or date ranges. If you set yes as drop-down value then this product will not be available in this date or date ranges for other customers.
 
@@ -223,22 +244,24 @@ You'll find these setting from physical appearance setting tab of product back
 
 **Select Weekend**: If you select weekend from here these days will be unavailable for booking in front-end.
 
-**![](/assets/blog/images/24.png)Display**
+**![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental24.png)**
+
+**Display**
 
 Pick up and drop off date and time should be displayed in the display tab and you will find a lot of options for building a product single page, showing flip box or not, Show Quote Request or not, Showing Book now button or not.
 
 **Labels**
 
-In Labels Tab, you can change each and every label related to our WooCommerce Rental and Booking Plugin. This plugin gives you every option to change your text from the backend. So no need to be worried about the label portion. ![](/assets/blog/images/25.png)
+In Labels Tab, you can change each and every label related to our WooCommerce Rental and Booking Plugin. This plugin gives you every option to change your text from the backend. So no need to be worried about the label portion. ![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental1.png)
 
 **Validations**
 
 In the validation tab, The WooCommerce rental plugin gives you the opportunity of Daily Basis Opening & Closing Time. You can limit the opening time or closing time of your bookings as your wish. It will be helpful in many ways for your product store.
 
-![](/assets/blog/images/26.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental26.png)
 
 **Make Product Calendar In Your Language**
 
 You can make the product calendar in your own languages. You have to go to WooCommerce->settings->RnB settings and then from there you can set Language domain, Weekdays Names (Comma, separated), Month Names (, separated), etc. You can also set some Universal Labels from the backend also. Note that, These settings are all global settings. Whatever settings you choose from here, will be applied to every product.
 
-![](/assets/blog/images/27.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental27.png)
