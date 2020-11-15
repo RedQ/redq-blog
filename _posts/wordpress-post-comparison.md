@@ -11,6 +11,8 @@ ogImage:
 
 WordPress post comparison is  a pretty common feature when you run a real estate site or  a car dealership site, or electronic products and so on. Your  customers may  want to compare any kind of posts before they continue to buy or order. That's why you will look for a WordPress post comparison plugin.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 # WordPress post comparison
 
 Here you will get some idea about an excellent comparison plugin. It's very easy to manage the plugin and it fully supports any custom post type, taxonomy and meta data. This plugin comes with a very user friendly visual comparison page builder. You can easily configure your site comparison logic for any post type.
