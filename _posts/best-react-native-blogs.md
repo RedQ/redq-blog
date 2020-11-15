@@ -10,6 +10,8 @@ ogImage:
 
 **React Native** is an open-source mobile application framework developed by Facebook. It is used to develop applications for Android, iOS, Web and UWP by enabling developers to use React along with native platform capabilities. In addition, an incomplete port for Qt also exists. The working principles of React Native are practically identical to React excluding that React Native does not manipulate the DOM via the Virtual DOM. It runs in a background process (which interprets the JavaScript written by the developers) directly on the end-device and communicates with the native platform via a serialization, batched and asynchronous Bridge.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 There are lots of communities continuously growing around the world based on this React Native. Today we will talk about some great blogs on React Native.
 
 Contents [[show](https://redq.io/blog/best-react-native-blogs/?fbclid=IwAR00DnEt3Ga31ZeOX9cvrO3RRIRXNCcpBdSF6G2OLonUyvREXXsMG52myXs#)]
