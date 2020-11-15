@@ -1,15 +1,15 @@
 ---
-title: 'Best WordPress Mega Menu Plugin'
-date: '2018-09-12'
-category: 'Article, Plugin'
-excerpt: 'Nowadays every WordPress sites need an exotic menu. Mega menu plugin functionality is the solution for an exotic menu. But the theme you are using should have the support of Mega Menu unless you can not have this functionality. WordPress developers are now developing lots of plugins based on Mega Menu. So we will try'
-coverImage: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu.png'
+title: "Best WordPress Mega Menu Plugin"
+date: "2018-09-12"
+category: "Article, Plugin"
+excerpt: "Nowadays every WordPress sites need an exotic menu. Mega menu plugin functionality is the solution for an exotic menu. But the theme you are using should have the support of Mega Menu unless you can not have this functionality. WordPress developers are now developing lots of plugins based on Mega Menu. So we will try"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu.png"
 ogImage:
-  url: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu.png'
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu.png"
 ---
 
 Nowadays every [WordPress](https://wordpress.com/) sites need an exotic menu. [Mega menu plugin](https://codecanyon.net/search/mega%20menu%20plugin?ref=redqteam) functionality is the solution for an exotic menu. But the theme you are using should have the support of Mega Menu unless you can not have this functionality.
-
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 WordPress developers are now developing lots of plugins based on Mega Menu. So we will try to make a list of best WordPress mega menu plugin.
 
 At first, we have to realize what is Mega Menu? How does it work? Mega Menu is actually an extended menu that viewable when a user clicks on or hovers over a regular menu option. It makes easy to navigate the [WordPress site](https://redq.io/blog/benefits-using-wordpress/) and demonstrates a lot of information at once. Let us start the article.
@@ -35,7 +35,7 @@ Included features:
 - Menu animation
 - Menu color scheme
 
-![WP Mega Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu1.png 'WP Mega Menu')
+![WP Mega Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu1.png "WP Mega Menu")
 
 <a href="https://mythemeshop.com/plugins/wp-mega-menu/" class="btn">View Plugin</a>
 
@@ -68,7 +68,7 @@ Included features:
 - In-depth documentation
 - Basic Support
 
-![Max Mega Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu2.png 'Max Mega Menu')
+![Max Mega Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu2.png "Max Mega Menu")
 
 <a href="https://downloads.wordpress.org/plugin/megamenu.2.5.1.zip" class="btn">Download Plugin</a>
 
@@ -111,7 +111,7 @@ Included features:
 - Optional scrollable submenus for extended content
 - Automatic integration for themes that meet the requirements
 
-![UberMenu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu3.png 'UberMenu')
+![UberMenu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu3.png "UberMenu")
 
 <a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fubermenu-wordpress-mega-menu-plugin%2F154703" class="btn">View Plugin</a>
 
@@ -135,7 +135,7 @@ Included features:
 - Left or right alignment
 - Help documentation
 
-![CSS3 Mega Drop Down Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu4.png 'CSS3 Mega Drop Down Menu')
+![CSS3 Mega Drop Down Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu4.png "CSS3 Mega Drop Down Menu")
 
 <a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fcss3-mega-drop-down-menu%2F126387" class="btn">View Plugin</a>
 
@@ -153,7 +153,7 @@ Included features:
 - WPML Compatible
 - Friendly Support
 
-![Mega Main Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu5.png 'Mega Main Menu')
+![Mega Main Menu](https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu5.png "Mega Main Menu")
 
 <a href="ttps://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fcodecanyon.net%2Fitem%2Fmega-main-menu-wordpress-menu-plugin%2F6135125" class="btn">View Plugin</a>
 
