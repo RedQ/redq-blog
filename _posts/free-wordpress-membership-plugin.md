@@ -9,7 +9,7 @@ ogImage:
 ---
 
 [WordPress Membership Plugin](https://landing.redq.io/userplace) is an essential right now for maintaining user accounts. There are lots of plugins available in several marketplaces. Most of them are paid WordPress Membership Plugin. A very few are free of cost. But those are very helpful.
-
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 To earn by user subscription a WordPress site must be required a  WordPress Membership Plugin free. It also useful for control user. So we make a list of such free [WordPress Membership plugin](https://redq.io/blog/best-wordpress-plugin-for-user-registration-and-login/). Let's talk about the list.
 
 ## [UserPlace – A Complete WordPress Membership Plugin](https://landing.redq.io/userplace)
