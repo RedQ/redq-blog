@@ -13,6 +13,8 @@ If you have a WordPress website, then you certainly know that there is a variety
 
 Some plugins are designed to add  some extra security to your WP site, while others are aimed at adding additional features and functions.
 
+[![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
+
 # Why is Google analytics important?
 
 Great Googly! Do you want WordPress plugins that work well with Google? You are in luck because there are some great WordPress plugins that do a variety of tasks that also play well with Google. Some of these actually help your website get a better ranking with Google.
