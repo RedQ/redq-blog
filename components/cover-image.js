@@ -1,14 +1,23 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
-export default function CoverImage({ title, src, slug, className }) {
+export default function CoverImage({
+	src,
+	slug,
+	title,
+	width,
+	height,
+	unsized,
+	className,
+}) {
 	const image = (
 		<Image
-			src={src ? src : '/assets/fallback-image.svg'}
-			width={588}
-			height={360}
-			alt={`Cover Image for ${title}`}
+			width={width}
+			height={height}
+			unsized={unsized}
 			className={className}
+			alt={`Cover Image for ${title}`}
+			src={src ? src : '/assets/fallback-image.svg'}
 		/>
 	);
 

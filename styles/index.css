@@ -133,6 +133,9 @@ code {
 .content p a:not(.btn)[href*='youtube']:hover::after {
   background-color: #c4302b;
 }
+.content a:not(.btn)[href*='cartsyTheme']::after {
+  display: none;
+}
 .content ul,
 .content ol {
   padding-left: 22px;

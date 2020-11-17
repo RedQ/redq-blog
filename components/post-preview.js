@@ -36,6 +36,8 @@ export default function PostPreview({
 					slug={slug}
 					title={title}
 					src={coverImage}
+					width={588}
+					height={360}
 				/>
 				<div
 					className="absolute bg-gray-900 bg-opacity-25"
@@ -45,7 +47,7 @@ export default function PostPreview({
 						zIndex: -1,
 						bottom: 0,
 						left: '10%',
-						filter: 'blur(15px)',
+						filter: 'blur(10px)',
 					}}
 				></div>
 			</figure>

@@ -143,9 +143,11 @@ export default function PostHeader({ title, coverImage, date, category }) {
 				<Categories className="mb-6" items={getPostCategories(category)} />
 				<motion.div variants={fadeInBottom}>
 					<CoverImage
-						className={cn('w-full shadow-xl')}
+						className={cn('shadow-xl')}
 						title={title}
 						src={coverImage}
+						width={768}
+						height={470}
 					/>
 				</motion.div>
 			</div>
