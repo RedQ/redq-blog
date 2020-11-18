@@ -44,6 +44,7 @@ export default function Header() {
 							</a>
 						</Link>
 					</h2>
+					{/* End of site's logo */}
 					<div className="flex items-center">
 						<button
 							className={`hamburg-menubar border border-solid border-gray-400 py-1 px-2 rounded transition-all duration-300 focus:outline-none hover:bg-gray-900 hover:border-gray-900 ${
@@ -71,6 +72,7 @@ export default function Header() {
 								/>
 							</svg>
 						</button>
+						{/* End of nav hamburger btn */}
 						<ul
 							className={`main-menu flex ${
 								mobileMenuToggle ? 'is-active' : ''
@@ -88,67 +90,8 @@ export default function Header() {
 									</ActiveLink>
 								</li>
 							))}
-							{/*
-              <li>
-								<ActiveLink href="/">
-									<a
-										className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
-										onClick={() => setMobileMenuToggle(false)}
-									>
-										Home
-									</a>
-								</ActiveLink>
-							</li>
-							<li>
-								<ActiveLink href="/blog">
-									<a
-										className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
-										onClick={() => setMobileMenuToggle(false)}
-									>
-										Blog
-									</a>
-								</ActiveLink>
-							</li>
-							<li>
-								<a
-									className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
-									href="https://themeforest.net/user/redqteam/portfolio"
-									onClick={() => setMobileMenuToggle(false)}
-								>
-									Portfolio
-								</a>
-							</li>
-							<li>
-								<a
-									className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
-									href="https://redqsupport.ticksy.com/"
-									onClick={() => setMobileMenuToggle(false)}
-								>
-									Support
-								</a>
-							</li>
-							<li>
-								<Link href="/blog">
-									<a
-										className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
-										onClick={() => setMobileMenuToggle(false)}
-									>
-										Documentation
-									</a>
-								</Link>
-							</li>
-							<li>
-								<ActiveLink href="/faq">
-									<a
-										className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
-										onClick={() => setMobileMenuToggle(false)}
-									>
-										FAQ
-									</a>
-								</ActiveLink>
-							</li>
-              */}
 						</ul>
+						{/* End of main menu */}
 					</div>
 				</Container>
 			</nav>
