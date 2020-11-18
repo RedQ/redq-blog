@@ -57,7 +57,7 @@ export default function Intro({ title }) {
 	return (
 		<motion.section
 			variants={heightTransition}
-			className="mb-10 sm:mb-12 bg-light-gray py-20 sm:py-24 md:py-32 relative overflow-hidden"
+			className="mb-10 sm:mb-12 bg-rq-gray-200 py-20 sm:py-24 md:py-32 relative overflow-hidden"
 		>
 			{/* Start banner dot pattern */}
 			<motion.div
@@ -66,7 +66,7 @@ export default function Intro({ title }) {
 				style={{
 					opacity: 0.4,
 					backgroundColor: '#f4f4f4',
-					backgroundImage: 'radial-gradient(#2b6cb0 1px, #f4f4f4 1px)',
+					backgroundImage: 'radial-gradient(#2950DB 1px, #f4f4f4 1px)',
 					backgroundSize: '22px 22px',
 					right: '20px',
 					width: '24%',
@@ -79,7 +79,7 @@ export default function Intro({ title }) {
 				<header>
 					<motion.h1
 						variants={fadeInBottom}
-						className="text-4xl md:text-6xl text-gray-900 font-bold tracking-tighter capitalize"
+						className="text-4xl md:text-6xl text-black font-bold tracking-tighter capitalize"
 					>
 						{title}
 					</motion.h1>

@@ -9,7 +9,7 @@ import {
 	RiPinterestLine,
 } from 'react-icons/ri';
 import { motion } from 'framer-motion';
-import Container from './container';
+import Container from '../container';
 
 export default function Footer() {
 	const date = new Date();
@@ -19,7 +19,7 @@ export default function Footer() {
 				<div className="text-gray-700 mb-1 md:mb-0">
 					Copyright &copy; {date.getFullYear()}{' '}
 					<Link href="/">
-						<a className="text-gray-900 font-semibold">RedQ Inc</a>
+						<a className="text-black font-semibold">RedQ Inc</a>
 					</Link>
 					. All rights reserved
 				</div>

@@ -1,10 +1,36 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
-import Layout from '../../components/layout';
+import Layout from '../../components/layout/layout';
 import Intro from '../../components/intro';
 import Container from '../../components/container';
+// faq items [data]
+const faqItems = [
+	{
+		title: 'RNB FAQs',
+		href: '/faq/woocommerce-rental-booking-faqs',
+		thumb: '/assets/faq/rnb/preview.jpg',
+	},
+	{
+		title: 'Reactive Pro FAQs',
+		href: '/faq/reactive-pro-faqs',
+		thumb: '/assets/faq/reactive/preview.png',
+	},
+	{
+		title: 'Turbo FAQs',
+		href: '/faq/turbo-faqs',
+		thumb: '/assets/faq/turbo/preview.png',
+	},
+];
 // motion variants
+const variants = {
+	exit: {
+		transition: { staggerChildren: 0.05, staggerDirection: -1 },
+	},
+	enter: {
+		transition: { staggerChildren: 0.07, delayChildren: 0.2 },
+	},
+};
 const fadeInBottom = {
 	exit: {
 		y: 50,
@@ -22,70 +48,38 @@ const fadeInBottom = {
 	},
 };
 
-export default function Index() {
+export default function FAQ() {
 	return (
 		<Layout>
 			<Intro title="FAQ" />
-			<Container className="grid col-gap-10 grid-cols-3">
+			<Container>
 				<motion.div
-					variants={fadeInBottom}
-					className="border border-gray-300 border-solid rounded overflow-hidden mb-10 transition-shadow duration-300 hover:shadow-small"
+					variants={variants}
+					className="grid col-gap-8 md:col-gap-6 lg:col-gap-10 grid-cols-1 sm:grid-cols-2 md:grid-cols-3"
 				>
-					<Link href="/faq/woocommerce-rental-booking-faqs">
-						<a>
-							<Image
-								src="/assets/faq/rnb/preview.jpg"
-								alt="RnB thumb"
-								width={388}
-								height={194}
-							/>
-						</a>
-					</Link>
-					<Link href="/faq/woocommerce-rental-booking-faqs">
-						<a className="block text-center p-4 text-gray-900 text-lg">
-							RNB FAQs
-						</a>
-					</Link>
-				</motion.div>
-				<motion.div
-					variants={fadeInBottom}
-					className="border border-gray-300 border-solid rounded overflow-hidden mb-10 transition-shadow duration-300 hover:shadow-small"
-				>
-					<Link href="/faq/reactive-pro-faqs">
-						<a>
-							<Image
-								src="/assets/faq/reactive/preview.png"
-								alt="Reactive thumb"
-								width={388}
-								height={194}
-							/>
-						</a>
-					</Link>
-					<Link href="/faq/reactive-pro-faqs">
-						<a className="block text-center p-4 text-gray-900 text-lg">
-							Reactive Pro FAQs
-						</a>
-					</Link>
-				</motion.div>
-				<motion.div
-					variants={fadeInBottom}
-					className="border border-gray-300 border-solid rounded overflow-hidden mb-10 transition-shadow duration-300 hover:shadow-small"
-				>
-					<Link href="/faq/turbo-faqs">
-						<a>
-							<Image
-								src="/assets/faq/turbo/preview.png"
-								alt="Turbo thumb"
-								width={388}
-								height={194}
-							/>
-						</a>
-					</Link>
-					<Link href="/faq/turbo-faqs">
-						<a className="block text-center p-4 text-gray-900 text-lg">
-							Turbo FAQs
-						</a>
-					</Link>
+					{faqItems.map((item) => (
+						<motion.div
+							key={item.title}
+							variants={fadeInBottom}
+							className="border border-gray-300 border-solid rounded overflow-hidden mb-8 md:mb-6 lg:mb-10 transition-shadow duration-300 hover:shadow-small"
+						>
+							<Link href={item.href}>
+								<a>
+									<Image
+										width={388}
+										height={194}
+										src={item.thumb}
+										alt={item.title}
+									/>
+								</a>
+							</Link>
+							<Link href={item.href}>
+								<a className="block text-center p-4 text-black text-lg">
+									{item.title}
+								</a>
+							</Link>
+						</motion.div>
+					))}
 				</motion.div>
 			</Container>
 		</Layout>

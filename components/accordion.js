@@ -63,7 +63,7 @@ export const AccordionWithFilter = ({ items }) => {
 			<div className="filter mb-8 relative">
 				<input
 					type="text"
-					className="w-full border border-solid border-gray-300 rounded py-4 px-5 bg-light-gray text-gray-700 placeholder-gray-600 outline-none transition-all duration-300 focus:bg-white"
+					className="w-full border border-solid border-gray-300 rounded py-4 px-5 bg-rq-gray-200 text-gray-700 placeholder-gray-600 outline-none transition-all duration-300 focus:bg-white"
 					placeholder="Search here"
 					onChange={(e) => setSearchString(e.target.value)}
 				/>

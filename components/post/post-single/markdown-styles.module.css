@@ -16,7 +16,7 @@
 .markdown h6,
 .markdown b,
 .markdown strong  {
-  @apply text-gray-900 font-semibold;
+  @apply text-black font-semibold;
 }
 
 .markdown h2 {
@@ -52,12 +52,12 @@
 
 .markdown p a,
 .markdown p strong {
-  @apply text-gray-900 break-words;
+  @apply text-black break-words;
 }
 
 .markdown em,
 .markdown i {
-  @apply text-gray-900 font-semibold;
+  @apply text-black font-semibold;
 }
 
 .markdown pre {

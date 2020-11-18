@@ -1,41 +1,32 @@
-import { useRouter } from 'next/router';
-import ErrorPage from 'next/error';
-import Container from '../../components/container';
-import PostBody from '../../components/post-body';
-import PostHeader from '../../components/post-header';
-import Layout from '../../components/layout';
-import { getPostBySlug, getAllPosts } from '../../lib/api';
 import Head from 'next/head';
-import { CMS_NAME } from '../../lib/constants';
+import { useRouter } from 'next/router';
+import Layout from '../../components/layout/layout';
+import Container from '../../components/container';
+import PostSingle from '../../components/post/post-single/post-single';
+import { getPostBySlug, getAllPosts } from '../../lib/api';
 import markdownToHtml from '../../lib/markdownToHtml';
 
-export default function Post({ post, morePosts, preview }) {
+export default function Post({ post }) {
 	const router = useRouter();
-	if (!router.isFallback && !post?.slug) {
-		return <ErrorPage statusCode={404} />;
-	}
-	console.log(post, 'what post');
+
 	return (
-		<Layout preview={preview}>
+		<Layout>
 			<Container>
 				{router.isFallback ? (
 					<h1>Loading…</h1>
 				) : (
 					<article className="mb-16 sm:mb-20 md:mb-24">
 						<Head>
-							<title>
-								{post.title} | Next.js Blog Example with {CMS_NAME}
-							</title>
+							<title>{post.title} | RedQ</title>
 							<meta property="og:image" content={post?.ogImage?.url} />
 						</Head>
-						<PostHeader
-							title={post?.title}
-							coverImage={post?.coverImage}
+						<PostSingle
 							date={post?.date}
-							author={post?.author}
+							title={post?.title}
 							category={post?.category}
+							coverImage={post?.coverImage}
+							content={post?.content}
 						/>
-						<PostBody content={post?.content} />
 					</article>
 				)}
 			</Container>

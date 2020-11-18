@@ -3,12 +3,11 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				'accent-1': '#FAFAFA',
-				'accent-2': '#EAEAEA',
-				'accent-7': '#333',
-				'light-gray': '#f4f4f4',
-				success: '#0070f3',
-				cyan: '#79FFE1',
+				'rq-gray-200': '#f4f4f4',
+				'rq-gray-500': '#898989',
+				'rq-gray-600': '#6C6C6C',
+				'rq-gray-700': '#343D48',
+				'rq-blue-800': '#2950DB',
 			},
 			spacing: {
 				28: '7rem',
