@@ -1,11 +1,11 @@
 ---
-title: "Best React Native Blogs To Follow & Read (2020)"
-date: ""
-category: "Resource"
-excerpt: "React Native is an open-source mobile application framework developed by Facebook.  It is used to develop applications for Android, iOS, Web and UWP by  enabling developers to use React along with native platform  capabilities."
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/react.png"
+title: 'Best React Native Blogs To Follow & Read (2020)'
+date: ''
+category: 'Resource'
+excerpt: 'React Native is an open-source mobile application framework developed by Facebook.  It is used to develop applications for Android, iOS, Web and UWP by  enabling developers to use React along with native platform  capabilities.'
+coverImage: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/react.png'
 ogImage:
-  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/react.png"
+  url: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/react.png'
 ---
 
 **React Native** is an open-source mobile application framework developed by Facebook. It is used to develop applications for Android, iOS, Web and UWP by enabling developers to use React along with native platform capabilities. In addition, an incomplete port for Qt also exists. The working principles of React Native are practically identical to React excluding that React Native does not manipulate the DOM via the Virtual DOM. It runs in a background process (which interprets the JavaScript written by the developers) directly on the end-device and communicates with the native platform via a serialization, batched and asynchronous Bridge.
@@ -56,11 +56,7 @@ Mike Grabowski is one of the best React Native experienced guys out there. He is
 
 ![ReactDOM Blog](https://d2qklehrvrfpx7.cloudfront.net/blogimages/react5.png)
 
-ReactDOM is one of the most popular platforms for learning React Native. It is a medium that publishes newsletters about React and React Native. Adeeb Rahman is the founder of reactDOM. It is a reasonable storage of knowledge about both React and React Native platforms as it contains over 100 issues. You can get access to React and React Native tutorials and articles for free via registering to the site by your email. You can also follow the blog’s Twitter account.
-
-<a href="https://reactdom.com/" class="btn">Visit Blog</a>
-
-<a href="https://twitter.com/ReactDOM" class="btn">Visit Twitter</a>
+ReactDOM is one of the most popular platforms for learning React Native. It is a medium that publishes newsletters about React and React Native. Adeeb Rahman is the founder of reactDOM. It is a reasonable storage of knowledge about both React and React Native platforms as it contains over 100 issues. You can get access to React and React Native tutorials and articles for free via registering to the site by your email. You can also follow the blog’s Twitter account. <a href="https://reactdom.com/">Visit Blog</a> and <a href="https://twitter.com/ReactDOM">Visit Twitter</a>.
 
 ## React Native Coach
 
@@ -88,11 +84,7 @@ Ray Wenderlich is a prominent figure in the software development brotherhood. He
 
 ![React Native Radio Twitter](https://d2qklehrvrfpx7.cloudfront.net/blogimages/react9.png)
 
-If you prefer listening to reading, you should listen to the podcast of React Native Radio. It is created and hosted by Nader Dabit on Devchat.tv. It is a weekly podcast only on React Native. Nader recorded more than a hundred episodes where each show was featuring different guests who are accomplished React Native developers from various startups and companies. Alongside the podcast, Nader also maintains a twitter page regularly so that you can follow the twitter account for any further update.
-
-<a href="https://devchat.tv/react-native-radio/" class="btn">Visit Podcast</a>
-
-<a href="https://twitter.com/R_N_Radio" class="btn">Visit Twitter</a>
+If you prefer listening to reading, you should listen to the podcast of React Native Radio. It is created and hosted by Nader Dabit on Devchat.tv. It is a weekly podcast only on React Native. Nader recorded more than a hundred episodes where each show was featuring different guests who are accomplished React Native developers from various startups and companies. Alongside the podcast, Nader also maintains a twitter page regularly so that you can follow the twitter account for any further update <a href="https://devchat.tv/react-native-radio/">Visit Podcast</a> and <a href="https://twitter.com/R_N_Radio">Visit Twitter</a>.
 
 ## Devin Abbott
 
@@ -100,13 +92,7 @@ If you prefer listening to reading, you should listen to the podcast of React Na
 
 ![Devin Abbott Twitter](https://d2qklehrvrfpx7.cloudfront.net/blogimages/react11.png)
 
-Devin Abbott is considered as a React Native legend. He is a former Airbnb engineer who has founded the Deco Software, a React Native developer tools software company. He is also an author of many parts of the official React Native documentation. Devin published plenty of useful resources for React and React Native. One of them is Fullstack React Native – a fantastic guide to React Native in the form of an e-book. You can visit his blog site or follow him by his twitter account.
-
-<a href="http://www.reactnativeexpress.com/" class="btn">Visit Tutorial Site</a>
-
-<a href="https://twitter.com/dvnabbott" class="btn">Visit Twitter</a>
-
-​
+Devin Abbott is considered as a React Native legend. He is a former Airbnb engineer who has founded the Deco Software, a React Native developer tools software company. He is also an author of many parts of the official React Native documentation. Devin published plenty of useful resources for React and React Native. One of them is Fullstack React Native – a fantastic guide to React Native in the form of an e-book. You can visit his blog site or follow him by his twitter account. <a href="http://www.reactnativeexpress.com/">Visit Tutorial Site</a> and <a href="https://twitter.com/dvnabbott">Visit Twitter</a>
 
 ## Conclusion
 

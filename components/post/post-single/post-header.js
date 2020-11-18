@@ -1,11 +1,11 @@
 import cn from 'classnames';
 import { motion } from 'framer-motion';
-import Container from './container';
-import DateFormatter from './date-formatter';
-import CoverImage from './cover-image';
-import SocialShare from './social-share';
-import Categories from './categories';
-import { getPostCategories } from '../lib/utils';
+import Container from '../../container';
+import DateFormatter from '../../date-formatter';
+import Img from '../../image';
+import SocialShare from '../../social-share';
+import Categories from '../../categories';
+import { getPostCategories } from '../../../lib/utils';
 // motion variant
 let easing = [0.175, 0.85, 0.42, 0.96];
 const fadeIn = {
@@ -100,34 +100,40 @@ export default function PostHeader({ title, coverImage, date, category }) {
 		<>
 			<motion.div
 				variants={heightTransition}
-				className="mb-10 sm:mb-12 w-screen bg-light-gray transform -translate-x-1/2 py-20 sm:py-24 md:py-32 relative overflow-hidden"
+				className="mb-10 sm:mb-12 w-screen bg-rq-gray-200 transform -translate-x-1/2 py-20 sm:py-24 md:py-32 relative overflow-hidden"
 				style={{ marginLeft: '50%' }}
 			>
 				<Container className="px-5 pb-1">
 					<motion.div
 						variants={fadeInBottomDelay}
-						className="mb-6 text-blue-700 uppercase tracking-widest text-sm font-semibold"
+						className="mb-6 text-rq-blue-800 uppercase tracking-widest text-sm font-semibold"
 					>
-						<DateFormatter dateString={date} />
+						{date !== undefined && date !== '' ? (
+							<DateFormatter dateString={date} />
+						) : (
+							''
+						)}
 					</motion.div>
+					{/* End of post meta */}
 					<motion.h1
 						variants={fadeInBottom}
 						className="max-w-screen-md text-3xl sm:text-4xl md:text-6xl font-bold tracking-tight mb-8"
 					>
 						{title}
 					</motion.h1>
+					{/* End of post title */}
 					<motion.div variants={fadeInTop}>
 						<SocialShare title={title} />
 					</motion.div>
+					{/* End of post's social share */}
 				</Container>
-				{/* Start banner dot pattern */}
 				<motion.div
 					variants={fadeIn}
 					className="absolute hidden sm:block"
 					style={{
 						opacity: 0.4,
 						backgroundColor: '#f4f4f4',
-						backgroundImage: 'radial-gradient(#2b6cb0 1px, #f4f4f4 1px)',
+						backgroundImage: 'radial-gradient(#2950DB 1px, #f4f4f4 1px)',
 						backgroundSize: '22px 22px',
 						right: '8px',
 						width: '25%',
@@ -138,11 +144,11 @@ export default function PostHeader({ title, coverImage, date, category }) {
 				></motion.div>
 				{/* End banner dot pattern */}
 			</motion.div>
-
 			<div className="max-w-3xl mx-auto mb-10">
 				<Categories className="mb-6" items={getPostCategories(category)} />
+				{/* End of post categories */}
 				<motion.div variants={fadeInBottom}>
-					<CoverImage
+					<Img
 						className={cn('shadow-xl')}
 						title={title}
 						src={coverImage}

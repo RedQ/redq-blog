@@ -1,8 +1,9 @@
 import { useRouter } from 'next/router';
-import Layout from '../../components/layout';
+import Head from 'next/head';
+import Layout from '../../components/layout/layout';
 import Container from '../../components/container';
 import Intro from '../../components/intro';
-import MoreStories from '../../components/more-stories';
+import PostList from '../../components/post/post-list';
 import { getAllPosts } from '../../lib/api';
 import {
 	getCategories,
@@ -12,14 +13,24 @@ import {
 
 export default function Category({ categoryPosts }) {
 	const router = useRouter();
-	console.log(categoryPosts, 'categoryPosts');
+	const pageTitle = router?.query?.slug;
+
 	return (
-		<Layout>
-			<Intro title={`Category: ${router?.query?.slug}`} />
-			<Container className="pt-1">
-				{categoryPosts.length > 0 && <MoreStories posts={categoryPosts} />}
-			</Container>
-		</Layout>
+		<>
+			<Head>
+				<title>
+					{`Category: ${pageTitle !== undefined ? pageTitle : ''}`} | RedQ Inc
+				</title>
+			</Head>
+			<Layout>
+				<Intro
+					title={`Category: ${pageTitle !== undefined ? pageTitle : ''}`}
+				/>
+				<Container className="pt-1">
+					{categoryPosts.length > 0 && <PostList posts={categoryPosts} />}
+				</Container>
+			</Layout>
+		</>
 	);
 }
 

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
-import Layout from '../../components/layout';
+import Layout from '../../components/layout/layout';
 import Intro from '../../components/intro';
 import Container from '../../components/container';
 // motion variants
@@ -22,7 +22,7 @@ const fadeInBottom = {
 	},
 };
 
-export default function Index() {
+export default function FAQ() {
 	return (
 		<Layout>
 			<Intro title="FAQ" />
@@ -42,9 +42,7 @@ export default function Index() {
 						</a>
 					</Link>
 					<Link href="/faq/woocommerce-rental-booking-faqs">
-						<a className="block text-center p-4 text-gray-900 text-lg">
-							RNB FAQs
-						</a>
+						<a className="block text-center p-4 text-black text-lg">RNB FAQs</a>
 					</Link>
 				</motion.div>
 				<motion.div
@@ -62,7 +60,7 @@ export default function Index() {
 						</a>
 					</Link>
 					<Link href="/faq/reactive-pro-faqs">
-						<a className="block text-center p-4 text-gray-900 text-lg">
+						<a className="block text-center p-4 text-black text-lg">
 							Reactive Pro FAQs
 						</a>
 					</Link>
@@ -82,7 +80,7 @@ export default function Index() {
 						</a>
 					</Link>
 					<Link href="/faq/turbo-faqs">
-						<a className="block text-center p-4 text-gray-900 text-lg">
+						<a className="block text-center p-4 text-black text-lg">
 							Turbo FAQs
 						</a>
 					</Link>

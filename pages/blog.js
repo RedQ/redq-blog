@@ -1,13 +1,14 @@
 import Head from 'next/head';
+import Layout from '../components/layout/layout';
+import Intro from '../components/intro';
 import Container from '../components/container';
 import Categories from '../components/categories';
-import MoreStories from '../components/more-stories';
-import Intro from '../components/intro';
-import Layout from '../components/layout';
+import PostList from '../components/post/post-list';
+// api and utils
 import { getAllPosts } from '../lib/api';
 import { getPostCategories } from '../lib/utils';
 
-export default function Index({ allPosts }) {
+export default function Blog({ allPosts }) {
 	// collect allPosts category to an array
 	let postsCategories = [];
 	allPosts.forEach((post) => {
@@ -32,7 +33,7 @@ export default function Index({ allPosts }) {
 	return (
 		<Layout>
 			<Head>
-				<title>Blog</title>
+				<title>Blog | RedQ Inc</title>
 			</Head>
 			<Intro title="Blog" />
 			<Container>
@@ -40,7 +41,7 @@ export default function Index({ allPosts }) {
 					className="mb-6 sm:mb-8 flex flex-wrap"
 					items={getPostCategories(uniqueCategories.join(', '))}
 				/>
-				{allPosts.length > 0 && <MoreStories posts={allPosts} />}
+				{allPosts.length > 0 && <PostList posts={allPosts} />}
 			</Container>
 		</Layout>
 	);

@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import Layout from '../../components/layout';
+import Layout from '../../components/layout/layout';
 import Intro from '../../components/intro';
 import Container from '../../components/container';
 import { AccordionWithFilter } from '../../components/accordion';

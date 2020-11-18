@@ -38,7 +38,7 @@ const Categories = ({ className, items }) => {
 				>
 					<motion.a
 						variants={fadeInBottom}
-						className="font-semibold uppercase tracking-widest text-sm text-blue-700 mr-4 mb-2 transition-colors duration-300 cursor-pointer"
+						className="font-semibold uppercase tracking-widest text-sm text-rq-blue-800 mr-4 mb-2 transition-colors duration-300 cursor-pointer"
 					>
 						#{item.name}
 					</motion.a>

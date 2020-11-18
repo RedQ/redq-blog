@@ -3,18 +3,18 @@ import Link from 'next/link';
 import Container from '../components/container';
 import Layout from '../components/layout/layout';
 
-export default function Index() {
+export default function Documentation() {
 	return (
 		<>
 			<Layout>
 				<Head>
-					<title>RedQ Inc | We create product that creates value</title>
+					<title>Documentation | RedQ Inc</title>
 				</Head>
 				<Container>
 					<div>RedQ</div>
-					<Link href="/blog">
+					<Link href="/">
 						<a>
-							<span style={{ color: 'blue' }}>Blog</span>
+							<span style={{ color: 'blue' }}>Back to Home</span>
 						</a>
 					</Link>{' '}
 					from here

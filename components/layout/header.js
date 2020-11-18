@@ -1,7 +1,34 @@
 import { useState } from 'react';
 import Link from 'next/link';
-import ActiveLink from './active-link';
-import Container from './container';
+import ActiveLink from '../active-link';
+import Container from '../container';
+// menu data
+const navItems = [
+	{
+		title: 'Home',
+		href: '/',
+	},
+	{
+		title: 'Blog',
+		href: '/blog',
+	},
+	{
+		title: 'Portfolio',
+		href: 'https://themeforest.net/user/redqteam/portfolio',
+	},
+	{
+		title: 'Support',
+		href: 'https://redqsupport.ticksy.com/',
+	},
+	{
+		title: 'Documentation',
+		href: '/documentation',
+	},
+	{
+		title: 'FAQ',
+		href: '/faq',
+	},
+];
 
 export default function Header() {
 	const [mobileMenuToggle, setMobileMenuToggle] = useState(false);
@@ -12,7 +39,7 @@ export default function Header() {
 				<Container className="flex items-center justify-between">
 					<h2 className="text-3xl font-bold tracking-tight md:tracking-tighter leading-tight">
 						<Link href="/">
-							<a className="transition-all duration-200 hover:text-gray-700">
+							<a className="transition-all duration-200 hover:text-rq-gray-700">
 								RedQ
 							</a>
 						</Link>
@@ -49,10 +76,23 @@ export default function Header() {
 								mobileMenuToggle ? 'is-active' : ''
 							}`}
 						>
-							<li>
+							{navItems.map((item) => (
+								<li key={item.title}>
+									<ActiveLink href={item.href}>
+										<a
+											className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
+											onClick={() => setMobileMenuToggle(false)}
+										>
+											{item.title}
+										</a>
+									</ActiveLink>
+								</li>
+							))}
+							{/*
+              <li>
 								<ActiveLink href="/">
 									<a
-										className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
+										className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
 										onClick={() => setMobileMenuToggle(false)}
 									>
 										Home
@@ -60,18 +100,9 @@ export default function Header() {
 								</ActiveLink>
 							</li>
 							<li>
-								<a
-									className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
-									href="https://themeforest.net/user/redqteam/portfolio"
-									onClick={() => setMobileMenuToggle(false)}
-								>
-									Portfolio
-								</a>
-							</li>
-							<li>
 								<ActiveLink href="/blog">
 									<a
-										className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
+										className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
 										onClick={() => setMobileMenuToggle(false)}
 									>
 										Blog
@@ -80,7 +111,16 @@ export default function Header() {
 							</li>
 							<li>
 								<a
-									className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
+									className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
+									href="https://themeforest.net/user/redqteam/portfolio"
+									onClick={() => setMobileMenuToggle(false)}
+								>
+									Portfolio
+								</a>
+							</li>
+							<li>
+								<a
+									className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
 									href="https://redqsupport.ticksy.com/"
 									onClick={() => setMobileMenuToggle(false)}
 								>
@@ -88,25 +128,26 @@ export default function Header() {
 								</a>
 							</li>
 							<li>
-								<ActiveLink href="/faq">
-									<a
-										className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
-										onClick={() => setMobileMenuToggle(false)}
-									>
-										FAQ
-									</a>
-								</ActiveLink>
-							</li>
-							<li>
 								<Link href="/blog">
 									<a
-										className="px-4 text-gray-700 transition-all duration-200 hover:text-gray-900"
+										className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
 										onClick={() => setMobileMenuToggle(false)}
 									>
 										Documentation
 									</a>
 								</Link>
 							</li>
+							<li>
+								<ActiveLink href="/faq">
+									<a
+										className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
+										onClick={() => setMobileMenuToggle(false)}
+									>
+										FAQ
+									</a>
+								</ActiveLink>
+							</li>
+              */}
 						</ul>
 					</div>
 				</Container>
