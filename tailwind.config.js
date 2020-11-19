@@ -3,11 +3,15 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				'rq-gray-200': '#f4f4f4',
-				'rq-gray-500': '#898989',
-				'rq-gray-600': '#6C6C6C',
-				'rq-gray-700': '#343D48',
-				'rq-blue-800': '#2950DB',
+				'rq-gray': {
+					200: '#f4f4f4',
+					500: '#898989',
+					600: '#6C6C6C',
+					700: '#343D48',
+				},
+				'rq-blue': {
+					800: '#2950DB',
+				},
 			},
 			spacing: {
 				28: '7rem',

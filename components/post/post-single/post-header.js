@@ -117,7 +117,7 @@ export default function PostHeader({ title, coverImage, date, category }) {
 					{/* End of post meta */}
 					<motion.h1
 						variants={fadeInBottom}
-						className="max-w-screen-md text-3xl sm:text-4xl md:text-6xl font-bold tracking-tight mb-8"
+						className="max-w-screen-md text-3xl sm:text-4xl md:text-6xl font-bold leading-tight sm:leading-tight tracking-tight mb-8"
 					>
 						{title}
 					</motion.h1>
