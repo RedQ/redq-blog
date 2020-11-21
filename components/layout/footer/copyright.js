@@ -12,7 +12,7 @@ import { motion } from 'framer-motion';
 export default function Copyright() {
 	const date = new Date();
 	return (
-		<div className="flex items-center justify-center flex-col border-t border-solid border-rq-white-100 pt-10 pb-8 mt-8">
+		<div className="flex items-center justify-center flex-col border-t border-solid border-rq-white-100 pt-10 pb-8 mt-14">
 			<div className="flex items-center mb-2">
 				<motion.a
 					whileHover={{ scale: 1.1 }}
@@ -21,7 +21,7 @@ export default function Copyright() {
 					className="p-3 transition-all duration-200 text-rq-white-700 hover:text-white"
 					title="Facebook"
 				>
-					<RiFacebookCircleLine size={20} />
+					<RiFacebookCircleLine size={18} />
 				</motion.a>
 				<motion.a
 					whileHover={{ scale: 1.1 }}
@@ -30,7 +30,7 @@ export default function Copyright() {
 					className="p-3 transition-all duration-200 text-rq-white-700 hover:text-white"
 					title="Twitter"
 				>
-					<RiTwitterLine size={20} />
+					<RiTwitterLine size={18} />
 				</motion.a>
 				<motion.a
 					whileHover={{ scale: 1.1 }}
@@ -39,7 +39,7 @@ export default function Copyright() {
 					className="p-3 transition-all duration-200 text-rq-white-700 hover:text-white"
 					title="Instagram"
 				>
-					<RiInstagramLine size={20} />
+					<RiInstagramLine size={18} />
 				</motion.a>
 				<motion.a
 					whileHover={{ scale: 1.1 }}
@@ -48,7 +48,7 @@ export default function Copyright() {
 					className="p-3 transition-all duration-200 text-rq-white-700 hover:text-white"
 					title="Dribbble"
 				>
-					<RiDribbbleLine size={20} />
+					<RiDribbbleLine size={18} />
 				</motion.a>
 				<motion.a
 					whileHover={{ scale: 1.1 }}
@@ -57,7 +57,7 @@ export default function Copyright() {
 					className="p-3 transition-all duration-200 text-rq-white-700 hover:text-white"
 					title="Linkedin"
 				>
-					<RiLinkedinLine size={20} />
+					<RiLinkedinLine size={18} />
 				</motion.a>
 				<motion.a
 					whileHover={{ scale: 1.1 }}
@@ -66,7 +66,7 @@ export default function Copyright() {
 					className="p-3 transition-all duration-200 text-rq-white-700 hover:text-white"
 					title="Google +"
 				>
-					<RiGoogleLine size={20} />
+					<RiGoogleLine size={18} />
 				</motion.a>
 				<motion.a
 					whileHover={{ scale: 1.1 }}
@@ -75,7 +75,7 @@ export default function Copyright() {
 					className="p-3 transition-all duration-200 text-rq-white-700 hover:text-white"
 					title="Pinterest"
 				>
-					<RiPinterestLine size={20} />
+					<RiPinterestLine size={18} />
 				</motion.a>
 			</div>
 			{/* End of social share */}

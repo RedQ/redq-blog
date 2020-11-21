@@ -8,6 +8,8 @@ body {
 code {
   @apply bg-gray-200 inline-block py-1 px-2 border border-gray-300 border-solid rounded;
 }
+
+/* site header style */
 .sticky-nav nav {
   -webkit-box-shadow: 0 4px 16px 0 rgba(16,66,97,.07);
   box-shadow: 0 4px 16px 0 rgba(16,66,97,.07);
@@ -63,6 +65,8 @@ code {
     @apply flex w-full py-4;
   }
 }
+
+/* category link style */
 .site-categories a {
   @apply relative;
 }
@@ -84,6 +88,8 @@ code {
   transform-origin: left center 0px;
   transition: transform 0.3s cubic-bezier(0.43, 0.49, 0.51, 0.68);
 }
+
+/* content style */
 .rq-accordion .content img {
   @apply max-w-full ml-auto mr-auto my-5;
 }
@@ -174,6 +180,57 @@ code {
 }
 .rq-accordion .content p {
   @apply mt-4 mb-3;
+}
+
+/* footer style */
+@media (min-width: 1280px) {
+  .footer-widgets {
+    @apply flex items-start justify-between;
+  }
+}
+@media (max-width: 1279px) {
+  .footer-widgets {
+    @apply grid gap-x-10;
+    -ms-grid-columns: auto auto;
+    grid-template-columns: auto auto;
+  }
+}
+@media (max-width: 666px) {
+  .footer-widgets {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+}
+@media (min-width: 667px) and (max-width: 767px) {
+  .subscribe-form input {
+    @apply w-full;
+  }
+}
+@media (max-width: 400px) {
+  .subscribe-form form {
+    @apply flex-col;
+  }
+  .subscribe-form input,
+  .subscribe-form button {
+    @apply w-full;
+  }
+  .subscribe-form button {
+    @apply ml-0 mt-4;
+  }
+}
+@media (min-width: 375px) {
+  .two-column-menu {
+    @apply grid grid-cols-2 gap-x-4 2xl:gap-x-8 gap-y-3;
+  }
+}
+@media (max-width: 374px) {
+  .two-column-menu {
+    @apply grid grid-cols-1 gap-y-3;
+  }
+
+}
+.widget-menu li {
+  @apply my-3;
 }
 /* end of RedQ site's styles */
 
