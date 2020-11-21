@@ -1,13 +1,31 @@
 module.exports = {
 	purge: ['./components/**/*.js', './pages/**/*.js'],
+	variants: {
+		extend: {
+			borderWidth: ['hover', 'focus'],
+			borderStyle: ['hover', 'focus'],
+			borderColor: ['hover', 'focus'],
+		},
+	},
 	theme: {
 		extend: {
 			colors: {
-				'rq-gray-200': '#f4f4f4',
-				'rq-gray-500': '#898989',
-				'rq-gray-600': '#6C6C6C',
-				'rq-gray-700': '#343D48',
-				'rq-blue-800': '#2950DB',
+				'rq-gray': {
+					200: '#f4f4f4',
+					500: '#898989',
+					600: '#6C6C6C',
+					700: '#343D48',
+					800: '#0B1419',
+				},
+				'rq-blue': {
+					800: '#2950DB',
+				},
+				'rq-white': {
+					100: 'rgba(255, 255, 255, 0.1)',
+					300: 'rgba(255, 255, 255, 0.3)',
+					500: 'rgba(255, 255, 255, 0.5)',
+					700: 'rgba(255, 255, 255, 0.7)',
+				},
 			},
 			spacing: {
 				28: '7rem',
@@ -26,6 +44,7 @@ module.exports = {
 				'6xl': '2.75rem',
 				'7xl': '4.5rem',
 				'8xl': '6.25rem',
+				'15px': '0.9375rem',
 			},
 			boxShadow: {
 				small: '0 5px 10px rgba(0, 0, 0, 0.12)',

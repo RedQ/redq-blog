@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import Sticky from 'react-stickynode';
 import Meta from '../meta';
 import Header from './header';
-import Footer from './footer';
+import Footer from './footer/footer';
 
 export default function Layout({ children }) {
 	return (
