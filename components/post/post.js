@@ -28,7 +28,7 @@ export default function Post({ slug, date, title, excerpt, coverImage }) {
 			height={360}
 			className="rounded w-full"
 			alt={`Cover Image for ${title}`}
-			src={coverImage ? coverImage : '/assets/fallback-image.svg'}
+			src={coverImage ? coverImage : '/images/fallback-image.svg'}
 		/>
 	);
 

@@ -5,7 +5,7 @@ export default function CallToAction() {
 		<div className="py-14">
 			<Container className="text-center lg:text-left lg:flex lg:items-center lg:justify-between">
 				<div>
-					<h2 className="text-3xl 2xl:text-4xl font-bold tracking-tighter mb-4 lg:mb-3">
+					<h2 className="text-3xl 2xl:text-4xl font-bold tracking-tight mb-4 lg:mb-3">
 						Looking for custom Development? We are ready to help.
 					</h2>
 					<p className="leading-loose text-rq-gray-800">

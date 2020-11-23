@@ -40,7 +40,7 @@ export default function Header() {
 					<Link href="/">
 						<a
 							dangerouslySetInnerHTML={{
-								__html: require('../../public/logo.svg?include'),
+								__html: require('../../public/images/logo.svg?include'),
 							}}
 						></a>
 					</Link>

@@ -28,24 +28,12 @@ module.exports = {
 					700: 'rgba(255, 255, 255, 0.7)',
 				},
 			},
-			spacing: {
-				28: '7rem',
-			},
-			letterSpacing: {
-				tighter: '-.04em',
-			},
-			lineHeight: {
-				tight: 1.2,
-			},
 			fontFamily: {
 				body: "'Fira Sans', sans-serif",
 			},
 			fontSize: {
-				'5xl': '2.5rem',
-				'6xl': '2.75rem',
-				'7xl': '4.5rem',
-				'8xl': '6.25rem',
 				'15px': '0.9375rem',
+				'70px': '4.375rem',
 			},
 			boxShadow: {
 				light: '0 4px 16px 0 rgba(16, 66, 97, 0.07)',

@@ -9,7 +9,7 @@ export default function Img({
 	fallbackSrc,
 	className,
 }) {
-	const fallback = fallbackSrc ? fallbackSrc : '/assets/fallback-image.svg';
+	const fallback = fallbackSrc ? fallbackSrc : '/images/fallback-image.svg';
 
 	return (
 		<Image
