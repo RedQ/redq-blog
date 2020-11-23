@@ -12,6 +12,7 @@ module.exports = {
 			colors: {
 				'rq-gray': {
 					200: '#f4f4f4',
+					300: '#EFF1F7',
 					500: '#898989',
 					600: '#6C6C6C',
 					700: '#343D48',
@@ -47,6 +48,7 @@ module.exports = {
 				'15px': '0.9375rem',
 			},
 			boxShadow: {
+				light: '0 4px 16px 0 rgba(16, 66, 97, 0.07)',
 				small: '0 5px 10px rgba(0, 0, 0, 0.12)',
 				medium: '0 8px 30px rgba(0, 0, 0, 0.12)',
 			},

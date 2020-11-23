@@ -57,7 +57,7 @@ export default function Intro({ title }) {
 	return (
 		<motion.section
 			variants={heightTransition}
-			className="mb-10 sm:mb-12 bg-rq-gray-200 py-20 sm:py-24 md:py-32 relative overflow-hidden"
+			className="mb-10 sm:mb-12 bg-rq-gray-300 py-24 sm:py-28 md:py-40 relative overflow-hidden"
 		>
 			{/* Start banner dot pattern */}
 			<motion.div
@@ -65,12 +65,12 @@ export default function Intro({ title }) {
 				className="absolute hidden sm:block"
 				style={{
 					opacity: 0.4,
-					backgroundColor: '#f4f4f4',
-					backgroundImage: 'radial-gradient(#2950DB 1px, #f4f4f4 1px)',
+					backgroundColor: '#EFF1F7',
+					backgroundImage: 'radial-gradient(#2950DB 1px, #EFF1F7 1px)',
 					backgroundSize: '22px 22px',
 					right: '20px',
 					width: '24%',
-					height: '68%',
+					height: '64%',
 					bottom: '18px',
 				}}
 			></motion.div>
