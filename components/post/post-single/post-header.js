@@ -100,7 +100,7 @@ export default function PostHeader({ title, coverImage, date, category }) {
 		<>
 			<motion.div
 				variants={heightTransition}
-				className="mb-10 sm:mb-12 w-screen bg-rq-gray-200 transform -translate-x-1/2 py-20 sm:py-24 md:py-32 relative overflow-hidden"
+				className="mb-10 sm:mb-12 w-screen bg-rq-gray-300 transform -translate-x-1/2 pt-32 pb-20 sm:pb-24 md:pt-36 md:pb-32 relative overflow-hidden"
 				style={{ marginLeft: '50%' }}
 			>
 				<Container className="px-5 pb-1">
@@ -117,7 +117,7 @@ export default function PostHeader({ title, coverImage, date, category }) {
 					{/* End of post meta */}
 					<motion.h1
 						variants={fadeInBottom}
-						className="max-w-screen-md text-3xl sm:text-4xl md:text-6xl font-bold leading-tight sm:leading-tight tracking-tight mb-8"
+						className="max-w-screen-md text-3xl sm:text-4xl md:text-5xl md:leading-tight font-bold mb-8"
 					>
 						{title}
 					</motion.h1>
@@ -129,15 +129,15 @@ export default function PostHeader({ title, coverImage, date, category }) {
 				</Container>
 				<motion.div
 					variants={fadeIn}
-					className="absolute hidden sm:block"
+					className="absolute hidden md:block"
 					style={{
 						opacity: 0.4,
-						backgroundColor: '#f4f4f4',
-						backgroundImage: 'radial-gradient(#2950DB 1px, #f4f4f4 1px)',
+						backgroundColor: '#EFF1F7',
+						backgroundImage: 'radial-gradient(#2950DB 1px, #EFF1F7 1px)',
 						backgroundSize: '22px 22px',
 						right: '8px',
-						width: '25%',
-						height: '56%',
+						width: '24%',
+						height: '50%',
 						bottom: '18px',
 						zIndex: -1,
 					}}

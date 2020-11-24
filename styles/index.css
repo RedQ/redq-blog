@@ -23,7 +23,7 @@ code {
   @apply relative;
 }
 .main-menu a.active {
-  @apply text-black font-semibold;
+  @apply text-black font-medium;
 } 
 @media (min-width: 1025px) {
   .main-menu a::after {

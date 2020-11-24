@@ -69,8 +69,8 @@ export default function Intro({ title }) {
 					backgroundImage: 'radial-gradient(#2950DB 1px, #EFF1F7 1px)',
 					backgroundSize: '22px 22px',
 					right: '20px',
-					width: '24%',
-					height: '64%',
+					width: '22%',
+					height: '60%',
 					bottom: '18px',
 				}}
 			></motion.div>
@@ -79,7 +79,7 @@ export default function Intro({ title }) {
 				<header>
 					<motion.h1
 						variants={fadeInBottom}
-						className="text-4xl md:text-6xl text-black font-bold tracking-tighter capitalize"
+						className="text-4xl md:text-5xl text-black font-bold tracking-tighter capitalize"
 					>
 						{title}
 					</motion.h1>
