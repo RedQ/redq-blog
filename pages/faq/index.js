@@ -2,8 +2,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
 import Layout from '../../components/layout/layout';
-import Intro from '../../components/intro';
-import Container from '../../components/container';
+import Intro from '../../components/ui/intro';
+import Container from '../../components/ui/container';
 // faq items [data]
 const faqItems = [
 	{

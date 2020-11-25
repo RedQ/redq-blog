@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import { useRouter } from 'next/router';
 import Layout from '../../components/layout/layout';
-import Container from '../../components/container';
+import Container from '../../components/ui/container';
 import PostSingle from '../../components/post/post-single/post-single';
 import { getPostBySlug, getAllPosts } from '../../lib/api';
 import markdownToHtml from '../../lib/markdownToHtml';

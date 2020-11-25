@@ -17,11 +17,16 @@ export default function Layout({ children }) {
 			<Meta />
 			{/* End of default SEO */}
 
-			<motion.main initial="exit" animate="enter" exit="exit">
+			<motion.main
+				initial="exit"
+				animate="enter"
+				exit="exit"
+				className="flex flex-col min-h-screen"
+			>
 				<Sticky top={0} innerZ={9999} activeClass="sticky-nav">
 					<Header />
 				</Sticky>
-				<div className="min-h-screen">{children}</div>
+				<div className="flex-grow">{children}</div>
 				<Footer />
 			</motion.main>
 		</>

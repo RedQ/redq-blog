@@ -17,7 +17,9 @@ export default function Widgets() {
 					{widget.menu.length > 0 && (
 						<ul
 							className={
-								widget.menu.length > 8 ? 'two-column-menu' : 'widget-menu'
+								widget.menu.length > 8
+									? 'grid grid-cols-1 sm:grid-cols-2 sm:gap-x-4 2xl:gap-x-8 gap-y-3'
+									: 'grid grid-cols-1 gap-y-3'
 							}
 						>
 							{widget.menu.map((item) => (
@@ -64,7 +66,7 @@ export default function Widgets() {
 					/>
 					<button
 						type="submit"
-						className="px-6 bg-white rounded h-14 text-rq-gray-800 font-semibold capitalize ml-2.5 transition-all duration-300 hover:bg-gray-200"
+						className="px-6 bg-white rounded h-14 text-rq-gray-800 font-semibold capitalize ml-2.5 transition-colors duration-300 hover:bg-gray-200"
 					>
 						Subscribe
 					</button>

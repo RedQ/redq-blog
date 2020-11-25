@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
-import ActiveLink from '../active-link';
-import Container from '../container';
+import ActiveLink from '../ui/active-link';
+import Container from '../ui/container';
 // menu data
 const navItems = [
 	{
@@ -35,15 +35,15 @@ export default function Header() {
 
 	return (
 		<header className="site-header">
-			<nav className="py-5 lg:py-6 flex items-center border-b border-solid border-gray-300 bg-white">
+			<nav className="fixed w-full top-0 left-0 py-6 lg:py-7 flex items-center">
 				<Container className="flex items-center justify-between">
-					<h2 className="text-3xl font-bold tracking-tight md:tracking-tighter leading-tight">
-						<Link href="/">
-							<a className="transition-all duration-200 hover:text-rq-gray-700">
-								RedQ
-							</a>
-						</Link>
-					</h2>
+					<Link href="/">
+						<a
+							dangerouslySetInnerHTML={{
+								__html: require('../../public/images/logo.svg?include'),
+							}}
+						></a>
+					</Link>
 					{/* End of site's logo */}
 					<div className="flex items-center">
 						<button

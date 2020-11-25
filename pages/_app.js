@@ -1,6 +1,8 @@
 import 'fontsource-fira-sans/400.css';
+import 'fontsource-fira-sans/500-normal.css';
 import 'fontsource-fira-sans/600-normal.css';
 import 'fontsource-fira-sans/700-normal.css';
+import 'fontsource-fira-sans/900-normal.css';
 import '../styles/index.css';
 import { AnimatePresence } from 'framer-motion';
 

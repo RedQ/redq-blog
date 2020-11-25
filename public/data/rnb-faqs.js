@@ -1,14 +1,13 @@
-// import images
-import img16 from '../assets/faq/rnb/16.png';
-import img17 from '../assets/faq/rnb/17.png';
-import img18 from '../assets/faq/rnb/18.png';
-import img19 from '../assets/faq/rnb/19.png';
-import img20 from '../assets/faq/rnb/20.png';
-import img21 from '../assets/faq/rnb/21.png';
-import img22 from '../assets/faq/rnb/22.png';
-import img23 from '../assets/faq/rnb/23.png';
-import img24 from '../assets/faq/rnb/24.png';
-import img25 from '../assets/faq/rnb/25.png';
+import img16 from '../images/faq/rnb/16.png';
+import img17 from '../images/faq/rnb/17.png';
+import img18 from '../images/faq/rnb/18.png';
+import img19 from '../images/faq/rnb/19.png';
+import img20 from '../images/faq/rnb/20.png';
+import img21 from '../images/faq/rnb/21.png';
+import img22 from '../images/faq/rnb/22.png';
+import img23 from '../images/faq/rnb/23.png';
+import img24 from '../images/faq/rnb/24.png';
+import img25 from '../images/faq/rnb/25.png';
 
 export const faqs = [
 	{

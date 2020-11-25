@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-
 // motion variants
 const variants = {
 	exit: {
