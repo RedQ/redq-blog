@@ -1,8 +1,8 @@
 import Head from 'next/head';
 import Layout from '../components/layout/layout';
-import Intro from '../components/intro';
-import Container from '../components/container';
-import Categories from '../components/categories';
+import Intro from '../components/ui/intro';
+import Container from '../components/ui/container';
+import Categories from '../components/ui/categories';
 import PostList from '../components/post/post-list';
 // api and utils
 import { getAllPosts } from '../lib/api';

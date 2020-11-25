@@ -8,13 +8,12 @@ import {
 	EmailIcon,
 } from 'react-share';
 
-const SocialShare = ({ title }) => {
+export default function SocialShare({ title }) {
 	const [siteURL, setSiteURL] = useState('');
 	useEffect(() => {
 		const router = window.location;
 		setSiteURL(router.href);
 	}, []);
-
 	return (
 		<>
 			<FacebookShareButton
@@ -41,6 +40,4 @@ const SocialShare = ({ title }) => {
 			</EmailShareButton>
 		</>
 	);
-};
-
-export default SocialShare;
+}

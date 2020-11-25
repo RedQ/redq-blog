@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import Container from '../components/container';
+import Container from './container';
 // motion variant
 let easing = [0.175, 0.85, 0.42, 0.96];
 const fadeIn = {

@@ -1,8 +1,8 @@
 import { useRouter } from 'next/router';
 import Head from 'next/head';
 import Layout from '../../components/layout/layout';
-import Container from '../../components/container';
-import Intro from '../../components/intro';
+import Container from '../../components/ui/container';
+import Intro from '../../components/ui/intro';
 import PostList from '../../components/post/post-list';
 import { getAllPosts } from '../../lib/api';
 import {

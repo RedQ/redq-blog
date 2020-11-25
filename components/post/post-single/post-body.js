@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import fitvids from 'fitvids';
 import { motion } from 'framer-motion';
-import SocialShare from '../../social-share';
+import SocialShare from '../../ui/social-share';
 import markdownStyles from './markdown-styles.module.css';
 // motion variants
 const fadeInBottom = {

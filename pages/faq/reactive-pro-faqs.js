@@ -1,8 +1,8 @@
 import { motion } from 'framer-motion';
 import Layout from '../../components/layout/layout';
-import Intro from '../../components/intro';
-import Container from '../../components/container';
-import { AccordionWithFilter } from '../../components/accordion';
+import Intro from '../../components/ui/intro';
+import Container from '../../components/ui/container';
+import { AccordionWithFilter } from '../../components/ui/accordion';
 // faqs data
 import { faqs } from '../../public/data/reactive-pro-faqs';
 // motion variants

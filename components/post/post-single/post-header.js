@@ -1,10 +1,10 @@
 import cn from 'classnames';
 import { motion } from 'framer-motion';
-import Container from '../../container';
-import DateFormatter from '../../date-formatter';
-import Img from '../../image';
-import SocialShare from '../../social-share';
-import Categories from '../../categories';
+import Container from '../../ui/container';
+import DateFormatter from '../../ui/date-formatter';
+import Img from '../../ui/image';
+import SocialShare from '../../ui/social-share';
+import Categories from '../../ui/categories';
 import { getPostCategories } from '../../../lib/utils';
 // motion variant
 let easing = [0.175, 0.85, 0.42, 0.96];

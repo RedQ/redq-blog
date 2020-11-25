@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
-import ActiveLink from '../active-link';
-import Container from '../container';
+import ActiveLink from '../ui/active-link';
+import Container from '../ui/container';
 // menu data
 const navItems = [
 	{

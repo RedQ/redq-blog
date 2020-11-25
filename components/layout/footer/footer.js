@@ -1,4 +1,4 @@
-import Container from '../../container';
+import Container from '../../ui/container';
 import Widgets from './widgets';
 import Copyright from './copyright';
 

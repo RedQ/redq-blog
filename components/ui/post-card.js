@@ -2,7 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { BsArrowRight } from 'react-icons/bs';
 import { motion } from 'framer-motion';
-import DateFormatter from '../date-formatter';
+import DateFormatter from './date-formatter';
 // motion variants
 const fadeInBottom = {
 	exit: {
@@ -21,7 +21,7 @@ const fadeInBottom = {
 	},
 };
 
-export default function Post({ slug, date, title, excerpt, coverImage }) {
+export default function PostCard({ slug, date, title, excerpt, coverImage }) {
 	const postThumbnail = (
 		<Image
 			width={588}
@@ -58,7 +58,6 @@ export default function Post({ slug, date, title, excerpt, coverImage }) {
 			</figure>
 			{/* End of post thumbnail */}
 			<div className="mb-3 sm:mb-4 md:mb-3 lg:mb-4 text-rq-blue-800 uppercase tracking-widest text-sm font-semibold">
-				{/*{category !== undefined ? <Categories items={category} /> : ''}*/}
 				{date !== undefined && date !== '' ? (
 					<DateFormatter dateString={date} />
 				) : (
