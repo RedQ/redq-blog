@@ -21,6 +21,7 @@
     "react-dom": "^16.13.0",
     "react-hook-form": "^6.11.3",
     "react-icons": "^3.11.0",
+    "react-multi-carousel": "^2.5.5",
     "react-share": "^4.3.1",
     "react-stickynode": "^3.0.4",
     "react-tooltip": "^4.2.10",
