@@ -2,7 +2,7 @@
 title: "WooCommerce Rental and Booking Plugin"
 date: "2020-02-28"
 excerpt: "**WooCommerce** provides the best solution for an e-commerce platform for selling your products and services efficiently. It is the best free Plugin in the history of WordPress.."
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/woo.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/47.png"
 ogImage:
 url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/woo.png"
 ---
@@ -172,7 +172,7 @@ Day Range Cost- 12
 
 Applicable – Per Day
 
-Now, If someone book that product for 4 days, It will cost $12*4=$48. Because you set the applicable option to per day basis. Isn’t it quite an impressive feature??
+Now, If someone book that product for 4 days, It will cost $12\*4=$48. Because you set the applicable option to per day basis. Isn’t it quite an impressive feature??
 
 The plugin team is trying to provide some extra pricing plan like weekly pricing and Seasonal Pricing. It will add with the current features on their future updates.
 
@@ -190,7 +190,7 @@ Discount type is available in a fixed price or percentage of the price you set i
 
 Suppose, you set the discount type to a fixed price and that is \$5.
 
-If someone book or rent your product for 3 days, the total price will be $12*3=36-5=$31.
+If someone book or rent your product for 3 days, the total price will be $12\*3=36-5=$31.
 
 On the other side, Suppose, you set the discount type to percentage and that is 10%.
 
