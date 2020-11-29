@@ -3,7 +3,7 @@ title: "Best Directory WordPress Themes 2020"
 date: "2020-02-28"
 category: "Theme"
 excerpt: "Here is a list of the [best WordPress  themes](https://redq.io/blog/best-free-wordpress-themes-advertising/) that you can use for almost any purpose. Some menu lists include a very smart guide and rich feature in WordPress themes."
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/directory.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/43.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/directory.png"
 ---
