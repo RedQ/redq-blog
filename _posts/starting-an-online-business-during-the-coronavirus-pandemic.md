@@ -3,7 +3,7 @@ title: "Starting An Online Business During The Coronavirus Pandemic"
 date: "2020-08-19"
 category: "Article, Theme"
 excerpt: "Business during the Coronavirus pandemic is very challenging. This situation unlocks a lot of opportunity for Online business. People have to maintain lock-down imposed by their government in several countries. So the tendency to go shopping online increased at a very high rate. This time doing business online is profitable and helpful for the people "
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/starting%20-an-online-business-during-pandemic-home.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/4.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/starting%20-an-online-business-during-pandemic-home.png"
 ---
