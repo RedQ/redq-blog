@@ -3,7 +3,7 @@ title: "12 Best React Redux Admin Dashboard 2020"
 date: "2019-07-16"
 category: "Theme, Article"
 excerpt: "ReactJs assists you to develop a responsive user interface very easily. It really does not matter how complicated the data structure is, you can generate interactive charts and UI elements smartly with the ReactJs. As you know that it is crafted and maintained by the Instagram and Facebook community, you actually do not need to"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/iso.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/22.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/iso.png"
 ---
