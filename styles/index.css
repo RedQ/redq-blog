@@ -181,6 +181,14 @@ code {
   @apply mt-4 mb-3;
 }
 
+/* background pattern */
+.rq-bg-pattern {
+  @apply absolute top-0 left-0 w-full h-full pointer-events-none z-0;
+}
+.rq-bg-pattern svg {
+  @apply w-full h-full opacity-5;
+}
+
 /* footer style */
 @media (min-width: 1280px) {
   .footer-widgets {
@@ -226,5 +234,3 @@ code {
 /* Start purging... */
 @tailwind utilities;
 /* Stop purging. */
-
-

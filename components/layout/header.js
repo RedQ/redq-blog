@@ -36,7 +36,7 @@ export default function Header() {
 	return (
 		<header className="site-header">
 			<nav className="fixed w-full top-0 left-0 py-6 lg:py-7 flex items-center">
-				<Container className="flex items-center justify-between">
+				<Container fluid={true} className="flex items-center justify-between">
 					<Link href="/">
 						<a
 							dangerouslySetInnerHTML={{

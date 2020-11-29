@@ -8,7 +8,7 @@ export default function HeroBanner() {
 			></div>
 			<div className="absolute text-center top-2/4 left-2/4 transform -translate-x-1/2 -translate-y-1/2">
 				<div className="inline-block py-3 px-7 rounded-full text-rq-blue-800 bg-white mb-5">
-					<strong className="font-black">🎉 UPDATED:</strong>{' '}
+					<strong className="font-blod">🎉 UPDATED:</strong>{' '}
 					<span className="font-medium">
 						Pickbazar Graphql v5.6.2 just released
 					</span>
