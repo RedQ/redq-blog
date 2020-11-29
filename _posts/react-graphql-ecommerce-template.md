@@ -3,7 +3,7 @@ title: "Building A React & GraphQL Based ECommerce Website Using Pickbazar"
 date: "2020-01-13"
 category: "Theme"
 excerpt: "There are lots of shopping templates available in several marketplaces. But choosing the right one is very difficult. Today we will talk about a shopping or eCommerce template named PickBazar developed by RedQ Inc. It is a new template published in the Envato marketplace. What is React and why should we use it? React is"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/pickbazar.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/13.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/pickbazar.png"
 ---

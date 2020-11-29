@@ -3,7 +3,7 @@ title: "How a Landing Page can Redefine Your Business in 2020"
 date: "2020-06-29"
 category: "Article, Blog"
 excerpt: "Online visibility has become essential for businesses looking to scale up, especially within the past decade. In 2020 and moving forward, any entrepreneur or creator should be looking to bringing their product, service or app to the forefront of the cyber space. So, what’s the catch? The process of bringing a business online can seem"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/how-a-landing-page-can-redefine-your-business-home.jpg"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/6.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/how-a-landing-page-can-redefine-your-business-home.jpg"
 ---

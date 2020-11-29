@@ -3,7 +3,7 @@ title: "How to Build a Blog with React Gatsby Using StoryHub"
 date: "2020-02-27"
 category: "Article, Blog"
 excerpt: "Conclusion Now we came to the ending point of this article. We hope you have a great idea about this template. This is a highly rated template in the Envato marketplace. It has sold for more than 300 times. Without any hesitation, you can buy this template according to your requirements. That is all for"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/storyhub-1.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/10.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/storyhub-1.png"
 ---

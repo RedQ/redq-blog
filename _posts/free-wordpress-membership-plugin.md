@@ -3,7 +3,7 @@ title: "Free WordPress Membership Plugin"
 date: "2018-09-24"
 category: "Article, Blog, Plugin"
 excerpt: "WordPress Membership Plugin is an essential right now for maintaining user accounts. There are lots of plugins available in several marketplaces. Most of them are paid WordPress Membership Plugin. A very few are free of cost. But those are very helpful. To earn by user subscription a WordPress site must be required a  WordPress Membership Plugin free. It also "
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/33.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership.png"
 ---

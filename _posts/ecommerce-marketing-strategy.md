@@ -3,7 +3,7 @@ title: "E-commerce Marketing Strategy 2020 You Need To Learn For Success"
 date: "2019-09-28"
 category: "Marketing, SEO"
 excerpt: "E-commerce is in full development around the world, but deploying an online store is driving a number of strategic issues for businesses. Many traders are trying to evolve today in the world of e-commerce. Some have even started testing their activity on a Facebook page or in dedicated communities on this social network before migrating"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/E-commerce-Marketing-Strategy-1.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/18.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/E-commerce-Marketing-Strategy-1.png"
 ---

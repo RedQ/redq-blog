@@ -3,7 +3,7 @@ title: "How to  Setup Coupon in your Membership Site  With UserPlace Plugin"
 date: "2018-10-11"
 category: "Article, Blog, Plugin"
 excerpt: "Hello good people, hope you all had a good day and we are ready with a new article of the UserPlace article series. This tile the article is about coupon creations and it’s usage with your membership site by using the UserPlace Plugin. So let’s dig into the article. ﻿ Userplace Coupon Coupon is the part where"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/userplace-10.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/29.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/userplace-10.png"
 ---

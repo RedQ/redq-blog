@@ -1,11 +1,11 @@
 ---
-title: 'Best Gutenberg Blocks Plugins and Tutorial to Use This Latest Editor'
-date: ''
-category: 'Plugin'
-excerpt: 'WordPress is a widely used blog and content management platform. It is  currently used by more than 60 million websites, including 33.6% of the  top 10 million websites as of April 2019, according to the source of W3  tech. '
-coverImage: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/gutenberg.png'
+title: "Best Gutenberg Blocks Plugins and Tutorial to Use This Latest Editor"
+date: ""
+category: "Plugin"
+excerpt: "WordPress is a widely used blog and content management platform. It is  currently used by more than 60 million websites, including 33.6% of the  top 10 million websites as of April 2019, according to the source of W3  tech. "
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/16.png"
 ogImage:
-  url: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/gutenberg.png'
+  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/gutenberg.png"
 ---
 
 WordPress is a widely used blog and content management platform. It is currently used by more than 60 million websites, including 33.6% of the top 10 million websites as of April 2019, according to the source of W3 tech. Previously it had a great editor; we all know it as ‘TinyMCE’ editor. But recent times, WordPress has introduced a newly designed editor named ‘Gutenberg’ and brings totally a new way of creating content with lots of features.

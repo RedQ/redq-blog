@@ -3,7 +3,7 @@ title: "Best WordPress Mega Menu Plugin"
 date: "2018-09-12"
 category: "Article, Plugin"
 excerpt: "Nowadays every WordPress sites need an exotic menu. Mega menu plugin functionality is the solution for an exotic menu. But the theme you are using should have the support of Mega Menu unless you can not have this functionality. WordPress developers are now developing lots of plugins based on Mega Menu. So we will try"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/37.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/mega-menu.png"
 ---

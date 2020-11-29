@@ -3,7 +3,7 @@ title: "Build a Hotel Listing React App with TripFinder Template"
 date: "2020-02-13"
 category: "Theme, Article"
 excerpt: "React Next can be implemented for making a Hotel template. Today we will talk about such a Template which is based on React Next and solely developed keeping mind Hotel. So let us start the article. TripFinder - React Hotel Listing Template TripFinder is the fastest template built with React, NextJS, Context API, & Styled-Components."
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/TripFinder.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/12.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/TripFinder.png"
 ---

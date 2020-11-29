@@ -3,7 +3,7 @@ title: "How To Make A Booking Website With WordPress Booking Plugin RnB"
 date: "2019-07-07"
 category: "Article, Plugin"
 excerpt: "Any Kind of Booking businesses are now very profitable. Many entrepreneurs are coming forward to invest in this business sector. Nowadays a trend is very popular. This trend is to do business online via a website. Booking business has a very bright future to run online. So if an entrepreneur wants to run his booking"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/23.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb.png"
 ---

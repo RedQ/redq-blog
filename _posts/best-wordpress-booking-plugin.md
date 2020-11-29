@@ -4,7 +4,7 @@ date: "2018-08-08"
 category: "Article, Blog, Plugin"
 excerpt: "This is an era of Internet and every business nowadays has a tendency to run through online. There are several kinds of booking business appeared all around the globe. Hotel booking, car booking, taxi booking, apartment booking, bike booking, there are lots of booking types are now available. These booking businesses have a very good future"
 
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/Best-WordPress-Booking-Plugin-RnB.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/39.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/Best-WordPress-Booking-Plugin-RnB.png"
 ---

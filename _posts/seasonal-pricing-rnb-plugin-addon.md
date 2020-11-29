@@ -3,7 +3,7 @@ title: "Seasonal Pricing Addon for the RnB - WooCommerce Booking & Rental Plugin
 date: "2019-12-24"
 category: "Plugin"
 excerpt: "This Add-On is published by RedQ,Inc. To enhance existing WooCommerce Booking & Rental Plugin RnB. This add-on lets you set seasonal prices for each product via inventory on the WooCommerce based WordPress website. Prices can be decreased or increased for specific periods relative to the base price. Requirements Seasonal Pricing Add-on for the RnB 2 plugins should"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/seasonal.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/14.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/seasonal.png"
 ---

@@ -4,7 +4,7 @@ date: "2017-08-19"
 category: "Article, Blog, Plugin"
 excerpt: "Email marketing is a very cheap and powerful marketing tool if the process is done correctly, however, there are a myriad of choices that present themselves to the small business owner. On the other hand you could just send out emails from your own account, however, you will run the risk of getting your email "
 
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/mail.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/53.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/mail.png"
 ---

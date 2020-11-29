@@ -3,7 +3,7 @@ title: "How to Improve Customer Retention on Your WordPress Site?"
 date: "2020-02-28"
 category: "Other"
 excerpt: "There are lots of WordPress sites on several types of topics. Few are surviving, few are on the brink of extinction. The customer is the prime reason behind the survival of any WordPress site."
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/retention.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/36.png"
 ogImage:
 url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/retention.png"
 ---

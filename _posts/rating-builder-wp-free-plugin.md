@@ -3,7 +3,7 @@ title: "Rating Builder WP Free Plugin ( Review and Installation )"
 date: "2018-01-20"
 category: "Article, Blog, Plugin"
 excerpt: "Welcome to Rating Builder Plugin by RedQ Team. The main aim of this plugin is to set rating and review system for any public post type. You can use rating with and without comments. Can be integrated to WooCommerce. Rating builder also supports any custom post type. You can build any type of rating with"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/rating.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/45.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/rating.png"
 ---

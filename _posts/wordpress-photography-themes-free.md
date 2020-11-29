@@ -3,7 +3,7 @@ title: "Free WordPress Photography Themes"
 date: "2017-12-21"
 category: "Article, Blog, Theme"
 excerpt: "Photography is an amazing skill. If you think that having a good camera can make you a great photographer that is not correct. A photographer must have the eye to pick a great photo out of anything. If you are about to design  site for a great photographer where he or she will showcase the"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/photo.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/46.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/photo.png"
 ---

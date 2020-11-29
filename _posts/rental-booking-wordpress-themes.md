@@ -3,7 +3,7 @@ title: "Rental Booking Accommodation WordPress Theme: Turbo"
 date: "2019-02-11"
 category: "Theme"
 excerpt: "The rental business is growing at a very fast speed. Meanwhile, rental business owners have a tendency to run their business online. It will require building a website. WordPress is the best way to do that. Lots of developers are now developing rental themes by keeping this on the mind. But the matter of fact"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/Rental-Booking-Accommodation-WordPress-Theme-Turbo.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/26.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/Rental-Booking-Accommodation-WordPress-Theme-Turbo.png"
 ---

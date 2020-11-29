@@ -3,7 +3,7 @@ title: "Best Private Message WordPress Plugin: YoBro"
 date: "2019-05-15"
 category: "Plugin"
 excerpt: "WordPress is a great platform to maintain social communication. A plugin capable of doing chat with the members of the sites really very interesting. Lots of WordPress developers are now developing chat plugins to do live chat. If you are trying to find the best private message WordPress plugins highly developed chatting plugin. Then you"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/WordPress-Multi-User-Private-Messaging-Plugin-1.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/24.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/WordPress-Multi-User-Private-Messaging-Plugin-1.png"
 ---

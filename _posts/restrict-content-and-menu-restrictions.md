@@ -3,7 +3,7 @@ title: "Registration Settings: Restrict Content and Menu Restrictions by UserPla
 date: "2018-10-24"
 category: "Article, Plugin"
 excerpt: "Hello and Welcome to another article series of UserPlace a complete free WordPress membership plugin. This time the article is about the registry settings for your users. The Content restriction process of your site and also about the Menu restrictions process for your users. Registration Settings  By default, WordPress disables the registration process in the site. You"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/userplace.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/28.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/userplace.png"
 ---

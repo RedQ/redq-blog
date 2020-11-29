@@ -3,7 +3,7 @@ title: "Best WordPress Chat Plugin of 2020"
 date: "2018-09-23"
 category: "Article, Plugin"
 excerpt: Are you aware of a fact that more than 67% of users on e-commerce sites have deserted their shopping carts without confirming a checkout? This number is really huge. People have a desire that their questions should be responded to immediately and those websites lose their sales due to customers thought of uncertainty with their
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/chat.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/34.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/chat.png"
 ---

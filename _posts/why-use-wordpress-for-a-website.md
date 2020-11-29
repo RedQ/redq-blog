@@ -3,7 +3,7 @@ title: "The 10 Top Reasons To Choose Wordpress For Your Next Website"
 date: "2017-08-19"
 category: "Article, Blog, Other"
 excerpt: "WordPress is one of the most flexible and used content managers (CMS) in the world. But what is that about a content manager? And what advantages does it have to use it to create my website? WordPress is a system that allows us to create all kinds of websites: blogs, online stores, corporate websites, forums,"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/wpforweb.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/50.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/wpforweb.png"
 ---

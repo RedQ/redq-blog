@@ -3,7 +3,7 @@ title: "Best WooCommerce Product Feed Plugins"
 date: "2019-10-07"
 category: "Plugin"
 excerpt: "This is the era of internet. Business has a new dimension because of this internet. E-commerce has achieved a new level nowadays. E-commerce is gaining more popularity day by day. WordPress is the best platform to maintain an E-commerce site. WooCommerce is the best plugin available in the market for E-commerce based WordPress sites. Lots"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/feed.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/17.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/feed.png"
 ---

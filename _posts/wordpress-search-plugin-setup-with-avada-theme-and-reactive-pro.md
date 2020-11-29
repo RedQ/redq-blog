@@ -3,7 +3,7 @@ title: "How To Make Your Search Page With Avada Theme And Reactive Pro Plugin"
 date: "2018-03-31"
 category: "Plugin, Article, Theme"
 excerpt: "Nowadays a website contains a huge volume of information and data. Especially an e-commerce site contains an enormous amount of categories and information. Most of these sites are built on WordPress, as WordPress is the easiest platform to build such websites. So, lots of WordPress developers are developing a plugin related to the search. If"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/search.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/40.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/search.png"
 ---

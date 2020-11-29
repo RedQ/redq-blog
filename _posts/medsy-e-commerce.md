@@ -3,7 +3,7 @@ title: "Medicine E-commerce Templates in 2020 - Welcome to Medsy"
 date: "2020-09-09"
 category: "Article, Blog"
 excerpt: "Medicine, being one of the key essentials of our lives – particularly during this pandemic, is a product that will always be in demand. While the current global crisis is wreaking havoc on traditional brick and mortar stores, E-commerce however, offers a unique opportunity for entrepreneurs to address this demand for medicine through a virtual "
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/medsy-1.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/2.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/medsy-home.png"
 ---
