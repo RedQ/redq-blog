@@ -3,7 +3,7 @@ title: "WooCommerce VS Shopify: Who is the Winner?"
 date: "2020-09-01"
 category: "Article"
 excerpt: "E-Commerce business requires a platform to run. There are a lot of platforms to do E-Commerce business. So you could be easily confused about which platform you should choose. Among these platforms, people most of the time utilize WooCommerce or Shopify. Definitely, you will struggle to choose one from them because both of them are"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/woo_vs_shoppy-1.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/3.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/woo_vs_shoppy-1.png"
 ---
