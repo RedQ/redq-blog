@@ -3,7 +3,7 @@ title: "UserPlace Plugin - Setup  Payment Gateway for Your Membership Site"
 date: "2018-10-02"
 category: "Article, Blog, Plugin"
 excerpt: "Hello and welcome to the second part of UserPlace article series. (Fist article Intro To Userplace) As we all know, A complete free WordPress membership plugin available in wordpress.org. This time the article is about Membership plugin with Payments Gateway set up. We will discuss each option step by step. After the UserPlace installation, the first thing we have to"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/31.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe.png"
 ---
