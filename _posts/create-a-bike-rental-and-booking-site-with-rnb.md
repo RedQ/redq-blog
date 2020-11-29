@@ -2,7 +2,7 @@
 title: "How to create a Bike Rental and Booking site with RnB"
 date: "2018-02-28"
 excerpt: "There are lots of plugins for bike rental and booking over there, to find a good one is really a tough job, lots of garbage things are also available over the internet. You cannot afford to choose among one of them without knowing well. But among them, if you choose “RnB” then it would be"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/42.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/bikerental.png"
 ---
