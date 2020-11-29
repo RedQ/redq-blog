@@ -3,7 +3,7 @@ title: "Best Hotel, Apartment, Room and Accommodation WP hotel booking Themes of
 date: "2019-07-30"
 category: "Article, Theme"
 excerpt: "In this day and age, print media and advertisement are not sufficient to foster your hotel or apartment booking business to potential visitors or guests. Keep in mind that most of the people these days are searching for new hotel accommodation and travel destinations through online. So in this era of internet, hotel or apartment"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/houston.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/20.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/houston.png"
 ---
