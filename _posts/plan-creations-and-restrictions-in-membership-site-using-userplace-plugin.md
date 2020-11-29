@@ -3,7 +3,7 @@ title: "Plan Creations and Restrictions  in Membership Site Using UserPlace Plug
 date: ""
 category: "Plugin"
 excerpt: "Hello and welcome to UserPlace, a free WordPress membership plugin, plan creation for a membership site.  Once the payment gateway settings are done, you will be required to  create your own plans."
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/plan.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/30.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/plan.png"
 ---
@@ -13,8 +13,6 @@ Hello and welcome to [UserPlace](https://redq.io/userplace) a free WordPress mem
 [![cartsy-banner](https://d2qklehrvrfpx7.cloudfront.net/blogimages/cartsy-banner.jpg)](https://bit.ly/cartsyTheme)
 
 [Free Download UserPlace Plugin](https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/)
-
-&lt;span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"&gt;﻿&lt;/span&gt;
 
 Contents [[show](https://redq.io/blog/plan-creations-membership-site/?fbclid=IwAR3nuQDrtMh2H16D7Ai1Lqy4o382HDgIKH0VYWuQTFUQ3Y4xuCBtln85jt4#)]
 
