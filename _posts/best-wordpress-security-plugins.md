@@ -3,7 +3,7 @@ title: "5 Best WordPress Security Plugins"
 date: "2017-08-19"
 category: "Plugin, Article"
 excerpt: "It is important these days to optimize your online marketing. WordPress is one of the best ways that can help you make money online. Most internet marketers have their own WordPress site, which is why if you want to take advantage of your venture, you need to consider it. Moreover, it is a must to"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/security.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/51.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/security.png"
 ---
