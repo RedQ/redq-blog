@@ -4,7 +4,7 @@ date: "2017-08-28"
 category: "Article, Plugin"
 excerpt: "WordPress post comparison is  a pretty common feature when you run a real estate site or  a car dealership site, or electronic products and so on. Your  customers may  want to compare any kind of posts before they continue to buy or order. That's why you will look for a WordPress post comparison plugin. WordPress"
 
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/alike.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/48.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/alike.png"
 ---
