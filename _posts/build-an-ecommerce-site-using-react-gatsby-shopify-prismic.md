@@ -3,7 +3,7 @@ title: "Build an eCommerce Site Using React Gatsby Shopify & Prismic"
 date: "2020-05-11"
 category: "Theme"
 excerpt: "Picksy is a full-featured modern headless eCommerce app powered by Shopify, Prismic & Gatsby. If you are here, I guess by now you may have heard the term “Headless” or “Headless Shopify” when it comes to the next wave of bleeding-edge eCommerce builds. Most of the popular eCommerce platforms pushing it as “the next big"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-home.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/7.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/picksy-home.png"
 ---
