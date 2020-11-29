@@ -4,7 +4,7 @@ date: "2017-08-22"
 category: "Article, Plugin"
 excerpt: "As we all know, WooCommerce is the best e-commerce platform for WordPress for selling your services and products easily. It is a well recognised free WordPress Plugin. But if you want to create booking system with WooCommerce, a very expensive solution is provided by WooCommerce with their add ons . Today , i will show you"
 
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/booking.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/49.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/booking.png"
 ---
