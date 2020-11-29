@@ -4,7 +4,7 @@ date: "2017-08-19"
 category: "Article, Blog, Plugin"
 excerpt: "If you have a WordPress website, then you certainly know that there is a variety of plugins available that will allow you to enhance your site and your content .The hidden secret is to choose the best google analytics WordPress plugin. Some plugins are designed to add  some extra security to your WP site, while "
 
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/google.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/52.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/google.png"
 ---
