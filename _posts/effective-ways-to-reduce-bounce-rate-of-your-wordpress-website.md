@@ -4,7 +4,7 @@ date: "2017-08-19"
 category: "Article, Blog, Other"
 excerpt: "There are several features that will verify a blog's bounce rate. In short definition, the bounce rate is technically the ratio of visitors to a website or blog who leaves after viewing a single page. As a developer, it is essential to reduce bounce rate of your website. If the bounce rate for a blog "
 
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/reduce.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/54.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/reduce.png"
 ---
