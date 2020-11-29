@@ -3,7 +3,7 @@ title: "Build an Admin Dashboard Using React & GraphQL"
 date: "2020-02-19"
 category: "Theme"
 excerpt: "Inst is a Minimalist React Dashboard built with React, NextJS, TypeScript, GraphQL & Uber’s Base UI. It is very easy to use; GraphQL and TypeGraphQL are implemented. Inst is a Next.js GraphQL powered admin dashboard. Used progressive web application pattern, highly optimized for your next react application. You can use it for both Dashboard and"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/11.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/inst.png"
 ---
