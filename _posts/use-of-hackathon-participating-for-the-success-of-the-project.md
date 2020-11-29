@@ -3,7 +3,7 @@ title: "Use of Hackathon Participating for the Success of the Project"
 date: "2019-02-04"
 category: "Article, Other"
 excerpt: "There is a lack of time always and thus it is best to use the same wisely. Thus, it is important that you decide right how best you can use time sensibly. This is when you have the effective application of hackathon to make the lucrative use of time. You can have the best participation"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/hackathon.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/27.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/hackathon.png"
 ---
