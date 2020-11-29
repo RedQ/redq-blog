@@ -3,7 +3,7 @@ title: "Create a Developer Portfolio or Personal Website Using React Template"
 date: "2019-07-25"
 category: "Theme"
 excerpt: "In this present era entrepreneurs, freelancers, actors, musicians, and people from different occupations want to showcase their work via an online presence. This is the best way to reach to the farthest corner of the world where at least internet access is available. To maintain online presence a personal website is a must. It helps"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/portfolio.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/21.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/portfolio.png"
 ---
