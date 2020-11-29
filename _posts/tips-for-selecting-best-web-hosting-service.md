@@ -3,7 +3,7 @@ title: "5 Tips for Selecting the Best Web Hosting Service"
 date: "2020-03-02"
 category: "Article"
 excerpt: "For bloggers, developers, business owners, and others choosing the right web hosting service is a difficult choice. Getting it just right will provide you with a reliable and high performing host. You will also have an amazing time going through the difficulties that you face. While getting it wrong often leads to headaches and you quitting their "
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/Best-Web-Hosting-Service.png"
+coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/9.png"
 ogImage:
   url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/Best-Web-Hosting-Service.png"
 ---
