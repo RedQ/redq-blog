@@ -1,7 +1,7 @@
 import Container from '../ui/container';
 import Img from '../ui/image';
 
-export default function ProductAdBlock() {
+export default function PromotionalBlock() {
 	return (
 		<section className="overflow-hidden py-16">
 			<Container fluid={true}>

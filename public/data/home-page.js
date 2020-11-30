@@ -197,6 +197,22 @@ export const testimonials = [
 			userName: '@hey.nku',
 		},
 	],
+	[
+		{
+			id: 9,
+			comment:
+				'I would just like to compliment Estelle Pestana. She has been most professional and gone to great lengths to assist me. Her patience with me as I continuously changed my plans is to be commended. Her service re-affirms why I always choose to book through an agency instead of directly. Thank you',
+			name: 'Veona Watson',
+			userName: '@hi.veona',
+		},
+		{
+			id: 10,
+			comment:
+				'I have seldom experienced such an efficient help and support like from you! Thank you so much. We will do all the bookings during the next few days and I will revert to you with the end result',
+			name: 'Paseka Nku',
+			userName: '@hey.nku',
+		},
+	],
 ];
 
 /* ------------------------------------------ */

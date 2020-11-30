@@ -8,14 +8,17 @@ export default function TestimonialBlock() {
 		desktop: {
 			breakpoint: { max: 3000, min: 1024 },
 			items: 3,
+			partialVisibilityGutter: 100,
 		},
 		tablet: {
 			breakpoint: { max: 1024, min: 464 },
 			items: 2,
+			partialVisibilityGutter: 60,
 		},
 		mobile: {
 			breakpoint: { max: 464, min: 0 },
 			items: 1,
+			partialVisibilityGutter: 40,
 		},
 	};
 
@@ -29,16 +32,16 @@ export default function TestimonialBlock() {
 
 			<Carousel
 				responsive={responsive}
-				infinite={true}
-				autoPlaySpeed={1000}
 				keyBoardControl={true}
+				partialVisible={true}
+				containerClass="rq-testimonial pb-5"
 			>
 				{testimonials.map((item, index) => (
 					<div key={`testimonial-col-key${index}`}>
 						{item.map((review) => (
 							<div
 								key={`review-${review.id}`}
-								className="rounded pt-6 pb-8 pl-8 pr-10 border border-solid border-rq-gray-100 my-5 mx-2.5 transition-shadow duration-200 hover:shadow-medium"
+								className="rounded-lg pt-6 pb-8 pl-8 pr-10 border border-solid border-rq-gray-100 my-5 mx-2.5 transition-shadow duration-200 hover:shadow-medium"
 							>
 								<p className="leading-loose text-rq-gray-700 mb-8">
 									{review.comment}

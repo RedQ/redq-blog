@@ -5,9 +5,10 @@ import TechnologyBlock from '../components/technology-block';
 import StatsBlock from '../components/home/stats-block';
 import ProductCarousel from '../components/home/product-carousel';
 import ServiceBlock from '../components/home/service-block';
-import ProductAdBlock from '../components/home/product-ad-block';
+import PromotionalBlock from '../components/home/promotional-block';
 import ProductsBlock from '../components/home/products-block/products-block';
 import TestimonialBlock from '../components/testimonial-block';
+import ProductAdBlock from '../components/product-ad-block';
 import CallToAction from '../components/call-to-action';
 
 export default function Index() {
@@ -22,9 +23,10 @@ export default function Index() {
 				<StatsBlock />
 				<ProductCarousel />
 				<ServiceBlock />
-				<ProductAdBlock />
+				<PromotionalBlock />
 				<ProductsBlock />
 				<TestimonialBlock />
+				<ProductAdBlock />
 				<CallToAction />
 			</Layout>
 		</>

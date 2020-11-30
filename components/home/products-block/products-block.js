@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import FlipMove from 'react-flip-move';
-import Masonry from 'react-masonry-component';
 import Container from '../../ui/container';
 import SectionHeader from '../../ui/section-header';
 import Img from '../../ui/image';
