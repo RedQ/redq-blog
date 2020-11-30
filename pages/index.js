@@ -8,7 +8,7 @@ import ServiceBlock from '../components/home/service-block';
 import PromotionalBlock from '../components/home/promotional-block';
 import ProductsBlock from '../components/home/products-block/products-block';
 import TestimonialBlock from '../components/testimonial-block';
-import ProductAdBlock from '../components/product-ad-block';
+import ProductBigBanner from '../components/product-big-banner';
 import CallToAction from '../components/call-to-action';
 
 export default function Index() {
@@ -26,7 +26,7 @@ export default function Index() {
 				<PromotionalBlock />
 				<ProductsBlock />
 				<TestimonialBlock />
-				<ProductAdBlock />
+				<ProductBigBanner />
 				<CallToAction />
 			</Layout>
 		</>

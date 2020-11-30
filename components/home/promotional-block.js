@@ -35,7 +35,7 @@ export default function PromotionalBlock() {
 
 					<div className="px-20 2xl:px-28 relative -bottom-2 z-0">
 						<Img
-							src={'/images/product-ad-banner.png'}
+							src={'/images/startup-product-banner.png'}
 							alt="Ad Product"
 							width={1570}
 							height={269}

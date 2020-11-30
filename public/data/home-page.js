@@ -14,7 +14,7 @@ export const productsData = [
 		compatibleText: 'Compatible with React / Nextjs / Gatsby',
 		price: '$24',
 		category: ['all', 'wp-theme'],
-		cardSize: 1,
+		featured: false,
 	},
 	{
 		id: 2,
@@ -28,7 +28,7 @@ export const productsData = [
 		compatibleText: 'Compatible with React / Nextjs / Gatsby',
 		price: '$24',
 		category: ['all', 'react-template'],
-		cardSize: 1,
+		featured: false,
 	},
 	{
 		id: 3,
@@ -42,7 +42,7 @@ export const productsData = [
 		compatibleText: 'Compatible with React / Nextjs / Gatsby',
 		price: '$24',
 		category: ['all', 'react-template'],
-		cardSize: 1,
+		featured: false,
 	},
 	{
 		id: 4,
@@ -57,7 +57,7 @@ export const productsData = [
 		compatibleText: 'Compatible with React / Nextjs / GraphQL',
 		price: '$24',
 		category: ['all', 'react-template'],
-		cardSize: 2,
+		featured: true,
 	},
 	{
 		id: 5,
@@ -72,7 +72,21 @@ export const productsData = [
 		compatibleText: 'Compatible with React / Nextjs / Gatsby',
 		price: '$24',
 		category: ['all', 'react-template'],
-		cardSize: 2,
+		featured: true,
+	},
+	{
+		id: 6,
+		thumb: {
+			url: '/images/products/turbo.jpg',
+			width: 573,
+			height: 350,
+		},
+		title: 'Turbo Car Rental Wordpress Booking Theme',
+		shortDescription: 'Fastest template built with React, NextJS, Context API',
+		compatibleText: 'Compatible with React / Nextjs / Gatsby',
+		price: '$24',
+		category: ['all', 'wp-theme'],
+		featured: false,
 	},
 ];
 /* ------------------------------------------ */

@@ -225,6 +225,12 @@ code {
     @apply ml-0 mt-4;
   }
 }
+.rq-testimonial .react-multiple-carousel__arrow  {
+  @apply bg-white shadow-lg border border-solid border-gray-200;
+}
+.rq-testimonial .react-multiple-carousel__arrow::before {
+  @apply text-rq-gray-800;
+}
 /* end of RedQ site's styles */
 
 /* Start purging... */

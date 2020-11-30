@@ -1,11 +1,11 @@
 ---
-title: "Best Free Landing Page Templates for Startups"
-date: "2020-10-24"
-category: "Article, Blog, Theme"
-excerpt: "Startups need to be very savvy about creating a brand identity in order to maximize results without having to spend too much. Having an attractive website is often the first step in establishing a bold presence that lends credibility to the brand. Where to start though? There is no shortage of premium landing page templates"
-coverImage: "https://d2qklehrvrfpx7.cloudfront.net/blog-preview/1.png"
+title: 'Best Free Landing Page Templates for Startups'
+date: '2020-10-24'
+category: 'Article, Blog, Theme'
+excerpt: 'Startups need to be very savvy about creating a brand identity in order to maximize results without having to spend too much. Having an attractive website is often the first step in establishing a bold presence that lends credibility to the brand. Where to start though? There is no shortage of premium landing page templates'
+coverImage: 'https://d2qklehrvrfpx7.cloudfront.net/blog-preview/1.png'
 ogImage:
-  url: "https://d2qklehrvrfpx7.cloudfront.net/blogimages/startup.png"
+  url: 'https://d2qklehrvrfpx7.cloudfront.net/blogimages/startup.png'
 ---
 
 Startups need to be very savvy about creating a brand identity in order to maximize results without having to spend too much. Having an attractive website is often the first step in establishing a bold presence that lends credibility to the brand. Where to start though? There is no shortage of premium landing page templates online that look flashy but also cost money. Not to worry though - here’s a list of attractive free landing page templates that are bound to add a touch of flair to your business without costing you a single penny!

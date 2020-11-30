@@ -9,6 +9,9 @@ module.exports = {
 	},
 	theme: {
 		extend: {
+			rotate: {
+				'rq-8': '8deg',
+			},
 			colors: {
 				'filter-text': '#71747D',
 				'rq-gray': {
