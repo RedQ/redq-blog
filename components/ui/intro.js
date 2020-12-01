@@ -38,7 +38,7 @@ const fadeInBottom = {
 };
 const heightTransition = {
 	exit: {
-		height: 0,
+		height: 367,
 		transition: {
 			duration: 0.4,
 			ease: easing,

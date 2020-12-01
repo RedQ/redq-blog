@@ -1,6 +1,6 @@
 export default function ServiceCard({ src, title, description }) {
 	return (
-		<div className="py-14 px-7 mb-9 text-center rounded-md border border-solid border-rq-gray-100 transition-shadow duration-300 hover:shadow-large">
+		<div className="min-h-rq-354 px-6 py-12 2xl:py-14 2xl:px-7 text-center rounded-md border border-solid border-rq-gray-100 transition-shadow duration-300 hover:shadow-large">
 			<img className="m-auto" src={src} alt={title} />
 			<h3 className="text-lg font-medium text-rq-gray-800 mt-8 mb-5">
 				{title}

@@ -6,7 +6,7 @@ import SectionHeader from '../../ui/section-header';
 import Img from '../../ui/image';
 import FilterBar from './filter-bar';
 // products data
-import { productsData } from '../../../public/data/home-page';
+import { productsData } from '../../../public/data/home-page/products.data';
 
 export default function ProductsBlock() {
 	const [products, setProducts] = useState(productsData);
@@ -20,7 +20,7 @@ export default function ProductsBlock() {
 	};
 
 	return (
-		<section className="py-16">
+		<section className="py-10 lg:py-12 2xl:pt-16 2xl:pb-14 -mb-5">
 			<Container fluid={true}>
 				<SectionHeader
 					slogan="Meet our products"
@@ -29,17 +29,13 @@ export default function ProductsBlock() {
 
 				<FilterBar isActive={filterByState} onClick={handleFilter} />
 
-				<FlipMove
-					className="mt-12 -m-5"
-					// flex flex-wrap items-start
-				>
+				<FlipMove className="mt-6 md:mt-8 lg:mt-10 2xl:mt-12 -m-5">
 					<Masonry>
 						{products.length > 0 &&
 							products.map((item) => (
 								<article
 									key={`product-key-${item.id}`}
-									className={`w-2/6 p-5`}
-									// ${item.featured ? 'w-3/6' : 'w-2/6'}
+									className={`w-full sm:w-3/6 lg:w-2/6 p-4 2xl:p-5`}
 								>
 									<figure className="relative">
 										<Img
@@ -56,7 +52,7 @@ export default function ProductsBlock() {
 										)}
 									</figure>
 									<header className="py-4">
-										<h2 className="text-xl font-medium tracking-tight mb-2">
+										<h2 className="text-lg xl:text-xl font-medium tracking-tight mb-2">
 											{item.title}
 										</h2>
 										<p className="text-rq-gray-600 mb-3">

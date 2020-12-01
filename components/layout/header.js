@@ -35,7 +35,7 @@ export default function Header() {
 
 	return (
 		<header className="site-header">
-			<nav className="fixed w-full top-0 left-0 py-6 lg:py-7 flex items-center">
+			<nav className="fixed w-full top-0 left-0 py-6 lg:py-7 flex items-center transition-colors duration-200">
 				<Container fluid={true} className="flex items-center justify-between">
 					<Link href="/">
 						<a
@@ -90,6 +90,16 @@ export default function Header() {
 									</ActiveLink>
 								</li>
 							))}
+							<li>
+								<ActiveLink href={'/contact-us'}>
+									<a
+										className="px-5 font-bold text-rq-blue-800 transition-all duration-200 hover:text-blue-600"
+										onClick={() => setMobileMenuToggle(false)}
+									>
+										Hire Us!
+									</a>
+								</ActiveLink>
+							</li>
 						</ul>
 						{/* End of main menu */}
 					</div>

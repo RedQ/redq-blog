@@ -12,10 +12,11 @@ export default function CallToAction() {
 			{/* End of bg pattern */}
 			<Container className="text-center lg:text-left lg:flex lg:items-center lg:justify-between">
 				<div>
-					<h2 className="text-3xl 2xl:text-4xl font-bold tracking-tight mb-4 lg:mb-3">
-						Looking for custom Development? We are ready to help.
+					<h2 className="text-3xl leading-normal lg:leading-tight 2xl:text-4xl font-bold tracking-tight mb-4 lg:mb-3">
+						Looking for custom Development?{' '}
+						<br className="hidden md:block lg:hidden" /> We are ready to help.
 					</h2>
-					<p className="leading-loose text-rq-gray-800">
+					<p className="leading-loose text-rq-gray-800 max-w-rq-530 lg:max-w-max m-auto lg:m-0">
 						Pick one of our stock themes, or create your custom theme with the
 						most advanced theme <br className="hidden lg:block" /> editor on any
 						online survey building tool.

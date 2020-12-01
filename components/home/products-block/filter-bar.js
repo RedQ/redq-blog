@@ -19,11 +19,11 @@ const filterBtns = [
 
 export default function FilterBar({ isActive, onClick }) {
 	return (
-		<div className="mt-10 flex items-center justify-center">
+		<div className="mt-8 lg:mt-10 flex flex-wrap items-center justify-center">
 			{filterBtns.map((item) => (
 				<button
 					key={`filter-btn-${item.handel}`}
-					className={`focus:outline-none border border-solid rounded-3xl py-2.5 px-5 mx-1 transition-colors duration-300
+					className={`focus:outline-none border border-solid rounded-3xl py-2.5 px-5 m-1 transition-colors duration-300
           ${
 						isActive === item.handel
 							? 'text-white bg-black border-black'

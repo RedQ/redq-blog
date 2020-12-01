@@ -55,7 +55,7 @@ code {
     @apply opacity-100 visible py-6 transition-all duration-300;
   }
   .main-menu li {
-    @apply w-full max-w-screen-md ml-auto mr-auto -my-2 transition-all duration-300;
+    @apply w-full ml-auto mr-auto -my-2 transition-all duration-300;
   }
   .main-menu.is-active li {
     @apply my-0 transition-all duration-300;
@@ -225,11 +225,13 @@ code {
     @apply ml-0 mt-4;
   }
 }
-.rq-testimonial .react-multiple-carousel__arrow  {
-  @apply bg-white shadow-lg border border-solid border-gray-200;
+#rqServices .glide__controls,
+#rqTestimonial .glide__controls  {
+  @apply xl:transition-opacity xl:duration-200 xl:opacity-0;
 }
-.rq-testimonial .react-multiple-carousel__arrow::before {
-  @apply text-rq-gray-800;
+#rqServices:hover .glide__controls,
+#rqTestimonial:hover .glide__controls  {
+  @apply xl:opacity-100;
 }
 /* end of RedQ site's styles */
 

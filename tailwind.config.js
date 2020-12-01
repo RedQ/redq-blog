@@ -12,6 +12,22 @@ module.exports = {
 			rotate: {
 				'rq-8': '8deg',
 			},
+			minHeight: {
+				'rq-950': '950px',
+				'rq-650': '650px',
+				'rq-750': '750px',
+				'rq-600': '600px',
+				'rq-354': '354px',
+				'rq-auto': 'auto',
+			},
+			maxWidth: {
+				'rq-1350': '1350px',
+				'rq-1050': '1050px',
+				'rq-850': '850px',
+				'rq-618': '618px',
+				'rq-530': '530px',
+				'rq-480': '480px',
+			},
 			colors: {
 				'filter-text': '#71747D',
 				'rq-gray': {
@@ -49,6 +65,7 @@ module.exports = {
 				base: '0 2px 8px rgba(97, 121, 142, 0.15)',
 				medium: '0px 13px 40px rgba(75, 102, 135, 0.1)',
 				large: '0px 12px 50px rgba(97, 114, 138, 0.1)',
+				btn: '0px 7px 14px rgba(25, 60, 101, 0.06)',
 			},
 		},
 	},
