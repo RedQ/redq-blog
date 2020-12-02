@@ -65,7 +65,7 @@ If you implement this template, then you can increase your sales for sure. For s
 
 **Shop Front**
 
-![shop front](/https://d2qklehrvrfpx7.cloudfront.net/blogimages/pickbazar-2.png "shop front")
+![shop front](https://d2qklehrvrfpx7.cloudfront.net/blogimages/pickbazar-2.png "shop front")
 
 - Next JS, React Apollo and GraphQL are used.
 - All components are written in TypeScript.
