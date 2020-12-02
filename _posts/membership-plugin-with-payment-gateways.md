@@ -60,7 +60,7 @@ In the Braintree tab, you will get the below settings form. If you select payme
 
 And If you select payment type to Production, you will see like this
 
-![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe87.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/stripe7.png)
 
 To get your Braintree sandbox keys you need to go to the URL [https://sandbox.braintreegateway.com .](https://sandbox.braintreegateway.com/) Now follow the below images to go through the process
 
