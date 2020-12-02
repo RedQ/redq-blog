@@ -46,12 +46,18 @@ export default function ServiceBlock() {
 					controls={true}
 					carouselSelector="rqServices"
 					prevButton={
-						<GlideNavButton className="-left-4 lg:-left-7 border border-solid border-rq-gray-300">
+						<GlideNavButton
+							title="Prev"
+							className="-left-4 lg:-left-7 border border-solid border-rq-gray-300"
+						>
 							<HiOutlineChevronLeft size={24} />
 						</GlideNavButton>
 					}
 					nextButton={
-						<GlideNavButton className="-right-4 lg:-right-7 border border-solid border-rq-gray-300">
+						<GlideNavButton
+							title="Next"
+							className="-right-4 lg:-right-7 border border-solid border-rq-gray-300"
+						>
 							<HiOutlineChevronRight size={24} />
 						</GlideNavButton>
 					}
@@ -59,7 +65,7 @@ export default function ServiceBlock() {
 					{serviceData.map((item) => (
 						<GlideSlide key={`service-key--${item.id}`}>
 							<ServiceCard
-								src={item.icon}
+								thumb={item.thumb}
 								title={item.title}
 								description={item.description}
 							/>

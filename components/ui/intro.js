@@ -75,7 +75,7 @@ export default function Intro({ title }) {
 				}}
 			></motion.div>
 			{/* End banner dot pattern */}
-			<Container>
+			<Container fluid={true}>
 				<header>
 					<motion.h1
 						variants={fadeInBottom}

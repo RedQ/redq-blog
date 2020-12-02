@@ -18,7 +18,11 @@ export const Accordion = ({ i, expanded, setExpanded, id, title, content }) => {
 				<h2 className="text-lg font-semibold text-gray-800">
 					{id}. {title}
 				</h2>
-				{isOpen ? <FiMinus size={20} /> : <FiPlus size={20} />}
+				{isOpen ? (
+					<FiMinus className="flex-shrink-0" size={20} />
+				) : (
+					<FiPlus className="flex-shrink-0" size={20} />
+				)}
 			</motion.header>
 			<AnimatePresence initial={false}>
 				{isOpen && (

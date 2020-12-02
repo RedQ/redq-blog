@@ -61,7 +61,7 @@
 }
 
 .markdown pre {
-  @apply bg-gray-900 text-gray-500 p-2 rounded;
+  @apply bg-gray-900 text-gray-400 p-2 rounded;
 }
 
 .markdown pre code {

@@ -52,7 +52,7 @@ export default function HeroBanner({
 				/>
 			</motion.div>
 			{/*End of background shape*/}
-			<div className="px-2 pt-10 lg:pt-0 w-full md:w-auto absolute text-center top-2/4 left-2/4 transform -translate-x-1/2 -translate-y-1/2">
+			<div className="px-2 pt-10 w-full md:w-auto absolute text-center top-2/4 left-2/4 transform -translate-x-1/2 -translate-y-1/2">
 				{updateInfo && (
 					<motion.div
 						variants={fadeInBottom}

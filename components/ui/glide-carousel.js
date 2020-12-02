@@ -83,12 +83,13 @@ const GlideCarousel = ({
 };
 
 export const GlideSlide = ({ children }) => {
-	return <div className="glide__slide relative">{children}</div>;
+	return <li className="glide__slide relative">{children}</li>;
 };
 
-export const GlideNavButton = ({ className = '', children }) => {
+export const GlideNavButton = ({ title, className = '', children }) => {
 	return (
 		<button
+			title={title}
 			className={`${className} focus:outline-none absolute top-1/2 -mt-8 2xl:-mt-5 shadow-btn w-12 h-12  2xl:w-14 2xl:h-14 rounded-full bg-white flex items-center justify-center transition-colors duration-200 hover:bg-rq-gray-800 hover:text-white`}
 		>
 			{children}

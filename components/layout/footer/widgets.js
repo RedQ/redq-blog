@@ -54,16 +54,20 @@ export default function Widgets() {
 					className="mt-8 flex items-center"
 					onSubmit={handleSubmit(onSubmit)}
 				>
-					<input
-						type="email"
-						name="subscribedEmail"
-						placeholder="Your email address"
-						className="px-6 bg-rq-white-100 outline-none text-white h-14 rounded border border-solid border-transparent transition-all duration-300 focus:bg-rq-gray-800 focus:border-rq-white-300"
-						ref={register({
-							required: true,
-							pattern: /^w+([.-]?w+)*@w+([.-]?w+)*(.w{2,3})+$/,
-						})}
-					/>
+					<label htmlFor="subscribedEmail">
+						<span className="sr-only">Email</span>
+						<input
+							type="email"
+							id="subscribedEmail"
+							name="subscribedEmail"
+							placeholder="Your email address"
+							className="px-6 bg-rq-white-100 outline-none text-white h-14 rounded border border-solid border-transparent transition-all duration-300 focus:bg-rq-gray-800 focus:border-rq-white-300"
+							ref={register({
+								required: true,
+								pattern: /^w+([.-]?w+)*@w+([.-]?w+)*(.w{2,3})+$/,
+							})}
+						/>
+					</label>
 					<button
 						type="submit"
 						className="px-6 bg-white rounded h-14 text-rq-gray-800 font-semibold capitalize ml-2.5 transition-colors duration-300 hover:bg-gray-200"

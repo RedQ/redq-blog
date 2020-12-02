@@ -11,25 +11,25 @@ export default function Post({ post }) {
 
 	return (
 		<Layout>
-			<Container>
-				{router.isFallback ? (
+			{router.isFallback ? (
+				<Container>
 					<h1>Loading…</h1>
-				) : (
-					<article className="mb-16 sm:mb-20 md:mb-24">
-						<Head>
-							<title>{post.title} | RedQ</title>
-							<meta property="og:image" content={post?.ogImage?.url} />
-						</Head>
-						<PostSingle
-							date={post?.date}
-							title={post?.title}
-							category={post?.category}
-							coverImage={post?.coverImage}
-							content={post?.content}
-						/>
-					</article>
-				)}
-			</Container>
+				</Container>
+			) : (
+				<article className="mb-16 sm:mb-20 md:mb-24">
+					<Head>
+						<title>{post.title} | RedQ</title>
+						<meta property="og:image" content={post?.ogImage?.url} />
+					</Head>
+					<PostSingle
+						date={post?.date}
+						title={post?.title}
+						category={post?.category}
+						coverImage={post?.coverImage}
+						content={post?.content}
+					/>
+				</article>
+			)}
 		</Layout>
 	);
 }

@@ -26,7 +26,11 @@ export default function PostBody({ content }) {
 		fitvids('.post-container');
 	}, []);
 	return (
-		<motion.div variants={fadeInBottom} className="max-w-3xl mx-auto">
+		<motion.div
+			id="rqPostContent"
+			variants={fadeInBottom}
+			className="max-w-3xl mx-auto"
+		>
 			<div
 				className={`post-container content ${markdownStyles['markdown']}`}
 				dangerouslySetInnerHTML={{ __html: content }}

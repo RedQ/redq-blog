@@ -28,6 +28,7 @@
 		"react-share": "^4.3.1",
 		"react-stickynode": "^3.0.4",
 		"react-tooltip": "^4.2.10",
+		"react-waypoint": "^9.0.3",
 		"remark": "11.0.2",
 		"remark-html": "10.0.0",
 		"typeface-fira-sans": "^1.1.13"
