@@ -129,7 +129,7 @@ Now it is the time to know about plugin settings. Here is an important thing you
 Select the alike preview page for front-end redirection. This is important and without this the plugin won't work.
 
 You can also change the post thumbnail size and specify the maximum posts to compare at a time in here.
-https://d2qklehrvrfpx7.cloudfront.net/blogimages/alike6.png
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/alike6.png)
 The front-end part will look like this.
 
 ### Summary
