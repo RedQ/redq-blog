@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import { motion } from 'framer-motion';
 import Layout from '../../components/layout/layout';
 import Intro from '../../components/ui/intro';
@@ -25,13 +26,18 @@ const fadeInBottom = {
 
 export default function ReactiveProFAQ() {
 	return (
-		<Layout>
-			<Intro title="Reactive Pro FAQs" />
-			<Container>
-				<motion.div variants={fadeInBottom}>
-					<AccordionWithFilter items={faqs} />
-				</motion.div>
-			</Container>
-		</Layout>
+		<>
+			<Head>
+				<title>Reactive Pro FAQs | RedQ Inc</title>
+			</Head>
+			<Layout>
+				<Intro title="Reactive Pro FAQs" />
+				<Container>
+					<motion.div variants={fadeInBottom}>
+						<AccordionWithFilter items={faqs} />
+					</motion.div>
+				</Container>
+			</Layout>
+		</>
 	);
 }

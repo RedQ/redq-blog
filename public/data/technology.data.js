@@ -1,33 +1,50 @@
-import reactIcon from '../images/technology/react.svg';
-import nextIcon from '../images/technology/next.svg';
-import wpIcon from '../images/technology/wp.svg';
-import gatsbyIcon from '../images/technology/gatsby.svg';
-import laravelIcon from '../images/technology/laravel.svg';
-import graphqlIcon from '../images/technology/graphql.svg';
-
 export const technologyData = [
 	{
-		thumb: reactIcon,
+		thumb: {
+			url: '/images/technology/react.svg',
+			width: 122,
+			height: 84,
+		},
 		title: 'React',
 	},
 	{
-		thumb: nextIcon,
+		thumb: {
+			url: '/images/technology/next.svg',
+			width: 86,
+			height: 52,
+		},
 		title: 'Next',
 	},
 	{
-		thumb: wpIcon,
+		thumb: {
+			url: '/images/technology/wp.svg',
+			width: 191,
+			height: 36,
+		},
 		title: 'WordPress',
 	},
 	{
-		thumb: gatsbyIcon,
+		thumb: {
+			url: '/images/technology/gatsby.svg',
+			width: 124,
+			height: 33,
+		},
 		title: 'Gatsby',
 	},
 	{
-		thumb: laravelIcon,
+		thumb: {
+			url: '/images/technology/laravel.svg',
+			width: 164,
+			height: 45,
+		},
 		title: 'Laravel',
 	},
 	{
-		thumb: graphqlIcon,
+		thumb: {
+			url: '/images/technology/graphql.svg',
+			width: 160,
+			height: 80,
+		},
 		title: 'GraphQL',
 	},
 ];
