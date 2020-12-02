@@ -30,10 +30,11 @@ code {
     content: '';
     height: 2px;
     bottom: -32px;
-    @apply opacity-0 w-0 absolute bg-gray-900 inline-block left-0 transition-all duration-300 ease-out;
+    @apply opacity-0 w-0 absolute bg-gray-900 inline-block -left-2 transition-all duration-300 ease-out;
   }
   .sticky-nav .main-menu a.active::after {
-    @apply w-full opacity-100 transition-all duration-300 ease-out;
+    width: calc(100% + 16px);
+    @apply opacity-100 transition-all duration-300 ease-out;
   } 
 }
 @media (max-width: 1024px) {

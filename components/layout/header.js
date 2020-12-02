@@ -83,10 +83,10 @@ export default function Header() {
 							}`}
 						>
 							{navItems.map((item) => (
-								<li key={item.title}>
+								<li className="px-5" key={item.title}>
 									<ActiveLink href={item.href}>
 										<a
-											className="px-5 text-rq-gray-700 transition-all duration-200 hover:text-black"
+											className="text-rq-gray-700 transition-colors duration-200 hover:text-black"
 											onClick={() => setMobileMenuToggle(false)}
 										>
 											{item.title}
@@ -94,10 +94,10 @@ export default function Header() {
 									</ActiveLink>
 								</li>
 							))}
-							<li>
+							<li className="px-5">
 								<ActiveLink href={'/contact-us'}>
 									<a
-										className="px-5 font-bold text-rq-blue-800 transition-all duration-200 hover:text-blue-600"
+										className="font-bold text-rq-blue-800 transition-colors duration-200 hover:text-blue-600"
 										onClick={() => setMobileMenuToggle(false)}
 									>
 										Hire Us!

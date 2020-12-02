@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import SvgIcon from './svg-icon';
+import HeroShape from './hero-shape';
 // motion variant
 let easing = [0.175, 0.85, 0.42, 0.96];
 const fadeIn = {
@@ -46,10 +46,7 @@ export default function HeroBanner({
 	return (
 		<div className={`bg-rq-gray-300 overflow-hidden relative ${className}`}>
 			<motion.div variants={fadeIn}>
-				<SvgIcon
-					className="block"
-					src={require('../../public/images/hero-bg-shape.svg?include')}
-				/>
+				<HeroShape id="heroBanner" />
 			</motion.div>
 			{/*End of background shape*/}
 			<div className="px-2 pt-10 w-full md:w-auto absolute text-center top-2/4 left-2/4 transform -translate-x-1/2 -translate-y-1/2">
