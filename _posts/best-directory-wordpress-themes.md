@@ -99,6 +99,7 @@ Paypal is supported outside the box, and additional add-on payment gateways can 
 The listings can use custom form builders to make forms through the form or submit them via the admin interface on a separate basis. The list can be bulk imported from a CSV file to save your time when creating directories. Site viewers can create user profiles and get email notifications on their list.
 
 The directory is packed with a great theme with many great features. Thanks to all the highly structured, included custom post type builders of your directory structure and organization, as well as individual listing contents, this all makes the theme ideal for almost any type of listing, and a great choice for building a premium directory.
+
 <a href="https://templatic.com/wordpress-directory-themes/directory/" class="btn">Purchase Theme</a>
 
 ## 6.Vantage
