@@ -1,3 +1,5 @@
+import Img from '../ui/image';
+
 export default function TestimonialCard({
 	className = '',
 	avatar,
@@ -5,9 +7,7 @@ export default function TestimonialCard({
 	name,
 	userName,
 }) {
-	const userAvatar = avatar
-		? avatar
-		: require('../../public/images/envato.svg');
+	const userAvatar = avatar ? avatar : '/images/envato.svg';
 
 	return (
 		<div
@@ -15,7 +15,7 @@ export default function TestimonialCard({
 		>
 			<p className="leading-loose text-rq-gray-700 mb-6 2xl:mb-8">{comment}</p>
 			<div className="flex items-center">
-				<img src={userAvatar} alt={name} />
+				<Img src={userAvatar} alt={name} width={45} height={45} />
 				<div className="ml-3">
 					<h3 className="font-medium text-rq-gray-700 mb-1">{name}</h3>
 					<p className="text-sm text-rq-blue-800">{userName}</p>

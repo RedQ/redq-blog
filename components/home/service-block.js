@@ -65,7 +65,7 @@ export default function ServiceBlock() {
 					{serviceData.map((item) => (
 						<GlideSlide key={`service-key--${item.id}`}>
 							<ServiceCard
-								src={item.icon}
+								thumb={item.thumb}
 								title={item.title}
 								description={item.description}
 							/>

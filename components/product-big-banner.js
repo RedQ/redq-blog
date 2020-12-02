@@ -2,9 +2,6 @@ import { Parallax } from 'react-scroll-parallax';
 import Container from './ui/container';
 import SvgIcon from './ui/svg-icon';
 import Img from './ui/image';
-// images
-import trophyIcon from '../public/images/trophy.svg';
-import chatIcon from '../public/images/chat.svg';
 
 export default function ProductBigBanner() {
 	return (
@@ -53,9 +50,14 @@ export default function ProductBigBanner() {
 							is built to perform and run fast on all of the latest devices.
 						</p>
 						<div className="flex items-center mt-10 xl:mt-14">
-							<img src={trophyIcon} alt="Trophy Icon" />
+							<Img
+								width={40}
+								height={40}
+								src="/images/trophy.svg"
+								alt="Trophy"
+							/>
 							<div className="ml-6">
-								<h3 className="text-xl font-medium mb-1">
+								<h3 className="text-xl font-medium mb-1.5">
 									Highly Crafted Product
 								</h3>
 								<p className="text-rq-gray-700">
@@ -64,9 +66,9 @@ export default function ProductBigBanner() {
 							</div>
 						</div>
 						<div className="flex items-center mt-10 xl:mt-14">
-							<img src={chatIcon} alt="Trophy Icon" />
+							<Img width={40} height={40} src="/images/chat.svg" alt="Chat" />
 							<div className="ml-6">
-								<h3 className="text-xl font-medium mb-1">
+								<h3 className="text-xl font-medium mb-1.5">
 									Instant Customer Support
 								</h3>
 								<p className="text-rq-gray-700">

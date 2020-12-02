@@ -18,6 +18,7 @@ module.exports = {
 				'rq-750': '750px',
 				'rq-600': '600px',
 				'rq-354': '354px',
+				'rq-100': '100px',
 				'rq-auto': 'auto',
 			},
 			maxWidth: {
