@@ -38,7 +38,7 @@ SuperProps is a versatile React based Template. It has multipurpose use. A lot o
 
 ## StoryHub - React Gatsby Blog Template
 
-![Personal blog template](https://d2qklehrvrfpx7.cloudfront.net/blogimages/portfolio-2.png"Personal blog template")
+![Personal blog template](https://d2qklehrvrfpx7.cloudfront.net/blogimages/portfolio-2.png "Personal blog template")
 
 <a href="https://1.envato.market/k1gdV" class="btn">View Demo</a>
 
