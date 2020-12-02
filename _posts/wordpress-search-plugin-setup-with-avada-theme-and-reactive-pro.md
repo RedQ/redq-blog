@@ -138,7 +138,7 @@ From Product type radio box you can select the size of the products and show you
 By clicking on (+) icon of Search block you will have this options page. From here select Range box and click save.![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/search68.png)
 
 Now you have the range box.![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/search69.png)
-By clicking the settings icon of range box go to the Data tab and select data.![](/https://d2qklehrvrfpx7.cloudfront.net/blogimages/search70.png)
+By clicking the settings icon of range box go to the Data tab and select data.![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/search70.png)
 Then go to the Appearance tab and give a name to the title.![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/search71.png)
 
 Then go to the Settings tab, set the minimum and maximum value then click save.![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/search72.png)

@@ -57,7 +57,7 @@ Here is the preview screenshot for a simple user registration page. This page is
 
 Then in your main menu area, it will show up for new user register into your site.
 
-![userplace register form](/assets/blog/images/05.png "userplace register form")This is the public view for the member register shortcode page and only visible in not logged in users.
+![userplace register form](https://d2qklehrvrfpx7.cloudfront.net/blogimages/userplace-5.png "userplace register form")This is the public view for the member register shortcode page and only visible in not logged in users.
 
 So, how simple is that ?? The menu restrictions and content restrictions process are very essential for your membership site. That's why we made it in a simple way.
 
