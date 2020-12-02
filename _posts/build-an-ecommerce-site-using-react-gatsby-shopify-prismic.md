@@ -14,7 +14,7 @@ Picksy is a full-featured modern headless eCommerce app powered by Shopify, Pris
 
 If you’re not fully up to speed on the definition of headless websites, in short, it separates your frontend (i.e. the client-side or the customer end) from the backend (i.e. the API the data end where we kept our products, orders, etc.).
 
-<a href="https://bit.ly/ReactGatsbyEcommerce" class="btn">View Picksy Demo</a>
+<a href="https://redq.io/picksy" class="btn">View Picksy Demo</a>
 
 # Picksy - React Gatsby Grocery Ecommerce Template
 
