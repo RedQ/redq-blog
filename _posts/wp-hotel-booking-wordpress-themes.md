@@ -151,7 +151,7 @@ Hillter is an attractive and modern Wordpress theme that is perfect for hotels, 
 
 ## Ciestra - Resort WordPress Theme
 
-![Ciestra](https://d2qklehrvrfpx7.cloudfront.net/blogimages/houston-7.png"Ciestra ")
+![Ciestra](https://d2qklehrvrfpx7.cloudfront.net/blogimages/houston-7.png "Ciestra ")
 
 Ciestra Resort theme for WordPress has its all to welcome the travelers with an outstanding website and better property rates. Whether you rent out a mountain villa or dozens of suites in a beachfront resort, this theme is perfectly suitable. Fully dedicated to lodging business, Ciestra offers a perfect uncluttered design and a variety of on-demand content modules: a structured directory of properties, amenities & services gallery, clear contact and location info, Instagram gallery, guest reviews and more.
 
