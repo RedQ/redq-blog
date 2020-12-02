@@ -1,0 +1,88 @@
+export const productsData = [
+	{
+		id: 1,
+		thumb: {
+			url: '/images/products/turbo.jpg',
+			width: 573,
+			height: 350,
+		},
+		title: 'Turbo Car Rental Wordpress Booking Theme',
+		shortDescription: 'Fastest template built with React, NextJS, Context API',
+		compatibleText: 'Compatible with React / Nextjs / Gatsby',
+		price: '$24',
+		category: ['all', 'wp-theme'],
+		featured: false,
+	},
+	{
+		id: 2,
+		thumb: {
+			url: '/images/products/headless.jpg',
+			width: 573,
+			height: 350,
+		},
+		title: 'Headless - React GraphQL Firebase Ads Template',
+		shortDescription: 'Fastest template built with React, NextJS, Context API',
+		compatibleText: 'Compatible with React / Nextjs / Gatsby',
+		price: '$24',
+		category: ['all', 'react-template'],
+		featured: false,
+	},
+	{
+		id: 3,
+		thumb: {
+			url: '/images/products/storyhub.jpg',
+			width: 573,
+			height: 350,
+		},
+		title: 'StoryHub - React Gatsby Blog Template',
+		shortDescription: 'Fastest template built with React, NextJS, Context API',
+		compatibleText: 'Compatible with React / Nextjs / Gatsby',
+		price: '$24',
+		category: ['all', 'react-template'],
+		featured: false,
+	},
+	{
+		id: 4,
+		thumb: {
+			url: '/images/products/pickbazar.jpg',
+			width: 880,
+			height: 537,
+		},
+		title: 'Pickbazar - React GraphQL Ecommerce Template',
+		shortDescription:
+			'Super-fast eCommerce template was made to help anyone start their very own online store',
+		compatibleText: 'Compatible with React / Nextjs / GraphQL',
+		price: '$24',
+		category: ['all', 'react-template'],
+		featured: true,
+	},
+	{
+		id: 5,
+		thumb: {
+			url: '/images/products/superprops.jpg',
+			width: 880,
+			height: 537,
+		},
+		title: 'SuperProps - React Next & Gatsby Landing Page Templates',
+		shortDescription:
+			'Super-fast eCommerce template was made to help anyone start their very own online store',
+		compatibleText: 'Compatible with React / Nextjs / Gatsby',
+		price: '$24',
+		category: ['all', 'react-template'],
+		featured: true,
+	},
+	{
+		id: 6,
+		thumb: {
+			url: '/images/products/turbo.jpg',
+			width: 573,
+			height: 350,
+		},
+		title: 'Turbo Car Rental Wordpress Booking Theme',
+		shortDescription: 'Fastest template built with React, NextJS, Context API',
+		compatibleText: 'Compatible with React / Nextjs / Gatsby',
+		price: '$24',
+		category: ['all', 'wp-theme'],
+		featured: false,
+	},
+];

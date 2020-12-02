@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { useForm } from 'react-hook-form';
 // data
-import { footerWidgets } from '../../../public/data/home-page';
+import { footerWidgets } from '../../../public/data/home-page/footer-widgets.data';
 
 export default function Widgets() {
 	const { register, handleSubmit } = useForm();

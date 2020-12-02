@@ -55,7 +55,7 @@ code {
     @apply opacity-100 visible py-6 transition-all duration-300;
   }
   .main-menu li {
-    @apply w-full max-w-screen-md ml-auto mr-auto -my-2 transition-all duration-300;
+    @apply w-full ml-auto mr-auto -my-2 transition-all duration-300;
   }
   .main-menu.is-active li {
     @apply my-0 transition-all duration-300;
@@ -181,6 +181,14 @@ code {
   @apply mt-4 mb-3;
 }
 
+/* background pattern */
+.rq-bg-pattern {
+  @apply absolute top-0 left-0 w-full h-full pointer-events-none z-0;
+}
+.rq-bg-pattern svg {
+  @apply w-full h-full opacity-5;
+}
+
 /* footer style */
 @media (min-width: 1280px) {
   .footer-widgets {
@@ -217,6 +225,14 @@ code {
     @apply ml-0 mt-4;
   }
 }
+#rqServices .glide__controls,
+#rqTestimonial .glide__controls  {
+  @apply xl:transition-opacity xl:duration-200 xl:opacity-0;
+}
+#rqServices:hover .glide__controls,
+#rqTestimonial:hover .glide__controls  {
+  @apply xl:opacity-100;
+}
 /* end of RedQ site's styles */
 
 /* Start purging... */
@@ -226,5 +242,3 @@ code {
 /* Start purging... */
 @tailwind utilities;
 /* Stop purging. */
-
-

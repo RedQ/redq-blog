@@ -5,9 +5,10 @@ export default function Img({
 	title,
 	width,
 	height,
-	unsized,
+	layout,
 	fallbackSrc,
 	className,
+	...rest
 }) {
 	const fallback = fallbackSrc ? fallbackSrc : '/images/fallback-image.svg';
 
@@ -16,9 +17,10 @@ export default function Img({
 			alt={title}
 			width={width}
 			height={height}
-			unsized={unsized}
+			layout={layout}
 			src={src ? src : fallback}
 			className={className}
+			{...rest}
 		/>
 	);
 }

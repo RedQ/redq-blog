@@ -1,0 +1,30 @@
+@keyframes sliding {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.sliderWrapper {
+  @apply relative;
+}
+
+.sliderWrapper::before,
+.sliderWrapper::after {
+  content: '';
+  @apply w-16 h-full block absolute top-0 z-10;
+}
+
+.sliderWrapper::before {
+  @apply -left-1 bg-gradient-to-r from-white;
+}
+
+.sliderWrapper::after {
+  @apply -right-1 bg-gradient-to-l from-white;
+}
+
+.slidingFromRight {
+  animation: sliding 40s linear infinite;
+}
