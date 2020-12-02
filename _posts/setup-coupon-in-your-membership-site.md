@@ -45,7 +45,7 @@ After creating the coupons you will get the id by clicking on the newly created 
 
 You have created your coupon. Next part is attaching this coupon in a plan. When creating a plan you will get a portion to attach coupon. You will get the list of all coupon you have created in your coupons menu. Now select any coupon you want to attach to the plan. Follow the below images. Go to your Membership plan list from dashboard and`Userplace->Membership Plan` edit any plan to attach this new coupon.
 
-![]https://d2qklehrvrfpx7.cloudfront.net/blogimages/userplace-12=6.png)
+![](https://d2qklehrvrfpx7.cloudfront.net/blogimages/userplace-12=6.png)
 
 <a href="https://wordpress.org/plugins/userplace-member-subscription-restriction-payments/" class="btn">Free Download</a>
 
