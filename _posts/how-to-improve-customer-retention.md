@@ -64,7 +64,7 @@ This is a type of plugin which the users are nowadays looking for as they are no
 
 On your homepage, you can make your site look more interactive by embedding images and videos. Naturally, it lets the users acknowledged about all of your products and the services you are providing. So obviously you will need a Video Gallery plugin. Huge-It Video Gallery is this type of plugin which is designed to exhibit your existing videos through channels like Vimeo and Youtube in an awesome way.
 
-![Huge-It Video Gallery]https://d2qklehrvrfpx7.cloudfront.net/blogimages/retention7.png)
+![Huge-It Video Gallery](https://d2qklehrvrfpx7.cloudfront.net/blogimages/retention7.png)
 
 **Plugin for Google Maps**
 

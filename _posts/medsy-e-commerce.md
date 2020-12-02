@@ -24,7 +24,7 @@ Medsy is a one of a kind medicine centric E-commerce template that offers the pe
 
 ## **Highly Customizable and Versatile**
 
-![Medsy Tailwind CSS Integration](medsy-3)![Medsy deploy firebase github vercel](/assets/blog/images/Deploy.jpg)Medsy, built using the [Tailwind CSS](https://tailwindcss.com/), is highly customizable. You can add upon the pre-built template and modify the design to your satisfaction without ever having to change the core HTML code. Whether you want to add/ remove features or implement your own ideas, it all can be done very easily.
+![Medsy Tailwind CSS Integration](https://d2qklehrvrfpx7.cloudfront.net/blogimages/medsy-5.jpg)![Medsy deploy firebase github vercel](https://d2qklehrvrfpx7.cloudfront.net/blogimages/medsy-6.jpg)Medsy, built using the [Tailwind CSS](https://tailwindcss.com/), is highly customizable. You can add upon the pre-built template and modify the design to your satisfaction without ever having to change the core HTML code. Whether you want to add/ remove features or implement your own ideas, it all can be done very easily.
 
 Another aspect is that it is very versatile and is developed to be deployed on any hosting service. Whether [GitHub](https://github.com/), [Vercel](https://vercel.com/), [Firebase](https://firebase.google.com/) or any other platform really, its makes no difference - just choose what is right for you and you’re all set!
 

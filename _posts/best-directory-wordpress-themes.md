@@ -99,6 +99,7 @@ Paypal is supported outside the box, and additional add-on payment gateways can 
 The listings can use custom form builders to make forms through the form or submit them via the admin interface on a separate basis. The list can be bulk imported from a CSV file to save your time when creating directories. Site viewers can create user profiles and get email notifications on their list.
 
 The directory is packed with a great theme with many great features. Thanks to all the highly structured, included custom post type builders of your directory structure and organization, as well as individual listing contents, this all makes the theme ideal for almost any type of listing, and a great choice for building a premium directory.
+
 <a href="https://templatic.com/wordpress-directory-themes/directory/" class="btn">Purchase Theme</a>
 
 ## 6.Vantage
@@ -126,6 +127,7 @@ Before reaching your website, to ensure that your listing is standing among sear
 When it comes to monetizing your directory website, Listify options are not short, with the ability to display ads, charge users, add listings, and even view listings and access the website, but you decide to set up your fee structure, You can get lots of flexibility with this theme.
 
 There is no reason to look like your list website countless other online directories, choosing the option to display full-width background video on your website’s homepage.
+
 <a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fitem%2Flistify-wordpress-directory-theme%2F9602611" class="btn">Purchase Theme</a>
 
 ## 8.ListGo
@@ -217,6 +219,7 @@ Although Point Finder equips you with the right post type to collect relevant da
 When it comes to monetization, there is no point finder option. Multiple payment gateways are supported, when it comes to payment collections you provide a range of options. You can create a paid subscription system that your visitors must sign-up to add a listing to your map. With attention, you can monetize your website by charging users on every post basis. You can combine these two methods even more flexible.
 
 Point Finder You need to create a custom directory website with WordPress that will give you optional user reviews, email notifications, Google Maps integration and more.
+
 <a href="https://1.envato.market/c/1309180/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fitem%2Fpoint-finder-directory-wordpress-theme%2F10298703" class="btn">Purchase Theme</a>
 
 ## 14.DiningEngine
@@ -230,6 +233,7 @@ This will help you to create a restaurant directory with WordPress. This is a si
 The dining engine theme design is very modern and in line with the latest web design trends. Page transitions take place perfectly, due to the lack of page loads after most users work.
 
 Thanks to the well-designed admin panel, backed-up is very intuitive to set up your website. There is also front-drag-and-drop functionality for organizing your home page. You can get a good selection of monetization options with DiningEngine, such as with the ability to charge additional users for optional upgrades as featured listings.
+
 <a href="https://www.enginethemes.com/themes/diningengine/" class="btn">Purchase Theme</a>
 
 ## 15.Directory Theme

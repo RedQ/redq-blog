@@ -35,7 +35,7 @@ The plugin installation is very simple, you need not touch any single line of th
 - **Step 1** – Go to your WordPress Dashboard where you will find so many features that assist you to customize your website as you desire.
 - **Step 2** – To install the plugin, just hover your mouse cursor on the **Plugins** then click on **Add New**.
 
-![How To Install The plugin](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-1.png"How To Install The plugin")
+![How To Install The plugin](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-1.png "How To Install The plugin")
 
 - **Step 3** – After clicking on Add New button which leads you to the next page where you need to click on Upload Plugin button and then click on the Choose File button to upload the plugin **.**zip file from the destination folder and last click on the Install Now button.
 
