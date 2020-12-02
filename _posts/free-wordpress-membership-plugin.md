@@ -174,7 +174,7 @@ Included features:
 - More than 120 action and filter hooks for customization
 - A library of API functions for extensibility
 
-![WP-Members](https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership8.png"WP-Members")
+![WP-Members](https://d2qklehrvrfpx7.cloudfront.net/blogimages/membership8.png "WP-Members")
 
 <a href="https://downloads.wordpress.org/plugin/wp-members.zip" class="btn">Free Download</a>
 
