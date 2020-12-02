@@ -3,6 +3,7 @@ import GlideCarousel, {
 	GlideSlide,
 	GlideNavButton,
 } from '../ui/glide-carousel';
+import Img from '../ui/image';
 // import data
 import { productsBanner } from '../../public/data/home-page/product-banner.data';
 
@@ -19,7 +20,7 @@ export default function ProductCarousel() {
 		},
 	};
 	return (
-		<div className="w-full my-10 lg:my-12 2xl:my-16">
+		<div className="max-w-rq-1920 ml-auto mr-auto w-full my-10 lg:my-12 2xl:my-16">
 			<GlideCarousel
 				controls={true}
 				options={carouselOptions}
@@ -37,10 +38,11 @@ export default function ProductCarousel() {
 			>
 				{productsBanner.map((banner, index) => (
 					<GlideSlide key={`product-banner-${index}`}>
-						<img
-							className="w-full h-auto"
-							src={banner.thumb}
+						<Img
 							alt={banner.title}
+							src={banner.thumb.url}
+							width={banner.thumb.width}
+							height={banner.thumb.height}
 						/>
 					</GlideSlide>
 				))}

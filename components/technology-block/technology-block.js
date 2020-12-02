@@ -1,4 +1,5 @@
 import Container from '../ui/container';
+import Img from '../ui/image';
 import { sliderWrapper, slidingFromRight } from './technology-block.module.css';
 // import data
 import { technologyData } from '../../public/data/technology.data';
@@ -10,7 +11,7 @@ export default function TechnologyBlock() {
 				<div className="flex flex-col md:flex-row md:items-center">
 					<span
 						className="text-lg mr-8 flex-shrink-0"
-						style={{ color: '#7C8894' }}
+						style={{ color: '#697782' }}
 					>
 						Technology we used:
 					</span>
@@ -21,24 +22,28 @@ export default function TechnologyBlock() {
 							className={`${slidingFromRight} flex items-center flex-shrink-0`}
 						>
 							{technologyData.map((item) => (
-								<img
-									key={`row-one-${item.title}`}
-									src={item.thumb}
-									alt={item.title}
-									className="mx-6 lg:mx-8"
-								/>
+								<div key={`row-one-${item.title}`} className="mx-6 lg:mx-8">
+									<Img
+										src={item.thumb.url}
+										alt={item.title}
+										width={item.thumb.width}
+										height={item.thumb.height}
+									/>
+								</div>
 							))}
 						</div>
 						<div
 							className={`${slidingFromRight} flex items-center flex-shrink-0`}
 						>
 							{technologyData.map((item) => (
-								<img
-									key={`row-two-${item.title}`}
-									src={item.thumb}
-									alt={item.title}
-									className="mx-6 lg:mx-8"
-								/>
+								<div key={`row-two-${item.title}`} className="mx-6 lg:mx-8">
+									<Img
+										src={item.thumb.url}
+										alt={item.title}
+										width={item.thumb.width}
+										height={item.thumb.height}
+									/>
+								</div>
 							))}
 						</div>
 					</div>

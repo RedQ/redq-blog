@@ -1,16 +1,26 @@
-import productImg from '../../images/cartsy-product-banner.png';
-
 export const productsBanner = [
 	{
-		thumb: productImg,
+		thumb: {
+			url: '/images/cartsy-product-banner.png',
+			width: 1800,
+			height: 520,
+		},
 		title: 'Cartsy - SuperFast WordPress WooCommerce Theme ',
 	},
 	{
-		thumb: productImg,
+		thumb: {
+			url: '/images/cartsy-product-banner.png',
+			width: 1800,
+			height: 520,
+		},
 		title: 'Cartsy - SuperFast WordPress WooCommerce Theme ',
 	},
 	{
-		thumb: productImg,
+		thumb: {
+			url: '/images/cartsy-product-banner.png',
+			width: 1800,
+			height: 520,
+		},
 		title: 'Cartsy - SuperFast WordPress WooCommerce Theme ',
 	},
 ];

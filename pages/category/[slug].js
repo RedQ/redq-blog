@@ -1,5 +1,5 @@
-import { useRouter } from 'next/router';
 import Head from 'next/head';
+import { useRouter } from 'next/router';
 import Layout from '../../components/layout/layout';
 import Container from '../../components/ui/container';
 import Intro from '../../components/ui/intro';
@@ -19,7 +19,7 @@ export default function Category({ categoryPosts }) {
 		<>
 			<Head>
 				<title>
-					{`Category: ${pageTitle !== undefined ? pageTitle : ''}`} | RedQ Inc
+					{`Category: ${pageTitle !== undefined ? pageTitle : ''}  | RedQ Inc`}
 				</title>
 			</Head>
 			<Layout>

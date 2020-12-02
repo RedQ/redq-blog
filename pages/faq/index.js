@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
@@ -50,38 +51,43 @@ const fadeInBottom = {
 
 export default function FAQ() {
 	return (
-		<Layout>
-			<Intro title="FAQ" />
-			<Container>
-				<motion.div
-					variants={variants}
-					className="grid gap-x-8 md:gap-x-6 lg:gap-x-8 2xl:gap-x-10 grid-cols-1 sm:grid-cols-2 md:grid-cols-3"
-				>
-					{faqItems.map((item) => (
-						<motion.div
-							key={item.title}
-							variants={fadeInBottom}
-							className="border border-gray-200 border-solid rounded overflow-hidden mb-8 md:mb-6 lg:mb-10 transition-shadow duration-300 hover:shadow-small"
-						>
-							<Link href={item.href}>
-								<a>
-									<Image
-										width={579}
-										height={294}
-										src={item.thumb}
-										alt={item.title}
-									/>
-								</a>
-							</Link>
-							<Link href={item.href}>
-								<a className="block text-center p-4 text-black text-lg">
-									{item.title}
-								</a>
-							</Link>
-						</motion.div>
-					))}
-				</motion.div>
-			</Container>
-		</Layout>
+		<>
+			<Head>
+				<title>FAQ | RedQ Inc</title>
+			</Head>
+			<Layout>
+				<Intro title="FAQ" />
+				<Container>
+					<motion.div
+						variants={variants}
+						className="grid gap-x-8 md:gap-x-6 lg:gap-x-8 2xl:gap-x-10 grid-cols-1 sm:grid-cols-2 md:grid-cols-3"
+					>
+						{faqItems.map((item) => (
+							<motion.div
+								key={item.title}
+								variants={fadeInBottom}
+								className="border border-gray-200 border-solid rounded overflow-hidden mb-8 md:mb-6 lg:mb-10 transition-shadow duration-300 hover:shadow-small"
+							>
+								<Link href={item.href}>
+									<a>
+										<Image
+											width={579}
+											height={294}
+											src={item.thumb}
+											alt={item.title}
+										/>
+									</a>
+								</Link>
+								<Link href={item.href}>
+									<a className="block text-center p-4 text-black text-lg">
+										{item.title}
+									</a>
+								</Link>
+							</motion.div>
+						))}
+					</motion.div>
+				</Container>
+			</Layout>
+		</>
 	);
 }
