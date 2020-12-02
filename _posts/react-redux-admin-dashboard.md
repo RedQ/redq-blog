@@ -257,7 +257,7 @@ Jumbo React is a complete React admin template based on Material Design Concept 
 
 ## Veltrix - The Ultimate Admin & Dashboard Template
 
-![Veltrix](https://d2qklehrvrfpx7.cloudfront.net/blogimages/iso-10.pngg "Veltrix - The Ultimate Admin & Dashboard Template")
+![Veltrix](https://d2qklehrvrfpx7.cloudfront.net/blogimages/iso-10.png "Veltrix - The Ultimate Admin & Dashboard Template")
 
 Veltrix is a premium and fully responsive admin template & starter-kit with bootstrap version 4.3.1. It is a highly polished admin application to React with redux. It looks beautiful with all resolution sizes, it fits perfectly in a Desktop Monitor, laptop screen, iPad, iPhone, Android Mobile or tablets. It would be perfect for an app product showcase, startups, personal websites, and even web agencies. You will be easily able to customize it for your needs. It has everything you need to launch your site in a couple of hours.
 
