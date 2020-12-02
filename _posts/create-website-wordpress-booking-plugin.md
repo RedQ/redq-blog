@@ -87,11 +87,11 @@ You will require inventory to maintain the rental product for your WordPress Boo
 
 - **Resources**
 
-![Resource]((https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-12.png"Resource")
+![Resource](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-12.png "Resource")
 
 - **Person**
 
-![Person]((https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-13.png "Person")
+![Person](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-13.png "Person")
 
 - **Deposit**
 
@@ -103,21 +103,21 @@ You will require inventory to maintain the rental product for your WordPress Boo
 
 - **Features**
 
-![Features](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-16.png"Features")
+![Features](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-16.png "Features")
 
 - **Pick up Location**
 
-![Pick up Location](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-17.png"Pick up Location")
+![Pick up Location](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-17.png "Pick up Location")
 
 - **Drop off Location**
 
-![Drop off Location](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-18.png"Drop off Location")
+![Drop off Location](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-18.png "Drop off Location")
 
 ### 5\. How To Create a Rental Product accompanied by an Inventory for Booking?
 
 - **Step 1** - At first click on the Products, it will redirect you to the Products page. From this page click on Add New.
 
-![Rental Product](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-19.png"Rental Product")
+![Rental Product](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-19.png "Rental Product")
 
 ![Rental Product 2](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-20.png "Rental Product 2")
 
@@ -125,17 +125,17 @@ You will require inventory to maintain the rental product for your WordPress Boo
 
 ![new product](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-21.png "new product")
 
-![Viewing the rental Product's web page for Booking1](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-22.png"Viewing the rental Product's web page for Booking1")
+![Viewing the rental Product's web page for Booking1](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-22.png "Viewing the rental Product's web page for Booking1")
 
 ### 6\. Viewing the rental Product's web page for Booking.
 
 After Publishing the Product click on Preview Changes.
 
-![Viewing the rental Product's web page for Booking](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-23.png"Viewing the rental Product's web page for Booking")
+![Viewing the rental Product's web page for Booking](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-23.png "Viewing the rental Product's web page for Booking")
 
 Now fill the necessary fields and click on Book Now.
 
-![rnbtest5](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-24.png"rnbtest")
+![rnbtest5](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-24.png "rnbtest")
 
 **After Clicking on Book Now your order will go to Cart.**
 
@@ -151,7 +151,7 @@ After clicking on Proceed to Checkout it will take you to the checkout page. In 
 
 After Clicking on Place order it will take you to the Order Received Page. That means your order is received and scheduled for delivery or ready and you have to receive it. This is the final stage of Booking a rental product.
 
-![rnbtest](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-28.png"rnbtest")
+![rnbtest](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-28.png "rnbtest")
 
 ## Price Calculation for Rental Products
 
@@ -159,15 +159,15 @@ This plugin support Six types of pricing plan.
 
 1. General pricing plan.
 
-2\. Daily pricing plan.
+2. Daily pricing plan.
 
-3\. Monthly pricing plan.
+3. Monthly pricing plan.
 
-4\. Days range pricing plan.
+4. Days range pricing plan.
 
-5\. Hourly Pricing Plan.
+5. Hourly Pricing Plan.
 
-6\. Flat Hour Pricing Plan.
+6. Flat Hour Pricing Plan.
 
 The pricing can be set from the inventory and you can also add the quantity of the inventory.
 
@@ -187,7 +187,7 @@ Daily pricing plan allows you to set a different price for each day of a week. W
 
 Monthly pricing plan allows you to set a different price for each month of a Year. When you book this product the price will be calculated depending on the monthly price.
 
-![Monthly Pricing Plan](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-31.png"Monthly Pricing Plan")
+![Monthly Pricing Plan](https://d2qklehrvrfpx7.cloudfront.net/blogimages/rnb-31.png "Monthly Pricing Plan")
 
 ### **Day-Ranges Pricing Plan:**
 
