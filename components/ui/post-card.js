@@ -24,8 +24,8 @@ const fadeInBottom = {
 export default function PostCard({ slug, date, title, excerpt, coverImage }) {
 	const postThumbnail = (
 		<Image
-			width={588}
-			height={360}
+			width={716}
+			height={438}
 			className="rounded w-full"
 			alt={`Cover Image for ${title}`}
 			src={coverImage ? coverImage : '/images/fallback-image.svg'}

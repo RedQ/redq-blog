@@ -1,4 +1,3 @@
-// footer widgets data
 export const footerWidgets = [
 	{
 		title: 'Company',

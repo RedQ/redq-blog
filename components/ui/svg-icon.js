@@ -1,4 +1,4 @@
-export default function SvgIcon({ src, style, className }) {
+export default function SvgIcon({ src, style, className = '' }) {
 	return (
 		<span
 			style={style}
