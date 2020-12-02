@@ -1,15 +1,16 @@
 import { Parallax } from 'react-scroll-parallax';
 import Container from './ui/container';
-import SvgIcon from './ui/svg-icon';
+import HeroShape from './ui/hero-shape';
 import Img from './ui/image';
 
 export default function ProductBigBanner() {
 	return (
 		<div className="min-h-rq-600 bg-rq-gray-300 relative mt-4 md:mt-8 lg:mt-10 2xl:mt-6 overflow-hidden">
-			<SvgIcon
+			<HeroShape
+				id="productBigBanner"
 				className="absolute block w-full h-full top-0 left-0"
-				src={require('../public/images/hero-bg-shape.svg?include')}
 			/>
+			{/* End of shape bg */}
 			<div className="max-w-rq-1920 w-full m-auto">
 				<div className="opacity-0 lg:opacity-100 max-w-rq-850 xl:max-w-rq-1050 2xl:max-w-rq-1350 w-3/4 flex transform rotate-rq-8 -ml-80">
 					<Parallax y={[-10, 10]}>
