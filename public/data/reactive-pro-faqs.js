@@ -1,3 +1,30 @@
+import img1 from '../images/faq/reactive/1.png';
+import img2 from '../images/faq/reactive/2.png';
+import img3 from '../images/faq/reactive/3.png';
+import img4 from '../images/faq/reactive/4.png';
+import img5 from '../images/faq/reactive/5.png';
+import img6 from '../images/faq/reactive/6.png';
+import img7 from '../images/faq/reactive/7.png';
+import img8 from '../images/faq/reactive/8.png';
+import img9 from '../images/faq/reactive/9.png';
+import img10 from '../images/faq/reactive/10.png';
+import img11 from '../images/faq/reactive/11.png';
+import img12 from '../images/faq/reactive/12.png';
+import img13 from '../images/faq/reactive/13.png';
+import img14 from '../images/faq/reactive/14.png';
+import img15 from '../images/faq/reactive/15.png';
+import img16 from '../images/faq/reactive/16.png';
+import img17 from '../images/faq/reactive/17.png';
+import img18 from '../images/faq/reactive/18.png';
+import img19 from '../images/faq/reactive/19.png';
+import img20 from '../images/faq/reactive/20.png';
+import img21 from '../images/faq/reactive/21.png';
+import img22 from '../images/faq/reactive/22.png';
+import img23 from '../images/faq/reactive/23.png';
+import img24 from '../images/faq/reactive/24.png';
+import img25 from '../images/faq/reactive/25.png';
+import img26 from '../images/faq/reactive/26.png';
+
 export const faqs = [
 	{
 		id: 1,
@@ -111,11 +138,11 @@ export const faqs = [
 		title: 'How to setup home page search?',
 		content: `
     To do the home page search just create a rebuilder shortcode and select the redirect page where you want to redirect when submitting the search.
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/1.png" alt="" width="888" height="645" scale="0">&nbsp;After creating the shortcode as usual paste the shortcode in the homepage and in the frontend create your search bar using drag and resize as you want.
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/2.png" alt="" width="888" height="165" scale="0">
+    <img src=${img1} alt="" width="888" height="645" scale="0">&nbsp;After creating the shortcode as usual paste the shortcode in the homepage and in the frontend create your search bar using drag and resize as you want.
+    <img src=${img2} alt="" width="888" height="165" scale="0">
     Then the important part is taking a&nbsp;<code>apply filter</code>&nbsp;button in your search block then from the settings panel of apply filter select your search page and redirect option. that's it.
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/3.png" alt="" width="889" height="159" scale="0">
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/4.png" alt="" width="1251" height="431" scale="0">
+    <img src=${img3} alt="" width="889" height="159" scale="0">
+    <img src=${img4} alt="" width="1251" height="431" scale="0">
     Also, you have to make sure you have already set up the search page where you are redirecting your visitor (the search page you have selected in the apply filter button you have to set up another reactive builder shortcode in that page with same post type and taxonomies so that it can find the result properly. Make sure you don't use the same shortcode for your home page and Redirected page.
     `,
 	},
@@ -135,7 +162,7 @@ export const faqs = [
 		content: `
     <p>To do this you have to go to the global settings option at the top right side,</p>
     <p>then choose your order from the drop-down</p>
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/5.png" alt="" width="1256" height="391" scale="0">
+    <img src=${img5} alt="" width="1256" height="391" scale="0">
     `,
 	},
 	{
@@ -143,7 +170,7 @@ export const faqs = [
 		title: 'How to show result grid only for specific terms?',
 		content: `<p>To do this you have to go to the global settings option at the top right side,</p>
     <p>then choose your terms from the drop-down</p>
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/6.png" alt="" width="1177" height="574" scale="0">`,
+    <img src=${img6} alt="" width="1177" height="574" scale="0">`,
 	},
 	{
 		id: 13,
@@ -153,14 +180,14 @@ export const faqs = [
       <li>To provide the sort option you have to take a bar component</li>
       <li>from the bar setting panel (click on the + sign at the right side) take a sorting attributes</li>
     </ul>
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/7.png" alt="" width="815" height="52" scale="0">
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/8.png" alt="" width="1196" height="260" scale="0">
+    <img src=${img7} alt="" width="815" height="52" scale="0">
+    <img src=${img8} alt="" width="1196" height="260" scale="0">
     by default, it will only show the default option but you can add options like&nbsp;<code>post date</code>,&nbsp;<code>post name</code>,&nbsp;<code>any kind of meta(only number format</code>&nbsp;to do that click on the settings panel-&gt;go to the sorting tab.
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/9.png" alt="" width="416" height="122" scale="0">
+    <img src=${img9} alt="" width="416" height="122" scale="0">
     then you have to choose the option from the dropdown bundle it has two filed one is your meta key that you will choose another one is the text you want to show to the visitor,
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/10.png" alt="" width="1209" height="487" scale="0">
+    <img src=${img10} alt="" width="1209" height="487" scale="0">
     like below
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/11.png" alt="" width="1222" height="493" scale="0">
+    <img src=${img11} alt="" width="1222" height="493" scale="0">
     `,
 	},
 	{
@@ -173,7 +200,7 @@ export const faqs = [
     
     <pre><code>$singlePost['150_thumb'] = wp_get_attachment_thumb_url( $singlePost['thumbnailUrl'] );</code></pre>
     <p>it will look like the below image just change to&nbsp;<code>150_thumb</code>,</p>
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/12.png" alt="" width="807" height="79" scale="0">
+    <img src=${img12} alt="" width="807" height="79" scale="0">
     <p>iii) then just add the below code in the grid instead of&nbsp;<code>{{post.thumb_url}}</code></p>
     
     <pre><code>{{post.150_thumb}}</code></pre>
@@ -201,7 +228,7 @@ export const faqs = [
 		content: `
     <p>First of all, you need to know exactly why we have built the image picker and why you should use it,</p>
     <p>We have built the image picker to make a meaning full search component in your site, unlike checkbox, radio box it will show images of your taxonomy term meta. For example, if you have property on your site and you want to show images of your property type you can use our image picker in this case. it will look like the below image,</p>
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/13.png" alt="" width="267" height="526" scale="0">
+    <img src=${img13} alt="" width="267" height="526" scale="0">
     <p>It will behave exactly like any checkbox or radio box component. so, now let's see what we have exactly done to create this component. as I've already informed you we have used here the term meta. if you don't know what is term meta please search it on google as in our pre-requirement we assume that you have a good idea about post type, taxonomy, meta and term meta. if you don't know about it you have to learn about this and you can use our below plugin to create them,</p>
     <p><a href="https://wordpress.org/plugins/reuse-builder/" target="_blank" rel="noopener">Reuse Builder</a></p>
     <p>so, here's what we've done,</p>
@@ -209,15 +236,15 @@ export const faqs = [
     <p>ii) then we have created a custom taxonomy called&nbsp;<code>Property type</code></p>
     <p>iii) then we have created an image type term meta for&nbsp;<code>Property Type</code></p>
     <p>if you have successfully created the above steps and created your terms, here's what it looks like on my site,</p>
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/14.png" alt="" width="1122" height="671" scale="0">
+    <img src=${img14} alt="" width="1122" height="671" scale="0">
     <strong>Image: Property Type Taxonomy page</strong>
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/15.png" alt="" width="1130" height="479" scale="0">
+    <img src=${img15} alt="" width="1130" height="479" scale="0">
     <p><strong>Image: Property Type Term page</strong></p>
     <p>so, if you have everything done successfully if you have something similar to the above steps.</p>
     <p>now, take an image picker in your search page.</p>
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/16.png" alt="" width="1219" height="345" scale="0">
+    <img src=${img16} alt="" width="1219" height="345" scale="0">
     now from the settings panel of image picker choose the term meta and your term meta name,
-    <img src="https://redq.io/blog/wp-content/uploads/2018/09/17.png" alt="" width="1238" height="341" scale="0">
+    <img src=${img17} alt="" width="1238" height="341" scale="0">
     <p>you can see in the above image that we have chosen the Term meta and our term meta name here is&nbsp;<code>image</code>&nbsp;for the property type.</p>
     <p>It will look like the first image if everything is done properly.</p>
     `,
@@ -238,5 +265,115 @@ export const faqs = [
     <p>Follow the below code to do this,</p>
     <pre><code>{{post.post_content.split(" ").splice(0,20).join(" ")}}</code></pre>
     <p>The number 20 here is the number of words you want to show in the grid.</p>`,
+	},
+	{
+		id: 19,
+		title:
+			'How to use Color Name to Filter Posts? Is there any way we can use Color Picker to filter Posts? How can we use it?',
+		content: `Yes you can use Color Name to filter Posts, there are two ways you can do that, i) create a taxonomy called Posts Color or any name you prefer ii) then add your color names as a term, iii) choose a color term for your every post. that's it now take a Checkbox, Radiobox, Selectbox or Simplepicker whichever you want and then from the settings panel choose the data options. you will have the Color Names available for Search and Filter. it will look like the below image.
+
+    <img src=${img18} alt="" width="411" height="179" scale="0">The Color Picker only works with Taxonomy Term Meta. if you don't know what is Term meta please check our FAQ number 1, So, as it only works with your Term meta, you have to create a taxonomy like in the above point Posts Color where you have all the color names and for each term using the term meta you can set a color. To use the color picker in your term meta we suggest using our own plugin, here is the link&nbsp;<a href="https://wordpress.org/plugins/reuse-builder/" target="_blank" rel="noopener">https://wordpress.org/plugins/reuse-builder/</a>. so if you have created the color term meta and have your color names selected in your every post you can use the color picker search component in the reactive page, where you just have to select the term meta and term meta name in the color picker settings name.
+    <p>NB: Please note that you must have to select the related post type, taxonomy, term meta name in the rebuilder shortcode.</p>
+    <p>here is how we have used it in our test site just to show you how to create use of a color picker term meta,</p>
+    <p>i)&nbsp;<strong>Image: Color Term Meta being used here with Property Type Taxonomy</strong></p>
+    <img src=${img19} alt="" width="1152" height="547" scale="0">
+    
+    ii)&nbsp;<strong>Image: A color has been chosen here for property type taxonomy</strong>
+    
+    <img src=${img20} alt="" width="1144" height="577" scale="0">
+    <p>so, you have selected the term meta color for your taxonomy term and in the Reactive Search page here's how we will use it,</p>
+    <p>iii) choose the post type, taxonomy, term meta in your Rebuilder Shortcode.</p>
+    <p>iv) Take the color picker in your search page,</p>
+    <img src=${img21} alt="" width="1231" height="386" scale="0">
+    
+    v) choose the data from the color picker settings panel&nbsp;<code>color_property</code>&nbsp;is the term meta name,
+    
+    <img src=${img22} alt="" width="1225" height="339" scale="0">
+    
+    vi) that's it, the final look will be like below
+    
+    <img src=${img23} alt="" width="409" height="141" scale="0">
+    `,
+	},
+	{
+		id: 20,
+		title: `Why this plugin Doesn't support Internet Explorer Browsers or old safari browsers?`,
+		content: `
+    <p>First of all, I like to clear few things here,</p>
+    <p>I) this plugin supports the latest version of Internet Explorer which is known as Edge and also the latest version of Safari browsers.</p>
+    <p>II) The plugin is built on top of advance javascript to provide features like the drag, drop, resize, fast search etc.</p>
+    <p>as it's an advance javascript it has latest browser technology enabled which is not available in the old browsers such as Internet Explorer or Old Safari browsers(safari version above 10 is supported by our plugin).</p>
+    <p>iii) You can know about your browser compatibility from the below URL&nbsp;<a href="https://kangax.github.io/compat-table/es6/" target="_blank" rel="noopener">https://kangax.github.io/compat-table/es6/</a>&nbsp;(react, redux, es6 javascript is the feature that you should be looking for your browser).</p>
+    <p>iv) If you are desperate to find a solution for your internet explorer or your old safari browser user you can follow one of our user who has implemented code that checks the old browsers on the reactive page and asked the customer to update to a new browser or change the browser to firefox or chrome by showing a notice. Unfortunately, we don't know what the user has done in the code section so you may have to do this part by your own or by hiring a developer you can achieve this too.</p>
+    `,
+	},
+	{
+		id: 21,
+		title: `How can I override WordPress default search to reactive search?`,
+		content: `
+    In the admin menu,&nbsp;first go to Reative-&gt; Settings.
+    <img src=${img24} alt="" width="736" height="188" scale="0">
+    then you will get settings form with a switch button to enable default search override. Just enable it and you and select the reactive page where you want to redirect after someone search on a default&nbsp;<strong>WordPress</strong>&nbsp;search box.
+    <img src=${img25} alt="" width="927" height="437" scale="0">
+    `,
+	},
+	{
+		id: 22,
+		title: `How to set up WPML with reactive pro?`,
+		content: `
+    <p>We already have a dedicated documentation for WPML setup with the reactive pro. if you are using WPML you must have to follow this setup if you want to work with both WPML and reactive pro,</p>
+    <p><a href="https://redq.gitbooks.io/reactive-pro-advance-searching-filtering/content/wpml-configuration.html" target="_blank" rel="noopener">https://redq.gitbooks.io/reactive-pro-advance-searching-filtering/content/wpml-configuration.html</a></p>
+    `,
+	},
+	{
+		id: 23,
+		title: `How to change the grid infinity loader color?`,
+		content: `
+    <p>Use&nbsp;the below CSS code to change the color,</p>
+<pre><code>.css-15op5xs {
+    background-color: #477169;&#8203;
+}&#8203;&#8203;
+&#8203;
+&#8203;.css-8i2cfi {
+    background-color: #477169;&#8203;
+}&#8203;&#8203;
+&#8203;
+&#8203;.css-a2ok2p {
+    background-color: #477169;&#8203;
+}&#8203;&#8203;
+</code></pre>
+<p>change the background color according to your needs.</p>
+    `,
+	},
+	{
+		id: 24,
+		title: `How can I filter location using Google Map?`,
+		content: `
+    <p>To Filter using Google Map you have to use the plugin's Geo box feature otherwise it won't work if you have some set up with other plugins or theme. It's recommended to use the plugin's Geo box feature.</p>
+    <p>To know how to set up the Geo Box Follow the below section and video tutorial,</p>
+    <ol>
+      <li><a title="Video Tutorial" href="https://youtu.be/xAOq147rK7Q?list=PLUT1MYLrVpA9znKC6yCdFGg0hatr2E0qC" target="_blank" rel="noopener">Video Tutorial</a></li>
+      <li><a title="Google Map Plugin Setup" href="https://redq.gitbooks.io/reactive-pro-advance-searching-filtering/content/search-builder/backend/google-map.html" target="_blank" rel="noopener">Google Map Plugin Setup</a></li>
+      <li><a href="https://redq.gitbooks.io/reactive-pro-advance-searching-filtering/content/search-builder/backend/geobox.html" target="_blank" rel="noopener">Geobox Configuration</a></li>
+    </ol>
+    <p>Basically what you have to do is to</p>
+    <p>i) install our google map plugin</p>
+    <p>ii) Enable Geobox in the post type you want to filter.</p>
+    <p>iii) Fill up Geo or location information for each post or the post you want to search using location.</p>
+    <p>iv) from the frontend take a map block.</p>
+    <p>v) for searching and filtering you can use the map autocomplete for location suggestion as well as the checkbox, radio box, select box etc for city, country, state, zip code searching.</p>
+    `,
+	},
+	{
+		id: 25,
+		title: `In this demo http://reactive.redq.io/property-search-demo/ you will see that with mobile right bar sidebar disappear and it appear a button to click to open search...... How to do the same on my website?`,
+		content: `
+    <p>To do this you have to enable the bellow settings,</p>
+    <p>From the front end of the search page go to the global settings the choose the&nbsp;<strong>Render Map/Search block as Filter Button in Tab/Mobile View</strong></p>
+    <img src=${img26} alt="26" width="1208" height="270" scale="0">
+    <p>that's it, it will render your search block in the sidebar.</p>
+    <p>for more information, you can check the below section,</p>
+    <p><a href="https://redq.gitbooks.io/reactive-pro-advance-searching-filtering/content/global-settings.html" target="_blank" rel="noopener">Global Settings</a></p>
+    `,
 	},
 ];

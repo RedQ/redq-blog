@@ -1,7 +1,8 @@
+import Link from 'next/link';
 import cn from 'classnames';
 import { motion } from 'framer-motion';
+import { BsArrowLeft } from 'react-icons/bs';
 import Container from '../../ui/container';
-import DateFormatter from '../../ui/date-formatter';
 import Img from '../../ui/image';
 import SocialShare from '../../ui/social-share';
 import Categories from '../../ui/categories';
@@ -95,25 +96,22 @@ const heightTransition = {
 	},
 };
 
-export default function PostHeader({ title, coverImage, date, category }) {
+export default function PostHeader({ title, coverImage, category }) {
 	return (
 		<>
 			<motion.div
 				variants={heightTransition}
-				className="mb-10 sm:mb-12 w-screen bg-rq-gray-300 transform -translate-x-1/2 pt-32 pb-20 sm:pb-24 md:pt-36 md:pb-32 relative overflow-hidden"
-				style={{ marginLeft: '50%' }}
+				className="mb-10 sm:mb-12 w-full bg-rq-gray-300  pt-32 pb-20 sm:pb-24 md:pt-36 md:pb-32 relative overflow-hidden"
 			>
-				<Container className="px-5 pb-1">
-					<motion.div
-						variants={fadeInBottomDelay}
-						className="mb-6 text-rq-blue-800 uppercase tracking-widest text-sm font-semibold"
-					>
-						{date !== undefined && date !== '' ? (
-							<DateFormatter dateString={date} />
-						) : (
-							''
-						)}
-					</motion.div>
+				<Container fluid={true} className="px-5 pb-1">
+					<Link href="/blog">
+						<motion.a
+							variants={fadeInBottomDelay}
+							className="inline-flex items-center cursor-pointer mb-5 text-rq-blue-800 uppercase tracking-widest text-sm font-semibold transition-colors duration-300 hover:text-blue-600"
+						>
+							<BsArrowLeft className="-mt-0.5 mr-2" size={24} /> Back to Blog
+						</motion.a>
+					</Link>
 					{/* End of post meta */}
 					<motion.h1
 						variants={fadeInBottom}
@@ -139,7 +137,6 @@ export default function PostHeader({ title, coverImage, date, category }) {
 						width: '24%',
 						height: '50%',
 						bottom: '18px',
-						zIndex: -1,
 					}}
 				></motion.div>
 				{/* End banner dot pattern */}

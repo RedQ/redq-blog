@@ -1,10 +1,8 @@
 import { Parallax } from 'react-scroll-parallax';
 import Container from './ui/container';
 import SvgIcon from './ui/svg-icon';
+import Img from './ui/image';
 // images
-import productColImgOne from '../public/images/product-col-image1.png';
-import productColImgTwo from '../public/images/product-col-image2.png';
-import productColImgThree from '../public/images/product-col-image3.png';
 import trophyIcon from '../public/images/trophy.svg';
 import chatIcon from '../public/images/chat.svg';
 
@@ -15,20 +13,33 @@ export default function ProductBigBanner() {
 				className="absolute block w-full h-full top-0 left-0"
 				src={require('../public/images/hero-bg-shape.svg?include')}
 			/>
-			<div className="opacity-0 lg:opacity-100 max-w-rq-850 xl:max-w-rq-1050 2xl:max-w-rq-1350 flex transform rotate-rq-8 -ml-80">
-				<Parallax y={[-10, 10]}>
-					<img src={productColImgThree} alt="Product Thumb Col 3" />
-				</Parallax>
-				<Parallax>
-					<img src={productColImgTwo} alt="Product Thumb Col 2" />
-				</Parallax>
-				<Parallax y={[-20, 20]}>
-					<img
-						className="-ml-7 2xl:-ml-9"
-						src={productColImgOne}
-						alt="Product Thumb Col 1"
-					/>
-				</Parallax>
+			<div className="max-w-rq-1920 w-full m-auto">
+				<div className="opacity-0 lg:opacity-100 max-w-rq-850 xl:max-w-rq-1050 2xl:max-w-rq-1350 w-3/4 flex transform rotate-rq-8 -ml-80">
+					<Parallax y={[-10, 10]}>
+						<Img
+							src="/images/product-col-image3.png"
+							alt="Product Thumb Col 3"
+							width={399}
+							height={798}
+						/>
+					</Parallax>
+					<Parallax>
+						<Img
+							src="/images/product-col-image2.png"
+							alt="Product Thumb Col 2"
+							width={475}
+							height={798}
+						/>
+					</Parallax>
+					<Parallax y={[-20, 20]} className="-ml-7 2xl:-ml-9">
+						<Img
+							src="/images/product-col-image1.png"
+							alt="Product Thumb Col 1"
+							width={470}
+							height={798}
+						/>
+					</Parallax>
+				</div>
 			</div>
 			<div className="absolute top-0 left-0 w-full h-full flex items-center">
 				<Container className="flex flex-col items-center lg:items-end">

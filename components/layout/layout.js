@@ -1,4 +1,3 @@
-import Head from 'next/head';
 import { motion } from 'framer-motion';
 import Sticky from 'react-stickynode';
 import { ParallaxProvider } from 'react-scroll-parallax';
@@ -9,12 +8,6 @@ import Footer from './footer/footer';
 export default function Layout({ children }) {
 	return (
 		<>
-			<Head>
-				<meta
-					name="google-site-verification"
-					content="nmL8cU3s8f8I1u6VApJhbmQgdpKlZdJJeObJ0xNLnK4"
-				/>
-			</Head>
 			<Meta />
 			{/* End of default SEO */}
 			<ParallaxProvider>

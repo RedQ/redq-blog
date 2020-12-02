@@ -9,17 +9,17 @@ const faqItems = [
 	{
 		title: 'RNB FAQs',
 		href: '/faq/woocommerce-rental-booking-faqs',
-		thumb: '/assets/faq/rnb/preview.jpg',
+		thumb: '/images/faq/rnb/preview.jpg',
 	},
 	{
 		title: 'Reactive Pro FAQs',
 		href: '/faq/reactive-pro-faqs',
-		thumb: '/assets/faq/reactive/preview.png',
+		thumb: '/images/faq/reactive/preview.png',
 	},
 	{
 		title: 'Turbo FAQs',
 		href: '/faq/turbo-faqs',
-		thumb: '/assets/faq/turbo/preview.png',
+		thumb: '/images/faq/turbo/preview.png',
 	},
 ];
 // motion variants
@@ -55,19 +55,19 @@ export default function FAQ() {
 			<Container>
 				<motion.div
 					variants={variants}
-					className="grid gap-x-8 md:gap-x-6 lg:gap-x-10 grid-cols-1 sm:grid-cols-2 md:grid-cols-3"
+					className="grid gap-x-8 md:gap-x-6 lg:gap-x-8 2xl:gap-x-10 grid-cols-1 sm:grid-cols-2 md:grid-cols-3"
 				>
 					{faqItems.map((item) => (
 						<motion.div
 							key={item.title}
 							variants={fadeInBottom}
-							className="border border-gray-300 border-solid rounded overflow-hidden mb-8 md:mb-6 lg:mb-10 transition-shadow duration-300 hover:shadow-small"
+							className="border border-gray-200 border-solid rounded overflow-hidden mb-8 md:mb-6 lg:mb-10 transition-shadow duration-300 hover:shadow-small"
 						>
 							<Link href={item.href}>
 								<a>
 									<Image
-										width={388}
-										height={194}
+										width={579}
+										height={294}
 										src={item.thumb}
 										alt={item.title}
 									/>

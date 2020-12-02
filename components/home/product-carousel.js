@@ -25,12 +25,12 @@ export default function ProductCarousel() {
 				options={carouselOptions}
 				carouselSelector="rqProductBanner"
 				prevButton={
-					<GlideNavButton className="left-9 text-filter-text">
+					<GlideNavButton title="Prev" className="left-9 text-filter-text">
 						<BsFillCaretLeftFill size={18} />
 					</GlideNavButton>
 				}
 				nextButton={
-					<GlideNavButton className="right-9 text-filter-text">
+					<GlideNavButton title="Next" className="right-9 text-filter-text">
 						<BsFillCaretRightFill size={18} />
 					</GlideNavButton>
 				}

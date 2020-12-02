@@ -1,7 +1,8 @@
 import Head from 'next/head';
 import Link from 'next/link';
-import Container from '../components/ui/container';
 import Layout from '../components/layout/layout';
+import Container from '../components/ui/container';
+import Intro from '../components/ui/intro';
 
 export default function Documentation() {
 	return (
@@ -10,14 +11,13 @@ export default function Documentation() {
 				<Head>
 					<title>Documentation | RedQ Inc</title>
 				</Head>
+				<Intro title="Documentation" />
 				<Container>
-					<div>RedQ</div>
 					<Link href="/">
-						<a>
+						<a className="inline-block mb-10">
 							<span style={{ color: 'blue' }}>Back to Home</span>
 						</a>
 					</Link>{' '}
-					from here
 				</Container>
 			</Layout>
 		</>

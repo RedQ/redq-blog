@@ -23,12 +23,18 @@ export default function MobileView({ data }) {
 			controls={true}
 			carouselSelector="rqTestimonialMobile"
 			prevButton={
-				<GlideNavButton className="-left-3 md:left-10 border border-solid border-rq-gray-300">
+				<GlideNavButton
+					title="Prev"
+					className="-left-3 md:left-10 border border-solid border-rq-gray-300"
+				>
 					<HiOutlineChevronLeft size={26} />
 				</GlideNavButton>
 			}
 			nextButton={
-				<GlideNavButton className="-right-3 md:right-10 border border-solid border-rq-gray-300">
+				<GlideNavButton
+					title="Next"
+					className="-right-3 md:right-10 border border-solid border-rq-gray-300"
+				>
 					<HiOutlineChevronRight size={26} />
 				</GlideNavButton>
 			}

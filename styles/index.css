@@ -6,7 +6,7 @@ body {
   text-size-adjust: 100%;
 }
 code {
-  @apply bg-gray-200 inline-block py-1 px-2 border border-gray-300 border-solid rounded;
+  @apply bg-gray-200 inline-block py-1 px-2 border border-gray-300 border-solid rounded whitespace-normal;
 }
 
 /* site header style */
