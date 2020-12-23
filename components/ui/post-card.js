@@ -36,7 +36,7 @@ export default function PostCard({ slug, date, title, excerpt, coverImage }) {
 		<motion.article variants={fadeInBottom}>
 			<figure className="mb-8 relative">
 				{slug ? (
-					<Link as={`/posts/${slug}`} href="/posts/[slug]">
+					<Link as={`/blog/${slug}`} href="/blog/[slug]">
 						<a aria-label={title}>{postThumbnail}</a>
 					</Link>
 				) : (
@@ -67,7 +67,7 @@ export default function PostCard({ slug, date, title, excerpt, coverImage }) {
 			{/* End of post meta */}
 			<header className="mb-4 sm:mb-6 md:mb-4 lg:mb-6">
 				<h3 className="text-xl sm:text-2xl md:text-xl lg:text-2xl font-semibold lg:leading-snug tracking-tight">
-					<Link as={`/posts/${slug}`} href="/posts/[slug]">
+					<Link as={`/blog/${slug}`} href="/blog/[slug]">
 						<a className="text-black transition-all duration-200 hover:text-gray-700">
 							{title}
 						</a>
@@ -80,7 +80,7 @@ export default function PostCard({ slug, date, title, excerpt, coverImage }) {
 			</p>
 			{/* End of post excerpt */}
 			<footer>
-				<Link as={`/posts/${slug}`} href="/posts/[slug]">
+				<Link as={`/blog/${slug}`} href="/blog/[slug]">
 					<a className="inline-flex items-center tracking-tight font-semibold text-black transition-all duration-200 hover:text-gray-700">
 						Read More <BsArrowRight className="ml-2 text-xl" />
 					</a>

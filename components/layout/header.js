@@ -28,6 +28,10 @@ const navItems = [
 		title: 'FAQ',
 		href: '/faq',
 	},
+	{
+		title: 'About Us',
+		href: '/about-us',
+	},
 ];
 
 export default function Header() {
