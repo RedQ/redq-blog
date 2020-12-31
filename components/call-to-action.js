@@ -1,14 +1,14 @@
 import Container from './ui/container';
-import SvgIcon from './ui/svg-icon';
+// import SvgIcon from './ui/svg-icon';
 
 export default function CallToAction() {
 	return (
-		<div className="py-16 relative overflow-hidden">
-			<SvgIcon
+		<div className="py-16 relative overflow-hidden bg-pattern bg-no-repeat bg-cover">
+			{/* <SvgIcon
 				className="absolute block w-full h-full top-0 left-0"
 				src={require('../public/images/pattern.svg?include')}
 				style={{ zIndex: '-1', opacity: 0.07 }}
-			/>
+			/> */}
 			{/* End of bg pattern */}
 			<Container className="text-center lg:text-left lg:flex lg:items-center lg:justify-between">
 				<div>

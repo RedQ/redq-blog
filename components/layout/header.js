@@ -2,6 +2,8 @@ import { useState } from 'react';
 import Link from 'next/link';
 import ActiveLink from '../ui/active-link';
 import Container from '../ui/container';
+import Logo from '../ui/logo';
+
 // menu data
 const navItems = [
 	{
@@ -45,12 +47,9 @@ export default function Header() {
 			>
 				<Container fluid={true} className="flex items-center justify-between">
 					<Link href="/">
-						<a
-							title="RedQ Inc"
-							dangerouslySetInnerHTML={{
-								__html: require('../../public/images/logo.svg?include'),
-							}}
-						></a>
+						<a title="RedQ Inc">
+							<Logo />
+						</a>
 					</Link>
 					{/* End of site's logo */}
 					<div className="flex items-center">

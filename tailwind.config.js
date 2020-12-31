@@ -9,6 +9,9 @@ module.exports = {
 	},
 	theme: {
 		extend: {
+			backgroundImage: {
+				pattern: "url('/images/pattern.svg')",
+			},
 			rotate: {
 				'rq-8': '8deg',
 			},

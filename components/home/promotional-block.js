@@ -6,15 +6,9 @@ export default function PromotionalBlock() {
 		<section className="overflow-hidden py-10 md:py-12 2xl:py-16">
 			<Container fluid={true}>
 				<div
-					className="rounded relative"
+					className="rounded relative bg-pattern bg-no-repeat bg-cover"
 					style={{ backgroundColor: '#EFF2F9' }}
 				>
-					<div
-						className="rq-bg-pattern"
-						dangerouslySetInnerHTML={{
-							__html: require('../../public/images/pattern.svg?include'),
-						}}
-					></div>
 					{/* End of pattern */}
 
 					<header className="px-4 pt-16 lg:pt-20 pb-16 text-center">
