@@ -45,14 +45,14 @@ export default function HeroBanner({
 }) {
 	return (
 		<div className={`bg-rq-gray-300 overflow-hidden relative ${className}`}>
-			<motion.div variants={fadeIn}>
+			<div >
 				<HeroShape id="heroBanner" />
-			</motion.div>
+			</div>
 			{/*End of background shape*/}
 			<div className="px-2 pt-10 w-full md:w-auto absolute text-center top-2/4 left-2/4 transform -translate-x-1/2 -translate-y-1/2">
 				{updateInfo && (
-					<motion.div
-						variants={fadeInBottom}
+					<div
+						
 						className="inline-block py-2 px-3 lg:py-2 lg:px-6 xl:py-3 xl:px-7 rounded-full text-rq-blue-800 bg-white mb-5"
 					>
 						<strong className="font-blod text-sm xl:text-base">
@@ -61,19 +61,19 @@ export default function HeroBanner({
 						<span className="font-medium text-sm xl:text-base">
 							{updateInfo}
 						</span>
-					</motion.div>
+					</div>
 				)}
-				<motion.h1
-					variants={fadeInBottom}
+				<h1
+					
 					className="font-bold text-4xl leading-tight lg:text-5xl lg:leading-tight xl:text-6xl xl:leading-tight 2xl:text-70px tracking-tight mb-5"
 					dangerouslySetInnerHTML={{ __html: title }}
-				></motion.h1>
-				<motion.p
-					variants={fadeInBottom}
+				></h1>
+				<p
+					
 					className="text-base md:text-lg leading-loose xl:text-xl xl:leading-loose"
 					style={{ color: '#4A5568' }}
 					dangerouslySetInnerHTML={{ __html: description }}
-				></motion.p>
+				></p>
 			</div>
 		</div>
 	);
