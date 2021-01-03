@@ -10,7 +10,8 @@ module.exports = {
 	theme: {
 		extend: {
 			backgroundImage: {
-				pattern: "url('/images/pattern.svg')",
+				pattern1: "url('/images/pattern1.png')",
+				pattern2: "url('/images/pattern2.png')",
 			},
 			rotate: {
 				'rq-8': '8deg',

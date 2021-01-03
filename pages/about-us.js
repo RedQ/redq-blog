@@ -2,7 +2,7 @@ import Head from 'next/head';
 import Layout from '../components/layout/layout';
 import HeroBanner from '../components/ui/hero-banner';
 import TechnologyBlock from '../components/technology-block/technology-block';
-import StatsBlock from '../components/home/stats-block';
+import ExpertiseBlock from '../components/about-us/expertise';
 import ProductCarousel from '../components/home/product-carousel';
 import ServiceBlock from '../components/home/service-block';
 import PromotionalBlock from '../components/home/promotional-block';
@@ -20,14 +20,13 @@ export default function Index() {
 			<Layout>
 				<HeroBanner
 					className="min-h-rq-650 lg:min-h-rq-750 xl:min-h-screen 2xl:min-h-rq-950"
-					
 					title={`We're a future focused <br class="hidden lg:block" /> software agency`}
 					description={`We are passionate about building carefully thought out UI
 					<br class="hidden lg:block" /> products that will improve your
 					design workflow.`}
 				/>
 				<TechnologyBlock />
-				<StatsBlock />
+				<ExpertiseBlock />
 				<ProductCarousel />
 				<ServiceBlock />
 				<PromotionalBlock />

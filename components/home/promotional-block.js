@@ -6,8 +6,8 @@ export default function PromotionalBlock() {
 		<section className="overflow-hidden py-10 md:py-12 2xl:py-16">
 			<Container fluid={true}>
 				<div
-					className="rounded relative bg-pattern bg-no-repeat bg-cover"
-					style={{ backgroundColor: '#EFF2F9' }}
+					className="rounded relative bg-pattern1 bg-no-repeat bg-cover"
+					// style={{ backgroundColor: '#EFF2F9' }}
 				>
 					{/* End of pattern */}
 
