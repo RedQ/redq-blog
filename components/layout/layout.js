@@ -1,4 +1,4 @@
-// import { motion } from 'framer-motion';
+import { motion } from 'framer-motion';
 import Sticky from 'react-stickynode';
 import { ParallaxProvider } from 'react-scroll-parallax';
 import Meta from '../meta';
@@ -11,10 +11,10 @@ export default function Layout({ children }) {
       <Meta />
       {/* End of default SEO */}
       <ParallaxProvider>
-        <div
-          // initial="exit"
-          // animate="enter"
-          // exit="exit"
+        <motion.main
+          initial="exit"
+          animate="enter"
+          exit="exit"
           className="flex flex-col min-h-screen"
         >
           <Sticky top={0} innerZ={9999} activeClass="sticky-nav">
@@ -22,7 +22,7 @@ export default function Layout({ children }) {
           </Sticky>
           <div className="flex-grow">{children}</div>
           <Footer />
-        </div>
+        </motion.main>
       </ParallaxProvider>
     </>
   );
