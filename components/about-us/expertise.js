@@ -7,15 +7,17 @@ export default function StatsBlock() {
 			<Container className="pt-8 lg:pt-12 xl:pt-20 pb-12 lg:pb-16 flex flex-wrap lg:flex-nowrap justify-between">
 				<div className="max-w-xl lg:max-w-md xl:max-w-lg lg:w-1/2">
 					<h2 className="text-3xl leading-normal lg:text-4xl xl:text-44px font-bold tracking-tight lg:leading-snug mb-5 lg:mb-7">
-						One of the fastest growing <br className="hidden sm:block" />{' '}
-						software agencies in BD
+						Elite Author in Envato, <br className="hidden sm:block" /> build
+						products that creates value
 					</h2>
 				</div>
 				<div className="flex-auto max-w-2xl lg:pl-10 2xl:pl-0">
 					<p className="leading-loose text-rq-gray-800 lg:max-w-lg">
-						Pick one of our stock themes, or create your custom theme with the
-						most advanced theme editor on any online survey building tool. It is
-						built to perform and run fast on all of the latest devices.
+						Along With Wordpress Themes & Plugins, We always try to use latest
+						trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc
+						to make our products special. Our rich tech choice will help you to
+						build high performance applications. We are also known to provide
+						great customer supports to our customers.
 					</p>
 				</div>
 			</Container>
@@ -23,27 +25,27 @@ export default function StatsBlock() {
 				<div className="flex-auto  grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-y-8 md:gap-y-0 lg:pl-0 2xl:pl-0 gap-x-6 md:gap-x-8 2xl:gap-x-10 mt-10 xl:mt-0">
 					<StatCard
 						title="Up to"
-						statNumber="98"
+						statNumber="97"
 						shortInfo="Satisfied Customer"
 						showPercentage={true}
 						className="lg:transform lg:-translate-y-8 2xl:-translate-y-10"
 					/>
 					<StatCard
 						title="Total"
-						statNumber="20+"
-						shortInfo="Highly crafted product"
+						statNumber="30+"
+						shortInfo="Highly crafted products"
 					/>
 					<StatCard
 						title="Up to"
-						statNumber="98"
-						shortInfo="Satisfied Customer"
+						statNumber="99"
+						shortInfo="Rich Tech Choices"
 						showPercentage={true}
 						className="lg:transform lg:-translate-y-8 2xl:-translate-y-10"
 					/>
 					<StatCard
 						title="Total"
-						statNumber="20+"
-						shortInfo="Highly crafted product"
+						statNumber="10+"
+						shortInfo="React Based Templates"
 					/>
 				</div>
 			</Container>

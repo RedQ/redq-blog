@@ -2,27 +2,16 @@ export const serviceData = [
 	{
 		id: 1,
 		thumb: {
-			url: '/images/service/app-development.svg',
-			width: 65,
-			height: 65,
-		},
-		title: 'Mobile App Development',
-		description:
-			'We are passionate about building carefully thought out UI  products that will improve your workflow.',
-	},
-	{
-		id: 2,
-		thumb: {
 			url: '/images/service/wordpress.svg',
 			width: 76,
 			height: 76,
 		},
 		title: 'Theme Development',
 		description:
-			'We are passionate about building carefully thought out UI  products that will improve your workflow.',
+			'We are passionate about building scalable wordpress theme like Cartsy - SuperFast WooCommerce Theme, Lister & Turbo.',
 	},
 	{
-		id: 3,
+		id: 2,
 		thumb: {
 			url: '/images/service/react.svg',
 			width: 78,
@@ -30,10 +19,10 @@ export const serviceData = [
 		},
 		title: 'React Templates',
 		description:
-			'We are passionate about building carefully thought out UI  products that will improve your workflow.',
+			'In Themeforest, We are the pioneer of building React based templates, landings and admin dashboard.',
 	},
 	{
-		id: 4,
+		id: 3,
 		thumb: {
 			url: '/images/service/plugin.svg',
 			width: 80,
@@ -41,7 +30,18 @@ export const serviceData = [
 		},
 		title: 'Plugin Development',
 		description:
-			'We are passionate about building carefully thought out UI  products that will improve your workflow.',
+			'We are the author of some best selling plugin like WooCommerce Rental & Booking, Reactive Pro etc.',
+	},
+	{
+		id: 4,
+		thumb: {
+			url: '/images/service/app-development.svg',
+			width: 65,
+			height: 65,
+		},
+		title: 'Application Development',
+		description:
+			'We have expertised in building scalable, high performance web & mobile application.',
 	},
 	{
 		id: 5,
@@ -52,6 +52,17 @@ export const serviceData = [
 		},
 		title: 'Custom Development',
 		description:
-			'We are passionate about building carefully thought out UI  products that will improve your workflow.',
+			'We sometimes provide custom development for our products on the basis of customer recuirements',
+	},
+	{
+		id: 6,
+		thumb: {
+			url: '/images/service/react.svg',
+			width: 78,
+			height: 70,
+		},
+		title: 'React Templates',
+		description:
+			'In Themeforest, We are the pioneer of building React based templates, landings and admin dashboard.',
 	},
 ];

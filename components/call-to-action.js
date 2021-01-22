@@ -17,9 +17,8 @@ export default function CallToAction() {
 						<br className="hidden md:block lg:hidden" /> We are ready to help.
 					</h2>
 					<p className="leading-loose text-rq-gray-800 max-w-rq-530 lg:max-w-max m-auto lg:m-0">
-						Pick one of our stock themes, or create your custom theme with the
-						most advanced theme <br className="hidden lg:block" /> editor on any
-						online survey building tool.
+						We are ready to help. Reach us with your custom requirements or any
+						kind of issues.
 					</p>
 				</div>
 				<div className="mt-8 lg:mt-0">

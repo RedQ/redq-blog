@@ -4,16 +4,20 @@ const filterBtns = [
 		handel: 'all',
 	},
 	{
-		title: 'Wordpress Theme',
+		title: 'WordPress Themes',
 		handel: 'wp-theme',
 	},
 	{
-		title: 'React Template',
+		title: 'React Templates',
 		handel: 'react-template',
 	},
 	{
-		title: 'Plugins',
-		handel: 'plugins',
+		title: 'WordPress Plugins',
+		handel: 'wp-plugin',
+	},
+	{
+		title: 'Html Templates',
+		handel: 'html',
 	},
 ];
 

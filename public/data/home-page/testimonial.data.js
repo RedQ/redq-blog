@@ -4,7 +4,7 @@ export const testimonials = [
 			id: 1,
 			comment:
 				'I would like to take this oppertunity to thank SA Places for the great service rendered to us and in particular Estelle. You got me the best place ever in just a few moments after I spoke to you.',
-			name: 'Minnie Horn',
+			name: 'Hello Mimmie',
 			userName: '@hello.mimmie',
 		},
 		{

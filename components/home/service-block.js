@@ -37,8 +37,8 @@ export default function ServiceBlock() {
 		<section className="py-10 lg:py-12 2xl:py-16">
 			<SectionHeader
 				className="mb-10 md:mb-12 lg:mb-14 xl:mb-16"
-				slogan="Task we are experted"
-				title="What service we provide that"
+				slogan="Area of expertise"
+				title="Services we provide to our customers"
 			/>
 			<Container fluid={true}>
 				<GlideCarousel
