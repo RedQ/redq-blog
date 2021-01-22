@@ -10,6 +10,7 @@ import ProductsBlock from '../components/home/products-block/products-block';
 import TestimonialBlock from '../components/testimonial-block/testimonial-block';
 import ProductBigBanner from '../components/product-big-banner';
 import CallToAction from '../components/call-to-action';
+import ContactUs from '../components/contact-us';
 
 export default function Index() {
 	return (
@@ -25,6 +26,7 @@ export default function Index() {
 					<br class="hidden lg:block" /> high performance web & mobile application.`}
 				/>
 				<TechnologyBlock />
+				<ContactUs />
 				<ExpertiseBlock />
 				<ServiceBlock />
 				<TestimonialBlock />

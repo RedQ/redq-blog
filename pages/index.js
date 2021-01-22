@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import { NextSeo } from 'next-seo';
 import Layout from '../components/layout/layout';
 import HeroBanner from '../components/ui/hero-banner';
 import TechnologyBlock from '../components/technology-block/technology-block';
@@ -14,9 +15,37 @@ import ProductCarouselBlock from '../components/product-slide/product-slide';
 export default function Index() {
 	return (
 		<>
-			<Head>
-				<title>RedQ Inc | We create product that creates value</title>
-			</Head>
+			<div>
+				<Head>
+					<title>RedQ Inc | We create product that creates value</title>
+				</Head>
+				<NextSeo
+					title="RedQ Inc | We create product that creates value"
+					description="We create product that creates value"
+					canonical="https://www.canonicalurl.ie/"
+					openGraph={{
+						url: 'https://www.canonicalurl.ie/',
+						title: 'Open Graph Title',
+						description: 'Open Graph Description',
+						images: [
+							{
+								url: 'https://www.example.ie/og-image-01.jpg',
+								width: 800,
+								height: 600,
+								alt: 'Og Image Alt',
+							},
+							{
+								url: 'https://www.example.ie/og-image-02.jpg',
+								width: 900,
+								height: 800,
+								alt: 'Og Image Alt Second',
+							},
+							{ url: 'https://www.example.ie/og-image-03.jpg' },
+							{ url: 'https://www.example.ie/og-image-04.jpg' },
+						],
+					}}
+				/>
+			</div>
 			<Layout>
 				<HeroBanner
 					className="min-h-rq-650 lg:min-h-rq-750 xl:min-h-screen 2xl:min-h-rq-950"
