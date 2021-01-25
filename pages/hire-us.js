@@ -22,13 +22,15 @@ export default function Index() {
 			<Layout>
 				<HeroBanner
 					className="min-h-rq-450 md:min-h-rq-650 lg:min-h-rq-750 xl:min-h-screen 2xl:min-h-screen"
-					title={`We're a future focused <br class="hidden lg:block" /> full-stack software agency.`}
-					description={`REDQ is a creative agency specialising in building scalable,
-					<br class="hidden lg:block" /> high performance web & mobile application.`}
+					title={`Let's create a project, <br class="hidden lg:block" /> together we will grow big!`}
+					description={`Tell us about your project, the purpose of the project
+					<br class="hidden lg:block" /> and problems we are going to solve!`}
 				/>
+
+				<ContactUs />
 				<TechnologyBlock />
-				<ExpertiseBlock />
 				<CommunityBlock />
+				<ExpertiseBlock />
 				<TestimonialBlock />
 				<ProductBigBanner />
 				<CallToAction />

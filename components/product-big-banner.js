@@ -5,7 +5,7 @@ import Img from './ui/image';
 
 export default function ProductBigBanner() {
 	return (
-		<div className="min-h-rq-600 bg-rq-gray-300 relative mt-4 md:mt-8 lg:mt-10 2xl:mt-6 overflow-hidden">
+		<div className="min-h-rq-600 bg-rq-gray-300 relative mt-4 md:mt-8 lg:mt-20 overflow-hidden">
 			<HeroShape
 				id="productBigBanner"
 				className="absolute block w-full h-full top-0 left-0"

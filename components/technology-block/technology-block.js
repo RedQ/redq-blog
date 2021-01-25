@@ -10,7 +10,7 @@ export default function TechnologyBlock() {
 			<Container className="py-10 lg:py-12 2xl:py-14">
 				<div className="flex flex-col md:flex-row md:items-center">
 					<span
-						className="text-lg mr-8 flex-shrink-0"
+						className="text-center md:text-left mr-0 text-lg md:mr-8 flex-shrink-0"
 						style={{ color: '#697782' }}
 					>
 						Technology we used:

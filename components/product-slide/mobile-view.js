@@ -5,7 +5,7 @@ import GlideCarousel, {
 } from '../ui/glide-carousel';
 import Img from '../ui/image';
 // import data
-import { productsBanner } from '../../public/data/home-page/product-banner.data';
+import { productsBanner } from '../../public/data/home-page/product-bannerMobile.data';
 
 const ProductCarousel = ({ data }) => {
 	const carouselOptions = {

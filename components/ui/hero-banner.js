@@ -49,7 +49,7 @@ export default function HeroBanner({
 				<HeroShape id="heroBanner" />
 			</div>
 			{/*End of background shape*/}
-			<div className="px-2 pt-10 w-full md:w-auto absolute text-center top-2/4 left-2/4 transform -translate-x-1/2 -translate-y-1/2">
+			<div className="px-4 md:px-2 pt-10 w-full md:w-2/3 xl:w-auto absolute text-center top-2/4 left-2/4 transform -translate-x-1/2 -translate-y-1/2">
 				{updateInfo && (
 					<div className="inline-block py-2 px-3 lg:py-2 lg:px-6 xl:py-3 xl:px-7 rounded-full text-rq-blue-800 bg-white mb-5">
 						<strong className="font-blod text-sm xl:text-base">
@@ -61,7 +61,7 @@ export default function HeroBanner({
 					</div>
 				)}
 				<h1
-					className="font-bold text-4xl leading-tight lg:text-5xl 2xl:text-6xl lg:leading-tight xl:leading-tight 2xl:leading-tight 2xl:text-70px tracking-tight mb-5"
+					className="font-bold text-3xl md:text-4xl leading-tight lg:text-5xl 2xl:text-6xl lg:leading-tight xl:leading-tight 2xl:leading-tight 2xl:text-70px tracking-tight mb-5"
 					dangerouslySetInnerHTML={{ __html: title }}
 				></h1>
 				<p

@@ -7,7 +7,7 @@ import { productsBannerMobile } from '../../public/data/home-page/product-banner
 
 export default function ProductSlideBlock() {
 	return (
-		<section className="py-10 md:py-12 2xl:py-16 px-4 md:px-0">
+		<section className=" py-4 md:py-12 2xl:py-16 px-4 md:px-0">
 			{productsBanner.length > 0 && (
 				<div className="hidden md:block">
 					<DefaultView data={productsBanner} />

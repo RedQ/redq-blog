@@ -4,15 +4,15 @@ import StatCard from '../ui/stat-card';
 export default function StatsBlock() {
 	return (
 		<div>
-			<Container className="pt-8 lg:pt-12 xl:pt-20 pb-12 lg:pb-16 flex flex-wrap lg:flex-nowrap justify-between">
-				<div className="max-w-xl lg:max-w-md xl:max-w-lg lg:w-1/2">
-					<h2 className="text-3xl leading-normal lg:text-4xl xl:text-44px font-bold tracking-tight lg:leading-snug mb-5 lg:mb-7">
-						Elite Author in Envato, <br className="hidden sm:block" /> build
+			<Container className="pt-8 lg:pt-12 xl:pt-20 lg:pb-16 flex flex-wrap lg:flex-nowrap justify-between">
+				<div className="max-w-full w-full lg:max-w-md xl:max-w-4xl lg:w-1/2 ">
+					<h2 className="text-center lg:text-left text-3xl leading-normal lg:text-4xl xl:text-44px font-bold tracking-tight lg:leading-snug mb-5 lg:mb-7">
+						Elite Author in Envato, <br className="hidden lg:block" /> build
 						products that creates value
 					</h2>
 				</div>
-				<div className="flex-auto max-w-2xl lg:pl-10 2xl:pl-0">
-					<p className="leading-loose text-rq-gray-800 lg:max-w-lg">
+				<div className="flex-auto max-w-full lg:pl-10 2xl:pl-0 text-center lg:text-left">
+					<p className="leading-loose text-rq-gray-800 lg:max-w-lg text-center lg:text-left">
 						Along With Wordpress Themes & Plugins, We always try to use latest
 						trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc
 						to make our products special. Our rich tech choice will help you to

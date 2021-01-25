@@ -18,6 +18,11 @@ const navItems = [
 		title: 'Cartsy Wordpress',
 		href: 'https://redq.io/cartsy',
 	},
+
+	{
+		title: 'Our Products',
+		href: '/documentation',
+	},
 	{
 		title: 'Portfolio',
 		href: 'https://themeforest.net/user/redqteam/portfolio',
@@ -25,14 +30,6 @@ const navItems = [
 	{
 		title: 'Support',
 		href: 'https://redqsupport.ticksy.com/',
-	},
-	{
-		title: 'Documentation',
-		href: '/documentation',
-	},
-	{
-		title: 'FAQ',
-		href: '/faq',
 	},
 	{
 		title: 'About Us',
@@ -113,16 +110,16 @@ export default function Header() {
 									)}
 								</li>
 							))}
-							{/* <li className="px-5">
-                <ActiveLink href={'/contact-us'}>
-                  <a
-                    className="font-bold text-rq-blue-800 transition-colors duration-200 hover:text-blue-600"
-                    onClick={() => setMobileMenuToggle(false)}
-                  >
-                    Hire Us!
-                  </a>
-                </ActiveLink>
-              </li> */}
+							<li className="px-5">
+								<ActiveLink href={'/hire-us'}>
+									<a
+										className="font-bold text-rq-blue-800 transition-colors duration-200 hover:text-blue-600"
+										onClick={() => setMobileMenuToggle(false)}
+									>
+										Hire Us!
+									</a>
+								</ActiveLink>
+							</li>
 						</ul>
 						{/* End of main menu */}
 					</div>

@@ -5,6 +5,7 @@ import HeroBanner from '../components/ui/hero-banner';
 import Container from '../components/ui/container';
 import Intro from '../components/ui/intro';
 import ProductsBlock from '../components/home/products-block/products-block';
+import data from '../public/data/redq-site-data.json';
 
 export default function Documentation() {
 	return (
@@ -15,11 +16,11 @@ export default function Documentation() {
 			<Layout>
 				<HeroBanner
 					className="min-h-rq-650 lg:min-h-rq-750 xl:min-h-screen 2xl:min-h-rq-950"
-					title={`We're highly concerned <br class="hidden lg:block" /> about our product documentation.`}
+					title={`Meet our product`}
 					description={`Besides building highly scalable products, we keep on eye to make fruitful documentations for our product `}
 				/>
 
-				<ProductsBlock />
+				<ProductsBlock products={data.products} />
 			</Layout>
 		</>
 	);
