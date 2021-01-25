@@ -7,7 +7,7 @@ export default function TestimonialCard({
 	name,
 	userName,
 }) {
-	const userAvatar = avatar ? avatar : '/images/envato.svg';
+	const userAvatar = '/images/envato.svg';
 
 	return (
 		<div

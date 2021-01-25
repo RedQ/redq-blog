@@ -6,14 +6,13 @@ import SectionHeader from '../../ui/section-header';
 import Img from '../../ui/image';
 import FilterBar from './filter-bar';
 // products data
-import { productsData } from '../../../public/data/home-page/products.data';
 
-export default function ProductsBlock() {
-	const [products, setProducts] = useState(productsData);
+export default function ProductsBlock({ products: productsList }) {
+	const [products, setProducts] = useState(productsList);
 	const [filterByState, setStateFilterBy] = useState('all');
 	const handleFilter = (filterBy) => {
 		setStateFilterBy(filterBy);
-		const filteredProducts = productsData.filter((item) =>
+		const filteredProducts = productsList.filter((item) =>
 			item.category.some((cat) => cat === filterBy)
 		);
 		setProducts(filteredProducts);
@@ -24,7 +23,7 @@ export default function ProductsBlock() {
 			<Container fluid={true}>
 				<SectionHeader
 					slogan="Meet our products"
-					title="Premium Themes & Templates"
+					title="Premium Themes, Plugins & Templates"
 				/>
 
 				<FilterBar isActive={filterByState} onClick={handleFilter} />
@@ -37,25 +36,32 @@ export default function ProductsBlock() {
 									key={`product-key-${item.id}`}
 									className={`w-full sm:w-3/6 lg:w-2/6 p-4 2xl:p-5`}
 								>
-									<figure className="relative">
-										<Img
-											width={item.thumb.width}
-											height={item.thumb.height}
-											src={item.thumb.url}
-											alt={item.title}
-											quality={100}
-										/>
-										{item.featured && (
-											<span className="tracking-wider absolute top-4 right-4 z-10 rounded py-1 px-2 text-sm font-medium uppercase text-white bg-gradient-to-r from-blue-500 to-indigo-600 shadow-lg">
-												Featured
-											</span>
-										)}
-									</figure>
+									<a target="_blank" href={item.url}>
+										<figure className="relative">
+											<Img
+												width={item.thumb.width}
+												height={item.thumb.height}
+												src={item.thumb.url}
+												alt={item.title}
+												quality={100}
+												className="border border-product-border rounded-t-md"
+											/>
+											{item.featured && (
+												<span className="tracking-wider absolute top-4 right-4 z-10 rounded py-1 px-2 text-sm font-medium uppercase text-white bg-gradient-to-r from-blue-500 to-indigo-600 shadow-lg">
+													Featured
+												</span>
+											)}
+										</figure>
+									</a>
 									<header className="py-4">
-										<h2 className="text-lg xl:text-xl font-medium tracking-tight mb-2">
+										<a
+											className="text-lg xl:text-xl font-medium tracking-tight mb-4"
+											target="_blank"
+											href={item.url}
+										>
 											{item.title}
-										</h2>
-										<p className="text-rq-gray-600 mb-3">
+										</a>
+										<p className="text-rq-gray-600 mb-3 mt-3">
 											{item.shortDescription}
 										</p>
 										<div className="flex items-center text-sm">

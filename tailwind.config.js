@@ -9,6 +9,10 @@ module.exports = {
 	},
 	theme: {
 		extend: {
+			backgroundImage: {
+				pattern1: "url('/images/pattern1.png')",
+				pattern2: "url('/images/pattern2.png')",
+			},
 			rotate: {
 				'rq-8': '8deg',
 			},
@@ -17,6 +21,7 @@ module.exports = {
 				'rq-650': '650px',
 				'rq-750': '750px',
 				'rq-600': '600px',
+				'rq-450': '450px',
 				'rq-354': '354px',
 				'rq-100': '100px',
 				'rq-auto': 'auto',
@@ -32,6 +37,8 @@ module.exports = {
 			},
 			colors: {
 				'filter-text': '#71747D',
+				'input-bg': '#f3f5f9',
+				'product-border': '#f9f9f9',
 				'rq-gray': {
 					100: '#ECF0F5',
 					200: '#f4f4f4',

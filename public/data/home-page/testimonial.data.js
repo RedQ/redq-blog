@@ -3,8 +3,8 @@ export const testimonials = [
 		{
 			id: 1,
 			comment:
-				'I would like to take this oppertunity to thank SA Places for the great service rendered to us and in particular Estelle. You got me the best place ever in just a few moments after I spoke to you.',
-			name: 'Minnie Horn',
+				'I would like to take this oppertunity to thank SA Places for the great service rendered to us and in particular Estelle. You got me the best place ever in just a few moments after I spoke to you.Thank you for all your help. Your service was excellent and very FAST.',
+			name: 'Hello Mimmie',
 			userName: '@hello.mimmie',
 		},
 		{
@@ -74,7 +74,7 @@ export const testimonials = [
 		{
 			id: 10,
 			comment:
-				'I have seldom experienced such an efficient help and support like from you! Thank you so much. We will do all the bookings during the next few days and I will revert to you with the end result',
+				'I have seldom experienced such an efficient help and support like from you! Thank you so much. We will do all the bookings during the next few days and I will revert to you with the end result. I hope all the good success to the team and hope the great future ahead.',
 			name: 'Paseka Nku',
 			userName: '@hey.nku',
 		},

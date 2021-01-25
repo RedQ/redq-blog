@@ -5,7 +5,7 @@ import Img from './ui/image';
 
 export default function ProductBigBanner() {
 	return (
-		<div className="min-h-rq-600 bg-rq-gray-300 relative mt-4 md:mt-8 lg:mt-10 2xl:mt-6 overflow-hidden">
+		<div className="min-h-rq-600 bg-rq-gray-300 relative mt-4 md:mt-8 lg:mt-20 overflow-hidden">
 			<HeroShape
 				id="productBigBanner"
 				className="absolute block w-full h-full top-0 left-0"
@@ -43,12 +43,11 @@ export default function ProductBigBanner() {
 				<Container className="flex flex-col items-center lg:items-end">
 					<div className="text-left lg:pl-10 xl:pl-0 w-full max-w-rq-618 lg:max-w-rq-480 xl:max-w-rq-530 2xl:max-w-rq-618">
 						<h2 className="leading-snug text-3xl xl:text-4xl xl:leading-snug 2xl:text-5xl 2xl:leading-tight font-bold mb-5 xl:mb-7">
-							Premium React, Wordpress theme & Extensions
+							Superprops - Premium Next JS & Gatsby Landing Pages.
 						</h2>
 						<p className="text-rq-gray-800 leading-loose">
-							Pick one of our stock themes, or create your custom theme with the
-							most advanced theme editor on any online survey building tool. It
-							is built to perform and run fast on all of the latest devices.
+							Welcome to React Next Landing Page, built with React, Next Js,
+							Gatsby Js & Styled Components. It’s super easy to deploy!
 						</p>
 						<div className="flex items-center mt-10 xl:mt-14">
 							<Img

@@ -2,6 +2,8 @@ import { useState } from 'react';
 import Link from 'next/link';
 import ActiveLink from '../ui/active-link';
 import Container from '../ui/container';
+import Logo from '../ui/logo';
+
 // menu data
 const navItems = [
 	{
@@ -13,20 +15,21 @@ const navItems = [
 		href: '/blog',
 	},
 	{
+		title: 'Cartsy Wordpress',
+		href: 'https://redq.io/cartsy',
+	},
+
+	{
+		title: 'Our Products',
+		href: '/documentation',
+	},
+	{
 		title: 'Portfolio',
 		href: 'https://themeforest.net/user/redqteam/portfolio',
 	},
 	{
 		title: 'Support',
 		href: 'https://redqsupport.ticksy.com/',
-	},
-	{
-		title: 'Documentation',
-		href: '/documentation',
-	},
-	{
-		title: 'FAQ',
-		href: '/faq',
 	},
 	{
 		title: 'About Us',
@@ -45,12 +48,9 @@ export default function Header() {
 			>
 				<Container fluid={true} className="flex items-center justify-between">
 					<Link href="/">
-						<a
-							title="RedQ Inc"
-							dangerouslySetInnerHTML={{
-								__html: require('../../public/images/logo.svg?include'),
-							}}
-						></a>
+						<a title="RedQ Inc">
+							<Logo />
+						</a>
 					</Link>
 					{/* End of site's logo */}
 					<div className="flex items-center">
@@ -88,18 +88,30 @@ export default function Header() {
 						>
 							{navItems.map((item) => (
 								<li className="px-5" key={item.title}>
-									<ActiveLink href={item.href}>
+									{item.href.startsWith('https://') ? (
 										<a
+											target="_blank"
 											className="text-rq-gray-700 transition-colors duration-200 hover:text-black"
 											onClick={() => setMobileMenuToggle(false)}
+											href={item.href}
+											rel="noreferrer"
 										>
 											{item.title}
 										</a>
-									</ActiveLink>
+									) : (
+										<ActiveLink href={item.href}>
+											<a
+												className="text-rq-gray-700 transition-colors duration-200 hover:text-black"
+												onClick={() => setMobileMenuToggle(false)}
+											>
+												{item.title}
+											</a>
+										</ActiveLink>
+									)}
 								</li>
 							))}
 							<li className="px-5">
-								<ActiveLink href={'/contact-us'}>
+								<ActiveLink href={'/hire-us'}>
 									<a
 										className="font-bold text-rq-blue-800 transition-colors duration-200 hover:text-blue-600"
 										onClick={() => setMobileMenuToggle(false)}

@@ -8,7 +8,7 @@ import TestimonialCard from '../ui/testimonial-card';
 export default function MobileView({ data }) {
 	const carouselOptions = {
 		type: 'carousel',
-		perView: 2,
+		perView: 1,
 		gap: 15,
 		breakpoints: {
 			480: {

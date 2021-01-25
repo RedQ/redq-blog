@@ -1,14 +1,14 @@
 import Container from './ui/container';
-import SvgIcon from './ui/svg-icon';
+// import SvgIcon from './ui/svg-icon';
 
 export default function CallToAction() {
 	return (
-		<div className="py-16 relative overflow-hidden">
-			<SvgIcon
+		<div className="py-16 xl:py-16 2xl:py-24 relative overflow-hidden bg-pattern2 bg-no-repeat bg-cover">
+			{/* <SvgIcon
 				className="absolute block w-full h-full top-0 left-0"
 				src={require('../public/images/pattern.svg?include')}
 				style={{ zIndex: '-1', opacity: 0.07 }}
-			/>
+			/> */}
 			{/* End of bg pattern */}
 			<Container className="text-center lg:text-left lg:flex lg:items-center lg:justify-between">
 				<div>
@@ -17,9 +17,8 @@ export default function CallToAction() {
 						<br className="hidden md:block lg:hidden" /> We are ready to help.
 					</h2>
 					<p className="leading-loose text-rq-gray-800 max-w-rq-530 lg:max-w-max m-auto lg:m-0">
-						Pick one of our stock themes, or create your custom theme with the
-						most advanced theme <br className="hidden lg:block" /> editor on any
-						online survey building tool.
+						We are ready to help. Reach us with your custom requirements or any
+						kind of issues.
 					</p>
 				</div>
 				<div className="mt-8 lg:mt-0">
