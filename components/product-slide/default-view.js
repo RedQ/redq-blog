@@ -9,7 +9,7 @@ import { productsBanner } from '../../public/data/home-page/product-banner.data'
 
 const ProductCarousel = ({ data }) => {
 	const carouselOptions = {
-		type: 'carousel',
+		type: 'slider',
 		perView: 1,
 		focusAt: 'center',
 		startAt: 0,

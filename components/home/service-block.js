@@ -11,9 +11,11 @@ import { serviceData } from '../../public/data/home-page/service.data';
 
 export default function ServiceBlock() {
 	const carouselOptions = {
-		type: 'carousel',
-		perView: 5,
+		type: 'slider',
+		perView: 3,
+		startAt: 0,
 		gap: 35,
+		bound: true,
 		breakpoints: {
 			1600: {
 				perView: 4,

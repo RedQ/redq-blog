@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { useRef, useState } from 'react';
 import { useForm } from 'react-hook-form';
 // data
 import { footerWidgets } from '../../../public/data/home-page/footer-widgets.data';
@@ -6,6 +7,74 @@ import { footerWidgets } from '../../../public/data/home-page/footer-widgets.dat
 export default function Widgets() {
 	const { register, handleSubmit } = useForm();
 	const onSubmit = (data) => console.log(data);
+	//start of  sendgrid
+	const inputEl = useRef(null);
+	// 2. Hold a status in state to handle the response from our API.
+	const [status, setStatus] = useState({
+		submitted: false,
+		submitting: false,
+		info: { error: false, msg: null },
+	});
+	const handleSendgridResponse = (errorMsg, successMsg) => {
+		if (errorMsg) {
+			// 4. If there was an error, update the message in state.
+			setStatus({
+				info: { error: true, msg: errorMsg },
+			});
+
+			return;
+		}
+
+		// 5. Clear the input value and show a success message.
+		setStatus({
+			submitted: true,
+			submitting: false,
+			info: { error: false, msg: successMsg },
+		});
+		inputEl.current.value = '';
+	};
+
+	const handleSendGridResponse = (resStatus, msg) => {
+		if (resStatus === 200) {
+			// 5. Clear the input value and show a success message.
+			setStatus({
+				submitted: true,
+				submitting: false,
+				info: { error: false, msg: msg },
+			});
+			inputEl.current.value = '';
+		} else {
+			setStatus({
+				info: { error: true, msg: msg },
+			});
+		}
+	};
+	const subscribe = async (e) => {
+		e.preventDefault();
+		setStatus((prevStatus) => ({ ...prevStatus, submitting: true }));
+
+		// 3. Send a request to our API with the user's email address.
+		const res = await fetch('/api/send-grid', {
+			body: JSON.stringify({
+				email: inputEl.current.value,
+			}),
+			headers: {
+				'Content-Type': 'application/json',
+			},
+			method: 'POST',
+		});
+		//for mailChimp integration
+		// const { error } = await res.json();
+		// handleSendgridResponse(
+		// 	error,
+		// 	'Success! 🎉 You are now subscribed to the newsletter.'
+		// );
+		// For sendGrid integration
+		const text = await res.text();
+		console.log(text);
+		handleSendGridResponse(res.status, text);
+	};
+	//end of send-grid
 
 	return (
 		<div className="pt-4 2xl:px-8 footer-widgets">
@@ -50,10 +119,7 @@ export default function Widgets() {
 					Don’t miss any future updates of our new template and extensions and
 					all the astonishing offers.
 				</p>
-				<form
-					className="mt-8 flex items-center"
-					onSubmit={handleSubmit(onSubmit)}
-				>
+				<form className="mt-8 flex items-center" onSubmit={subscribe}>
 					<label htmlFor="subscribedEmail" className="w-full">
 						<span className="sr-only">Email</span>
 						<input
@@ -62,17 +128,25 @@ export default function Widgets() {
 							name="subscribedEmail"
 							placeholder="Your email address"
 							className="w-full px-6 bg-rq-white-100 outline-none text-white h-14 rounded border border-solid border-transparent transition-all duration-300 focus:bg-rq-gray-800 focus:border-rq-white-300"
-							ref={register({
-								required: true,
-								pattern: /^w+([.-]?w+)*@w+([.-]?w+)*(.w{2,3})+$/,
-							})}
+							ref={inputEl}
 						/>
+						{status.info.error && (
+							<p className="text-white">Error: {status.info.msg}</p>
+						)}
+						{!status.info.error && status.info.msg && (
+							<p className="text-white">success : {status.info.msg}</p>
+						)}
 					</label>
+
 					<button
 						type="submit"
 						className="px-6 bg-white rounded h-14 text-rq-gray-800 font-semibold capitalize ml-2.5 transition-colors duration-300 hover:bg-gray-200"
 					>
-						Subscribe
+						{!status.submitting
+							? !status.submitted
+								? 'Subscribe'
+								: 'Subscribed'
+							: 'Checking...'}
 					</button>
 				</form>
 			</div>
