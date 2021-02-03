@@ -13,68 +13,68 @@ import ProductCarouselBlock from '../components/product-slide/product-slide';
 
 // import data from '../public/data/redq-site-data.json';
 export async function getStaticProps() {
-	const res = await (
-		await fetch(
-			'https://redqsitedata.s3-us-west-1.amazonaws.com/redq-site-data.json'
-		)
-	).json();
-	return {
-		props: res,
-	};
+  const data = await (
+    await fetch(
+      'https://redqsitedata.s3-us-west-1.amazonaws.com/redq-site-data.json'
+    )
+  ).json();
+  return {
+    props: { data },
+  };
 }
-export default function Index(res) {
-	return (
-		<>
-			<div>
-				<NextSeo
-					title="RedQ Inc | We build products that create value"
-					description="We build products that create value"
-					canonical="https://redq.io"
-					openGraph={{
-						url: 'https://redq.io',
-						title: 'RedQ Inc | We build products that create value"',
+export default function Index({ data }) {
+  return (
+    <>
+      <div>
+        <NextSeo
+          title="RedQ Inc | We build products that create value"
+          description="We build products that create value"
+          canonical="https://redq.io"
+          openGraph={{
+            url: 'https://redq.io',
+            title: 'RedQ Inc | We build products that create value"',
 
-						description:
-							'REDQ is a creative agency specialising in building scalable, high performance web & mobile application.',
-						images: [
-							{
-								url:
-									'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.pnghttps://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
-								width: 1200,
-								height: 630,
-								alt: 'pickbazar,rnb,cartsy',
-							},
-							{
-								url:
-									'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.pnghttps://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
-								width: 1200,
-								height: 630,
-								alt: 'pickbazar,rnb,cartsy',
-							},
-						],
-					}}
-				/>
-			</div>
-			<Layout>
-				<HeroBanner
-					className="min-h-rq-450 md:min-h-rq-650 lg:min-h-rq-750 xl:min-h-screen 2xl:min-h-screen"
-					updateInfo={res.currentOffer}
-					title={`We're a future focused <br class="hidden lg:block" /> full-stack software agency.`}
-					description={`REDQ is a creative agency specialising in building scalable,
+            description:
+              'REDQ is a creative agency specializing in building scalable, high performance web & mobile application.',
+            images: [
+              {
+                url:
+                  'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
+                width: 1200,
+                height: 630,
+                alt: 'pickbazar,rnb,cartsy',
+              },
+              {
+                url:
+                  'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
+                width: 1200,
+                height: 630,
+                alt: 'pickbazar,rnb,cartsy',
+              },
+            ],
+          }}
+        />
+      </div>
+      <Layout>
+        <HeroBanner
+          className="min-h-rq-450 md:min-h-rq-650 lg:min-h-rq-750 xl:min-h-screen 2xl:min-h-screen"
+          updateInfo={data.currentOffer}
+          title={`We're a future focused <br class="hidden lg:block" /> full-stack software agency.`}
+          description={`REDQ is a creative agency specializing in building scalable,
 					<br class="hidden lg:block" /> high performance web & mobile application.`}
-				/>
-				<TechnologyBlock />
-				<StatsBlock />
-				<ProductCarouselBlock />
-				<ServiceBlock />
-				<PromotionalBlock />
-				<ProductsBlock products={res.products} />
+        />
+        <TechnologyBlock />
+        <StatsBlock />
+        <ProductCarouselBlock />
+        <ServiceBlock />
+        <PromotionalBlock />
+        <ProductsBlock products={data.products} />
 
-				<TestimonialBlock />
-				<ProductBigBanner />
+        <TestimonialBlock />
+        <ProductBigBanner />
 
-				<CallToAction />
-			</Layout>
-		</>
-	);
+        <CallToAction />
+      </Layout>
+    </>
+  );
 }
