@@ -39,14 +39,14 @@ export default function Index(res) {
 						images: [
 							{
 								url:
-									'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.pnghttps://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
+									'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
 								width: 1200,
 								height: 630,
 								alt: 'pickbazar,rnb,cartsy',
 							},
 							{
 								url:
-									'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.pnghttps://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
+									'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
 								width: 1200,
 								height: 630,
 								alt: 'pickbazar,rnb,cartsy',
