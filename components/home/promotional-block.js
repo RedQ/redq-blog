@@ -11,8 +11,22 @@ export default function PromotionalBlock() {
 				>
 					{/* End of pattern */}
 
-					<header className="px-4 pt-16 lg:pt-20 pb-16 text-center">
-						<h2 className="text-3xl leading-snug xl:text-4xl tracking-tight font-bold mb-6">
+					<header className="px-4 pt-16 lg:pt-20 pb-16 md:pb-16 text-center">
+						<div className="logo mb-4">
+							<a
+								className=""
+								href="http://startuplanding.redq.io/"
+								target="_blank"
+							>
+								<Img
+									src={'/images/start.png'}
+									alt="Startup Landing"
+									width={201}
+									height={33}
+								/>
+							</a>
+						</div>
+						<h2 className="text-2xl leading-snug xl:text-4xl tracking-tight font-bold mb-6">
 							Looking for free landing templates?{' '}
 							<br className="hidden sm:block lg:hidden" /> Try Startup Landing
 						</h2>
@@ -32,7 +46,7 @@ export default function PromotionalBlock() {
 						</a>
 					</header>
 
-					<div className="px-5 lg:px-20 2xl:px-28 relative -bottom-2 z-0">
+					<div className="px-5 lg:px-20 2xl:px-28 relative hidden md:block -bottom-2 z-0">
 						<Img
 							src={'/images/startup-product-banner.png'}
 							alt="Ad Product"

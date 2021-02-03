@@ -9,14 +9,23 @@ import { productsBanner } from '../../public/data/home-page/product-bannerMobile
 
 const ProductCarousel = ({ data }) => {
 	const carouselOptions = {
-		type: 'carousel',
-		perView: 1,
-		focusAt: 'center',
-		startAt: 1,
+		type: 'slider',
+		perView: 2,
+		startAt: 0,
 		gap: 15,
+		bound: true,
 		peek: {
-			before: 64,
-			after: 64,
+			before: 32,
+			after: 32,
+		},
+		breakpoints: {
+			480: {
+				perView: 1,
+				peek: {
+					before: 0,
+					after: 0,
+				},
+			},
 		},
 	};
 	return (
@@ -26,12 +35,15 @@ const ProductCarousel = ({ data }) => {
 				options={carouselOptions}
 				carouselSelector="rqProductBannerMobile"
 				prevButton={
-					<GlideNavButton title="Prev" className="left-9 text-filter-text">
+					<GlideNavButton title="Prev" className="left-2 text-filter-text">
 						<BsFillCaretLeftFill size={18} />
 					</GlideNavButton>
 				}
 				nextButton={
-					<GlideNavButton title="Next" className="right-9 text-filter-text">
+					<GlideNavButton
+						title="Next"
+						className="right-4 md:right-4 text-filter-text"
+					>
 						<BsFillCaretRightFill size={18} />
 					</GlideNavButton>
 				}

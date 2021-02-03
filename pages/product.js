@@ -1,21 +1,13 @@
 import { NextSeo } from 'next-seo';
-
+import Link from 'next/link';
 import Layout from '../components/layout/layout';
 import HeroBanner from '../components/ui/hero-banner';
-import TechnologyBlock from '../components/technology-block/technology-block';
-import ExpertiseBlock from '../components/about-us/expertise';
-import ProductCarousel from '../components/home/product-carousel';
-import ServiceBlock from '../components/home/service-block';
-import PromotionalBlock from '../components/home/promotional-block';
+import Container from '../components/ui/container';
+import Intro from '../components/ui/intro';
 import ProductsBlock from '../components/home/products-block/products-block';
-import TestimonialBlock from '../components/testimonial-block/testimonial-block';
-import ProductBigBanner from '../components/product-big-banner';
-import CallToAction from '../components/call-to-action';
-import ContactUs from '../components/contact-us';
-import CommunityBlock from '../components/community';
-import RnbBlock from '../components/about-us/rnb';
+import data from '../public/data/redq-site-data.json';
 
-export default function Index() {
+export default function Documentation() {
 	return (
 		<>
 			<div>
@@ -50,17 +42,12 @@ export default function Index() {
 			<Layout>
 				<HeroBanner
 					className="min-h-rq-450 md:min-h-rq-650 lg:min-h-rq-750 xl:min-h-screen 2xl:min-h-screen"
-					title={`Let's create a project, <br class="hidden lg:block" /> together we will grow big!`}
-					description={`Tell us about your project, the purpose of the project
-					<br class="hidden lg:block" /> and problems we are going to solve!`}
+					title={`A full-stack software agency, <br class="hidden lg:block" /> building scalable products`}
+					description={`REDQ is a creative agency specialising in building scalable,
+					<br class="hidden lg:block" /> high performance web & mobile application.`}
 				/>
 
-				<ContactUs />
-				<TechnologyBlock />
-				<CommunityBlock />
-				<ExpertiseBlock />
-				<TestimonialBlock />
-				<RnbBlock />
+				<ProductsBlock products={data.products} />
 			</Layout>
 		</>
 	);

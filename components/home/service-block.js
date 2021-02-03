@@ -12,7 +12,7 @@ import { serviceData } from '../../public/data/home-page/service.data';
 export default function ServiceBlock() {
 	const carouselOptions = {
 		type: 'slider',
-		perView: 3,
+		perView: 5,
 		startAt: 0,
 		gap: 35,
 		bound: true,
@@ -36,7 +36,7 @@ export default function ServiceBlock() {
 		},
 	};
 	return (
-		<section className="py-2 lg:py-12 2xl:py-16">
+		<section className="py-2 lg:py-12 2xl:py-20 2xl:pt-8">
 			<SectionHeader
 				className="mb-6 md:mb-12 lg:mb-14 xl:mb-16"
 				slogan="Area of expertise"
@@ -65,7 +65,7 @@ export default function ServiceBlock() {
 					}
 				>
 					{serviceData.map((item) => (
-						<GlideSlide key={`service-key--${item.id}`}>
+						<GlideSlide key={`service-key--${item.id}`} className="2xl:pb-10">
 							<ServiceCard
 								thumb={item.thumb}
 								title={item.title}

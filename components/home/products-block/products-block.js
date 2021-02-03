@@ -34,7 +34,7 @@ export default function ProductsBlock({ products: productsList }) {
 							products.map((item) => (
 								<article
 									key={`product-key-${item.id}`}
-									className={`w-full sm:w-3/6 lg:w-2/6 p-4 2xl:p-5`}
+									className={`w-full md:w-3/6 xl:w-2/6 p-4 2xl:p-5`}
 								>
 									<a target="_blank" href={item.url}>
 										<figure className="relative">
@@ -44,7 +44,7 @@ export default function ProductsBlock({ products: productsList }) {
 												src={item.thumb.url}
 												alt={item.title}
 												quality={100}
-												className="border border-product-border rounded-t-md"
+												className="border border-product-border rounded-md"
 											/>
 											{item.featured && (
 												<span className="tracking-wider absolute top-4 right-4 z-10 rounded py-1 px-2 text-sm font-medium uppercase text-white bg-gradient-to-r from-blue-500 to-indigo-600 shadow-lg">

@@ -3,80 +3,81 @@ export const testimonials = [
 		{
 			id: 1,
 			comment:
-				'I would like to take this oppertunity to thank SA Places for the great service rendered to us and in particular Estelle. You got me the best place ever in just a few moments after I spoke to you.Thank you for all your help. Your service was excellent and very FAST.',
-			name: 'Hello Mimmie',
-			userName: '@hello.mimmie',
+				'Have to say, I am always hesitant when I get themes because there is no previewing structure (IMHO, you can tell a lot about about a theme based on how it is organized). Just want to say, pleasantly surprised.',
+			name: 'bradchristie',
+			userName: '@Isomorphic',
 		},
 		{
 			id: 2,
 			comment:
-				'Many thanks for you kind and efficient service. I have already and will definitely continue to recommend your services to others in the future.',
-			name: 'Merryn Manley',
-			userName: '@merryn.manley',
+				'This is very awesome template for Gatsby and Next. Anyone who loves reactjs will love this. Also the documentation quality and the design quality is awesome. I love to see more products from the author. Thanks for the good work.',
+			name: 'mazhar266',
+			userName: '@SuperProps',
 		},
 	],
 	[
 		{
 			id: 3,
 			comment:
-				'I would just like to compliment Estelle Pestana. She has been most professional and gone to great lengths to assist me. Her patience with me as I continuously changed my plans is to be commended. Her service re-affirms why I always choose to book through an agency instead of directly. Thank you',
-			name: 'Veona Watson',
-			userName: '@hi.veona',
+				'I find that often times products on themeforest are complex. That is the seller attempts to provide everything in their product. Which unfortunately has a side effect of a learning curve. Pickbazar is incredibly straight forward and clean in that regard!',
+			name: 'nickrosscalgary',
+			userName: '@Pickbazar',
 		},
 		{
 			id: 4,
 			comment:
-				'I have seldom experienced such an efficient help and support like from you! Thank you so much. We will do all the bookings during the next few days and I will revert to you with the end result',
-			name: 'Paseka Nku',
-			userName: '@hey.nku',
+				'I really like this template, it looks modern and is really fast. I love that it is based on Next.js and GraphQL. Having a shop & admin panel in one package is amazing. ',
+			name: 'lukasknk',
+			userName: '@Pickbazar',
 		},
 	],
 	[
 		{
 			id: 5,
 			comment:
-				'Thank you for all your help. Your service was excellent and very FAST.',
-			name: 'Cherice Justin',
-			userName: '@cherice.me',
+				'The template design is great. It has all the main features for a listing type website from location search to create an account. It also supports things like Google sign in which makes it even easier.',
+			name: 'schoolholidaysaustralia',
+			userName: '@Listbook',
 		},
 		{
 			id: 6,
 			comment:
-				'For our recent trip to S.A. I booked several accommodation thru SA Places. I just wanted to tell you that everything worked out perfectly with all the bookings and also your booking was very quick and professional. I hope I have the opportunity to re-visit South Africa soon, I will then make my bookings with your company again. I will also recommend',
-			name: 'Thais Carballal',
-			userName: '@myself.thais',
+				'It is a very nice theme, with a lot of plugin, fully customizable, i think the best option for a renting website, the support team is a bit slower, but they do everything to help you and to solve any issue.',
+			name: 'Zerotre',
+			userName: '@Turbo',
 		},
 	],
 	[
 		{
 			id: 7,
 			comment:
-				'I would just like to compliment Estelle Pestana. She has been most professional and gone to great lengths to assist me. Her patience with me as I continuously changed my plans is to be commended. Her service re-affirms why I always choose to book through an agency instead of directly. Thank you',
-			name: 'Veona Watson',
-			userName: '@hi.veona',
+				'Author has invested lots of time to sort out this code. So far the cleanest code ive seen here on Envato Market. Even the package.json is up to date. Keep up the good work.',
+			name: 'domagojst',
+			userName: '@Tripfinder',
 		},
+
 		{
 			id: 8,
 			comment:
-				'I have seldom experienced such an efficient help and support like from you! Thank you so much. We will do all the bookings during the next few days and I will revert to you with the end result',
-			name: 'Paseka Nku',
-			userName: '@hey.nku',
+				'With this plugin I could build a "Rentals" systems for E-Bikes, with different prices by the number of days rented; and build a "Tour" system for E-Bike Tours, with a few options to choose from range of days. I recommend it',
+			name: 'ositaka',
+			userName: '@RnB',
 		},
 	],
 	[
 		{
 			id: 9,
 			comment:
-				'I would just like to compliment Estelle Pestana. She has been most professional and gone to great lengths to assist me. Her patience with me as I continuously changed my plans is to be commended. Her service re-affirms why I always choose to book through an agency instead of directly. Thank you',
-			name: 'Veona Watson',
-			userName: '@hi.veona',
+				'I have always received instant support and effective solutions for the small issues I had with the plugin, which has been working great for many months now! Highly recommended.',
+			name: 'clapol',
+			userName: '@Reactive Search Pro',
 		},
 		{
 			id: 10,
 			comment:
-				'I have seldom experienced such an efficient help and support like from you! Thank you so much. We will do all the bookings during the next few days and I will revert to you with the end result. I hope all the good success to the team and hope the great future ahead.',
-			name: 'Paseka Nku',
-			userName: '@hey.nku',
+				'Very fast and helpful support. It is a simple plugin that handles OTP with firebase simply and efficiently.I wish more features were available (such as log in with Google, Facebook, etc with firebase) Looking forward to new features.',
+			name: 'mtoufiq',
+			userName: '@FireMobile',
 		},
 	],
 ];

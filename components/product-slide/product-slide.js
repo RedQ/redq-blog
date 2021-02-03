@@ -9,12 +9,12 @@ export default function ProductSlideBlock() {
 	return (
 		<section className=" py-4 md:py-12 2xl:py-16 px-4 md:px-0">
 			{productsBanner.length > 0 && (
-				<div className="hidden md:block">
+				<div className="hidden lg:block">
 					<DefaultView data={productsBanner} />
 				</div>
 			)}
 			{productsBannerMobile.length > 0 && (
-				<div className="block md:hidden">
+				<div className="block lg:hidden">
 					<MobileView data={productsBannerMobile} />
 				</div>
 			)}

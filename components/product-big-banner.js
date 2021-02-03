@@ -12,7 +12,7 @@ export default function ProductBigBanner() {
 			/>
 			{/* End of shape bg */}
 			<div className="max-w-rq-1920 w-full m-auto">
-				<div className="opacity-0 lg:opacity-100 max-w-rq-850 xl:max-w-rq-1050 2xl:max-w-rq-1350 w-3/4 flex transform rotate-rq-8 -ml-80">
+				<div className="opacity-0 lg:opacity-100 max-w-rq-850 xl:max-w-rq-1050 2xl:max-w-rq-1350 w-3/4 flex transform rotate-rq-8 -ml-64 xl:-ml-80">
 					<Parallax y={[-10, 10]}>
 						<Img
 							src="/images/product-col-image3.png"
@@ -42,7 +42,7 @@ export default function ProductBigBanner() {
 			<div className="absolute top-0 left-0 w-full h-full flex items-center">
 				<Container className="flex flex-col items-center lg:items-end">
 					<div className="text-left lg:pl-10 xl:pl-0 w-full max-w-rq-618 lg:max-w-rq-480 xl:max-w-rq-530 2xl:max-w-rq-618">
-						<h2 className="leading-snug text-3xl xl:text-4xl xl:leading-snug 2xl:text-5xl 2xl:leading-tight font-bold mb-5 xl:mb-7">
+						<h2 className="leading-snug text-2xl xl:text-4xl xl:leading-snug 2xl:text-44px  font-bold mb-5 xl:mb-7">
 							Superprops - Premium Next JS & Gatsby Landing Pages.
 						</h2>
 						<p className="text-rq-gray-800 leading-loose">
@@ -76,6 +76,13 @@ export default function ProductBigBanner() {
 								</p>
 							</div>
 						</div>
+						<a
+							href="https://redq.io/react-next-landing"
+							target="_blank"
+							className="mt-12 lg:mt-12 2xl:mt-16 inline-block cursor-pointer outline-none bg-rq-gray-800 text-white font-semibold rounded py-4 px-8 transition-colors duration-200 hover:bg-rq-gray-700"
+						>
+							View Demo
+						</a>
 					</div>
 				</Container>
 			</div>

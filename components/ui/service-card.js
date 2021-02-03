@@ -2,7 +2,7 @@ import Img from '../ui/image';
 
 export default function ServiceCard({ thumb, title, description }) {
 	return (
-		<div className="min-h-rq-354 px-6 py-12 2xl:py-14 2xl:px-7 text-center rounded-md border border-solid border-rq-gray-100 transition-shadow duration-300 hover:shadow-large">
+		<div className="min-h-rq-354 px-6 py-12 2xl:py-14 xl:mb-10 2xl:px-7 text-center rounded-md border border-solid border-rq-gray-100 transition-shadow duration-300 hover:shadow-large">
 			<div className="m-auto min-h-rq-100">
 				<Img
 					width={thumb.width}

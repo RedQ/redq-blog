@@ -18,6 +18,20 @@ const ProductCarousel = ({ data }) => {
 			before: 64,
 			after: 64,
 		},
+		breakpoints: {
+			1535: {
+				peek: {
+					before: 32,
+					after: 32,
+				},
+			},
+			1200: {
+				peek: {
+					before: 32,
+					after: 32,
+				},
+			},
+		},
 	};
 	return (
 		<div className="max-w-rq-1920 ml-auto mr-auto w-full my-10 lg:my-12 2xl:my-16">
@@ -26,12 +40,18 @@ const ProductCarousel = ({ data }) => {
 				options={carouselOptions}
 				carouselSelector="rqProductBanner"
 				prevButton={
-					<GlideNavButton title="Prev" className="left-9 text-filter-text">
+					<GlideNavButton
+						title="Prev"
+						className="left-2 xl:left-2 2xl:left-9 text-filter-text"
+					>
 						<BsFillCaretLeftFill size={18} />
 					</GlideNavButton>
 				}
 				nextButton={
-					<GlideNavButton title="Next" className="right-9 text-filter-text">
+					<GlideNavButton
+						title="Next"
+						className="right-2 xl:right-2 2xl:right-9 text-filter-text"
+					>
 						<BsFillCaretRightFill size={18} />
 					</GlideNavButton>
 				}

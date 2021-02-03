@@ -1,4 +1,4 @@
-import Head from 'next/head';
+import { NextSeo } from 'next-seo';
 import Layout from '../components/layout/layout';
 import Intro from '../components/ui/intro';
 import Container from '../components/ui/container';
@@ -31,19 +31,47 @@ export default function Blog({ allPosts }) {
 	);
 
 	return (
-		<Layout>
-			<Head>
-				<title>Blog | RedQ Inc</title>
-			</Head>
-			<Intro title="Blog" />
-			<Container>
-				<Categories
-					className="mb-6 sm:mb-8 flex flex-wrap"
-					items={getPostCategories(uniqueCategories.join(', '))}
+		<>
+			<div>
+				<NextSeo
+					title="RedQ Inc | We build products that create value"
+					description="We build products that create value"
+					canonical="https://redq.io"
+					openGraph={{
+						url: 'https://redq.io',
+						title: 'RedQ Inc | We build products that create value"',
+						description:
+							'REDQ is a creative agency specialising in building scalable, high performance web & mobile application.',
+						images: [
+							{
+								url:
+									'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.pnghttps://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
+								width: 1200,
+								height: 630,
+								alt: 'pickbazar,rnb,cartsy',
+							},
+							{
+								url:
+									'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.pnghttps://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
+								width: 1200,
+								height: 630,
+								alt: 'pickbazar,rnb,cartsy',
+							},
+						],
+					}}
 				/>
-				{allPosts.length > 0 && <PostList posts={allPosts} />}
-			</Container>
-		</Layout>
+			</div>
+			<Layout>
+				<Intro title="Blog" />
+				<Container>
+					<Categories
+						className="mb-6 sm:mb-8 flex flex-wrap"
+						items={getPostCategories(uniqueCategories.join(', '))}
+					/>
+					{allPosts.length > 0 && <PostList posts={allPosts} />}
+				</Container>
+			</Layout>
+		</>
 	);
 }
 

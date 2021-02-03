@@ -7,41 +7,39 @@ import TestimonialCard from '../ui/testimonial-card';
 
 export default function DefaultView({ data }) {
 	const carouselOptions = {
-		type: 'carousel',
+		type: 'slider',
 		perView: 3,
-		focusAt: 'center',
-		startAt: 1,
+		startAt: 0,
 		gap: 15,
+		bound: true,
 		peek: {
-			before: 227,
-			after: 227,
+			before: 64,
+			after: 64,
 		},
 		breakpoints: {
 			1600: {
 				perView: 3,
 				peek: {
-					before: 127,
-					after: 127,
+					before: 64,
+					after: 64,
 				},
 			},
 			1440: {
 				perView: 3,
 				peek: {
-					before: 60,
-					after: 60,
+					before: 32,
+					after: 32,
 				},
 			},
 			1360: {
 				perView: 2,
-				focusAt: 1,
 				peek: {
-					before: 80,
-					after: 80,
+					before: 32,
+					after: 32,
 				},
 			},
 			768: {
 				perView: 2,
-				focusAt: 1,
 				peek: {
 					before: 40,
 					after: 40,
@@ -49,7 +47,6 @@ export default function DefaultView({ data }) {
 			},
 			600: {
 				perView: 1,
-				focusAt: 0,
 				peek: {
 					before: 0,
 					after: 0,
