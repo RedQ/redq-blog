@@ -62,7 +62,7 @@ export default function StatsBlock() {
 										id="name"
 										name="name"
 										ref={register({ required: 'Name is required' })}
-										className="h-12 2xl:h-14 mt-2 w-full text-black border-input-bg focus:border-black  focus:bg-white border border-input-bg bg-input-bg pl-2 focus:outline-none rounded-md focus:border-2"
+										className="h-12 2xl:h-14 mt-2 w-full text-black focus:border-black  focus:bg-white border border-input-bg bg-input-bg pl-2 focus:outline-none rounded-md focus:border-2 appearance-none"
 										placeholder="Enter Your Name"
 									/>
 									{errors.name && (
@@ -83,7 +83,7 @@ export default function StatsBlock() {
 										id="email"
 										name="email"
 										ref={register({ required: 'Email is required' })}
-										className="h-12 2xl:h-14 mt-2 w-full text-black border-input-bg focus:border-black  focus:bg-white border border-input-bg bg-input-bg pl-2 focus:outline-none rounded-md focus:border-2"
+										className="h-12 2xl:h-14 mt-2 w-full text-black border-input-bg focus:border-black  focus:bg-white border  bg-input-bg pl-2 focus:outline-none rounded-md focus:border-2 appearance-none"
 										placeholder="Enter Your Email"
 									/>
 									{errors.email && (
@@ -105,7 +105,7 @@ export default function StatsBlock() {
 									id="subject"
 									name="subject"
 									ref={register({ required: 'Subject is required' })}
-									className="h-12 2xl:h-14 mt-2 py-2 w-full text-black border-input-bg focus:border-black  focus:bg-white border border-input-bg bg-input-bg pl-2 focus:outline-none rounded-md focus:border-2"
+									className="h-12 2xl:h-14 mt-2 py-2 w-full text-black border-input-bg focus:border-black  focus:bg-white border  bg-input-bg pl-2 focus:outline-none rounded-md focus:border-2 appearance-none"
 									placeholder="Enter Your Subject"
 								/>
 								{errors.subject && (
@@ -124,7 +124,7 @@ export default function StatsBlock() {
 								<textarea
 									id="message"
 									name="message"
-									className="h-32 mt-2 p-2 w-full text-black border-input-bg focus:border-black  focus:bg-white border border-input-bg bg-input-bg pl-2 focus:outline-none rounded-md focus:border-2"
+									className="h-32 mt-2 p-2 w-full text-black border-input-bg focus:border-black  focus:bg-white border  bg-input-bg pl-2 focus:outline-none rounded-md focus:border-2 appearance-none"
 									ref={register}
 								/>
 							</div>

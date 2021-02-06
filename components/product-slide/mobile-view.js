@@ -20,9 +20,18 @@ const ProductCarousel = ({ data }) => {
 		},
 		breakpoints: {
 			480: {
-				perView: 1,
+				perView: 2,
+				gap: 15,
 				peek: {
 					before: 0,
+					after: 0,
+				},
+			},
+			400: {
+				perView: 1,
+				gap: 15,
+				peek: {
+					before: 4,
 					after: 0,
 				},
 			},

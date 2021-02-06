@@ -3,14 +3,14 @@ import Container from './ui/container';
 
 export default function CallToAction() {
 	return (
-		<div className="py-16 xl:py-16 2xl:py-24 relative overflow-hidden lg:bg-pattern2 bg-no-repeat bg-cover">
+		<div className="py-16 xl:py-12 2xl:py-16 relative overflow-hidden lg:bg-pattern2 bg-no-repeat bg-cover">
 			{/* <SvgIcon
 				className="absolute block w-full h-full top-0 left-0"
 				src={require('../public/images/pattern.svg?include')}
 				style={{ zIndex: '-1', opacity: 0.07 }}
 			/> */}
 			{/* End of bg pattern */}
-			<Container className="text-center lg:text-left lg:flex lg:items-center lg:justify-between lg:px-0">
+			<Container className="text-center lg:text-left lg:flex lg:items-center lg:justify-between ">
 				<div>
 					<h2 className="text-2xl leading-normal lg:leading-tight 2xl:text-4xl font-bold tracking-tight mb-4 lg:mb-3">
 						Looking for custom Development?{' '}

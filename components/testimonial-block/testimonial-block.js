@@ -18,7 +18,7 @@ export default function TestimonialBlock() {
 			<SectionHeader
 				className="mb-8 lg:10 xl:mb-12 2xl:mb-14"
 				slogan="Client Testimonial"
-				title="What our customer say about us"
+				title="What our customers say about us"
 			/>
 			{testimonials.length > 0 && (
 				<div className="hidden md:block">

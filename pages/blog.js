@@ -39,20 +39,18 @@ export default function Blog({ allPosts }) {
 					canonical="https://redq.io"
 					openGraph={{
 						url: 'https://redq.io',
-						title: 'RedQ Inc | We build products that create value"',
+						title: 'RedQ Inc | We build products that create value',
 						description:
-							'REDQ is a creative agency specialising in building scalable, high performance web & mobile application.',
+							'REDQ is a creative agency specializing in building scalable, high performance web & mobile application.',
 						images: [
 							{
-								url:
-									'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.pnghttps://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
+								url: 'https://s3.amazonaws.com/redqteam.com/Banner/social.png',
 								width: 1200,
 								height: 630,
 								alt: 'pickbazar,rnb,cartsy',
 							},
 							{
-								url:
-									'https://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.pnghttps://s3.amazonaws.com/redqteam.com/cartsy_asset/cartsy_banner_image.png',
+								url: 'https://s3.amazonaws.com/redqteam.com/Banner/social.png',
 								width: 1200,
 								height: 630,
 								alt: 'pickbazar,rnb,cartsy',

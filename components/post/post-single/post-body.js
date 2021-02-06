@@ -29,7 +29,7 @@ export default function PostBody({ content }) {
 		<motion.div
 			id="rqPostContent"
 			variants={fadeInBottom}
-			className="max-w-3xl mx-auto"
+			className="max-w-3xl 2xl:max-w-5xl  mx-5 lg:mx-auto"
 		>
 			<div
 				className={`post-container content ${markdownStyles['markdown']}`}

@@ -6,7 +6,7 @@ export default function StatsBlock() {
 		<Container className="pt-2 md:pt-8 lg:pt-12 xl:pt-20 2xl:pt-24 pb-0  lg:pb-12 flex flex-wrap lg:flex-nowrap items-center justify-center lg:justify-between">
 			<div className="max-w-xl w-full md:max-w-rq-618 lg:max-w-md 2xl:max-w-3xl flex flex-col justify-center items-center lg:justify-start lg:items-start">
 				<h2 className="max-w-full text-center lg:text-left text-2xl md:text-3xl leading-normal lg:text-4xl lg:leading-snug xl:text-44px xl:leading-snug font-bold tracking-tight md:leading-normal mb-3 lg:mb-5">
-					Elite Author in Envato, build amazing products that creates value.
+					Elite Author in Envato, building amazing products that create value.
 				</h2>
 				<p className="w-full leading-loose text-rq-gray-800 md:max-w-lg lg:max-w-lg mb-5 md:mb-7 text-center lg:text-left">
 					Along With WordPress Themes & Plugins, We always try to use latest

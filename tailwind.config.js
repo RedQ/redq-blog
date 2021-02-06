@@ -35,6 +35,9 @@ module.exports = {
 				'rq-530': '530px',
 				'rq-480': '480px',
 			},
+			minWidth: {
+				'rq-300': '300px',
+			},
 			colors: {
 				'filter-text': '#71747D',
 				'input-bg': '#f3f5f9',

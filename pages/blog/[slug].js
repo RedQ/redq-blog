@@ -13,7 +13,10 @@ export default function Post({ post }) {
 		<>
 			<Head>
 				<title>{post.title} | RedQ</title>
-				<meta property="og:image" content={post?.ogImage?.url} />
+				<meta
+					property="og:image"
+					content="https://s3.amazonaws.com/redqteam.com/Banner/social.png"
+				/>
 			</Head>
 			<Layout>
 				{router.isFallback ? (

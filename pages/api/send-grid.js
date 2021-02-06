@@ -5,7 +5,7 @@ export default async function (req, res) {
 	const { email } = req.body;
 	// console.log(email);
 	const content = {
-		to: 'paulruet58@gmail.com',
+		to: 'redq.team@gmail.com',
 		from: email,
 		subject: `New Message From - ${email}`,
 		text: `New Subscriber Added in RedQ,Inc from ${email}`,

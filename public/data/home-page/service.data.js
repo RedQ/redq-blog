@@ -30,7 +30,7 @@ export const serviceData = [
 		},
 		title: 'Plugin Development',
 		description:
-			'We are the author of some best selling  WordPress plugins like WooCommerce Rental & Booking, Reactive Pro etc.',
+			'We are the author of some the best selling  WordPress plugins like WooCommerce Rental & Booking, Reactive Pro etc.',
 	},
 	{
 		id: 4,
@@ -41,7 +41,7 @@ export const serviceData = [
 		},
 		title: 'Application Development',
 		description:
-			'We have expertised in building scalable, high performance web & mobile application.',
+			'We have expertised in building scalable, high performance web & mobile application.Our rich tech will amaze you.',
 	},
 	{
 		id: 5,
@@ -52,7 +52,7 @@ export const serviceData = [
 		},
 		title: 'Custom Development',
 		description:
-			'We sometimes provide custom development for our products on the basis of customer recuirements and on interesting projects.',
+			'We sometimes provide custom development for our products on the basis of customer recuirements and on innovative projects.',
 	},
 	{
 		id: 6,
@@ -63,7 +63,7 @@ export const serviceData = [
 		},
 		title: 'React Templates',
 		description:
-			'In Themeforest, We are the pioneer of building React based templates, landings and admin dashboards.',
+			'In Themeforest, we are the pioneer of building React based templates, landings and admin dashboards.',
 	},
 	{
 		id: 7,
@@ -74,6 +74,6 @@ export const serviceData = [
 		},
 		title: 'Application Development',
 		description:
-			'We have expertised in building scalable, high performance web & mobile application.',
+			'We have expertise in building scalable, high performance web & mobile applications.',
 	},
 ];

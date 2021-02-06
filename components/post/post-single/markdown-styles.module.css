@@ -1,11 +1,11 @@
 .markdown {
-  @apply leading-relaxed;
-  line-height: 1.8;
+	@apply leading-relaxed;
+	line-height: 1.8;
 }
 
 .markdown > * {
-  margin-top: 32px;
-  margin-bottom: 32px;
+	margin-top: 32px;
+	margin-bottom: 32px;
 }
 
 .markdown h1,
@@ -15,59 +15,59 @@
 .markdown h5,
 .markdown h6,
 .markdown b,
-.markdown strong  {
-  @apply text-black font-semibold;
+.markdown strong {
+	@apply text-black font-semibold;
 }
 
 .markdown h2 {
-  @apply text-2xl mb-4 leading-snug;
+	@apply text-2xl mb-4 leading-snug;
 }
 
 .markdown h3,
 .markdown h4 {
-  @apply text-xl mb-4;
+	@apply text-xl mb-4;
 }
 
 .markdown p,
 .markdown ul,
 .markdown ol,
 .markdown blockquote {
-  @apply my-6 font-light text-gray-700;
+	@apply my-6 font-light text-gray-700;
 }
 
 .markdown h4 + ul,
 .markdown h4 + ol {
-  @apply -mt-4;
+	@apply -mt-4;
 }
 
 .markdown p img {
-  @apply w-full h-auto mb-8;
+	@apply w-full h-auto mb-8 mt-4;
 }
 
 .markdown img,
 .markdown iframe,
 .markdown video {
-  @apply shadow-xl;
+	@apply shadow-xl;
 }
 
 .markdown p a,
 .markdown p strong {
-  @apply text-black break-words;
+	@apply text-black break-words;
 }
 
 .markdown em,
 .markdown i {
-  @apply text-black font-semibold;
+	@apply text-black font-semibold;
 }
 
 .markdown pre {
-  @apply bg-gray-900 text-gray-400 p-2 rounded;
+	@apply bg-gray-900 text-gray-400 p-2 rounded;
 }
 
 .markdown pre code {
-  @apply bg-transparent border-0 block;
+	@apply bg-transparent border-0 block;
 }
 
 .markdown li::before {
-  top: 3px;
+	top: 3px;
 }
