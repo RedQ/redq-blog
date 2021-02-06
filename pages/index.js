@@ -29,7 +29,7 @@ export default function Index({ data }) {
 				<NextSeo
 					title="RedQ Inc | We build products that create value"
 					description="We build products that create value"
-					canonical="https://redq.io/blog"
+					canonical="https://redq.io"
 					openGraph={{
 						url: 'https://redq.io',
 						title: 'RedQ Inc | We build products that create value"',
