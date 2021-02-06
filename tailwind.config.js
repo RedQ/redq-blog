@@ -35,6 +35,9 @@ module.exports = {
 				'rq-530': '530px',
 				'rq-480': '480px',
 			},
+			minWidth: {
+				'rq-300': '300px',
+			},
 			colors: {
 				'filter-text': '#71747D',
 				'input-bg': '#f3f5f9',
@@ -48,6 +51,11 @@ module.exports = {
 					600: '#6C6C6C',
 					700: '#343D48',
 					800: '#0B1419',
+				},
+				'rq-green': {
+					100: '#EDF9F5',
+					200: '#4FB596',
+					300: '#28D39F',
 				},
 				'rq-blue': {
 					800: '#2950DB',

@@ -6,7 +6,7 @@ export default function StatsBlock() {
 		<div>
 			<Container className="pt-8 lg:pt-12 xl:pt-20 lg:pb-16 flex flex-wrap lg:flex-nowrap justify-between">
 				<div className="max-w-full w-full lg:max-w-md xl:max-w-4xl lg:w-1/2 ">
-					<h2 className="text-center lg:text-left text-3xl leading-normal lg:text-4xl xl:text-44px font-bold tracking-tight lg:leading-snug mb-5 lg:mb-7">
+					<h2 className="text-center lg:text-left text-2xl leading-normal lg:text-4xl 2xl:text-44px font-bold tracking-tight lg:leading-snug mb-5 lg:mb-7">
 						Elite Author in Envato, <br className="hidden lg:block" /> build
 						products that creates value
 					</h2>

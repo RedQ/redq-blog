@@ -21,11 +21,11 @@ export const footerWidgets = [
 		title: 'Our Products',
 		menu: [
 			{
-				title: 'Cartsy Wordpress Theme',
+				title: 'Cartsy WordPress Theme',
 				href: 'https://redq.io/cartsy',
 			},
 			{
-				title: 'Superprops React teamplate',
+				title: 'Superprops React Template',
 				href: 'https://redq.io/react-next-landing',
 			},
 			{
@@ -33,12 +33,13 @@ export const footerWidgets = [
 				href: 'https://redq.io/rnb',
 			},
 			{
-				title: 'Turbo Wordpress Theme',
+				title: 'Turbo WordPress Theme',
 				href: 'https://redq.io/turbowp',
 			},
 			{
-				title: 'Headless firebase theme',
-				href: 'https://redq.io/headless',
+				title: 'Picksy - Gatsby Shopify Ecommerce',
+				href:
+					'https://themeforest.net/item/picksy-react-gatsby-grocery-ecommerce-template/26576621',
 			},
 			{
 				title: 'Free Startup Landing',
@@ -67,16 +68,16 @@ export const footerWidgets = [
 		title: 'Supports',
 		menu: [
 			{
-				title: 'Portfolio',
-				href: '/https://themeforest.net/user/redqteam/portfolio',
+				title: 'Blog',
+				href: '/blog',
 			},
 			{
 				title: 'Supports Tickets',
 				href: 'https://redqsupport.ticksy.com/',
 			},
 			{
-				title: 'Contact',
-				href: '/about-us',
+				title: 'Shoppy Mobile UI',
+				href: 'https://redq.io/shoppy',
 			},
 		],
 	},

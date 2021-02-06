@@ -14,11 +14,11 @@ export default function TestimonialBlock() {
 	});
 
 	return (
-		<section className="py-6 md:py-12 2xl:py-20 px-4 md:px-0">
+		<section className="py-6 md:py-12 2xl:py-20 px-4 md:px-0 mb-4">
 			<SectionHeader
 				className="mb-8 lg:10 xl:mb-12 2xl:mb-14"
 				slogan="Client Testimonial"
-				title="What our customer say about us"
+				title="What our customers say about us"
 			/>
 			{testimonials.length > 0 && (
 				<div className="hidden md:block">

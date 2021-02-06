@@ -1,4 +1,5 @@
-import Head from 'next/head';
+import { NextSeo } from 'next-seo';
+
 import Layout from '../components/layout/layout';
 import HeroBanner from '../components/ui/hero-banner';
 import TechnologyBlock from '../components/technology-block/technology-block';
@@ -12,13 +13,38 @@ import ProductBigBanner from '../components/product-big-banner';
 import CallToAction from '../components/call-to-action';
 import ContactUs from '../components/contact-us';
 import CommunityBlock from '../components/community';
+import RnbBlock from '../components/about-us/rnb';
 
 export default function Index() {
 	return (
 		<>
-			<Head>
-				<title>RedQ Inc | We create product that creates value</title>
-			</Head>
+			<div>
+				<NextSeo
+					title="RedQ Inc | We build products that create value"
+					description="We build products that create value"
+					canonical="https://redq.io"
+					openGraph={{
+						url: 'https://redq.io',
+						title: 'RedQ Inc | We build products that create value',
+						description:
+							'REDQ is a creative agency specializing in building scalable, high performance web & mobile application.',
+						images: [
+							{
+								url: 'https://s3.amazonaws.com/redqteam.com/Banner/social.png',
+								width: 1200,
+								height: 630,
+								alt: 'pickbazar,rnb,cartsy',
+							},
+							{
+								url: 'https://s3.amazonaws.com/redqteam.com/Banner/social.png',
+								width: 1200,
+								height: 630,
+								alt: 'pickbazar,rnb,cartsy',
+							},
+						],
+					}}
+				/>
+			</div>
 			<Layout>
 				<HeroBanner
 					className="min-h-rq-450 md:min-h-rq-650 lg:min-h-rq-750 xl:min-h-screen 2xl:min-h-screen"
@@ -32,8 +58,7 @@ export default function Index() {
 				<CommunityBlock />
 				<ExpertiseBlock />
 				<TestimonialBlock />
-				<ProductBigBanner />
-				<CallToAction />
+				<RnbBlock />
 			</Layout>
 		</>
 	);

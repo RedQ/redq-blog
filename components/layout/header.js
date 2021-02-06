@@ -14,14 +14,14 @@ const navItems = [
 		title: 'Blog',
 		href: '/blog',
 	},
-	{
-		title: 'Cartsy Wordpress',
-		href: 'https://redq.io/cartsy',
-	},
+	// {
+	// 	title: 'Cartsy WordPress',
+	// 	href: 'https://redq.io/cartsy',
+	// },
 
 	{
 		title: 'Our Products',
-		href: '/documentation',
+		href: '/product',
 	},
 	{
 		title: 'Portfolio',

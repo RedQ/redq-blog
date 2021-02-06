@@ -7,7 +7,7 @@ export default function SectionHeader({ className = '', slogan, title }) {
 				</div>
 			)}
 			{title && (
-				<h2 className="text-2xl lg:text-3xl font-medium leading-snug tracking-tight">
+				<h2 className="text-xl md:text-2xl lg:text-3xl font-medium leading-snug tracking-tight">
 					{title}
 				</h2>
 			)}

@@ -141,7 +141,7 @@ export default function PostHeader({ title, coverImage, category }) {
 				></motion.div>
 				{/* End banner dot pattern */}
 			</motion.div>
-			<div className="max-w-3xl mx-auto mb-10">
+			<div className="max-w-3xl 2xl:max-w-5xl  mx-5 lg:mx-auto mb-10">
 				<Categories className="mb-6" items={getPostCategories(category)} />
 				{/* End of post categories */}
 				<motion.div variants={fadeInBottom}>

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://redq.io
+
+# Sitemaps
+Sitemap: https://redq.io/sitemap.xml

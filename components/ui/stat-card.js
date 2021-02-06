@@ -7,7 +7,7 @@ export default function StatCard({
 }) {
 	return (
 		<div
-			className={`p-8 xl:pt-10 xl:px-11 xl:pb-14 rounded-xl shadow-base transition-shadow hover:shadow-large ${className}`}
+			className={`flex flex-col justify-center items-center md:justify-start md:items-start p-8 xl:pt-10 xl:px-11 xl:pb-14 rounded-xl shadow-base transition-shadow hover:shadow-large ${className}`}
 		>
 			<span className="text-lg text-rq-gray-800">{title}</span>
 			{showPercentage ? (

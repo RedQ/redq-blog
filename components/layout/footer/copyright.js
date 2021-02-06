@@ -62,15 +62,6 @@ export default function Copyright() {
 				<motion.a
 					whileHover={{ scale: 1.1 }}
 					whileTap={{ scale: 0.9 }}
-					href="https://plus.google.com/u/0/+RedQInc"
-					className="p-3 transition-all duration-200 text-rq-white-700 hover:text-white"
-					title="Google +"
-				>
-					<RiGoogleLine size={18} />
-				</motion.a>
-				<motion.a
-					whileHover={{ scale: 1.1 }}
-					whileTap={{ scale: 0.9 }}
 					href="https://www.pinterest.com/redqinc/"
 					className="p-3 transition-all duration-200 text-rq-white-700 hover:text-white"
 					title="Pinterest"

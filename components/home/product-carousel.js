@@ -13,10 +13,20 @@ export default function ProductCarousel() {
 		perView: 1,
 		focusAt: 'center',
 		startAt: 1,
-		gap: 15,
-		peek: {
-			before: 64,
-			after: 64,
+		gap: 35,
+		breakpoints: {
+			1500: {
+				gap: 20,
+			},
+			1200: {
+				gap: 20,
+			},
+			768: {
+				gap: 20,
+			},
+			420: {
+				gap: 0,
+			},
 		},
 	};
 	return (
