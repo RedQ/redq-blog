@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "postbuild": "next-sitemap"
   },
   "dependencies": {
     "@glidejs/glide": "^3.4.1",
@@ -17,7 +18,7 @@
     "framer-motion": "^2.9.4",
     "gray-matter": "4.0.2",
     "mailgun-js": "^0.22.0",
-    "next": "latest",
+    "next": "10.0.7",
     "next-seo": "^4.17.0",
     "postcss": "^8.1.7",
     "react": "^16.13.0",
