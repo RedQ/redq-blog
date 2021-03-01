@@ -16,7 +16,7 @@ const filterBtns = [
 		handel: 'wp-plugin',
 	},
 	{
-		title: 'Html Templates',
+		title: 'HTML Templates',
 		handel: 'html',
 	},
 ];

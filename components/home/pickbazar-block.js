@@ -19,7 +19,7 @@ export default function PickbazarBlock() {
 							</span>
 						</h6>
 						<h2 className="text-2xl leading-snug xl:text-4xl tracking-tight font-bold mb-6">
-							Introducing PickBazar - React Ecommerce Template!
+							PickBazar - React Ecommerce Template!
 						</h2>
 						<p
 							className="mb-8 lg:mb-11 leading-relaxed text-lg"

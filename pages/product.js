@@ -40,13 +40,13 @@ export default function Documentation() {
 				/>
 			</div>
 			<Layout>
-				<HeroBanner
+				{/* <HeroBanner
 					className="min-h-rq-450 md:min-h-rq-650 lg:min-h-rq-750 xl:min-h-screen 2xl:min-h-screen"
 					title={`A full-stack software agency, <br class="hidden lg:block" /> building scalable products`}
 					description={`REDQ is a creative agency specializing in building scalable,
 					<br class="hidden lg:block" /> high performance web & mobile application.`}
-				/>
-
+				/> */}
+				<Intro title="Our Products" />
 				<ProductsBlock products={data.products} />
 			</Layout>
 		</>

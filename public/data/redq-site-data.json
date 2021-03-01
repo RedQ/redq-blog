@@ -1,6 +1,21 @@
 {
-  "currentOffer": "Cartsy v1.4.2 has just been released!",
+  "currentOffer": "Cartsy v1.5.0 has just been released!",
   "products": [
+    {
+      "id": 26,
+      "url": "https://redq.io/cartsy",
+      "thumb": {
+        "url": "/images/products/cartsy.png",
+        "width": 880,
+        "height": 537
+      },
+      "title": "Cartsy - Super-fast WordPress WooCommerce Theme",
+      "shortDescription": "Fully functional WordPress E-commerce theme for creating your online shop to sell anything and everything.",
+      "compatibleText": "Compatible with WooCommerce / RnB / Guterberg / PWA",
+      "price": "$89",
+      "category": ["all", "wp-theme"],
+      "featured": true
+    },
     {
       "id": 4,
       "url": "https://themeforest.net/item/pickbazar-react-graphql-ecommerce-template/25283305",

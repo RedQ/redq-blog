@@ -57,7 +57,7 @@ export default function Index({ data }) {
 				<HeroBanner
 					className="min-h-rq-450 md:min-h-rq-650 lg:min-h-rq-750 xl:min-h-screen 2xl:min-h-screen"
 					updateInfo={data.currentOffer}
-					title={`We're a future focused <br class="hidden lg:block" /> full-stack software agency.`}
+					title={`Future focused  full-stack <br class="hidden lg:block" />software development agency.`}
 					description={`REDQ is a creative agency specializing in building scalable,
 					<br class="hidden lg:block" /> high performance web & mobile application.`}
 				/>

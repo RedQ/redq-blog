@@ -10,7 +10,7 @@ import useItems from '../../../lib/use-list';
 export default function ProductsBlock({ products: productList }) {
 	const { items, filterByCategory, loadMore, hasMore } = useItems({
 		list: productList,
-		limit: 9,
+		limit: 27,
 	});
 
 	const [filterByState, setStateFilterBy] = useState('all');
