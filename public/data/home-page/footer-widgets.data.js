@@ -13,7 +13,6 @@ export const footerWidgets = [
 			{
 				title: 'Hire Us',
 				href: '/hire-us',
-				status: 'New',
 			},
 		],
 	},
